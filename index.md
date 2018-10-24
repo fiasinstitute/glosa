@@ -2,122 +2,87 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 
-There should be whitespace between paragraphs.
+<tbody>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<tr>
 
-# Header 1
+<td colspan="3">
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 
-## Header 2
+<tbody>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<tr>
 
-### Header 3
+<td height="100" bgcolor="#99ff99" width="235">[![[Glosa-logo]](pic/logo0707.png)](en/index.html)</td>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+<td align="right" bgcolor="#99ff99" valign="bottom">
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<table cellspacing="0" cellpadding="0" border="0">
 
-#### Header 4
+<tbody>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+<tr>
 
-##### Header 5
+<td bgcolor="#99ccff">
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+![--*](pic/pfeil02.gif)   Place lekto info in      <span style="white-space:nowrap"> [ ![Glosa info in Glosa](pic/flagglosa.png) Glosa](gl/index.html "Glosa info in Glosa"), </span>      <span style="white-space:nowrap"> [ ![Glosa information in English](pic/flagenglish.png) English](en/index.html "Glosa information in English"), </span>      <span style="white-space:nowrap"> [ ![Glosa-Info in Deutsch](pic/flagdeutsch.png) Deutsch](dt/index.html "Glosa-Info Deutsch") </span>     alo
 
-###### Header 6
+</td>
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+</tr>
 
-### There's a horizontal rule below this.
+</tbody>
 
-* * *
+</table>
 
-### Here is an unordered list:
+</td>
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+</tr>
 
-### And an ordered list:
+</tbody>
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+</table>
 
-### And a nested list:
+</td>
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+</tr>
 
-### Small image
+<tr>
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+<td colspan="3" bgcolor="#99ccff">
 
-### Large image
+[brevi info](brevi/index.html "Brevi info in plu hetero lingua") in     <span style="white-space:nowrap">[![Glosa-Info in Español](pic/flagcastellano.png) Castellano (Español)](brevi/espanjol.htm "Glosa-Info in Español"), </span>      <span style="white-space:nowrap"> [ ![Glosa-Info in Français](pic/flagfrancais.png) Français](brevi/francais.htm "Glosa-Info in Français"), </span>      <span style="white-space:nowrap"> [ ![Glosa-Info in Italiano](pic/flagitaliano.png) Italiano](brevi/italiano.htm "Glosa-Info in Italiano"), </span>      <span style="white-space:nowrap"> [ ![Glosa-Info in Magyar](pic/flagmagyar.png) Magyar](brevi/magyar.htm "Glosa-Info in Magyar"), </span>      <span style="white-space:nowrap"> [ ![Glosa-Info in Nederlands](pic/flagnederlands.png) Nederlands](brevi/nederlands.htm "Glosa-Info in Nederlands") </span>      alo     <span style="white-space:nowrap"> [ ![Glosa-Info in Ruski](pic/flagruski.png) Ruski](brevi/ruski.htm "Glosa-Info in Ruski"). </span>  
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+</td>
 
+</tr>
 
-### Definition lists can be used with HTML syntax.
+<tr>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<td> </td>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+<td>[![Click here for Glosa information in English](pic/glosarot.gif)](en/index.html) 
 
-```
-The final element.
-```
+# Glosa
+
+## es un internatio auxi-lingua.
+
+Proto de pagina pa es 1996\.  
+Ultima muta pa es 2018-10-11\.  
+
+Marcel Springer, ([adresa/Impressum](http://www.mspringer.de/index.html#impressum "Homepage M. Springer ko
+  impresum"), [Datenschutzerklärung](http://www.mspringer.de/datenschutzerklaerung.html "Datenschutzerklärung")).
+
+</td>
+
+<td> </td>
+
+</tr>
+
+</tbody>
+
+</table>
