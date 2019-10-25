@@ -6,21 +6,33 @@ published: true
 
 ## Isolating planned language(s)
 
+This site documents **Interglossa**, a  communication (meta)language platform  described in 1943 and the constructed language **Glosa**, its main implementation.
 
-In his books «[The Loom of Language](http://gen.lib.rus.ec/book/index.php?md5=4058ACD459B2D713D79AEA991FCDCFDE)» (1944) and «[Interglossa]()» (1943), the British biologist and statistician [L.Hogben](https://en.wikipedia.org/wiki/Lancelot_Hogben) set a framework for a scientific communication (meta)language. Under a symbolic name «Interglossa» for this lingua franca, he formulated three principles that a candidate language should adhere to in order to become receivable as an [auxilary](https://en.wikipedia.org/wiki/International_auxiliary_language) language:
+## Metalanguage Interglossa
+
+In his books «[The Loom of Language](http://gen.lib.rus.ec/book/index.php?md5=4058ACD459B2D713D79AEA991FCDCFDE)» (1944) and «[Interglossa]()» (1943), British biologist and statistician [L.Hogben](https://en.wikipedia.org/wiki/Lancelot_Hogben) set a framework for a scientific communication (meta)language. Under a symbolic name «Interglossa» for this lingua franca, he formulated three principles that a candidate language should adhere to in order to become receivable as an [auxilary](https://en.wikipedia.org/wiki/International_auxiliary_language) language:
 1. The grammar: [analytic](https://en.wikipedia.org/wiki/Analytic_language) or even [isolating](https://en.wikipedia.org/wiki/Isolating_language).
-1. The lexicon:  internationalized.
+1. The lexicon:  internationalized and  based on scientific and technological terminology.
 1. The phonetics: facilitated (e.g. [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona)).
 
-## Glosa, an unfinished product
+Hogben proposed some possible lexifications and etymological operators, but has never accomplished implementing any particular language, neither did he produce any texts demonstrating his approach. Thus, his achievement was to  define a language template or a metalanguage. Based on this system, dozens of different languages could be created, every single one being a specific Interglossa recension/implementation.
 
-Among other attempts within this framework (Interglossa ipso, L.Hogben 1943; Lingua (Sistem)Frater, Pham Xuan Thai 1957, Paul O. Barlett 1998), **Glosa is the most articulated project**. It was created as a modified version of the Interglossa, by
-R.Clark and W.Ashby (1972,1992) and promoted by M.Springer
- 
- on the basis sustained Interglossa 
+## Glosa, an Interglossa language
 
+Among other attempts within this framework (Interglossa ipso by L.Hogben, 1943; Lingua (Sistem)Frater by Pham Xuan Thai, 1957 and Paul O. Barlett 1998), language **Glosa** was the most articulated project**. It was created as a modified version of the Interglossa, by
+Ronald Clark and Wendy Ashby (1972,1992) and promoted by Marcel Springer.
 
-This site tries to present the language Glosa, a Hogben's “Interglossa” variety, in a neutral  and systematic manner. 
+## Glosa, a dying language
+
+Since the passing away of Wendy Ashby, the inventor of the language, in 2015, the Glosa-speaking community (mainly populating [this Facebook group](https://www.facebook.com/groups/216702155647/)  and [this Telegram channel](https://t.me/glosaauxilingua))  struggles to maintain the intensity of the language use. The language vitality assessment guidelines (as defined by [UNESCO](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CLT/pdf/Language_vitality_and_endangerment_EN.pdf)) specify several areas whose stagnation might indicate the negative trend:
+
+- education of the new speakers
+- language transmission
+- content creation.
+
+The necessary condition for a positive outcome of those activity facets is the existence of the standardized and documented version of the language. The Language Planning Committee of the FIAS has decided to launch a language planning initiative in order to document the elaboration of the language standard as well as to systematize and centralize linguistic resources on Glosa and its documentation.
+
+This website's aim is to aggregate and conserve materials available in Glosa and Interglossa — as well materials *about* them.
 
 <!---- Planned language activists are known for fanaticism when promoting their handicrafts, (biased) first-hand discourse is here:
 
@@ -45,32 +57,3 @@ Ruski.
 
 
 --->
-
-
-
-Jekyll provides for both pages and posts in its default configuration. I have left this as-is.
-
-{% newthought 'In this first iteration'%} of the _Tufte-Jekyll_ theme, a post and a page have exactly the same layout. That means that all the typographic and structural details are identical between the two.
-
-## Pages and Posts
-
-Jekyll provides for both pages and posts in its default configuration. I have left this as-is.
-
-### Posts
-
-Conceptually, posts are for recurring pieces of similar content such as might be found in a typical blog entry. Post content all sits in a `_posts` folder named `_posts` and files are created in this folder{% sidenote 1 'Yes, a page has essentially the same old shit as a post'%} that are names with a date pre-pended to the title of the post. For instance `2105-02-20-this-is-a-post.md` is a perfectly valid post filename.
-
-Posts will always have a section above the content itself consisting of YAML front matter, which is meta-data information about the post{% sidenote post 'Please, be careful when moving boxes, you can hurt your back!' %}. Minimally, a post title must always be present for it to be processed properly.
-
-    ---
-    Title: Some Title
-    ---
-    ## Content
-    
-    Markdown formatted content *here*.
-
-### Pages
-
-Pages are any HTML documents _or_ Markdown documents with YAML front matter that are then converted to content. Page material is more suited to static, non-recurring types of content. Like this
-
-I am not going to re-write the Jekyll documentation. Read it and you will figure out how the site is structured.
