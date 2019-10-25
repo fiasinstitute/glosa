@@ -1,10 +1,9 @@
 ---
-title: Index
+title: Page
 layout: post
+navlevel: header
+position: 50
 ---
-
-
-Jekyll provides for both pages and posts in its default configuration. I have left this as-is.
 
 {% newthought 'In this first iteration'%} of the _Tufte-Jekyll_ theme, a post and a page have exactly the same layout. That means that all the typographic and structural details are identical between the two.
 

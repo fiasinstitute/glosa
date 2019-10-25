@@ -1,109 +1,193 @@
-# The Tactile theme
+# tufte-jekyll theme
 
-[![Build Status](https://travis-ci.org/pages-themes/tactile.svg?branch=master)](https://travis-ci.org/pages-themes/tactile) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-tactile.svg)](https://badge.fury.io/rb/jekyll-theme-tactile)
+The *Tufte-Jekyll* blog theme is based on the github repository by Edward Tufte [here](https://github.com/edwardtufte/tufte-css), which was orginally created by Dave Leipmann, but is now labeled under Edward Tufte's moniker. I borrowed freely from the Tufte-CSS repo and have transformed many of the typographic and page-structural features into a set of custom Liquid tags that make creating content using this style much easier than writing straight HTML. Essentially, if you know markdown, and mix in a few custom Liquid tags, you can be creating a website with this document style in short order.
 
-*Tactile is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/tactile), or even [use it today](#usage).*
+## Demo
 
-![Thumbnail of Tactile](thumbnail.png)
+A sample site with self-documenting content is available [here](http://clayh53.github.io/tufte-jekyll/) on github pages.
 
-## Usage
+## Installation
 
-To use the Tactile theme:
+I'm not going to go into great detail here. I am just going to assume that anyone interested in either Jekyll, Edward Tufte's work or Github has some basic skills. I created this with Ruby 2.2.0 and Jekyll 2.5.3. There is absolutely nothing exotic going on here, so you can probably make any recent version of Jekyll work with this setup.
 
-1. Add the following to your site's `_config.yml`:
+So copy, pull, download a zipfile or whatever and fire it up.
 
-    ```yml
-    theme: jekyll-theme-tactile
-    ```
-
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
-
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
-
-## Customizing
-
-### Configuration variables
-
-Tactile will respect the following variables, if set in your site's `_config.yml`:
-
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+```
+cd ~/thatPlaceYouPutIt/tufte-jekyll
+jekyll build
+jekyll serve -w
 ```
 
-Additionally, you may choose to set the following optional variables:
+And then point your browser at localhost:4000/tufte-jekyll
 
-```yml
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+You can also use `jekyll serve -w --baseurl ''` to remove `/tufte-jekyll` from the url and serve your site directly from localhost:4000. This only affects your local preview. See [Setting your baseurl correctly](#setting-your-baseurl-correctly) for more details.
+
+## Configuration
+
+### Jekyll site building options
+
+I have created a very simple site options file in the ```_data``` directory that contains two settings currently. The file in the github repo looks like this:
+```
+mathjax: true
+lato_font_load: true
+```
+Removing either 'true' value will prevent the jekyll site building process from adding links to either the Mathjax library or the Google Fonts Lato font as a fallback for the Gill Sans. Set these values to blank if you want to really streamline your page loading time.
+
+### SASS
+
+I am using Sass to create the css file used by this theme. If you would like to change things like fonts, text colors, background colors and so forth, edit the ```_scss/_settings.scss``` file. This file gets loaded first when Jekyll constructs the master CSS file from the tufte.scss SASS file, and contains SASS variables that influence the appearance of the site. The one variable that may be of interest to some is the ```$link-style``` variable, which can be set to either ```underline``` or ```color```. This will determine if your links are styled using the ```$contrast-color``` variable with no underlining, or whether they are styled using light underlining as seen on the [*tufte-css*](https://github.com/edwardtufte/tufte-css) repo.
+
+### Social icons
+
+You can edit the ```_data/social.yml``` file and put in your own information for the footer links
+
+### Silly-ass badge in the upper left
+
+In the ```assets/img``` directory is a file called ```badge_1.png```. This file's parent is ```badge_1.psd``` and is an editable photoshop file with layers for the letters comprising the initials. Change them to suit your fancy. Or just substitute another badge in its place. You can edit the ```_includes/header.html``` file and change the file that it points too. Find your favorite Tufte emoji and fly your freak flag proudly.
+
+## Some things about the things
+
+I needed to create several custom Liquid tags to wrap content in the right kind of tags. You will create your posts in the normal way in the ```_posts``` directory, and then edit them with Github-Flavored Markdown. To all that GFM goodness, you can use the following custom Liquid tags in your content area.
+
+Note that these tags *have been altered* from Version 1 of this theme to accommodate some responsive features, namely the ability to reveal hidden sidenotes, margin notes and margin figures by tapping either a superscript or a symbol on small screens. This requires you to add a parameter to the tag that is a unique *ID* for each tag instance on the page. What the id is called is not important, but it is important that it be unique for each individual element on the page. I would recommend in the interest of sanity to give names that are descriptive, like ```'sn-id-1'``` or ```'mf-id-rhino'```.
+
+### Notes about quotes in Liquid tags
+
+The custom Liquid tags are designed to simplify writing content and displaying it with the *tufte-css* look. Here are a few notes on using quotes inside the tags.
+
+* Liquid tags work best when you use double quotes to surround the tag parameters, as you'll see in all the examples below.
+
+* You can use single quotes and apostrophes in the text inside tag parameters. Liquid will automatically process them correctly. For example: `{% newthought "I'm so smart!" %}` will render as `I'm so smart!`
+
+* To use a double quote in the text inside a tag parameter, escape the double quote by placing a backslash directly in front of it, for example: `{% newthought "\"I'm so smart!\", she thought." %}` will render as `"I'm so smart!", she thought.`
+
+* You can use HTML inside of a tag parameter. (However, you cannot use Markdown inside a tag parameter) You can use either single quotes, or escaped double quotes in the HTML. For example, both of the following tags will work:
+
+```
+{% newthought "Example website: <a href='http://example.com'>example label</a>" %}
+```
+```
+{% newthought "Example website: <a href=\"http://example.com\">example label</a>" %}
 ```
 
-### Stylesheet
+The [demo site's Edge Cases entry](http://clayh53.github.io/tufte-jekyll/articles/15/Edge-Cases) has an example toward the bottom illustrating HTML inside of a tag parameter.
 
-If you'd like to add your own custom styles:
+### New thought
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+This tag will render its contents in small caps. Useful at the beginning of new sections:
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+```
+{% newthought "This will be rendered in small caps" %} blah blah
+```
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+### Sidenote
 
-### Layouts
+This tag inserts a *sidenote* in the content, which is like a footnote, only its in the spacious right-hand column. It is automatically numbered, starting over on each page. Just put it in the content like you would insert a footnote like so:
 
-If you'd like to change the theme's HTML layout:
+```
+blah lorem blah{% sidenote "sidenote-id" "This is a random sidenote" %} blah blah
+```
+And it will add the html spans and superscripts. On smaller screens, tapping on the number will reveal the sidenote!
 
-1. [Copy the original template](https://github.com/pages-themes/tactile/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/default.html` in your site
-3. Paste the default layout content copied in the first step
-4. Customize the layout as you'd like
+The `full-width` page layout will not display side notes. (It's a full-width page and has no margin)
 
-### Overriding GitHub-generated URLs
+### Margin note
 
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+This tag is essentially the same as a sidenote, but heh, no number. Like this:
 
-1. Look at [the template source](https://github.com/pages-themes/tactile/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+```
+lorem nobeer toasty critters{% marginnote "margin-note-id" "Random thought when drinking" %} continue train of thought
+```
+On smaller screens, tapping on the <span>&#8853;</span> symbol will open up the margin note.
 
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+The `full-width` page layout will not display margin notes. (It's a full-width page and has no margin)
 
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
+### Full width image
 
-## Roadmap
+This tag inserts an image that spans both the main content column and the side column:
 
-See the [open issues](https://github.com/pages-themes/tactile/issues) for a list of proposed features (and known issues).
+```
+blah blah
+{% fullwidth "assets/img/rhino.png" "A caption for the image" %}
+blah
+```
 
-## Project philosophy
+or
 
-The Tactile theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+```
+blah blah
+{% fullwidth "http://example.com/image.jpg" "A caption for the image" %}
+blah
+```
 
-## Contributing
+Note the absence of a leading slash in the image url when using relative file paths. (This is incorrect: `/assets/img/rhino.png`)
 
-Interested in contributing to Tactile? We'd love your help. Tactile is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+Also note that fullwidth images need to be included *on their own line* in order for the captions to work correctly.
 
-### Previewing the theme locally
+### Main column image
 
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
+This tag inserts an image that is confined to the main content column:
 
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/tactile`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+```
+blah blah
+{% maincolumn "assets/img/rhino.png" "This is the caption" %}
+blah
+```
 
-### Running tests
+or
 
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+```
+blah blah
+{% maincolumn "http://example.com/image.jpg" "This is the caption" %}
+blah
+```
+
+No need for an ID in this tag because it doesn't have any doohickies that open and close on narrow screens. Again note the absence of the leading slash in the image url when using relative file paths. (This is incorrect: `/assets/img/rhino.png`)
+
+And just like fullwidth images, main column images need to be included on their own line in order for the captions to work correctly.
+
+### Margin figure
+
+This tag inserts and image in the side column area. Note that an id needs to be specified:
+
+```
+blah blah {% marginfigure "margin-figure-id" "assets/img/rhino.png" "This is the caption" %} blah
+```
+
+or
+
+```
+blah blah {% marginfigure "margin-figure-id" "http://example.com/image.jpg" "This is the caption" %} blah
+```
+
+This needs an ID parameter so that it can be clicked and opened on small screens. Again note the absence of the leading slash in the image url when using relative file paths. (This is incorrect: `/assets/img/rhino.png`)
+
+The `full-width` page layout will not display margin figures. (It's a full-width page and has no margin)
+
+### Mathjax
+
+Totally used this functionality from a [gist by Jessy Cowan-Sharpe](https://gist.github.com/jessykate/834610) to make working with Mathjax expressions a little easier. Short version, wrap inline math in a tag pair thusly: ```{% m %}mathjax expression{% em %}``` and wrap bigger block level stuff with ```{% math %}mathjax expression{% endmath %}```
+
+As a side note - if you do not need the math ability, navigate to the ```_data/options.yml``` file and change the mathjax to 'false' and it will not load the mathjax javascript.
+
+### Setting your baseurl correctly
+
+In the `_config.yml` file is a setting called `baseurl`. This is used by the Jekyll engine to construct all the proper links in the static site. Right now it is set to `/tufte-jekyll` since this project is using Github Pages and you are required to set the project name as the baseurl to serve from Github Pages.
+
+Set this to your own project name if you're going to serve your site from Github Pages. Be sure to include the leading slash, and no trailing slash. For example: `/my-project-name`
+
+For a full explanation of setting your baseurl to work with Github Pages, see the [Project Page URL Structure](http://jekyllrb.com/docs/github-pages/#project-page-url-structure) section of the Jekyll documentation.
+
+To serve from anywhere else besides Github Pages, use a blank baseurl in your `_config.yml` file:
+
+```
+baseurl:
+```
+
+This is `baseurl:` with nothing after it. Not even a space.
+
+### Rakefile
+
+I have added a boilerplate Rakefile directly from the [jekyll-rake-boilerplate repo](https://github.com/gummesson/jekyll-rake-boilerplate). This saves you a small amount of time by prepending the date on a post name and populated the bare minimum of YAML front matter in the file. Please visit the link to the repo to find out how it runs. One thing to note is that there should be *no* space between the task and the opening bracket of your file name. ```rake post["Title"]``` will work while ```rake post ["Title"]``` will not.
+
+There is another rakefile (UploadtoGithub.Rakefile) included that only has one task in it - an automated upload to a *Github Pages* location of the site. This is necessary because of the plugins used by this theme. It does scary stuff like move your ```_site``` somewhere safe, delete everything, move the ```_site``` back and then do a commit to the ```gh-pages``` branch of your repository. You can read about it [here](http://blog.nitrous.io/2013/08/30/using-jekyll-plugins-on-github-pages.html). You would only need to use this if you are using Github project pages to host your site. Integration with the existing Rakefile is left as an exercise for the reader.

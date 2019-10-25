@@ -1,0 +1,22 @@
+// Font imports file. If you don't want these fonts, comment out these and add your own into the fonts directory 
+// and point the src attribute to the file.
+// 
+@import url('https://fonts.googleapis.com/css?family=Lato:900&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+
+@import url('https://fonts.googleapis.com/css?family=Amiri:400,400i,700,700i&subset=arabic,latin-ext');
+@charset "UTF-8";
+
+
+@font-face {
+  font-family: Amiri;
+}
+
+@font-face {
+  font-family: Lato;
+}
+
+@font-face {
+  font-family: Inconsolata;
+}
