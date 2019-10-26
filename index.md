@@ -30,7 +30,7 @@ Since the passing away of Wendy Ashby, the inventor of the language, in 2015, th
 - language transmission
 - content creation.
 
-The necessary condition for a positive outcome of those activity facets is the existence of the standardized and documented version of the language. The Language Planning Committee of the FIAS has decided to launch a language planning initiative in order to document the elaboration of the language standard as well as to systematize and centralize linguistic resources on Glosa and its documentation.
+The necessary condition for a positive outcome of those activity facets is the existence of a standardized and documented version of the language. The Language Planning Committee of the FIAS has decided to launch a language planning initiative in order to document the elaboration of the language standard as well as to systematize and centralize linguistic resources on Glosa and its documentation.
 
 This website's aim is to aggregate and conserve materials available in Glosa and Interglossa — as well materials *about* them.
 
