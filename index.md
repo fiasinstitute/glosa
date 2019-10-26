@@ -34,7 +34,7 @@ The necessary condition for a positive outcome of those activity facets is the e
 
 ## Content policy
 
-This website's aim is to aggregate and conserve materials available in Glosa and Interglossa — as well materials *about* them. This site doesn't seek to promote those languages and tries to enforce **professional linguistic treatment** and **neutrality** in its exposition of the material. Language creators, promoters and zealots are known to  present facts in a skewed manner. We systematically denounce such claims.
+This website's aim is to aggregate and conserve materials available in Glosa and Interglossa — as well materials *about* them. This site doesn't seek to promote those languages and tries to enforce [**professional linguistic treatment** and **neutrality**](https://en.wikipedia.org/wiki/Scientific_method) in its exposition of the material. Language creators, promoters and zealots are known to  present facts in a skewed manner. We systematically denounce such claims.
 
 The source code is available on [Github](https://github.com/fiasinstitute/glosa).
 
