@@ -34,6 +34,8 @@ The necessary condition for a positive outcome of those activity facets is the e
 
 This website's aim is to aggregate and conserve materials available in Glosa and Interglossa — as well materials *about* them.
 
+The source code is available at [Github](https://github.com/fiasinstitute/glosa).
+
 <!---- Planned language activists are known for fanaticism when promoting their handicrafts, (biased) first-hand discourse is here:
 
 [Glosa self praise]
