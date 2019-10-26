@@ -19,7 +19,7 @@ Hogben proposed some possible lexifications and etymological operators, but has 
 
 ## Glosa, an Interglossa language
 
-Among other attempts within this framework (Interglossa ipso by L.Hogben, 1943; Lingua (Sistem)Frater by Pham Xuan Thai, 1957 and Paul O. Barlett 1998), language **Glosa** was the most articulated project**. It was created as a modified version of the Interglossa, by
+Among other attempts within this framework (Interglossa ipso by L.Hogben, 1943; Lingua (Sistem)Frater by Pham Xuan Thai, 1957 and Paul O. Barlett 1998), language **Glosa** was the most articulated project. It was created as a modified version of Interglossa, by
 Ronald Clark and Wendy Ashby (1972,1992) and promoted by Marcel Springer.
 
 ## Glosa, a dying language
