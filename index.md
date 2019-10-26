@@ -24,7 +24,7 @@ Ronald Clark and Wendy Ashby (1972,1992) and promoted by Marcel Springer.
 
 ## Glosa, a dying language
 
-Since the passing away of Wendy Ashby, the inventor of the language, in 2015, the Glosa-speaking community (mainly populating [this Facebook group](https://www.facebook.com/groups/216702155647/)  and [this Telegram channel](https://t.me/glosaauxilingua))  struggles to maintain the intensity of  language use. The language vitality assessment guidelines (as defined by [UNESCO](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CLT/pdf/Language_vitality_and_endangerment_EN.pdf)) specify several areas whose stagnation might indicate the negative trend:
+Since the passing away of Wendy Ashby, the inventor of this Interglossa recension, in 2015, the Glosa-speaking community (mainly populating [this Facebook group](https://www.facebook.com/groups/216702155647/)  and [this Telegram channel](https://t.me/glosaauxilingua))  struggles to maintain the intensity of  language use. The language vitality assessment guidelines (as defined by [UNESCO](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CLT/pdf/Language_vitality_and_endangerment_EN.pdf)) specify several areas whose stagnation might indicate the negative trend:
 
 - education of the new speakers
 - language transmission
