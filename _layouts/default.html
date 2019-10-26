@@ -4,7 +4,9 @@
   <body>
     {% include header.html %}
     <article class="group">
+          {% include fastlinks.html %}
       {{ content }}
+      {% include fastlinks.html %}
     </article>
     {% include print-footer.html %}
     {% include footer.html %}
