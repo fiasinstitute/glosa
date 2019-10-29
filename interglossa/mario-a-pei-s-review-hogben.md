@@ -5,7 +5,7 @@ published: true
 ---
 
 
-{% marginnote 'citation' 'Cite this article:<br>Pei, Mario A. _The Modern Language Journal_ 28, no. 7 (1944): 633-39. doi:10.2307/319314.<br>Download a [raster `pdf`](assets/pei-hogben.pdf)' %} <span STYLE="font-variant:small-caps;">Bodmer, Frederick</span>, _The Loom of Language_. New York: W. W. Norton & Co., 1944. Lancelot Hogben, Editor. Price, $3.75.
+{% marginnote 'citation' 'Cite this article:<br>Pei, Mario A. _The Modern Language Journal_ 28, no. 7 (1944): 633-39. doi:10.2307/319314.<br>Download a [raster `pdf`](assets/pei-hogben.pdf).' %} <span STYLE="font-variant:small-caps;">Bodmer, Frederick</span>, _The Loom of Language_. New York: W. W. Norton & Co., 1944. Lancelot Hogben, Editor. Price, $3.75.
 
 <span STYLE="font-variant:small-caps;">Hogben, Lancelot</span>, _Interglossa_. Harmondsworth, England: Penguin  Books, 1943. (Page references are to The _Loom of Language_ unless _Interglossa_ (_Int_.) is indicated.) 
 
