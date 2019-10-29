@@ -55,10 +55,10 @@ _The Loom_ regularly ranges all the languages of one group side by side, in conn
 
 As for _Interglossa_, its primary merit is to call attention once more to the ever more im perative need for a vehicle of international communication, and that, despite all his subjectiv isms, is the spirit in which Hogben offers it. In both books, despite their shortcomings, he has rendered a signal service to the cause of international understanding. 
 
-MARIO A. PEI
+Mario A. Pei
 
 _Columbia University 
 
-New York, N.Y. 
-_
+New York, N.Y._
+
 <span STYLE="font-variant:small-caps;">"Foreign Languages—America's Need for the Future!"</span>
