@@ -5,8 +5,6 @@ published: true
 ---
 
 
-## A New Post
-
 ﻿1 
 REVIEWS 
 633 BODMER, FREDERICK, The Loom of Language. New York: W. W. Norton 
