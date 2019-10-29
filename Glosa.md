@@ -5,4 +5,4 @@ published: true
 ---
 
 
-[Materials from the site <span style="font-variant:small-caps;">Glosa · org</span>](glosa/index.html) .
+[Materials from the site <span style="font-variant:small-caps;">Glosa · org</span>](glosa/index.html).
