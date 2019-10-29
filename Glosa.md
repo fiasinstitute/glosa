@@ -1,8 +1,8 @@
 ---
 title: Glosa documentation
 layout: page
+published: true
 ---
 
 
-# Gerda malaperis!
-
+[Materials from the site](glosa/) <span style="font-variant:small-caps;">Glosa · org</span>.
