@@ -52,7 +52,7 @@ In spite of all this, and a good deal more, _The Loom_ fulfills a useful double 
 
 _The Loom_ regularly ranges all the languages of one group side by side, in connection with each grammatical feature, and compares them. Whether this parallel or comparative way of imparting a basic knowledge of several tongues is superior to the "successive" presenta tion of each language throughout all its features, which has been tried on this side of the ocean, is something for time and experience to determine. It is the reviewer's belief that the first method works out better in historical courses in philology, the second in practical courses de signed to impart languages to people lacking a philological background. 
 
-As for Interglossa, its primary merit is to call attention once more to the ever more im perative need for a vehicle of international communication, and that, despite all his subjectiv isms, is the spirit in which Hogben offers it. In both books, despite their shortcomings, he has rendered a signal service to the cause of international understanding. 
+As for _Interglossa_, its primary merit is to call attention once more to the ever more im perative need for a vehicle of international communication, and that, despite all his subjectiv isms, is the spirit in which Hogben offers it. In both books, despite their shortcomings, he has rendered a signal service to the cause of international understanding. 
 
 MARIO A. PEI Columbia University 
 
