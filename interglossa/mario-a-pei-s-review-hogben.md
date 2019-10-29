@@ -1,6 +1,6 @@
 ---
 layout: page
-title: page
+title: null
 published: true
 ---
 
