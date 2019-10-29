@@ -61,4 +61,4 @@ _Columbia University
 
 New York, N.Y. 
 _
-"FOREIGN LANGUAGES-AMERICA'S NEED FOR THE FUTURE!"
+<span STYLE="font-variant:small-caps;">"Foreign Languages—America's Need for the Future!"</span>
