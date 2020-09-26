@@ -1,12 +1,8 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-   "http://www.w3.org/TR/html4/loose.dtd">
-<HTML>
-<HEAD>
-<META HTTP-EQUIV="Content-Type" content="text/html; charset=ISO-8859-1">
-<TITLE>Glosa, short information</TITLE>
-<LINK rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-</HEAD>
-<BODY bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#800080">
+---
+title: Glosa, short information
+layout: post
+published: true
+---
 
 <TABLE border="0" cellpadding="0" cellspacing="0" width="100%"> 
 <TR>
@@ -162,5 +158,4 @@ Back to
 2004&nbsp;... 2008-01-01
 </P> 
 
-</BODY>
-</HTML>
+
