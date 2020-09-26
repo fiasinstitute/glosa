@@ -122,7 +122,7 @@ Haitao](http://htliu.nease.net/glosa.html) (or click here for a
 wordlist.\
 Please prefer the English lists of GID above, if it is possible for you.
 
-## The Word Kitchen
+# The Word Kitchen
 Only for specialists, nothing for people afraid of problems:
 
 [gidhist.htm](gid/gidhist.htm) with further information to the GID and
@@ -136,7 +136,7 @@ Some changes have been made to the [Central list](gid/centra.htm) (see
 above). For those with historical interest the [original central
 list](gid/centrao.htm) could be found here.
 
-## French
+### French
 The [French-Glosa](gid/frgl1k.htm) list (see above \"French\") is from
 the book \"FranÃ§aisÂ -GlosaÂ 1000\" by the Glosa authors Wendy Ashby and
 Ron Clark themselves, but with some [corrections](gid/frglcorr.htm).\
@@ -147,7 +147,7 @@ The reversed list [Glosa-French](gid/gl1kfr.htm) (see above \"French\")
 is computer-generated from the corrected French-Glosa list. The book has
 no Glosa-French list in it.
 
-## Spanish
+### Spanish
 The [Spanish-Glosa](gid/esgl1k.htm) list (see above \"Spanish\") is from
 the book \"EspaÃ±olÂ -GlosaÂ 1000\" by Richard Burrows and the Glosa
 authors Wendy Ashby and Ron Clark themselves, but with some
