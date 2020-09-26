@@ -17,7 +17,7 @@ them below) differ from each other. The Glosa Internet Dictionary (GID)
 is a project, that tries to bring together all the existing vocabulary
 material.
 
-## English ![English insignia](pic/flagenglish.png){width="25" height="12"}
+## English
 
 +-----------------------------------------------------------------------+
 | \                                                                     |
@@ -55,7 +55,7 @@ mainly based on the files above, partly experimental. This site will
 probably be removed soon, so if the link is dead, please click
 [here](http://mysite.freeserve.com/glosa) to see a copy.
 
-## EspaÃ±ol/Castellano (Spanish) ![EspaÃ±ol insignia](pic/flagcastellano.png){width="25" height="12"}
+## Español/Castellano (Spanish)
 
 [EspaÃ±ol-Glosa](gid/esgl1k.htm)\
 [Glosa-EspaÃ±ol](gid/gl1kes.htm)
@@ -71,7 +71,7 @@ English version and not without thinking.
 
 Please prefer the English lists of GID above, if it is possible for you.
 
-## Deutsch (German) ![Deutsch insignia](pic/flagdeutsch.png){width="25" height="12"}
+## Deutsch (German)
 
 GID (only Centra-words) Glosa-English with German translation
 (machine-generated) of the English words: [gid\_de.htm](gid/gid_de.htm)
@@ -81,7 +81,7 @@ Files based on the list of the book "DeutschÂ - GlosaÂ 1000" (a little
 enhanced, but expired): [Glosa-Deutsch](gid/gldt.htm),
 [Deutsch-Glosa](gid/dtgl.htm).
 
-## Français (French) ![FranÃ§ais insignia](pic/flagfrancais.png){width="25" height="12"}
+## Français (French)
 
 [French-Glosa](gid/frgl1k.htm)\
 [Glosa-French](gid/gl1kfr.htm)
@@ -93,7 +93,7 @@ See below [\"Word Kitchen\"](gid.1.html#kitchen) for more information
 about these files.\
 Please prefer the English lists of GID above, if it is possible for you.
 
-## Italiano (Italian) ![Italiano insignia](pic/flagitaliano.png){width="25" height="12"}
+## Italiano (Italian)
 
 Here there is a little machine-translated list
 [Glosa-Italian](gid/gmcoglit.htm) of an older version of the GID-Centra.
@@ -101,7 +101,7 @@ Translation-programs always cause funny nonsense, so this file could
 only be a base for future work, but please do not use it without the
 English version and not without thinking.
 
-## Ruski (Russian) ![Ruski insignia](pic/flagruski.png){width="25" height="12"}
+## Ruski (Russian)
 
 [GlosaÂ 1000Â - Ruski](gid/gl1kru.htm).\
 [RuskiÂ - GlosaÂ 1000](gid/rugl1k.htm).
@@ -119,7 +119,7 @@ interested, please contact Glosa author Wendy Ashby (Glosa Education
 Organisation, 35 Wingfield Road; Kingston Upon Thames; Surrey KT2 5LR;
 ENGLAND). Sorry, no online-version available yet.
 
-## Zhongguo-lingua (Chinese) ![Zhongguo insignia](pic/flagcina.png){width="25" height="12"}
+## Zhongguo-lingua (Chinese)
 
 Please visit the site of Prof. [Liu
 Haitao](http://htliu.nease.net/glosa.html) (or click here for a
@@ -141,7 +141,7 @@ Some changes have been made to the [Central list](gid/centra.htm) (see
 above). For those with historical interest the [original central
 list](gid/centrao.htm) could be found here.
 
-## French:
+## French
 The [French-Glosa](gid/frgl1k.htm) list (see above \"French\") is from
 the book \"FranÃ§aisÂ -GlosaÂ 1000\" by the Glosa authors Wendy Ashby and
 Ron Clark themselves, but with some [corrections](gid/frglcorr.htm).\
