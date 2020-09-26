@@ -19,30 +19,25 @@ material.
 
 ## English
 
-+-----------------------------------------------------------------------+
-| \                                                                     |
-|                                                                       |
-| TheÂ Â  *Glosa Internet Dictionary*Â Â  (GID)\                            |
-| \                                                                     |
-| \... is the largest dictionary available for Glosa. It is more        |
-| comprehensive and has less errors than any printed list. It has three |
-| levels: Mega (Literary, large), Basi (Basic, middle) and Centra       |
-| (Core, small). Mega contains all Basi words and Basi contains all     |
-| Centra words. Centra has less than 2000Â words and should satisfy for  |
-| normal texts and all-day situtations. So these words should be        |
-| learned first and be prefered.                                        |
-|                                                                       |
-| Glosa-English. All: [glen.htm](gid/glen.htm) (HTML, 356Â kB),          |
-| [glen.txt](gid/glen.txt) (plain ASCII, 348Â kB). Only Centra:          |
-| [coglen.htm](gid/coglen.htm) (100Â kB).\                               |
-| English-Glosa. All: [engl.htm](gid/engl.htm) (HTML, 372Â kB),          |
-| [engl.txt](gid/engl.txt) (plain ASCII, 364Â kB).                       |
-|                                                                       |
-| The GID as \"book\" in pdf-format: [gid.pdf](gid/gid.pdf) (732Â kB,    |
-| perhaps fitting for offline-reading or printing).                     |
-|                                                                       |
-| \                                                                     |
-+-----------------------------------------------------------------------+
+
+  > The **Glosa Internet Dictionary** (GID)\                            
+  > \... is the largest dictionary available for Glosa. It is more        
+  > comprehensive and has less errors than any printed list. It has three 
+  > levels: Mega (Literary, large), Basi (Basic, middle) and Centra       
+  > (Core, small). Mega contains all Basi words and Basi contains all     
+  > Centra words. Centra has less than 2000Â words and should satisfy for  
+  > normal texts and all-day situtations. So these words should be        
+  > learned first and be prefered.                                        
+  >                                                                       
+  > Glosa-English. All: [glen.htm](gid/glen.htm) (HTML, 356Â kB),          
+  > [glen.txt](gid/glen.txt) (plain ASCII, 348Â kB). Only Centra:          
+  > [coglen.htm](gid/coglen.htm) (100Â kB).\                               
+  > English-Glosa. All: [engl.htm](gid/engl.htm) (HTML, 372Â kB),          
+  > [engl.txt](gid/engl.txt) (plain ASCII, 364Â kB).                       
+  >                                                                       
+  > The GID as \"book\" in pdf-format: [gid.pdf](gid/gid.pdf) (732Â kB,    
+  > perhaps fitting for offline-reading or printing).                     
+
 
 The [Central list](gid/centra.htm) by the Glosa authors Ashby/Clark
 gives an English cognate to each GlosaÂ 1000Â word. So it affords an
