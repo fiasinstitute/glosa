@@ -6,9 +6,9 @@ published: true
 
 The Glosa words are taken from Latin and Greek. So they are known to
 many people by foreign words or by the Roman languages. A limitated
-vocabulary (*Glosa 1000* or *Centra Glosa*), easy to learn for
+vocabulary (*GlosaÂ 1000* or *Centra Glosa*), easy to learn for
 beginners, should satisfy for all day situations. For higher demands
-(science, art, poetry) an extension (*Glosa 6000* or *Mega Glosa*) is
+(science, art, poetry) an extension (*GlosaÂ 6000* or *Mega Glosa*) is
 available.
 
 To offer a central vocabulary is a good idea and a strength of the Glosa
@@ -22,30 +22,30 @@ material.
 +-----------------------------------------------------------------------+
 | \                                                                     |
 |                                                                       |
-| The   *Glosa Internet Dictionary*   (GID)\                            |
+| TheÂ Â  *Glosa Internet Dictionary*Â Â  (GID)\                            |
 | \                                                                     |
 | \... is the largest dictionary available for Glosa. It is more        |
 | comprehensive and has less errors than any printed list. It has three |
 | levels: Mega (Literary, large), Basi (Basic, middle) and Centra       |
 | (Core, small). Mega contains all Basi words and Basi contains all     |
-| Centra words. Centra has less than 2000 words and should satisfy for  |
+| Centra words. Centra has less than 2000Â words and should satisfy for  |
 | normal texts and all-day situtations. So these words should be        |
 | learned first and be prefered.                                        |
 |                                                                       |
-| Glosa-English. All: [glen.htm](gid/glen.htm) (HTML, 356 kB),          |
-| [glen.txt](gid/glen.txt) (plain ASCII, 348 kB). Only Centra:          |
-| [coglen.htm](gid/coglen.htm) (100 kB).\                               |
-| English-Glosa. All: [engl.htm](gid/engl.htm) (HTML, 372 kB),          |
-| [engl.txt](gid/engl.txt) (plain ASCII, 364 kB).                       |
+| Glosa-English. All: [glen.htm](gid/glen.htm) (HTML, 356Â kB),          |
+| [glen.txt](gid/glen.txt) (plain ASCII, 348Â kB). Only Centra:          |
+| [coglen.htm](gid/coglen.htm) (100Â kB).\                               |
+| English-Glosa. All: [engl.htm](gid/engl.htm) (HTML, 372Â kB),          |
+| [engl.txt](gid/engl.txt) (plain ASCII, 364Â kB).                       |
 |                                                                       |
-| The GID as \"book\" in pdf-format: [gid.pdf](gid/gid.pdf) (732 kB,    |
+| The GID as \"book\" in pdf-format: [gid.pdf](gid/gid.pdf) (732Â kB,    |
 | perhaps fitting for offline-reading or printing).                     |
 |                                                                       |
 | \                                                                     |
 +-----------------------------------------------------------------------+
 
 The [Central list](gid/centra.htm) by the Glosa authors Ashby/Clark
-gives an English cognate to each Glosa 1000 word. So it affords an
+gives an English cognate to each GlosaÂ 1000Â word. So it affords an
 insight into the design of the Glosa words and makes vocabulary learning
 quite easy.
 
@@ -55,10 +55,10 @@ mainly based on the files above, partly experimental. This site will
 probably be removed soon, so if the link is dead, please click
 [here](http://mysite.freeserve.com/glosa) to see a copy.
 
-## Español/Castellano (Spanish) ![Español insignia](pic/flagcastellano.png){width="25" height="12"}
+## EspaÃ±ol/Castellano (Spanish) ![EspaÃ±ol insignia](pic/flagcastellano.png){width="25" height="12"}
 
-[Español-Glosa](gid/esgl1k.htm)\
-[Glosa-Español](gid/gl1kes.htm)
+[EspaÃ±ol-Glosa](gid/esgl1k.htm)\
+[Glosa-EspaÃ±ol](gid/gl1kes.htm)
 
 See below [\"Word Kitchen\"](gid.1.html#kitchen) for more information
 about these files.
@@ -75,13 +75,13 @@ Please prefer the English lists of GID above, if it is possible for you.
 
 GID (only Centra-words) Glosa-English with German translation
 (machine-generated) of the English words: [gid\_de.htm](gid/gid_de.htm)
-(1.3 MB).
+(1.3Â MB).
 
-Files based on the list of the book "Deutsch - Glosa 1000" (a little
+Files based on the list of the book "DeutschÂ - GlosaÂ 1000" (a little
 enhanced, but expired): [Glosa-Deutsch](gid/gldt.htm),
 [Deutsch-Glosa](gid/dtgl.htm).
 
-## Fran�ais (French) ![Français insignia](pic/flagfrancais.png){width="25" height="12"}
+## Français (French) ![FranÃ§ais insignia](pic/flagfrancais.png){width="25" height="12"}
 
 [French-Glosa](gid/frgl1k.htm)\
 [Glosa-French](gid/gl1kfr.htm)
@@ -103,8 +103,8 @@ English version and not without thinking.
 
 ## Ruski (Russian) ![Ruski insignia](pic/flagruski.png){width="25" height="12"}
 
-[Glosa 1000 - Ruski](gid/gl1kru.htm).\
-[Ruski - Glosa 1000](gid/rugl1k.htm).
+[GlosaÂ 1000Â - Ruski](gid/gl1kru.htm).\
+[RuskiÂ - GlosaÂ 1000](gid/rugl1k.htm).
 
 Another [Russian word
 list](http://www.qualitycode.com/glosa/glosaruski-abc.html) is on [Kevin
@@ -114,7 +114,7 @@ Please prefer the English lists of GID above, if it is possible for you.
 
 ## Swahili
 
-There is a printed version of \"Glosa 1000\" available. When you are
+There is a printed version of \"GlosaÂ 1000\" available. When you are
 interested, please contact Glosa author Wendy Ashby (Glosa Education
 Organisation, 35 Wingfield Road; Kingston Upon Thames; Surrey KT2 5LR;
 ENGLAND). Sorry, no online-version available yet.
@@ -123,7 +123,7 @@ ENGLAND). Sorry, no online-version available yet.
 
 Please visit the site of Prof. [Liu
 Haitao](http://htliu.nease.net/glosa.html) (or click here for a
-[copy](gid/glch.htm)) for a Chinese translation of the Glosa 1000
+[copy](gid/glch.htm)) for a Chinese translation of the GlosaÂ 1000
 wordlist.\
 Please prefer the English lists of GID above, if it is possible for you.
 
@@ -143,9 +143,9 @@ list](gid/centrao.htm) could be found here.
 
 ## French:
 The [French-Glosa](gid/frgl1k.htm) list (see above \"French\") is from
-the book \"Français -Glosa 1000\" by the Glosa authors Wendy Ashby and
+the book \"FranÃ§aisÂ -GlosaÂ 1000\" by the Glosa authors Wendy Ashby and
 Ron Clark themselves, but with some [corrections](gid/frglcorr.htm).\
-Only for historical interest, - please do not use it! -: here you can
+Only for historical interest, -Â please do not use it!Â -: here you can
 have a look at their old, original and uncorrected [French
 list](gid/frgl1ko.htm).\
 The reversed list [Glosa-French](gid/gl1kfr.htm) (see above \"French\")
@@ -154,10 +154,10 @@ no Glosa-French list in it.
 
 ## Spanish
 The [Spanish-Glosa](gid/esgl1k.htm) list (see above \"Spanish\") is from
-the book \"Español -Glosa 1000\" by Richard Burrows and the Glosa
+the book \"EspaÃ±olÂ -GlosaÂ 1000\" by Richard Burrows and the Glosa
 authors Wendy Ashby and Ron Clark themselves, but with some
 [corrections](gid/esglcorr.htm).\
-Only for historical interest, - please do not use it! -: here you can
+Only for historical interest, -Â please do not use it!Â -: here you can
 have a look at their old, original and uncorrected [Spanish
 list](gid/esgl1ko.htm).\
 The reversed list [Glosa-Spanish](gid/gl1kes.htm) (see above
