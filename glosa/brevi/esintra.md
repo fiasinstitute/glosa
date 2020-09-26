@@ -1,13 +1,9 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-   "http://www.w3.org/TR/html4/loose.dtd">
-<HTML>
-<HEAD>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
-<TITLE> Intra-duce ad-in Glosa in Espa&ntilde;ol </TITLE>
-<LINK rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-</HEAD>
-<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000ff" VLINK="#800080">
-<!-- original URL was www.glosa.org/brevi/esintra.htm -->
+---
+title: Intra-duce ad-in Glosa in Espa&ntilde;ol 
+layout: post
+published: true
+---
+
 
 <BR>
 <BR>
@@ -1827,5 +1823,4 @@ POR&nbsp; TODAS&nbsp; PARTES&nbsp; DEL&nbsp; MUNDO. </B></P>
 <P ALIGN=Right>
   <A HREF="../index.html">www.glosa.org</A>,
 2004-02-28&nbsp;... 2011-05-12</P>
-</BODY>
-</HTML>
+
