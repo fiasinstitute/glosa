@@ -4,10 +4,6 @@ layout: post
 published: true
 ---
 
-
-Glosa Vocabulary
-================
-
 \
 
 The Glosa words are taken from Latin and Greek. So they are known to
