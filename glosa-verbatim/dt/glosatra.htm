@@ -1,0 +1,306 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<TITLE>Glosatra - ein kleines Computerprogramm f&uuml;r Glosa</TITLE>
+<LINK href="../pic/icon.png" rel="icon" type="image/png">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000ff" VLINK="#800080">
+<!-- original URL was http://www.glosa.org/dt/glosatra.htm -->
+
+<BR>
+<BR>
+<BR>
+<CENTER>
+<H1>Glosatra - ein kleines Computerprogramm f&uuml;r Glosa</H1>
+</CENTER>
+
+<BR>
+<BR>
+<BR>
+<P> Glosatra ist ein kleines Computerprogramm, das dabei hilft, von
+Glosa nach Englisch oder umgekehrt zu &uuml;bersetzen, indem es
+einfach die W&ouml;rter in einer W&ouml;rterbuchdatei
+nachschl&auml;gt. </P>
+<BR>
+
+<H3>Dateien</H3>
+
+<P> In dem zip-Archiv 
+  <A HREF="../dat/glosatra.zip">&gt;&gt;glosatra.zip&lt;&lt;</A>
+sind folgende Dateien enthalten: </P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<COLGROUP><COL><COL><COL><COL></COLGROUP>
+<TR>
+  <TD> &nbsp;&nbsp;&nbsp;&nbsp; </TD>
+  <TD VALIGN="Top">
+    <TT>glosatra.exe</TT> </TD>
+  <TD> &nbsp;&nbsp;&nbsp;&nbsp; </TD>
+  <TD VALIGN="Top"> (Glosatra, unter MS-DOS/Windows ausf&uuml;hrbare
+    Version, 181&nbsp;kB.  L&auml;uft unter Win95, angeblich auch
+    unter Windows NT und eingeschr&auml;nkt unter Win98, dort
+    k&ouml;nne man aber keine Optionen angeben.  Ich kann es leider
+    nicht reparieren, da ich kein Win98 habe.  Entschuldigung.)
+  </TD>
+</TR>
+<TR>
+  <TD></TD>
+  <TD VALIGN="top"> 
+    <TT>glosatrb.exe</TT> </TD>
+  <TD></TD>
+  <TD VALIGN="top"> (eine weitere (schw&auml;chere) MS-Win-Version,
+    144&nbsp;kB.  Aufruf mit <TT>glosatrb</TT> oder umbenennen.)
+  </TD>
+</TR>
+<TR>
+  <TD></TD>
+  <TD VALIGN="top"> 
+    <TT>glosatre.exe</TT> </TD>
+  <TD></TD>
+  <TD VALIGN="top"> (und noch eine MS-Win-Version, 181&nbsp;kB.  Diese
+    verh&auml;lt sich genau anders herum: <TT>glosatre</TT> f&uuml;r
+    Englisch-Glosa und <TT>glosatre -e</TT> f&uuml;r Glosa-Englisch.
+    Damit kann man die Richtung Englisch nach Glosa auch unter Win98
+    nutzen.)
+  </TD>
+</TR>
+<TR>
+  <TD></TD>
+  <TD VALIGN="Top">
+    <TT>glosatra</TT> </TD>
+  <TD></TD>
+  <TD VALIGN="Top"> (unter Linux ausf&uuml;hrbare Version, 30&nbsp;kB)
+  </TD>
+</TR>
+<TR>
+  <TD></TD>
+  <TD VALIGN="top"> 
+    <TT>glosatra.cc</TT>  </TD>
+  <TD></TD>
+  <TD VALIGN="top"> (Quellcode, 29&nbsp;kB) </TD>
+</TR>
+</TABLE>
+
+<P> Außerdem benötigen Sie noch die Dateien
+  <A HREF="../gid/engl.txt">&gt;&gt;<TT>engl.txt</TT>&lt;&lt;</A> 
+(W&ouml;rterbuchdatei Englisch-Glosa)
+und
+  <A HREF="../gid/glen.txt">&gt;&gt;<TT>glen.txt</TT>&lt;&lt;</A>
+(W&ouml;rterbuchdatei Glosa-Englisch). 
+</P>
+<BR>
+
+<H3>Eigenschaften</H3>
+
+<UL>
+<LI> Glosatra ist ein primitives Kommandozeilenprogramm f&uuml;r die
+  Konsole.  Es hat keine Men&uuml;s, Mausunterst&uuml;tzung, Grafik
+  oder &auml;hnliches.
+<LI> Es "&uuml;bersetzt" Glosa-Englisch und Englisch-Glosa.
+<LI> Das Programm findet W&ouml;rter, Wortgruppen und
+  Zusammensetzungen mit und ohne Bindestrich in den W&ouml;rterlisten
+  (letzte Dinge nicht mit <TT>-t</TT>-Option).
+<LI> Es versucht einen Vorschlag zu machen, auch wenn der Schlussvokal
+  des Glosaworts im Text falsch ist (nicht mit <TT>-t</TT>-Option).
+<LI> Es versucht englische W&ouml;rter zu erkennen, selbst wenn sie
+  nicht in der Grundform vorliegen (nicht mit <TT>-t</TT>-Option).
+<LI> Gro&szlig;- und Kleinschreibung werden vernachl&auml;ssigt.
+<LI> Es kann die jeweils neueste Version des
+    <A HREF="../gid/index.html">
+    Glosa Internet Dictionarys</A>
+  verwendet werden, - einfach herunterladen, s. o.
+<LI> Laden und laufen lassen, - keine komplizierte Installation wegen
+  seiner Einfachheit.
+<LI> Es l&auml;uft unter MS-DOS/Windows und Linux.  Andere Plattformen
+  sind sicher auch m&ouml;glich.  Der Quellcode steht oben zur
+  Verf&uuml;gung.
+<LI> Es kann die Standard-I/O-Kan&auml;le nutzen. So kann es von
+  einem anderen Programm aus gestartet und genutzt werden, sogar
+  innerhalb eines Texteditors.
+<LI> Es ist kostenlos.
+<LI> In keiner Weise beansprucht es, fehlerfrei, professionell oder
+  komfortabel zu sein.
+<LI> Entschuldigung f&uuml;r diesen dummen Fehler: Die Eingabe-Datei
+  muss mit einem Leerzeichen, einem Komma, Punkt oder einem
+  &bdquo;Return&ldquo; enden.  Andernfalls verliert man das letzte
+  Wort. 
+</UL>
+<BR>
+
+<H3>Installation und Anwendung</H3>
+
+<UL>
+<LI> Sie haben das unter Ihrem System ausf&uuml;rbare Programm,
+  die W&ouml;rterlistendateien <TT>glen.txt</TT> und <TT>engl.txt</TT>
+  und Ihre Glosa-Textdatei <TT>intext.txt</TT>, eine einfache
+  ASCII-Textdatei, in dem Verzeichnis, in dem Sie gerade arbeiten
+  (oder irgendwo, wo Ihr System diese Dateien findet). <BR>
+  Dann starten Sie die Konsole oder ein DOS-Fenster und geben
+  ein <BR>
+  <PRE>
+    glosatra intext.txt outtext.txt 
+  </PRE>
+  Ihr Text mit einer Vokabelliste wird dann in der Datei
+  <TT>outtext.txt</TT> abgelegt.  Sie k&ouml;nnen sie mit einem Editor
+  oder direkt auf dem Bildschirm lesen mit <BR>
+  <PRE>
+    more outtext.txt. 
+  </PRE>
+<LI> Mit <TT>-i</TT> erhalten Sie einen Hilfebildschirm: <BR>
+  <PRE>
+    glosatra -i
+  </PRE>
+  (Bei MS-Win/DOS k&ouml;nnen die Optionen auch mit "/" angesteuert
+  werden, also z. B. <TT>glosatra /i</TT>.)<BR>
+  <BR>
+<LI> Um in die andere Richtung, also Englisch nach Glosa, zu
+  &uuml;bersetzen, verwenden Sie bitte <TT>-e</TT>:
+  <PRE>
+    glosatra -e intext.txt outtext.txt
+  </PRE>
+<LI> Wenn Sie eine andere W&ouml;rterlistendatei verwenden wollen,
+  nehmen Sie die <TT>-d:</TT>-Option: <BR>
+  <PRE>
+    glosatra -d:meinevokliste.txt intext.txt outtext.txt
+  </PRE>
+  Sie k&ouml;nnen versuchen, von und nach anderen Sprachen mit dieser
+  Option zu &uuml;bersetzen, wenn Sie eine W&ouml;rterlistendatei
+  in einem Glosatra-lesbaren Format h&auml;tten.  Aber bedenken Sie
+  bitte, dass keine Sonderzeichen unterst&uuml;tzt werden und
+  dass es schwierig wird, &uuml;berhaupt etwas zu finden, wenn die
+  Sprachen viele Flexionen haben. <BR>
+  <BR>
+<LI> Wenn Ihre Dateien in anderen Verzeichnissen liegen, k&ouml;nnen
+  Sie das nat&uuml;rlich angeben, z. B.: <BR>
+  <PRE>
+    c:\dir1\glosatra.exe -d:c:\dir2\glen.txt c:\dir3\intext.txt c:\dir4\outtext.txt
+  </PRE>
+<LI> Glosatra ist langsam,  aber mit der <TT>-t</TT>-Option erhalten Sie
+  eine schnellere und weniger Ausgabe, die vielleicht sogar
+  &uuml;bersichtlicher ist: <BR>
+  <PRE>
+    glosatra -t intext.txt outtext.txt
+  </PRE>
+<LI> Sie k&ouml;nnen den Standardausgabekanal nutzen und die
+  Ausgabe direkt lesen oder sie in eine Datei umleiten.  Oder sie
+  w&auml;hlen auch Standardeingabe, z. B. <BR>
+  <PRE>
+    echo " ... solo pusi textu ... "|glosatra 
+  </PRE>
+  und wenden Glosatra in einer Pipe, einem Shell-Skript oder durch
+  oder innerhalb eines anderen Programms an. <BR>
+  <BR>
+<LI> Oder interaktiv: Geben Sie nach <BR>
+  <PRE>
+    glosatra
+  </PRE>
+  bzw. f&uuml;r Englisch
+  <PRE>
+    glosatra -e
+  </PRE>
+  einfach einen Text ein.  Nach jedem
+  &lt;Return&gt; erhalten Sie eine Vokabelliste.  Das Programm wird
+  dann mit &lt;Control&gt;-<TT>C</TT> beendet. <BR>
+  <BR>
+<LI> Man kann Glosatra sogar innerhalb eines Texteditors nutzen.
+  Zum Beispiel mit dem Editor <B>Emacs</B>
+    (<A HREF="http://www.gnu.org/software/emacs/emacs.html">
+    www.gnu.org/software/emacs/emacs.html</A>
+  oder
+    <A HREF="http://www.xemacs.org">
+    www.xemacs.org</A>): <BR>
+  Laden Sie Ihren Text in den Speicher mit "<TT>emacs intext.txt</TT>",
+  markieren Sie den Block, den Sie &uuml;bersetzen wollen mit
+  &lt;Control&gt;-&lt;Space&gt; und den Cursortasten.  Dann tippen
+  Sie ein "&lt;Alt&gt;-<TT>x shell-command-on-region</TT>
+  &lt;Return&gt;", und nach dem Prompt "<TT>:</TT>" dann
+  "<TT>glosatra</TT>".
+  Glosatras Ausgabe wird dann in einem neuen Fenster dargestellt.
+  Mit "&lt;Alt&gt;-<TT>1</TT>" vor "&lt;Alt&gt;-x
+  <TT>shell-command-on-region: glosatra</TT>" wird der markierte Text
+  durch Glosatras Ausgabe ersetzt.
+</UL>
+<BR>
+
+<H3>Beispiel einer Ausgabe:</H3>
+
+<P> Nach </P>
+<PRE>
+  echo "Nu tu pote uti tu puta-me te cerka plu verba. " | glosatra 
+</PRE>
+<P> erhalten Sie: </P>
+<PRE>
+
+GLOSATRA, u pusi programa te auxi translati Glosa.  Optio -i pro info.
+
+"Nu tu pote uti tu puta-me te cerka plu verba. "
+------------------------------
+nu 1++           now; present; present {now}; present {tense}; up-to-date
+tu 1++           you {singular}; your {singular}; thou
+pote 1++         able; can; capable; may
+uti 1++          use; employ; treatment; useful
+tu 1++           you {singular}; your {singular}; thou
+puta 1++         calculate; compute; idea; reckon; think; thought; trim {v}
+me[-] {short affix form of mekani} 1++  device; mechanism
+puta-me 1++      computer
+puta-me sporta 1  computer game
+te {short form of tende} 1+  aim; deliberate; in order to; intend; intention; intentional; object {purpose}; purpose; tend; tendency
+te[-] {short affix form of textili} 1+  cloth; fabric; textile
+cerka 1++        grope; quest; look for; search; seek
+plu 1++          s[-] {plural sign}; more than one; plural; some
+verba 1++        word
+==============================
+</PRE>
+<BR>
+
+<H3>&Auml;hnliche Programme</H3>
+
+<P> Vorbild f&uuml;r Glosatra war ein Programm von Charles Ganson
+(Oktober 1999), das leider nicht mehr im Internet verf&uuml;gbar zu
+sein scheint. 
+<!-- Link tot, entfernt 2006-11-04 
+  <A HREF="http://catty.com/~catty/lang/dict.cgi">
+-->
+</P>
+
+<P> Ein weiteres Programm ist 
+  <A HREF="http://www.eikepreuss.de/glosa/glosaread.shtml">Glosaread</A>,
+geschrieben von 
+  <A HREF="http://www.eikepreuss.de">Eike Preu&szlig;</A>, November
+2005. 
+Es unterst&uuml;tzt Maus und GUI-Fenster und l&auml;uft unter
+MS-Windows und Linux. </P> 
+
+<P> &bdquo;Ernobe&rdquo; schrieb 
+  <A HREF="http://www.costarricense.cr/pagina/ernobe/proglosa.htm">
+  Programme</A> 
+in der 
+  <A HREF="http://www.cs.arizona.edu/icon/">Icon-Sprache</A>, 
+November 2006. </P> 
+<BR>
+
+
+<H3>Fehlerreport an den Autor</H3>
+
+<P> Wenn Sie eine Textdatei haben, die das Programm zum Absturz bringt,
+senden Sie sie mir bitte unter 
+  <IMG src="../pic/emailm.png" border="0" 
+  alt="[E-mail-Adresse als PNG-Grafik]" width="47"
+  height="20">glosa.org.  
+Ich w&uuml;rde mich freuen, wenn Sie mir mitteilen, wenn Sie
+Glosatra mit anderen Sprachen oder auf anderen Rechnersystemen
+anwenden.  Bitte schreiben Sie keine Beschwerden &uuml;ber meinen
+Programmierstil oder &uuml;ber den Funktionsumfang.  Danke f&uuml;r
+Ihren Besuch auf dieser Seite. </P>
+<BR>
+
+<P ALIGN="Right">Ma&#114;&#99;e&#108; &#83;p&#114;&#105;nger,
+  <A HREF="../index.html">www.glosa.org</A>,
+2002-08-07 ...&nbsp;2013-02-27 </P>
+<BR>
+<BR>
+</BODY>
+</HTML>
+
