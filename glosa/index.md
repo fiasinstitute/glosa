@@ -6,7 +6,7 @@ published: true
 
 
 
-**Place lekto info in** [Glosa](/gl/), [English](/en/), [Deutsch](/dt/) alo *brevi info* in [Castellano](brevi/espanjol), [Français](/brevi/francais), [Italiano](brevi/italiano), [Magyar](/brevi/magyar), [Nederlands](brevi/nederlands) alo [Ruski](brevi/ruski).
+**Place lekto info in** [Glosa](gl/), [English](en/), [Deutsch](dt/) alo *brevi info* in [Castellano (Español)](brevi/espanjol), [Français](brevi/francais), [Italiano](brevi/italiano), [Magyar](brevi/magyar), [Nederlands](brevi/nederlands) alo [Ruski](brevi/ruski).
 
 ## Glosa es un internatio auxi-lingua.
 
