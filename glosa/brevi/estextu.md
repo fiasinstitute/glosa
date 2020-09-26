@@ -1,14 +1,8 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-   "http://www.w3.org/TR/html4/loose.dtd">
-<HTML>
-<HEAD>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
-<TITLE> Glosa-Espa&ntilde;ol paraleli textu </TITLE>
-<LINK rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-</HEAD>
-<BODY BGCOLOR="White" TEXT="Black" LINK="Blue">
-<!-- original URL was www.glosa.org/brevi/estextu.htm -->
-
+---
+title:  Glosa-Espa&ntilde;ol paraleli textu 
+layout: post
+published: true
+---
 <TABLE BORDER="0" WIDTH="100%" CELLSPACING="0" CELLPADDING="0">
 <COLGROUP><COL WIDTH="45%"><COL WIDTH="10%"><COL WIDTH="45%"></COLGROUP>
 
@@ -823,5 +817,4 @@
 <P ALIGN=Right>
   <A HREF="../index.html">www.glosa.org</A>,
 2004-02-28&nbsp;... 2004-05-09</P>
-</BODY>
-</HTML>
+
