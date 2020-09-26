@@ -81,7 +81,7 @@ published: true
 <BR>
 
 <P><I><FONT Color="Green">
-  [U titula-pagina monstra uno exempla de Glosa-verba ko mu Español 
+  [U titula-pagina monstra uno exempla de Glosa-verba ko mu EspaÃ±ol 
   kognati-verba.  Tu pote vide mu 
     <A HREF="esintra.htm#exempla">infra.</A>]
 
@@ -1487,8 +1487,8 @@ f&aacute;cilmente. </P>
 
 <P><I><FONT Color="Green">
   Un ur-bibli monstra ci epi pagina&nbsp;14 mero de kapitula&nbsp;28
-  de bibli "El sombrero de tres picos" ex P. A. de Alarcón, 1874.  U
-  textu habe bi paraleli kolumna Español e Glosa.  Id es in inter-reti a
+  de bibli "El sombrero de tres picos" ex P. A. de AlarcÃ³n, 1874.  U
+  textu habe bi paraleli kolumna EspaÃ±ol e Glosa.  Id es in inter-reti a
     <A HREF="estextu.htm#sombrero">
     http://www.glosa.org/brevi/estextu.htm#sombrero</A>.] 
 
