@@ -1,3 +1,8 @@
+---
+title: Un internatio auxi-lingua Glosa
+layout: post
+published: true
+---
 
 
 
