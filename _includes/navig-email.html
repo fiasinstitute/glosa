@@ -1,4 +1,4 @@
 <div class="PageNavigation"><p style="display:flow-root;">
-        {% if page.prevInTime != 0 %}<a id="prev" class="prev" href="{{ page.prevInTime }}_raw" style="float:left;">&laquo; Previous in Glosalist</a>{% endif %}
-        {% if page.nextInTime != 0 %}<a id="next" class="next" href="{{ page.nextInTime }}_raw" style="float:right;">Next in Glosalist &raquo;</a>{% endif %}
+        {% if page.prevInTime != 0 %}<span><a id="prev" class="prev" href="{{ page.prevInTime }}_raw" style="float:left;">&laquo; Previous in Glosalist</a><br><span style="font-size:small;font-family:sans-serif;">Shortcut: arrow key ← on your keyboard</span></span>{% endif %}
+        {% if page.nextInTime != 0 %}<span><a id="next" class="next" href="{{ page.nextInTime }}_raw" style="float:right;">Next in Glosalist &raquo;</a><br><span style="font-size:small;font-family:sans-serif;">Shortcut: arrow key → on your keyboard</span></span>{% endif %}
 </p></div>
