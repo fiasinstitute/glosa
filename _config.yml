@@ -10,7 +10,7 @@ collections:
     output: true
 baseurl:
 maininstitutesite: https://fias.fr/projects/glosa-language
-author: Committee on language planning, FIAS. Coordination: Vergara & Hardy, PhDs.
+author: "Committee on language planning, FIAS. Coordination: Vergara & Hardy, PhDs."
 simple_search: http://google.com/search
 markdown: kramdown
 permalink: "/articles/:short_year/:title"
