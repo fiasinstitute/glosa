@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% include navig-email.html %}
+
+<h1>{{ page.title }}</h1>
+
+{% include navig-email-subject.html %}
+
+<p class="subtitle"><span style="font-family:sans-serif">{{ page.authorName }}</span> <span style="font-size:smaller;color:teal;">({{ page.from }})</span> on <span style="font-family:sans-serif">{{ page.postDate | date: "%B %-d, %Y" }}</span></p>
+
+<span class="internal">{{ content }}</span>
+
+{% include navig-email-subject.html %}
+
+{% include navig-email.html %}
+

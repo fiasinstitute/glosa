@@ -1,0 +1,30 @@
+{% assign pages=site.pages | sort: 'date' %}
+
+{% if pages.size > 1 %}
+{% assign prevurl = pages.last.url %}
+{% assign prevname = pages.last.title %}
+{% assign nexturl = pages.first.url %}
+{% assign nextname = pages.first.title %}
+{% endif %}
+
+{% for links in pages %}
+{% if links.title == page.title %}
+  {% unless forloop.first %}
+    {% assign prevurl = prev.url %}
+    {% assign prevname = prev.title %}
+  {% endunless %}
+  {% unless forloop.last %}
+    {% assign next = pages[forloop.index] %}
+    {% assign nexturl = next.url %}
+    {% assign nextname = next.title %}
+  {% endunless %}
+{% endif %}
+{% assign prev = links %}
+{% endfor %}
+
+<div class="PageNavigation"><p style="display:flow-root;">
+      {% if pages.size > 1 %}
+        {% if prevurl %}<a class="prev" href="{{prevurl}}" style="float:left;">&laquo; {{ prevname  | truncate: 20 }}</a>{% endif %}
+        {% if nexturl %}<a class="next" href="{{nexturl}}" style="float:right;">{{ nextname  | truncate: 20 }} &raquo;</a>{% endif %}
+      {% endif %}
+</p></div>
