@@ -6,7 +6,7 @@ layout: page
 {%- assign postsByYear = site.pages | where: "layout", "email" | sort: "postDate" | group_by_exp:"email", "email.postDate | date: '%B %Y'"  -%}
 {%- assign YearLinks = site.pages | where: "layout", "email" | sort: "postDate" | group_by_exp:"email", "email.postDate | date: '%Y'"  -%}
 Fast links: {% for year in YearLinks | sort  %}<a href="#{{ year.name }}">{{ year.name }}</a>&ensp;
-{%- endfor -%}
+{%- endfor -%} — [Links and files](/glosalist/glosalist)
 
 {% for year in postsByYear | sort  %}
 <h2 id="{{ year.name | slice: -4,4 }}">{{ year.name }}</h2>
