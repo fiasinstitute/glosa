@@ -2,6 +2,7 @@
 title: Glosa, een internationale Hulptaal
 layout: post
 published: true
+author: Frans Medaer
 ---
 
 ## Glosa, korte informatie in het Nederlands

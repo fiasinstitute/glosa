@@ -2,6 +2,7 @@
 title: Glosa, egy nemzetközi segédnyelv
 layout: post
 published: true
+author: Géza Jeszenszky
 ---
 
 ## Glosa, short information in Hungarian 

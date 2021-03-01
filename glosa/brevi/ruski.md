@@ -2,6 +2,7 @@
 title: Глоса, международный вспомогательный язык
 layout: post
 published: true
+author: Михаил Адигеев
 ---
 
 ## Brevi info in Ruski
