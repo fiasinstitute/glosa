@@ -3,6 +3,7 @@ title: Glosa, egy nemzetközi segédnyelv
 layout: post
 published: true
 author: Géza Jeszenszky
+date: 2001-05-28
 ---
 
 ## Glosa, short information in Hungarian 
@@ -87,5 +88,3 @@ Néhány példa:
 |France-lingua|francia (nyelv)|
 
 További információért, anyagért, szövegekért vagy a Glosa szótárért keresse fel az angol, német vagy glosa honlapot.
-
-> Géza Jeszenszky, 2001-05-28 ... 2008-01-01)_

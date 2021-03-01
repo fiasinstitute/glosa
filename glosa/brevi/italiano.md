@@ -3,6 +3,7 @@ title: Glosa, una lingua ausiliaria internazionale
 layout: post
 published: true
 author: Carmelo Mico
+date: 2004-06-30
 ---
 
 ## Glosa, una breve informazione 
@@ -96,5 +97,3 @@ Alcuni esempi:
 
 
 Visiti per favore il sito inglese, tedesco, o glosa per ulteriori informazioni, materiale, testi oppure i dizionari.
-
-> Carmelo Mico, 2004 ... 2008-01-01

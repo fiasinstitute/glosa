@@ -3,6 +3,8 @@ title: Glosa, een internationale Hulptaal
 layout: post
 published: true
 author: Frans Medaer
+authorsite: http://www.eenbeterewereld.be
+date: 2004-02-28
 ---
 
 ## Glosa, korte informatie in het Nederlands
@@ -101,5 +103,3 @@ Voorbeelden:
 |France-lingua|Frans (taal)|
 
 Gelieve a.u.b. de Engelse, Duitse of Glosa site te bezoeken voor verdere informatie, materiaal, teksten, links.
-
-> [Frans Medaer](http://www.eenbeterewereld.be), 2004-02-28 ... 2008-01-01
