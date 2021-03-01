@@ -356,87 +356,25 @@ le moins de travail **u mini ergo**
 
 ### 18 termes génériques
 
-Générique
-
-Signifie
-
-Exemple glosa     
-
-Français
-
-    **\-bo, boteka**
-
-boutique **pani-bo**
-
-boulangerie **\-bo-pe**
-
-commerçant      **pani-bo-pe**
-
-boulanger, -ere **\-do, domi**
-
-maison **agri-do**
-
-ferme (maison) **\-fa, faski**
-
-faisceau **flori-fa**
-
-bouquet **\-fi, filamenta**
-
-filament **kupra-fi**
-
-fil de cuivre **\-ka, kamera**
-
-chambre **kuko-ka**
-
-cuisine **\-li, lito**
-
-pierre **lamina-li**
-
-ardoise **\-lo, loka**
-
-lieu **panto-lo**
-
-partout **\-ma, materia**
-
-matière **geo-ma**
-
-minéral **\-me, mekani**
-
-mécanisme **grafo-me**
-
-machine à ecrire **\-mo, mobili**
-
-meuble **grafo-mo**
-
-bureau **\-pe, persona**
-
-personne **navi-pe**
-
-marin **\-ra** (real)
-
-chose **bio-ra**
-
-organisme vivant **\-ru, instrumenta** 
-
-outil **fora-ru**
-
-forêt **\-te, textili**
-
-étoffe **nasi-te**
-
-mouchoir **\-va, vasa**
-
-récipient, vase      **soma-va**
-
-bain **\-ve, vesti**
-
-vêtement **pedi-ve**
-
-chaussure **\-zo, zona**
-
-zone **meso-zo**
-
-ceinture
+|Générique|Signifie|Exemple glosa|Français|
+|**\-bo, boteka**|boutique|**pani-bo**|boulangerie|
+| **\-bo-pe**|commerçant|**pani-bo-pe**|boulanger, -ere|
+|**\-do, domi**|maison|**agri-do**|ferme (maison)|
+|**\-fa, faski**|faisceau|**flori-fa**|bouquet|
+| **\-fi, filamenta**|filament|**kupra-fi**|fil de cuivre|
+|**\-ka, kamera**|chambre| **kuko-ka**|cuisine|
+| **\-li, lito**|pierre| **lamina-li**|ardoise|
+| **\-lo, loka**|lieu|**panto-lo**|partout|
+| **\-ma, materia**|matière| **geo-ma**|minéral|
+| **\-me, mekani**|mécanisme| **grafo-me**|machine à ecrire|
+| **\-mo, mobili**|meuble| **grafo-mo**|bureau|
+| **\-pe, persona**|personne| **navi-pe**|marin|
+| **\-ra** (real)|chose| **bio-ra**|organisme vivant|
+| **\-ru, instrumenta** |outil| **fora-ru**|forêt|
+| **\-te, textili**|étoffe| **nasi-te**|mouchoir|
+| **\-va, vasa**|récipient, vase| **soma-va**|bain|
+| **\-ve, vesti**|vêtement| **pedi-ve**|chaussure|
+| **\-zo, zona**|zone| **meso-zo**|ceinture|
 
   
   
