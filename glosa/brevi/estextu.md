@@ -4,15 +4,13 @@ layout: post
 date: 2004-05-09
 ---
 
-# Glosa-Español, texto en paralelo
-*De Glosa — U kefa-ve ko tri akro — Psalmus 23 — U Logika*
+*Textos en paralelo*
 
-*Del Glosa — El sombrero de tres picos — Salmo 23 — La razón*
-
+## De Glosa
+*Del Glosa*
 
 | *Glosa* | *Español* |
 |---|---|
-| <h2>De Glosa</h2> | <h2>Del Glosa</h2> |
 | *Ge-bali ad Glosalist ex Igor Wasilewski, 2004. Ge-translati ad-in Glosa ex Mario Montijo.* | *Original de Igor Wasilewski, 2004, enviado al grupo "Glosalista"; traducción de Mario Montijo* |
 | *Glosa es u fo idio lingua intra u grega de ge-face lingua. Tem pleisto mu habe un aglutina alo inflekti morfo, Glosa habe kompleti "isola" morfo. Id es klu interese, qo-ka panto IAL-krea-pe pa more krea un aglutina alo inflekti morfo, sed proxi zero-tem un "isola" morfo. Plu solo excepti es Glosa e oligo hetero projekti.* | Glosa es un lenguaje muy específico entre el universo de lenguajes planificados. Mientras que la mayoría de estos lenguajes tienen estructuras aglutinantes o de inflexiónes, Glosa tiene una estructura completamente "aislante". Es incluso interesante el por qué todos los creadores de lenguajes artificiales acostumbran hacerlos con estructuras aglutinantes o de inflexiones. Únicas excepciones son Glosa y algunos otros proyectos. |
 | *Glosa, homo u Zhung Kuo-lingua alo Viet Nam-lingua es ge-face de plu verba; qi monstra plu idea. Singu verba in Glosa monstra ge-lisi idea minus ali precise de qe id es u nima-verba, akti-verba, deskribe-verba alo adverba. Nu u buta es; loka plu-ci verba ko kura in u frase te forma u logika e klari expresi.* | Glosa, como el chino o el vietnamese están hechos de palabras que muestran ideas. Cada palabra en Glosa muestra una idea aislada sin precisar si es un sustantivo, verbo, adjetivo o adverbio. La cuestión está en ubicar las palabras con cuidado en el enunciado para formar una expresión lógica y clara. |
@@ -24,7 +22,8 @@ date: 2004-05-09
 | *vice "petitio", "qestio" alo "adi"; qi sio pote es plus nima-verba.* | -en vez de petitio (pedir), qestio (cuestionar) o adi (incluir), que pueden ser también nombres (petición, cuestión, inclusión). |
 | *Glosa es u facili lingua, anti-co mi doxo; id es veri importa de stru u frase ko kura te evita plu ambi-sensi. Si na volu; un audi-pe alo lekto-pe logi id ko korekti, u dice-pe alo grafo-pe nece memo de u korekti e klari verba-taxo.* | Glosa es un lenguaje fácil, sin embrago, es importante estructurar los enunciados con cuidado para evitar ambigüedades. Si se quiere que un oyente o un lector comprenda con correción, el hablante o el que escribe debe recordar el órden correcto y claro de las palabras. |
 
-| <h2>U kefa-ve ko tri akro</h2> | <h2>El sombrero de tres picos</h2> |
+## U kefa-ve ko tri akro
+*El sombrero de tres picos*
 | Kapitula 28 de "El sombrero de tres picos" ex Pedro Antonio de Alarcón, 1874. Ex bibli "Español Glosa 1000" ex Richard Burrows, Wendy Ashby e Ron Clark, © GEO, Richmond UK 1992, pagina 14) | (Cápitulo 28 de "El Sombrero de tres Picos", de Pedro Antonio de Alarcón, 1874. Del libro "Español Glosa 1000" de Richard Burrows, Wendy Ashby y Ron Clark, © GEO, Richmond UK 1992, página 14) |
 | Ave Maria Purisima! Mo bi e semi horo, e u qietu noktu!" | ¡Ave María Purísima! ¡Las doce y media y sereno! |
 | U noktu-guarda; qi pa nece voci u-ci dia plu via de urba; pa du akti u-ci, kron u gina de mila-pe e u Korregidor, epi asini de mila-pe, Senor Juan Lopez epi auto mula, e bi gresi polica-an, veni a porta de Korregidora domi. | Así gritaba por las calles de la cuidad quien tenía facultades para tanto, cuando la Molinera y el Corregidor, cada cual en una de las burras del molino, el señor Juan López en su mula, y los dos alguaciles andando, llegaron a la puerta del Corregimiento. |
@@ -61,7 +60,9 @@ date: 2004-05-09
 | | La señá Frasquita, apartada de aquel laberinto, lloraba por la primera vez de su vida... |
 | | -¡Lucas! ¡Lucas!- decía. -¡Y has podido dudar de mí! ¡Y has podido estrechar en tus brazos a otra! ¡Ah! ¡Nuestra desventura no tiene ya remedio! |
 
-| <h2>Psalmus 23</h2> | <h2>Salmo 23</h2> |
+## Psalmus 23
+*Salmo 23*
+
 | (Ex bibli "Español Glosa 1000" ex Richard Burrows, Wendy Ashby e Ron Clark, Richmond UK © 1992, pagina 15.) | (Del libro "Español Glosa 1000" de Richard Burrows, Wendy Ashby y Ron Clark, Richmond UK © 1992, página 15.) |
 | U Teo es mi pastora. Mi ne fu fam. | Jehová es mi pastor; nada me faltará. |
 | An don a mi u kli in kloro agri. | En lugares de delicados pastos me hará descansar; |
@@ -76,7 +77,9 @@ date: 2004-05-09
 | Sura, agata e pardo fu seqe mi panto di de vita; | Ciertamente el bien y la misericordia me seguirán todos los días de mi vida, |
 | E mi fu eko in domi de Teo holo tem. | Y en la casa de Jehová moraré por largos días. |
 
-| <h2>U Logika</h2> | <h2>La razón</h2> |
+## U Logika
+*La razón*
+
 | (Ex plu ge-medita-ra de Tao-filosofi. Ge-bali ad Glosalist 2004. Glosa translati ex Mario Montijo.) | (De "meditaciones taoistas". Enviado al grupo "Glosalista" 2004; traducción de Mario Montijo) |
 | U paleo sofi-pe pa ambula ko tri de an stude-pe in un horti de an viki. | Un anciano sabio se paseaba con tres de sus discípulos en el jardín de su pueblo. |
 | Du vide u vermi; qi pa vora u vegeta, mo ex plu stude-pe pa cide id per an pedi. | Viendo un limaco que devora una lechuga el primer discípulo lo aplasta con el pie. |
