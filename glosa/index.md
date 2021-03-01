@@ -7,15 +7,9 @@ published: true
 Glosa es un internatio auxi-lingua.
 
 **Place lekto info in**
- - [Glosa](gl/),
- - [English](en/),
- - [Deutsch](dt/)
-alo *brevi info* in 
- - [Castellano (Español)](brevi/espanjol),
- - [Français](brevi/francais),
- - [Italiano](brevi/italiano),
- - [Magyar](brevi/magyar),
- - [Nederlands](brevi/nederlands) alo
- - [Ruski](brevi/ruski).
+ - [Glosa](gl/) — [English](en/) — [Deutsch](dt/)
 
-> Proto de pagina pa es 1996. Ultima muta pa es 2018-10-11 (Marcel Springer).
+**alo brevi info** in
+ - [Castellano (Español)](brevi/espanjol) ­— [Français](brevi/francais) — [Italiano](brevi/italiano) — [Magyar](brevi/magyar) — [Nederlands](brevi/nederlands) — [Ruski](brevi/ruski).
+
+> Proto de pagina pa es 1996. Ultima muta pa es 2018-10-11.

@@ -1,28 +1,14 @@
 ---
-title:  Glosa, short information in Russian 
+title: Глоса, международный вспомогательный язык
 layout: post
 published: true
 ---
 
+## Brevi info in Ruski ![[ruski insignia]](../pic/flagruski.png)
 
- Glosa, short information in Russian 
-
-[![[Glosa-logo]](../pic/logo0707.png)](../index.html)
-
-(Brevi info in Ruski ![[ruski insignia]](../pic/flagruski.png))
-
+### Glosa, short information in Russian 
   
-
-# ГЛОСА,  
-международный вспомогательный язык
-
-(Краткая информация, переведенная на русский Михаилом Адигеевым, 2001)
-
-Пожалуйста нажмите [здесь](ru18s.htm) для "18 шагов к беглости в ЕВРО-ГЛОСА" на русский.  
-Пожалуйста нажмите [здесь](rugram.htm) для "ГРАММАТИКА" (draft by Robin Gaskell, на русский).
-
-  
-  
+### Краткое описание по-русски
 
 Существует множество проектов международных вспомогательных языков, но Глоса - наиболее развитый из изолирующих вспомогательных языков. Этот язык был разработан Рональдом Кларком (Ronald Clark) и Венди Эшби (Wendy Ashby), и основан на языке Interglosa (1943 г.) Ланселота Хогбена (Lancelot Hogben).
 
@@ -37,80 +23,80 @@ published: true
 
 ## Принципы Глосы
 
-Несколько примеров:
+Примеры:
 
-u feli                     Кот
-plu feli; poli feli        Коты; много котов
-tri feli                   Три кота
-u feli tri                 Третий кот
-u-ci feli; u-la feli       Этот кот; тот кот
-plu-ci feli, plu-la feli   Эти коты; те коты
-Fe ki ad urba.             Она идет в город.
-Fe nu ki ad urba.          Он (прямо сейчас) идет в город.
-Fe fu ki ad urba.          Она пойдет в город.
-Fe pa ki ad urba.          Она ходила в город.
-Fe pa du ki ad urba.       Она шла в город.
-Fe fu du ki ad urba.       Она будет идти в город.
-Fe nu pa ki ad urba.       Она только что пришла в город.
-Fe nu fu ki ad urba.       Она вот-вот пойдет в город.
-Fe pa more ki ad urba.     Она обычно ходила в город.
-Fe ne sio ki ad urba.      Ей не следует идти в город.
-Lase na ki ad urba.        Пойдем в город.
-Lase fe ki ad urba.        Пусть она сходит в город.
-Si fe ki ad urba, ...      Если она пойдет в город, ...
-Fe sio ki ad urba, ...     Ей следует сходить в город, ...
-Qe fe ki ad urba?          Она идет в город?
-Qe tu pote ki ad urba?     Вы можете сходить в город?
-Qo acide?                  Что происходит?
-Tu pa vide qo-pe?          Кого ты увидел(а)?
-Qo-ka fe pa ki ad urba?    Почему она ходила в город?
-Fe fu posi ki ad urba.     Она могла бы пойти в город.
-gene u feli                приобрести кота
-ge-lose feli               потерянный кот
-Id frakti; id pa frakti.   Он/она/оно разбивается; он/она/оно разбилось.
-Id pa gene frakti.         Он/она/оно разбилось.
-Id es ge-frakti.           Он/она/оно разбито.
-lave se                    мыться
-Mi auto pa vide id.        Я сам видел это.
-ma; maxi                   более, наимболее
-mei; mini                  менее; наименее
-u andro; qi ...            Мужчина, который ...
-u feli; qi ...             Кот, которы ...
-                           (Противоположности с NO-:)
-gravi; no-gravi            тяжелый; легкий
-                           (Отрицания с NE-:)
-frigi; ne-frigi            холодный; не холодный (не обязательно горячий)
-Tu feno sani.              Ты хорошо выглядишь.
-An feno no-sani.           Он выглядит больным.
-Tu pa gene nati di okto,   Ты родился(родилась) восьмого мая.
-  meno pento.
-Mi gene sko de Deutsch.    Я изучаю немецкий.
-Fe sti fobo mi.            Она пугает меня.
-Na nece sti logi u demo.   Мы должны сделать так, чтобы люди поняли.
-Fe habe dek anua.          Ей десять лет.
-An nima es George.         Его зовут Джордж.
-Place.  Gratia.  Penite.   Пожалуйста.  Спасибо.  Извините.
-Qo-lo tu eko?              Где ты живешь?
-Qo es tu eko-lo?           ...
-Qe tu gene sko de Glosa?   Ты изучаешь Глосу?
-retro tri meno             Три месяца назад
-iso mega de                такой же большой, как и / большой, как
-di-mo                      воскресенье
-di-bi                      понедельник
-Qo horo?  Id es pen horo.  Который час?  Пять часов.
-Nona minuta po tri horo    3 часа 9 минут
-bi-pen minuta pre six horo без 25 минут 6
-Na pa ki a Roma tem        Мы ездили в Рим в марте.
-  meno tri.
-medika-pe                  врач
-medika-fe                  женщина-врач
-medika-an                  мужчина-врач
-France-lingua              французский язык
+|u feli| Кот|
+|plu feli; poli feli|Коты; много котов|
+|tri feli| Три кота|
+|u feli tri| Третий кот|
+|u-ci feli; u-la feli| Этот кот; тот кот|
+|plu-ci feli, plu-la feli| Эти коты; те коты|
+|Fe ki ad urba.| Она идет в город.|
+|Fe nu ki ad urba.|Он (прямо сейчас) идет в город.|
+|Fe fu ki ad urba.|Она пойдет в город.|
+|Fe pa ki ad urba.|Она ходила в город.|
+|Fe pa du ki ad urba.| Она шла в город.|
+|Fe fu du ki ad urba.| Она будет идти в город.|
+|Fe nu pa ki ad urba.| Она только что пришла в город.|
+|Fe nu fu ki ad urba.| Она вот-вот пойдет в город.|
+|Fe pa more ki ad urba.| Она обычно ходила в город.|
+|Fe ne sio ki ad urba.|Ей не следует идти в город.|
+|Lase na ki ad urba.|Пойдем в город.|
+|Lase fe ki ad urba.|Пусть она сходит в город.|
+|Si fe ki ad urba, ...|Если она пойдет в город, ...|
+|Fe sio ki ad urba, ...| Ей следует сходить в город, ...|
+|Qe fe ki ad urba?|Она идет в город?|
+|Qe tu pote ki ad urba?| Вы можете сходить в город?|
+|Qo acide?|Что происходит?|
+|Tu pa vide qo-pe?|Кого ты увидел(а)?|
+|Qo-ka fe pa ki ad urba?|Почему она ходила в город?|
+|Fe fu posi ki ad urba.| Она могла бы пойти в город.|
+|gene u feli|приобрести кота|
+|ge-lose feli| потерянный кот|
+|Id frakti; id pa frakti.| Он/она/оно разбивается; он/она/оно разбилось.|
+|Id pa gene frakti.| Он/она/оно разбилось.|
+|Id es ge-frakti.| Он/она/оно разбито.|
+|lave se|мыться|
+|Mi auto pa vide id.|Я сам видел это.|
+|ma; maxi| более, наимболее|
+|mei; mini|менее; наименее|
+|u andro; qi ...|Мужчина, который ...|
+|u feli; qi ...| Кот, которы ...|
+|| (Противоположности с NO-:)|
+|gravi; no-gravi|тяжелый; легкий|
+|| (Отрицания с NE-:)|
+|frigi; ne-frigi|холодный; не холодный (не обязательно горячий)|
+|Tu feno sani.|Ты хорошо выглядишь.|
+|An feno no-sani.| Он выглядит больным.|
+|Tu pa gene nati di okto,| Ты родился(родилась) восьмого мая.|
+||meno pento.|
+|Mi gene sko de Deutsch.|Я изучаю немецкий.|
+|Fe sti fobo mi.|Она пугает меня.|
+|Na nece sti logi u demo.| Мы должны сделать так, чтобы люди поняли.|
+|Fe habe dek anua.|Ей десять лет.|
+|An nima es George.| Его зовут Джордж.|
+|Place.|Gratia.|Penite.| Пожалуйста.|Спасибо.|Извините.|
+|Qo-lo tu eko?|Где ты живешь?|
+|Qo es tu eko-lo?| ...|
+|Qe tu gene sko de Glosa?| Ты изучаешь Глосу?|
+|retro tri meno| Три месяца назад|
+|iso mega de|такой же большой, как и / большой, как|
+|di-mo|воскресенье|
+|di-bi|понедельник|
+|Qo horo?|Id es pen horo.|Который час?|Пять часов.|
+|Nona minuta po tri horo|3 часа 9 минут|
+|bi-pen minuta pre six horo без 25 минут 6|
+|Na pa ki a Roma tem|Мы ездили в Рим в марте.|
+||meno tri.|
+|medika-pe|врач|
+|medika-fe|женщина-врач|
+|medika-an|мужчина-врач|
+|France-lingua|французский язык|
 
-(Это только краткое описание. Более полную информацию, а также материалы, таксты, ссылки и словари Глосы можно найти на страницах [английском](../en/index.html) и [немецком](../dt/index.html) языках и на [Глосе](../gl/index.html). Вернуться в [начало](../index.html) ... )
+Более полная информация и материалы находятся на следующих страницах: пока только на  [английском](../en/index.html), [немецком](../dt/index.html) языках и [глосе](../gl/index.html).
 
-  
+На русском языке доступны:
+ - ["18 шагов к беглости в ЕВРО-ГЛОСА"](ru18s.htm)
+ - ["Грамматика ГЛОСЫ"](rugram.htm) — *Robin Gaskell*, draft.
 
-* * *
-
-[www.glosa.org](../index.html), 2004 ... 2008-01-01
+>  Перевёл Михаил Адигеев в 2001.
