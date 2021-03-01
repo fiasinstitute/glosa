@@ -27,11 +27,11 @@ Uit "The Glosa Basic Reference" (door Ron Clark en Wendy Ashby, 1994):
 
 Voorbeelden:
 
-|u feli| Een kat,|de kat|
-|plu feli; poli feli|Katten;|veel katten|
+|u feli| Een kat, de kat|
+|plu feli; poli feli|Katten; veel katten|
 |tri feli| Drie katten|
 |u feli tri| De derde kat|
-|u-ci feli; u-la feli| Deze kat ;|die kat|
+|u-ci feli; u-la feli| Deze kat ; die kat|
 |plu-ci feli, plu-la feli| Deze katten ; die katten|
 |Fe ki ad urba.| Zij gaat naar de stad|
 |Fe nu ki ad urba.|Zij gaat nu (is nu aan het gaan)naar de stad.|
@@ -69,7 +69,7 @@ Voorbeelden:
 |u andro; qi ...|De man die...|
 |u feli; qi ...| De kat die...|
 || (Tegengestelde met NO-)|
-|gravi; no-gravi|zwaar;|licht|
+|gravi; no-gravi|zwaar; licht|
 || (Ontkenning met NE-)|
 |frigi; ne-frigi|koud; niet koud (niet noodzakelijk heet)|
 |Tu feno sani.|Je ziet er goed uit.|
@@ -81,7 +81,7 @@ Voorbeelden:
 |Na nece sti logi u demo.| We moeten de mensen doen begrijpen|
 |Fe habe dek anua.|Zij is tien jaar.|
 |An nima es George.| Zijn naam is George. / Hij heet George.|
-|Place.|Gratia.|Penite.| Als het u belieft (a.u.b.) Dank u. Excuseer me.|
+|Place. Gratia. Penite.| Als het u belieft (a.u.b.) Dank u. Excuseer me.|
 |Qo-lo tu eko?|Waar woon je?|
 |Qo es tu eko-lo?| ...|
 |Qe tu gene sko de Glosa?| Leer jij Glosa?|
@@ -89,7 +89,7 @@ Voorbeelden:
 |iso mega de|zo groot als|
 |di-mo|Zondag|
 |di-bi|Maandag|
-|Qo horo?|Id es pen horo.|Hoe laat is het? Het is 5 uur.|
+|Qo horo? Id es pen horo.|Hoe laat is het? Het is 5 uur.|
 |Nona minuta po tri horo|9 minuten na 3|
 |bi-pen minuta pre six horo 25 minuten voor 6|
 |Na pa ki a Roma tem|Wij gingen naar Rome in maart.|
