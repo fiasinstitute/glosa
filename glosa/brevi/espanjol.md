@@ -1,20 +1,15 @@
 ---
-title:  Glosa, breve información 
+title: Glosa, una lengua auxiliar internacional
 layout: post
 published: true
+date: 2001-05-28
+author: Carmelo Mico
 ---
 
 
+### Glosa, breve información
 
-
-
-[![[Glosa-logo]](../pic/logo0707.png)](../index.html)
-
-(Brevi info in Castellano/Español ![[Español insignia]](../pic/flagcastellano.png))
-
-  
-
-# Glosa, una lengua auxiliar internacional
+#### Brevi info in Castellano/Español
 
 Hay muchos proyectos para lenguas auxiliares internacionales, pero Glosa es la más avanzada y tiene una estructura aislante. Los realizadores son Ronald Clark y Wendy Ashby que revisaron un proyecto precedente creado por Lancelot Hogben y cuyo nombre era Interglosa (1943).
 
@@ -22,14 +17,12 @@ Hay muchos proyectos para lenguas auxiliares internacionales, pero Glosa es la m
 
 Del (extracto) "Glosa Basic Reference" (Referencia de base para Glosa, de Ron Clark y Wendy Ashby, 1994):
 
-Glosa es una lengua artificial que puede ser utilizada para comunicar entre pueblos más diferentes por cultura, estado y idiomas nacionales. Es una lengua artificial y no tiene el fin de substituir los otros idiomas. Su propósito es solamente : ser un medio de comunicación entre pueblos que hablan idiomas diferentes.
-
-Las características de Glosa son :
-
-*   Su estructura es muy simple. Es una lengua analítica que no tiene flexiones, géneros o signos diacriticos sobre las letras. Glosa tiene muchas maneras para exprimir el plural, los tiempos de los verbos, las preguntas .... etc, como el chino, el malasio, que utilizan una palabra por cada concepto, pero no tienen flexiones.
-*   Las palabras de Glosa tienen raíces latinas y griegas que son comunes a todos los más conocidos idiomas de Europa (inglés, francés, alemán, español). A través de la ciencia, la tecnología y la medicina estas raíces penetraron cada idioma. Glosa tiene un vocabulario muy amplio, pero con unos 1000 o 2000 palabras puede Ud. exprimirse en todas las situaciones.
-*   La pronunciación es muy simple y regular y cada letra tiene siempre el mismo valor.
-*   Sobre todo, Glosa es neutral, porqué no es la lengua de ningun pueblo particular. Esta lengua no pertenece a ningun pueblo y todos los pueblos pueden utilizarla sin problemas de resentimientos o de sentirse dominados por la lengua de otro pueblo. Las raíces latinas y griegas garantizan su internacionalidad.
+> Glosa es una lengua artificial que puede ser utilizada para comunicar entre pueblos más diferentes por cultura, estado y idiomas nacionales. Es una lengua artificial y no tiene el fin de substituir los otros idiomas. Su propósito es solamente : ser un medio de comunicación entre pueblos que hablan idiomas diferentes.
+> Las características de Glosa son :
+> *   Su estructura es muy simple. Es una lengua analítica que no tiene flexiones, géneros o signos diacriticos sobre las letras. Glosa tiene muchas maneras para exprimir el plural, los tiempos de los verbos, las preguntas .... etc, como el chino, el malasio, que utilizan una palabra por cada concepto, pero no tienen flexiones.
+> *   Las palabras de Glosa tienen raíces latinas y griegas que son comunes a todos los más conocidos idiomas de Europa (inglés, francés, alemán, español). A través de la ciencia, la tecnología y la medicina estas raíces penetraron cada idioma. Glosa tiene un vocabulario muy amplio, pero con unos 1000 o 2000 palabras puede Ud. exprimirse en todas las situaciones.
+> *   La pronunciación es muy simple y regular y cada letra tiene siempre el mismo valor.
+> *   Sobre todo, Glosa es neutral, porqué no es la lengua de ningun pueblo particular. Esta lengua no pertenece a ningun pueblo y todos los pueblos pueden utilizarla sin problemas de resentimientos o de sentirse dominados por la lengua de otro pueblo. Las raíces latinas y griegas garantizan su internacionalidad.
 
   
 
@@ -105,18 +98,4 @@ medika-fe                  doctora
 medika-an                  el doctor (masculino)
 France-lingua              francés
 
-Material adicional Español-Glosa:
-
-*   Algunos [textos](estextu.htm) breves Glosa-Español
-*   [Introducción](esintra.htm) a Glosa (del libro "Español Glosa 1000)
-*   los [diccionarios](../gid/index.html) Glosa
-
-Perdón, esta es sólo una breve descripción. Por favor visite el sitio [inglés](../en/index.html), [alemán](../dt/index.html), o [Glosa](../gl/index.html) para otras informaciones, materiales o textos.
-
-Muchas gracias a Carmelo Mico para su traducción.
-
-  
-
-* * *
-
-[www.glosa.org](../index.html), 2004-02-28 ... 2008-01-01
+Por favor visite el sitio inglés, alemán o glosa para otras informaciones, materiales o textos.

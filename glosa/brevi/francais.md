@@ -6,7 +6,7 @@ date: 2004-09-12
 author: Marcel Springer
 ---
 
-## Glosa, information française 
+## Glosa, information en français
 
 ### Brevi info in Français
 
@@ -476,11 +476,5 @@ Il a cassé la bouteille. **An pa frakti u botilia.**
 Elle est en train d'écrire. **Fe nu grafo.**
 
 Il vient de sortir. **An nu pa ki ex.**
-
-#### Pour en aller plus loin
-
-[Un texte exemplaire en français](frdaudet.htm).
-
-Les lexiques [glosa-français](../gid/gl1kfr.htm) et une [français-glosa](../gid/frgl1k.htm).
 
 Pour plus d'informations, matériel à apprendre et textes exemplaires additionnels, veuillez visiter les sections anglaise, allemande ou glosa du site.

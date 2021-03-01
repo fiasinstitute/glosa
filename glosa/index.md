@@ -11,9 +11,9 @@ Glosa es un internatio auxi-lingua.
 
 **alo brevi info** in
 
-[Castellano (Español)](brevi/espanjol) ­: 
+Castellano (Español): [Breve información](brevi/espanjol) ­— [Textos breves Glosa-Español](brevi/estextu.htm) — [Introducción a Glosa](brevi/esintra.htm) — [Los diccionarios](gid/index.html)
 
-— [Français](brevi/francais)
+Français: [Information en français](brevi/francais) — [Un texte exemplaire](brevi/frdaudet.htm) — Les lexiques [glosa-français](gid/gl1kfr.htm) et [français-glosa](gid/frgl1k.htm).
 
 Italiano: [Breve informazione](brevi/italiano)
 
