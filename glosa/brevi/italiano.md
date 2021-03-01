@@ -6,7 +6,7 @@ author: Carmelo Mico
 date: 2004-06-30
 ---
 
-## Glosa, una breve informazione 
+## Glosa, una breve informazione
 
 ### Brevi info in Italiano
 

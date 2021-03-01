@@ -1,33 +1,19 @@
 ---
-title:  Glosa, information française 
+title: Glosa, une langue internationale auxiliaire
 layout: post
 published: true
+date: 2004-09-12
+author: Marcel Springer
 ---
 
+## Glosa, information française 
 
-
-[![[Glosa-logo]](../pic/logo0707.png)](../index.html)
-
-(Brevi info in Français ![[Français insignia]](../pic/flagfrancais.png))
-
-  
-
-# Glosa, une langue internationale auxiliaire
+### Brevi info in Français
 
 Glosa est une langue internationale auxiliaire.
 
-En bas vous pouvez lire un texte introductif écrit par l'auteur de Glosa, Ron Clark. S'il vous plaît, cliquez [ici](frdaudet.htm) pour lire un texte exemplaire. Sur la [page d'index des dictionnaires](../gid/index.html) vous pouvez trouver aussi une petite liste [Glosa-Français](../gid/gl1kfr.htm) et une [Français-Glosa](../gid/frgl1k.htm). Pour information additionnelle, matériel à apprendre et textes exemplaires additionnels, s'il vous plaît visitez la page principale en [anglais](../en/index.html), [allemand](../dt/index.html) ou [glosa](../gl/index.html).
 
-Commentaires et critiques sont bienvenus. S'il vous plaît, écrivez en allemand, en anglais ou en glosa à ![[Cel's E-mail address as PNG-image]](../pic/emailm.png)glosa.org. Merci beaucoup à Frans Medaer ([eenbeterewereld.be](http://www.eenbeterewereld.be)), Belgique, pour son aide avec mon français.
-
-Marcel Springer, [www.glosa.org](../index.html), 2002 ... 2004
-
-* * *
-
-**Index:**  
-[Préface](francais.htm#pre) - [Prononciation](francais.htm#pro) - [Ponctuation](francais.htm#pon) - [Les nombres](francais.htm#nom) - [\-co](francais.htm#co) - [L'ordre des mots](francais.htm#ord) - [Glosa mekanika](francais.htm#mek) - [18 termes géneriques](francais.htm#18t) - [Quelques phrases](francais.htm#phr).
-
-  
+**Index:**  Préface — Prononciation — Ponctuation — Les nombres — -co — L'ordre des mots — Glosa mekanika — 18 termes géneriques — Quelques phrases
 
 ### Préface
 
@@ -71,83 +57,50 @@ Et maintenant le professeur Lancelot Hogben l'a résolu par le Glosa!
 
 Le livre "Interglossa" fit son apparition en 1943 de Pelican Books, Londres. Il était le fruit des recherches du biologiste et linguiste anglais le Professeur Lancelot Hogben.
 
-  
-  
-
 ### Prononciation
 
 Chaque lettre Glosa est prononcée.
 
 Voyelles:
 
-**a**  
+**a**  comme en pApA.
 
-comme en pApA.
+**e** bÉbÉ,
 
-**e**
+**i** lIre,
 
- - bÉbÉ,
+**o** hOmme,
 
-**i**
-
- - lIre,
-
-**o**
-
- - hOmme,
-
-**u**
-
- - tOUjOUrs.
+**u** tOUjOUrs.
 
   
 
 Consonnes:  
 Comme en français. Exceptions:
 
-**c**  
+**c** toujours comme italien ciao,
 
- - toujours comme italien ciao,
+**g** toujours comme en Garçon,
 
-**g**
+**h** comme en anglais Hat,
 
- - toujours comme en Garçon,
+**j** comme en français pIano, ratIon;
 
-**h**
+**k** toujours comme C in Camping,
 
- - comme en anglais Hat,
+**q** kw,
 
-**j**
+**r** toujours prononcé,
 
- - comme en français pIano, ratIon;
+**x** comme ks; x initial comme z en Xylophone.
 
-**k**
-
- - toujours comme C in Camping,
-
-**q**
-
- - kw,
-
-**r**
-
- - toujours prononcé,
-
-**x**
-
- - comme ks; x initial comme z en Xylophone.
-
-**y**
-
- - comme i in lIt.
+**y** comme i in lIt.
 
   
 
-Accent:  
-sur la voyelle devant la consonne ultime.
+**Accent**: sur la voyelle devant la consonne ultime.
 
-Orthographie:  
-phonétique. Il n'y a pas de consonnes doubles.
+**Orthographie**:  phonétique. Il n'y a pas de consonnes doubles.
 
   
   
@@ -170,198 +123,101 @@ Il y a deux idiosyncrasies de la ponctuation Glosa:
 
 ### Les numéraux
 
-0
+0 **ze** ou **zero**
 
-**ze** ou **zero**
+1 **mo**
 
-1
+2 **bi**
 
-**mo**
+3 **tri**
 
-2
+4 **tetra** (ou **tet**)
 
-**bi**
+5 **penta** (ou **pen**)
 
-3
+6 **sixa**
 
-**tri**
+7 **seti**
 
-4
+8 **okto** (ou **ok**)
 
-**tetra** (ou **tet**)
+9 **nona**
 
-5
+10 **deka**
 
-**penta** (ou **pen**)
+11 **mo mo**
 
-6
+12 **mo bi**
 
-**sixa**
+20 **bi ze**
 
-7
+50 **pen ze**
 
-**seti**
+100 **hekto**
 
-8
+1000 **kilo**
 
-**okto** (ou **ok**)
+1 000 000 **miliona**
 
-9
+92 **nona bi**
 
-**nona**
+10ˆ6    **deka a sixa**
 
-10
+5/8  **penta su okto**
 
-**deka**
+3,5 **tri koma penta**
 
-11
++ **plus**
 
-**mo mo**
+\- **minus**
 
-12
+x **para**
 
-**mo bi**
+\= **eqa**
 
-20
+diviser **divide**
 
-**bi ze**
+cinq livres **penta bibli**
 
-50
+le livre cinq, le cinquième livre      **u bibli penta**
 
-**pen ze**
+trois fois **tri kron**
 
-100
+Combien? **Qo numera?** (ou **Qanto?**)
 
-**hekto**
+Comptez-les! **Numera mu!**
 
-1000
+### -co
 
-**kilo**
+-co = tout ce que je viens de dire.
 
-1 000 000
+après tout **po-co**
 
-**miliona**
+et qui plus est **plus-co**
 
-92
+pareillement **homo-co**
 
-**nona bi**
+à propos **para-co**
 
-10ˆ6   
+par conséquent      **seqe-co**
 
-**deka a sixa**
+inversement **kontra-co**
 
-5/8 
+de plus **ko-co**
 
-**penta su okto**
+quand même **klu-co**
 
-3,5
+en conséquence      **akorda-co**
 
-**tri koma penta**
+autrement **hetero-co**
 
-+
+en attendant **tem-co**
 
-**plus**
+cependant **anti-co**
 
-\-
+à part cela **no-klu-co**
 
-**minus**
-
-x
-
-**para**
-
-\=
-
-**eqa**
-
-diviser
-
-**divide**
-
-cinq livres
-
-**penta bibli**
-
-le livre cinq, le cinquième livre     
-
-**u bibli penta**
-
-trois fois
-
-**tri kron**
-
-Combien?
-
-**Qo numera?** (ou **Qanto?**)
-
-Comptez-les!
-
-**Numera mu!**
-
-  
-  
-
-### \-co
-
-\-co = tout ce que je viens de dire.
-
- 
-
-après tout
-
-**po-co**
-
-et qui plus est
-
-**plus-co**
-
-pareillement
-
-**homo-co**
-
-à propos
-
-**para-co**
-
-par conséquent     
-
-**seqe-co**
-
-inversement
-
-**kontra-co**
-
-de plus
-
-**ko-co**
-
-quand même
-
-**klu-co**
-
-en conséquence     
-
-**akorda-co**
-
-autrement
-
-**hetero-co**
-
-en attendant
-
-**tem-co**
-
-cependant
-
-**anti-co**
-
-à part cela
-
-**no-klu-co**
-
-d'après
-
-**ex-co**
+d'après **ex-co**
 
   
   
@@ -385,225 +241,115 @@ Cet ordre des mots s'applique aux propositions principales et aux subordonnées.
 
   
 
-un, une, le, la
+un, une, le, la **u(n)**
 
-**u(n)**
+la maison. un oiseau **u domi. un avi**
 
-la maison. un oiseau
+pluriel **plu**
 
-**u domi. un avi**
+les livres. les chemins **plu bibli. plu via**
 
-pluriel
+être, suis etc. **es**
 
-**plu**
+je suis ... nous sommes **mi es ... na es**
 
-les livres. les chemins
+avoir, ai, etc. **habe**
 
-**plu bibli. plu via**
+j'ai ... nous avons **mi habe ... na habe**
 
-être, suis etc.
+présent, voir **vide**
 
-**es**
+je vois ... nous voyons **mi vide ... na vide**
 
-je suis ... nous sommes
+en train de **nu**
 
-**mi es ... na es**
+en train de chanter **nu kanta**
 
-avoir, ai, etc.
+PAssé **pa**
 
-**habe**
+j'ai vu etc. **mi pa vide**
 
-j'ai ... nous avons
+FUtur **fu**
 
-**mi habe ... na habe**
+je verrai etc. **mi fu vide**
 
-présent, voir
+DUratif **du**
 
-**vide**
+Elles étaient en train de lire. **Mu pa du lekto.**
 
-je vois ... nous voyons
+SI **si**
 
-**mi vide ... na vide**
+Je travaillerais si je ... **Mi sio ergo; si ...**
 
-en train de
+conditionnel **sio**
 
-**nu**
+je viens de **nu pa**
 
-en train de chanter
+Je viens de le voir. **Mi nu pa vide an.**
 
-**nu kanta**
+sur le point de **nu fu**
 
-PAssé
+sur le point de partir **nu fu ki ab**
 
-**pa**
+peut-être **posi**
 
-j'ai vu etc.
+Il viendra peut-être. **Posi an fu veni.**
 
-**mi pa vide**
+NÉgation **ne**
 
-FUtur
+Je ne le vois pas. **Mi ne vide an.**
 
-**fu**
+QuEstion **qe**
 
-je verrai etc.
+Est-ce-qu'il vient? **Qe an veni?**
 
-**mi fu vide**
+SE **se**
 
-DUratif
+Je me lave. **Mi lava se.**
 
-**du**
+l'un l'autre **alelo**
 
-Elles étaient en train de lire.
+Ils se louent l'un l'autre. **Mu lauda alelo.**
 
-**Mu pa du lekto.**
+Passif **gene**
 
-SI
+Il est conduit par ... **An gene duce per/ex ...**
 
-**si**
+particip. passé **ge** + verb     
 
-Je travaillerais si je ...
+un chef respecté **u ge-respekta cef**
 
-**Mi sio ergo; si ...**
+même **auto**
 
-conditionnel
+Je l'ai vu moi-même. **Mi auto pa vide an.**
 
-**sio**
+il faut **nece**
 
-je viens de
+Il faut travailler. **Pe nece ergo.**
 
-**nu pa**
+ce que je viens de dire      **\-co**
 
-Je viens de le voir.
+malgré cela. en conséquence      **anti-co. seqe-co**
 
-**Mi nu pa vide an.**
+aussi ... que **iso ... de** 
 
-sur le point de
+aussi grand(e) que **iso alti de**
 
-**nu fu**
+plus ... que **ma ... de** 
 
-sur le point de partir
+plus grand que ... **ma alti de**
 
-**nu fu ki ab**
+le plus **maxi**
 
-peut-être
+le plus intéressant **u maxi interese**
 
-**posi**
+moins ... que **mei ... de** 
 
-Il viendra peut-être.
+moins d'adresse que **mei tekno de ...**
 
-**Posi an fu veni.**
+le moins de **mini**
 
-NÉgation
-
-**ne**
-
-Je ne le vois pas.
-
-**Mi ne vide an.**
-
-QuEstion
-
-**qe**
-
-Est-ce-qu'il vient?
-
-**Qe an veni?**
-
-SE
-
-**se**
-
-Je me lave.
-
-**Mi lava se.**
-
-l'un l'autre
-
-**alelo**
-
-Ils se louent l'un l'autre.
-
-**Mu lauda alelo.**
-
-Passif
-
-**gene**
-
-Il est conduit par ...
-
-**An gene duce per/ex ...**
-
-particip. passé
-
-**ge** + verb     
-
-un chef respecté
-
-**u ge-respekta cef**
-
-même
-
-**auto**
-
-Je l'ai vu moi-même.
-
-**Mi auto pa vide an.**
-
-il faut
-
-**nece**
-
-Il faut travailler.
-
-**Pe nece ergo.**
-
-ce que je viens de dire     
-
-**\-co**
-
-malgré cela. en conséquence     
-
-**anti-co. seqe-co**
-
-aussi ... que
-
-**iso ... de** 
-
-aussi grand(e) que
-
-**iso alti de**
-
-plus ... que
-
-**ma ... de** 
-
-plus grand que ...
-
-**ma alti de**
-
-le plus
-
-**maxi**
-
-le plus intéressant
-
-**u maxi interese**
-
-moins ... que
-
-**mei ... de** 
-
-moins d'adresse que
-
-**mei tekno de ...**
-
-le moins de
-
-**mini**
-
-le moins de travail
-
-**u mini ergo**
+le moins de travail **u mini ergo**
 
   
   
@@ -618,149 +364,77 @@ Exemple glosa     
 
 Français
 
-   
+    **\-bo, boteka**
 
-**\-bo, boteka**
+boutique **pani-bo**
 
-boutique
+boulangerie **\-bo-pe**
 
-**pani-bo**
+commerçant      **pani-bo-pe**
 
-boulangerie
+boulanger, -ere **\-do, domi**
 
-**\-bo-pe**
+maison **agri-do**
 
-commerçant     
+ferme (maison) **\-fa, faski**
 
-**pani-bo-pe**
+faisceau **flori-fa**
 
-boulanger, -ere
+bouquet **\-fi, filamenta**
 
-**\-do, domi**
+filament **kupra-fi**
 
-maison
+fil de cuivre **\-ka, kamera**
 
-**agri-do**
+chambre **kuko-ka**
 
-ferme (maison)
+cuisine **\-li, lito**
 
-**\-fa, faski**
+pierre **lamina-li**
 
-faisceau
+ardoise **\-lo, loka**
 
-**flori-fa**
+lieu **panto-lo**
 
-bouquet
+partout **\-ma, materia**
 
-**\-fi, filamenta**
+matière **geo-ma**
 
-filament
+minéral **\-me, mekani**
 
-**kupra-fi**
+mécanisme **grafo-me**
 
-fil de cuivre
+machine à ecrire **\-mo, mobili**
 
-**\-ka, kamera**
+meuble **grafo-mo**
 
-chambre
+bureau **\-pe, persona**
 
-**kuko-ka**
+personne **navi-pe**
 
-cuisine
+marin **\-ra** (real)
 
-**\-li, lito**
+chose **bio-ra**
 
-pierre
+organisme vivant **\-ru, instrumenta** 
 
-**lamina-li**
+outil **fora-ru**
 
-ardoise
+forêt **\-te, textili**
 
-**\-lo, loka**
+étoffe **nasi-te**
 
-lieu
+mouchoir **\-va, vasa**
 
-**panto-lo**
+récipient, vase      **soma-va**
 
-partout
+bain **\-ve, vesti**
 
-**\-ma, materia**
+vêtement **pedi-ve**
 
-matière
+chaussure **\-zo, zona**
 
-**geo-ma**
-
-minéral
-
-**\-me, mekani**
-
-mécanisme
-
-**grafo-me**
-
-machine à ecrire
-
-**\-mo, mobili**
-
-meuble
-
-**grafo-mo**
-
-bureau
-
-**\-pe, persona**
-
-personne
-
-**navi-pe**
-
-marin
-
-**\-ra** (real)
-
-chose
-
-**bio-ra**
-
-organisme vivant
-
-**\-ru, instrumenta** 
-
-outil
-
-**fora-ru**
-
-forêt
-
-**\-te, textili**
-
-étoffe
-
-**nasi-te**
-
-mouchoir
-
-**\-va, vasa**
-
-récipient, vase     
-
-**soma-va**
-
-bain
-
-**\-ve, vesti**
-
-vêtement
-
-**pedi-ve**
-
-chaussure
-
-**\-zo, zona**
-
-zone
-
-**meso-zo**
+zone **meso-zo**
 
 ceinture
 
@@ -769,81 +443,44 @@ ceinture
 
 ### Quelques phrases
 
-être, suis, est, sommes, êtes, sont     
+être, suis, est, sommes, êtes, sont      **es**
 
-**es**
+Elle va à la ville. **Fe ki ad urba.**
 
-Elle va à la ville.
+Est-ce qu'elle va à la ville? **Qe fe ki ad urba?**
 
-**Fe ki ad urba.**
+J'ai deux mains. **Mi habe bi manu.**
 
-Est-ce qu'elle va à la ville?
+Il y a un oiseau sur la branche.      **Un avi epi rami.**
 
-**Qe fe ki ad urba?**
+Elle a l'air gai. **Fe feno hedo.**
 
-J'ai deux mains.
+J'ai chaud/froid. **Mi senti termo/frigi.**
 
-**Mi habe bi manu.**
+Tu as raison/tort. **Tu habe veri/no-veri.**
 
-Il y a un oiseau sur la branche.     
+Elle a soif/faim. **Fe senti dipso/fami.**
 
-**Un avi epi rami.**
+Je parle/Tu parles. **Mi/Tu dice.**
 
-Elle a l'air gai.
+Nous parlâmes. **Na pa dice.**
 
-**Fe feno hedo.**
+Je parlais/Nous parlions. **Mi/Na pa du dice.**
 
-J'ai chaud/froid.
+Il est conduit par le chien. **An gene duce ex kani.**
 
-**Mi senti termo/frigi.**
+Il a été trompé. **An pa gene falsi.**
 
-Tu as raison/tort.
+Il a cassé la bouteille. **An pa frakti u botilia.**
 
-**Tu habe veri/no-veri.**
+Elle est en train d'écrire. **Fe nu grafo.**
 
-Elle a soif/faim.
+Il vient de sortir. **An nu pa ki ex.**
 
-**Fe senti dipso/fami.**
+#### Pour en aller plus loin
 
-Je parle/Tu parles.
+[Un texte exemplaire en français](frdaudet.htm).
 
-**Mi/Tu dice.**
+Les lexiques [glosa-français](../gid/gl1kfr.htm) et une [français-glosa](../gid/frgl1k.htm).
 
-Nous parlâmes.
-
-**Na pa dice.**
-
-Je parlais/Nous parlions.
-
-**Mi/Na pa du dice.**
-
-Il est conduit par le chien.
-
-**An gene duce ex kani.**
-
-Il a été trompé.
-
-**An pa gene falsi.**
-
-Il a cassé la bouteille.
-
-**An pa frakti u botilia.**
-
-Elle est en train d'écrire.
-
-**Fe nu grafo.**
-
-Il vient de sortir.
-
-**An nu pa ki ex.**
-
-  
-  
-
-(Du livre Ashby, Wendy/ Clark, Ronald: "Français - Glosa 1000", © Glosa Education Organization, Richmond, UK, 1992. Vous pouvez acheter ce livre de Mme. Ashby, Glosa, 35 Wingfield Road; Kingston Upon Thames; Surrey KT2 5LR; Angleterre.)
-
-  
-
-* * *
-
-[www.glosa.org](../index.html) 2004 ... 2011-05-12
+Pour plus d'informations, matériel à apprendre et textes exemplaires additionnels, veuillez visiter les sections anglaise, allemande ou glosa du site.
