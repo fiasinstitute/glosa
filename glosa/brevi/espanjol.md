@@ -7,9 +7,9 @@ author: Carmelo Mico
 ---
 
 
-### Glosa, breve información
+## Glosa, breve información
 
-#### Brevi info in Castellano/Español
+### Brevi info in Castellano/Español
 
 Hay muchos proyectos para lenguas auxiliares internacionales, pero Glosa es la más avanzada y tiene una estructura aislante. Los realizadores son Ronald Clark y Wendy Ashby que revisaron un proyecto precedente creado por Lancelot Hogben y cuyo nombre era Interglosa (1943).
 
@@ -80,7 +80,7 @@ u feli| un gato, el gato|
 |Na nece sti logi u demo.| Debemos hacer que el pueblo se entienda.|
 |Fe habe dek anua.|Ella tiene diez años.|
 |An nima es George.| Su nombre es George.|
-|Place.|Gratia.|Penite.| Por favor, gracias, ¡perdone!.|
+|Place. Gratia. Penite.| Por favor, gracias, ¡perdone!.|
 |Qo-lo tu eko?|¿Dónde habitas?|
 |Qo es tu eko-lo?| ...|
 |Qe tu gene sko de Glosa?| ¿Estás estudiando Glosa?|
@@ -88,7 +88,7 @@ u feli| un gato, el gato|
 |iso mega de|tan grueso como ...|
 |di-mo|domingo|
 |di-bi|lunes|
-|Qo horo?|Id es pen horo.|¿Qué hora es?|Son las cinco.|
+|Qo horo? Id es pen horo.|¿Qué hora es? Son las cinco.|
 |Nona minuta po tri horo|Son las tres y nueve.|
 |bi-pen minuta pre six horo 25 minutos a las 6|
 |Na pa ki a Roma tem|Fuimos a Roma en el mes de marzo.|

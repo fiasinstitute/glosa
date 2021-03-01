@@ -9,7 +9,7 @@ Glosa es un internatio auxi-lingua.
 **Place lekto info in**
  - [Glosa](gl/) — [English](en/) — [Deutsch](dt/)
 
-**alo brevi info** in
+## Brevi info
 
 Castellano (Español): [Breve información](brevi/espanjol) ­— [Textos breves Glosa-Español](brevi/estextu.htm) — [Introducción a Glosa](brevi/esintra.htm) — [Los diccionarios](gid/index.html)
 
