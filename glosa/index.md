@@ -13,7 +13,9 @@ Glosa es un internatio auxi-lingua.
 
 [Castellano (Español)](brevi/espanjol) ­: 
 
-— [Français](brevi/francais) — [Italiano](brevi/italiano) — [Magyar](brevi/magyar) — [Nederlands](brevi/nederlands)
+— [Français](brevi/francais) — [Italiano](brevi/italiano) — [Magyar](brevi/magyar)
+
+In het Nederlands: [Korte informatie](brevi/nederlands)
 
 По-русски: [Краткое описание](brevi/ruski) — ["18 шагов к беглости в ЕВРО-ГЛОСА"](brevi/ru18s.htm) — ["Грамматика ГЛОСЫ"](brevi/rugram.htm).
 
