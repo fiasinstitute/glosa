@@ -2,6 +2,7 @@
 title: Un internatio auxi-lingua Glosa
 layout: post
 published: true
+date: 2018-10-11
 ---
 
 Glosa es un internatio auxi-lingua.
@@ -11,17 +12,12 @@ Glosa es un internatio auxi-lingua.
 
 ## Brevi info
 
-Castellano (Español): [Breve información](brevi/espanjol) ­— [Textos breves Glosa-Español](brevi/estextu.htm) — [Introducción a Glosa](brevi/esintra.htm) — [Los diccionarios](gid/index.html)
+English: [Short information](brevi/english) — **Español**: [Breve información](brevi/espanjol) — **Français**: [Information en français](brevi/francais) — Italiano: [Breve informazione](brevi/italiano) — Magyar: [Rövid leírás](brevi/magyar) — Nederlands: [Korte informatie](brevi/nederlands) — По-русски: [Краткое описание](brevi/ruski)
 
-Français: [Information en français](brevi/francais) — [Un texte exemplaire](brevi/frdaudet.htm) — Les lexiques [glosa-français](gid/gl1kfr.htm) et [français-glosa](gid/frgl1k.htm).
+## Alia ra
 
-Italiano: [Breve informazione](brevi/italiano)
+Castellano (Español): [Textos breves Glosa-Español](brevi/estextu.htm) — [Introducción a Glosa](brevi/esintra.htm) — [Los diccionarios](gid/index.html)
 
-Magyar: [Rövid leírás](brevi/magyar)
+Français: [Un texte exemplaire](brevi/frdaudet.htm) — Les lexiques [glosa-français](gid/gl1kfr.htm) et [français-glosa](gid/frgl1k.htm).
 
-Nederlands: [Korte informatie](brevi/nederlands)
-
-По-русски: [Краткое описание](brevi/ruski) — ["18 шагов к беглости в Евро-глоса"](brevi/ru18s.htm) — ["Грамматика глосы"](brevi/rugram.htm).
-
-
-> Proto de pagina pa es 1996. Ultima muta pa es 2018-10-11.
+По-русски: ["18 шагов к беглости в Евро-глоса"](brevi/ru18s.htm) — ["Грамматика глосы"](brevi/rugram.htm).
