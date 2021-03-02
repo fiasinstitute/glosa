@@ -12,7 +12,7 @@ Glosa es un internatio auxi-lingua.
 
 ## Brevi info
 
-English: [Short information](brevi/english) — **Español**: [Breve información](brevi/espanjol) — **Français**: [Information en français](brevi/francais) — Italiano: [Breve informazione](brevi/italiano) — Magyar: [Rövid leírás](brevi/magyar) — Nederlands: [Korte informatie](brevi/nederlands) — По-русски: [Краткое описание](brevi/ruski)
+**English**:&nbsp;[Short information](brevi/english) — **Español**:&nbsp;[Breve información](brevi/espanjol) — **Français**:&nbsp;[Information en français](brevi/francais) — **Italiano**:&nbsp;[Breve informazione](brevi/italiano) — **Magyar**:&nbsp;[Rövid leírás](brevi/magyar) — **Nederlands**:&nbsp;[Korte informatie](brevi/nederlands) — **По-русски**:&nbsp;[Краткое описание](brevi/ruski)
 
 ## Alia ra
 
