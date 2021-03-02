@@ -1,103 +1,21 @@
 ---
-title: 18 Шагов к Беглости в Евро-Глоса(русская версия)
+title: 18 Шагов к Беглости в Евро-Глоса
 layout: post
 published: true
+author: Александр Кирпичев
+date: 2012-05-28
 ---
 
+*Русская версия*
 
-<BR>
-<BR>
-<CENTER>
-<H1> 18 шагов к беглости в ЕВРО-ГЛОСА </H1>
+> Некоторые части еще не переведены на русский.
+> Этот файл - сокарщенная версия киниги "18 Steps to Fluency in Euro-Glosa, 1992, GEO".
+> Включены все примеры и правила, но полностью приведены только шаги 1—3, 5, 9, 13, 16—18.
+> Доступна [немецкая версия](../dt/g18s.htm)
 
-<P> Венди Эшби и Рональд Кларк  1985-1992,
-Перевод на русский - Александр Евгеньевич Кирпичев , HTML-версия
-Марсел Шпрингер 2001 </P>
-
-<P>
-<A HREF="ru18s.htm#S1">1</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S2">2</A>&nbsp;&ndash;  
-<A HREF="ru18s.htm#S3">3</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S4">4</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S5">5</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S6">6</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S7">7</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S8">8</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S9">9</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S10">10</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S11">11</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S12">12</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S13">13</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S14">14</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S15">15</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S16">16</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S17">17</A>&nbsp;&ndash; 
-<A HREF="ru18s.htm#S18">18</A>
-</P>
-
-</CENTER>
-<HR>
-
-<!-- ============================================================= -->
-
-<CENTER>
-<IMG src="../pic/at-work2.gif" ALT="[Under construction!]" 
-  WIDTH=38 HEIGHT=38>
-
-<P> Извините, некоторые части все еще представляют собой оригинальный
-текст на английском и еще не переведены на русский. </P>
-</CENTER>
-<HR>
-<!-- ============================================================= -->
+<P><SMALL><I> - обложка - </I></SMALL></P> 
 
 
-<H2> Вступление HTML-редактора</H2> 
-
-<P><I> Этот файл - сокарщенная версия киниги </I></P> 
-
-<BLOCKQUOTE>
-  Ashby, Wendy/ Clark, Ronald: <BR>
-  18 Steps to Fluency in Euro-Glosa, <BR>
-  The Interlanguage for Europe and the World, <BR>
-  3rd edition &copy; 1992 by Glosa Education Organizaton, <BR>
-  Richmond, UK; ISBN 0&nbsp;946540&nbsp;15&nbsp;2. 
-</BLOCKQUOTE>
-
-<P><I> Вы можете купить эту книгу у Wendy Ashby (c/o Glosa Education 
-Organization, 35 Wingfield Road; Kingston Upon Thames; Surrey KT2 5LR;
-ENGLAND).  
-Заплатив &pound;8.95 за книгу, вы поможете развитию Глосы. </I></P> 
-
-<P><I> Этот файл содержит не всю книгу и не предназначен для этого
-Хотя все примеры и правила были включены, только шаги 1, 2, 3, 5, 9, 13, 16, 17 и 18 действительно готовы.
-Glosa&nbsp;1000 словарь пропущен вы можете использовать
-  <A HREF="../gid/index.html">Glosa Internet Dictionary</A>. 
-Эта версия предназначается только как добавление к презентации Глосы в Интернете.
-Также
-  <A HREF="../dt/g18s.htm">немецкая версия</A>
-доступна. </I> 
-</P> 
-
-<P><I> Из самой этой книги и из письма от Венди Эшби я заключил, что эта книга - <U>оффициальное</U>  
-Описание Глосы. </I></P> 
-  
-<P><I>  Спасибо Венди Эшби за разрешение поместить это в сети
-и Нику Хэмпшеллу за комментарии.  
-Пожалуйста сообщайть об ошибках 
-  <IMG src="../pic/emailm.png" border="0" 
-  alt="[E-mail address as PNG-image]" width="47"
-  height="20">glosa.org.  
-Спасибо. </I></P> 
-
-<P><I> М. Шпрингер, 2001&nbsp;...&nbsp;2012 </I></P>
-<BR>
-
-<HR> 
-
-<!-- ============================================================= -->
-<CENTER><P><SMALL><I> - обложка - </I></SMALL></P></CENTER> 
-
-<CENTER>
 <TABLE BGCOLOR="Yellow" WIDTH="80%" BORDER=0>
 <TR>
 <TD ALIGN=CENTER>
@@ -131,13 +49,13 @@ GLOSA 1000 ЛЕГКО ОХВАТЫВЫЕТ ВСЕ ПРЕДМЕТЫ <BR>
 </TD>
 </TR>
 </TABLE>
-</CENTER>
+
 <BR>
 <BR>
 
 <!-- ============================================================= -->
 
-<CENTER><P><SMALL><I> - стр. 3 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 3 - </I></SMALL></P>
 
 <H2> Содержание </H2> 
 
@@ -353,7 +271,7 @@ GLOSA 1000 ЛЕГКО ОХВАТЫВЫЕТ ВСЕ ПРЕДМЕТЫ <BR>
   <TD> &nbsp;...&nbsp; стр.&nbsp;88</TD>
 </TR>
 </TABLE>
-<A NAME="S01"></A>
+<A NAME=''></A>
 <BR> 
 <BR> 
 <HR> 
@@ -361,7 +279,7 @@ GLOSA 1000 ЛЕГКО ОХВАТЫВЫЕТ ВСЕ ПРЕДМЕТЫ <BR>
 <!-- ============================================================= -->
 
 
-<CENTER><P><SMALL><I> - стр. 4 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 4 - </I></SMALL></P>
 
 <H2> Глобальный язык для глобального мира </H2> 
 
@@ -406,11 +324,11 @@ GLOSA 1000 ЛЕГКО ОХВАТЫВЫЕТ ВСЕ ПРЕДМЕТЫ <BR>
 и они скоро составят сеть яркий ассоциаций.
 Каждое слово в Глосе - это маленькое солнце, от которого подобно лучам распространяются производные
 во всех Евро-языках, включая немецкий и русский. </P> 
-<A NAME="S02"></A>
+<A NAME=''></A>
 <BR>
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 5 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 5 - </I></SMALL></P>
 
 <H2> Вступительные примечания</H2> 
 
@@ -483,7 +401,7 @@ There are plenty of examples in the book. </P>
 <BR> 
 
 <!-- ============================================================= -->
-<A NAME="S1"></A>
+<A NAME=''></A>
 <BR> 
 <BR> 
 
@@ -510,7 +428,7 @@ There are plenty of examples in the book. </P>
 </P>
 <HR> 
 
-<CENTER><P><SMALL><I> - стр. 6 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 6 - </I></SMALL></P>
 
 <H2> Шаг 1 </H2>
 
@@ -618,7 +536,7 @@ There are plenty of examples in the book. </P>
 </TABLE>
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 7 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 7 - </I></SMALL></P>
 
 <H3> Числительное </H3>
 
@@ -710,7 +628,7 @@ There are plenty of examples in the book. </P>
 <BR>
 <BR>
  
-<CENTER><P><SMALL><I> - стр. 8 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 8 - </I></SMALL></P>
 
 <P><I>Задание 1 </I></P>
 
@@ -760,10 +678,10 @@ There are plenty of examples in the book. </P>
 
 <P><U><B>Pikto-Verba</B></U></P>
 
-<CENTER>
+
 <IMG src="../pic/g18s001.gif" ALT="[crossword puzzle]" WIDTH=403
   HEIGHT=355> 
-</CENTER>
+
 <BR>
 
 <P>
@@ -862,34 +780,14 @@ dice Glosa nu-di. <BR>
 для ответа. </P>
 
 <!-- ============================================================= -->
-<A NAME="S2"></A>
+<A NAME=''></A>
 <BR> 
 <BR> 
 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
+
 <HR> 
 
-<CENTER><P><SMALL><I> - стр. 9 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 9 - </I></SMALL></P>
 
 <H2> Шаг 2 </H2>
 
@@ -999,7 +897,7 @@ kuko, e kolekti plu posta-karta.  Mi spe gene tu reakti.  Plu Saluta
 <BR>
 
 
-<CENTER><P><SMALL><I> - стр. 10 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 10 - </I></SMALL></P>
 
 <H3> Plu Profesio </H3>
 
@@ -1131,18 +1029,18 @@ kuko, e kolekti plu posta-karta.  Mi spe gene tu reakti.  Plu Saluta
 </TABLE>
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 11 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 11 - </I></SMALL></P>
 
 <P><U>Слова для обозначения мест</U></P>
 
-<CENTER>
+
 <IMG src="../pic/g18s041.gif" ALT="[diagram about the prepositions
   epi, intra, dia and peri]" WIDTH=296 HEIGHT=168>
 <IMG src="../pic/g18s042.gif" ALT="[diagram about the prepositions
   ana and kata]" WIDTH=272 HEIGHT=150>
 <IMG src="../pic/g18s043.gif" ALT="[diagram about the prepositions]"
   WIDTH=479 HEIGHT=290>
-</CENTER>
+
 
 <P> Так как слово для места всегда следует за существительным, нет
 необходимости ставить перед ним  <B>u(n)</B>, артикль. Например: </P>
@@ -1213,7 +1111,7 @@ kuko, e kolekti plu posta-karta.  Mi spe gene tu reakti.  Plu Saluta
 <BR>
 
 <!-- ============================================================= -->
-<A NAME="S3"></A>
+<A NAME=''></A>
 <BR>
 <BR>
 <P ALIGN="Center">
@@ -1239,7 +1137,7 @@ kuko, e kolekti plu posta-karta.  Mi spe gene tu reakti.  Plu Saluta
 </P>
 <HR>
 
-<CENTER><P><SMALL><I> - стр. 12 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 12 - </I></SMALL></P>
 
 <H2> Шаг 3 </H2>
 
@@ -1354,11 +1252,11 @@ kuko, e kolekti plu posta-karta.  Mi spe gene tu reakti.  Plu Saluta
 <BR>
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 13 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 13 - </I></SMALL></P>
 
 <H3> Живые вещи </H3>
 
-<CENTER>
+
 <IMG src="../pic/g18s024.gif" ALT="[horse, donkey, pig, lion]" 
   WIDTH=646 HEIGHT=162>
 <IMG src="../pic/g18s025.gif" ALT="[cow, ape, dog, cat]"
@@ -1369,12 +1267,12 @@ kuko, e kolekti plu posta-karta.  Mi spe gene tu reakti.  Plu Saluta
   butterfly, fish]" WIDTH=642 HEIGHT=237>
 <IMG src="../pic/g18s028.gif" ALT="[bird, spider, flower, worm,
   mushroom]" WIDTH=682 HEIGHT=259>
-</CENTER>
+
 <BR>
 <BR>
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 14 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 14 - </I></SMALL></P>
 
 <P><I> Упражнение 3 </I></P>
 
@@ -1478,34 +1376,9 @@ Eduka-Glosa ставит ударение, что отдельно от легк
 </P>
 <BR>
 
-<!-- ============================================================= -->
-<A NAME="S4"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 15 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 15 - </I></SMALL></P>
 
 <H2> Шаг 4 </H2>
 
@@ -1577,7 +1450,7 @@ habe u melano Felis. </B></P>
 <BR>
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 16 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 16 - </I></SMALL></P>
 
 <P><I> Задание 4 </I></P>
 
@@ -1635,7 +1508,7 @@ habe u melano Felis. </B></P>
 <I> ... [пропущено: части тела(список слов)] </I><BR> 
 </P>
 
-<CENTER><P><SMALL><I> - стр. 17 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 17 - </I></SMALL></P>
 
 <P>
 <I> ... [пропущено: кольца и вещи (список слов, слова с -zo 
@@ -1644,34 +1517,9 @@ habe u melano Felis. </B></P>
 <I> ... [пропущено: мебель (изображение с -mo словами)] </I><BR> 
 </P> 
 
-<!-- ============================================================= -->
-<A NAME="S5"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 18 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 18 - </I></SMALL></P>
 
 <H2> Шаг 5 </H2>
 
@@ -1808,7 +1656,7 @@ habe u melano Felis. </B></P>
   <TD> Привет! Пока! </TD></TR> 
 </TABLE>
 
-<CENTER><P><SMALL><I> - стр. 19 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 19 - </I></SMALL></P>
 
 <P><U>Приветствия</U></P> 
 
@@ -1886,7 +1734,7 @@ habe u melano Felis. </B></P>
   <TD VALIGN="top"> Искренне ваш </TD></TR> 
 </TABLE>
 
-<CENTER><P><SMALL><I> - стр. 20 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 20 - </I></SMALL></P>
 
 <B>puta-me</B> 
 <IMG src="../pic/g18s030.gif" ALT="[computer]" WIDTH=122 HEIGHT=138> 
@@ -1945,34 +1793,9 @@ rapidi u logi de plu Latin e Greko vokabulari. </P>
 <BR>
 <BR>
 
-<!-- ============================================================= -->
-<A NAME="S6"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 21 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 21 - </I></SMALL></P>
 
 <H2> Шаг 6 </H2>
 
@@ -2078,7 +1901,7 @@ rapidi u logi de plu Latin e Greko vokabulari. </P>
 </TABLE>
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 22 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 22 - </I></SMALL></P>
 
 <P>
 <I> ... [пропущено: Место (список с <B>-lo</B>-словами)]</I><BR>
@@ -2111,7 +1934,7 @@ zoa-histori.  Tu lekto qo plu speci bibli? </B></P>
 <BR>
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 23 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 23 - </I></SMALL></P>
 
 <P><U> Съедобные вещи </U></P>
 
@@ -2155,34 +1978,9 @@ zoa-histori.  Tu lekto qo plu speci bibli? </B></P>
 </TABLE> 
 <BR>
 
-<!-- ============================================================= -->
-<A NAME="S7"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 24 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 24 - </I></SMALL></P>
 
 <H2> Шаг 7 </H2>
 
@@ -2286,7 +2084,7 @@ zoa-histori.  Tu lekto qo plu speci bibli? </B></P>
   <TD> Ясная (четкая)/ Неясная фотография. </TD></TR> 
 </TABLE> 
 
-<CENTER><P><SMALL><I> - стр. 25 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 25 - </I></SMALL></P>
 
 <P>
 <I> ... [пропущено: NO- формы] </I><BR> 
@@ -2295,7 +2093,7 @@ zoa-histori.  Tu lekto qo plu speci bibli? </B></P>
 <I> ... [пропущено: Одежда ( <B>te-</B> )] </I>
 </P> 
 
-<CENTER><P><SMALL><I> - стр. 26 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 26 - </I></SMALL></P>
 
 <P><U>Путешествия</U></P> 
 
@@ -2303,7 +2101,7 @@ zoa-histori.  Tu lekto qo plu speci bibli? </B></P>
 <I> ... [пропущено: Путешествия 4 рис. со словами] </I>
 </P> 
 
-<CENTER><P><SMALL><I> - стр. 27 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 27 - </I></SMALL></P>
 
 <P>Путешествия - <U>Несколько фраз</U></P> 
 
@@ -2405,34 +2203,9 @@ zoa-histori.  Tu lekto qo plu speci bibli? </B></P>
 </TABLE>
 
 
-<!-- ============================================================= -->
-<A NAME="S8"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 28 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 28 - </I></SMALL></P>
 
 <H2> Шаг 8 </H2>
 
@@ -2541,7 +2314,7 @@ zoa-histori.  Tu lekto qo plu speci bibli? </B></P>
   <TD>  Как часто ты учишь Глосу? </TD></TR> 
 </TABLE>
 
-<CENTER><P><SMALL><I> - стр. 29 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 29 - </I></SMALL></P>
 
 <P><U>The House</U></P> 
 
@@ -2549,7 +2322,7 @@ zoa-histori.  Tu lekto qo plu speci bibli? </B></P>
 <I> ... [пропущено: The House - picture with words] </I>
 </P> 
 
-<CENTER><P><SMALL><I> - стр. 30 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 30 - </I></SMALL></P>
 
 <P> Дом - <U>Несколько фраз</U></P> 
 
@@ -2639,34 +2412,9 @@ u-ci grama; ka id es un horo de ki a sko-do. </B></P>
 <P><B> Andrew </B></P>
 <BR>
 
-<!-- ============================================================= -->
-<A NAME="S9"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 31 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 31 - </I></SMALL></P>
 
 <H2> Шаг 9 </H2>
 
@@ -2782,13 +2530,13 @@ u-ci grama; ka id es un horo de ki a sko-do. </B></P>
 </TABLE>
 <BR> 
 
-<CENTER><P><SMALL><I> - стр. 32 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 32 - </I></SMALL></P>
 
 <P><U>Уличная сцена</U></P> 
 
-<CENTER>
+
 <IMG src="../pic/g18s032.gif" ALT="[a street]" WIDTH=792 HEIGHT=512>
-</CENTER>
+
 <BR>
 
 <P><B> U-ci es u strata-vista.  U longi rekti rota via 
@@ -2845,7 +2593,7 @@ es u trena </B><I>(46)</I><B>; e poste panto-ci es plu
 tele-buna </B><I>(47)</I><B>.</B> </P> 
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 33 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 33 - </I></SMALL></P>
 
 <P><U>Psalm 23</U></P> 
 
@@ -2928,34 +2676,9 @@ tele-buna </B><I>(47)</I><B>.</B> </P>
 
 </PRE>
 
-<!-- ============================================================= -->
-<A NAME="S10"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 34 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 34 - </I></SMALL></P>
 
 <H2> Шаг 10 </H2>
 
@@ -3050,7 +2773,7 @@ tele-buna </B><I>(47)</I><B>.</B> </P>
   <TD> Что значит это слово? </TD></TR> 
 </TABLE> 
 
-<CENTER><P><SMALL><I> - стр. 35 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 35 - </I></SMALL></P>
 
 <P><U>больница</U></P> 
 
@@ -3059,7 +2782,7 @@ tele-buna </B><I>(47)</I><B>.</B> </P>
 <I> ... [пропущено: word list to the hospital scene picture] </I><BR>
 </P> 
 
-<CENTER><P><SMALL><I> - стр. 36 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 36 - </I></SMALL></P>
 
 <P>Больница -  <U>Несколько Фраз</U></P> 
 
@@ -3142,34 +2865,9 @@ lingua. </B></P>
 <P><B> Irene </B></P> 
 <BR>
 
-<!-- ============================================================= -->
-<A NAME="S11"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 37 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 37 - </I></SMALL></P>
 
 <H2> Шаг 11 </H2>
 
@@ -3284,7 +2982,7 @@ lingua. </B></P>
 </TABLE> 
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 38 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 38 - </I></SMALL></P>
 
 <P><U>Коммуникации</U></P> 
 
@@ -3293,7 +2991,7 @@ lingua. </B></P>
 <I> ... [пропущено: word list to the picture] </I><BR>
 </P> 
 
-<CENTER><P><SMALL><I> - стр. 39 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 39 - </I></SMALL></P>
 
 <P>Коммуникации-  <U>Несколько фраз</U></P> 
 
@@ -3373,34 +3071,9 @@ lingua. </B></P>
 </TABLE> 
 <BR>
 
-<!-- ============================================================= -->
-<A NAME="S12"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 40 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 40 - </I></SMALL></P>
 
 <H2> Шаг 12 </H2>
 
@@ -3494,7 +3167,7 @@ lingua. </B></P>
 </TABLE> 
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 41 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 41 - </I></SMALL></P>
 
 <P><U>Tools</U></P> 
 
@@ -3503,7 +3176,7 @@ lingua. </B></P>
 <I> ... [пропущено: word list to the picture] </I><BR>
 </P> 
 
-<CENTER><P><SMALL><I> - стр. 42 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 42 - </I></SMALL></P>
 
 <P>Инструменты -  <U>Несколько фраз</U></P> 
 
@@ -3603,34 +3276,9 @@ plu hetero landa. </B></P>
 <P><B> Andrew </B></P> 
 <BR>
 
-<!-- ============================================================= -->
-<A NAME="S13"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 43 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 43 - </I></SMALL></P>
 
 <H2> Шаг 13 </H2>
 
@@ -3775,14 +3423,14 @@ plu hetero landa. </B></P>
 </TABLE> 
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 44 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 44 - </I></SMALL></P>
 
 <P><U>Post Office</U></P> 
 
-<CENTER>
+
 <IMG src="../pic/g18s033.gif" ALT="[in post office]" WIDTH=780
   HEIGHT=524> 
-</CENTER>
+
 <BR>
 
 <I>(Note: on the sign <B>KLUDE</B> would be better than
@@ -3850,7 +3498,7 @@ plu hetero landa. </B></P>
 
 </PRE> 
 
-<CENTER><P><SMALL><I> - стр. 45 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 45 - </I></SMALL></P>
 
 <P>Post Office -  <U>A Few Phrases</U></P> 
 
@@ -3887,10 +3535,10 @@ plu hetero landa. </B></P>
 
 <P><U><B>Kruci-Verba</B></U></P>
 
-<CENTER>
+
 <IMG src="../pic/g18s034.gif" ALT="[crossword puzzle]" WIDTH=250
   HEIGHT=253> 
-</CENTER>
+
 <BR>
 
 <P><U><B>KATA</B>:</U> 
@@ -3929,34 +3577,9 @@ plu hetero landa. </B></P>
   <A HREF="ru18s.htm#Key2">here</A> 
 for solution. </P> 
 
-<!-- ============================================================= -->
-<A NAME="S14"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 46 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 46 - </I></SMALL></P>
 
 <H2> Шаг 14 </H2>
 
@@ -4056,7 +3679,7 @@ for solution. </P>
 <TR><TD><B> Id es no-gravi.&nbsp; </B></TD><TD> It is trivial. </TD></TR> 
 </TABLE>
 
-<CENTER><P><SMALL><I> - стр. 47 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 47 - </I></SMALL></P>
 
 <P><U>Camping</U></P> 
 
@@ -4065,7 +3688,7 @@ for solution. </P>
 <I> ... [пропущено: word list to the picture] </I><BR>
 </P> 
 
-<CENTER><P><SMALL><I> - стр. 48 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 48 - </I></SMALL></P>
 
 <P>Camping - <U>A Few Phrases</U></P> 
 
@@ -4143,34 +3766,9 @@ interese, e fu don a tu mega hedo. </B></P>
 <P><B> Irene </B></P> 
 
 
-<!-- ============================================================= -->
-<A NAME="S15"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 49 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 49 - </I></SMALL></P>
 
 <H2> Шаг 15 </H2>
 
@@ -4243,7 +3841,7 @@ beginning of the relative clause: <BR>
 &nbsp;&nbsp;<B>Un andro; mi pa vide [qi]; akti ... </B>)</I>
 </P> 
 
-<CENTER><P><SMALL><I> - стр. 50 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 50 - </I></SMALL></P>
 
 <P><U>Apiculture</U></P> 
 
@@ -4252,7 +3850,7 @@ beginning of the relative clause: <BR>
 <I> ... [пропущено: word list to the picture] </I><BR>
 </P> 
 
-<CENTER><P><SMALL><I> - стр. 51 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 51 - </I></SMALL></P>
 
 <P>Apiculture - <U>A Few Phrases</U></P> 
 
@@ -4362,34 +3960,9 @@ beginning of the relative clause: <BR>
   <TD> She is their only child. </TD></TR> 
 </TABLE>
 
-<!-- ============================================================= -->
-<A NAME="S16"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 52 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 52 - </I></SMALL></P>
 
 <H2> Шаг 16 </H2>
 
@@ -4515,7 +4088,7 @@ beginning of the relative clause: <BR>
 <BR>
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 53, 54 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 53, 54 - </I></SMALL></P>
 
 <P><U><B>Tri Andro in Navi</B></U></P>
 
@@ -4634,34 +4207,9 @@ and as it sank we hurled our curses at it, and we got into the boat and
 rowed away from the spot, and never paused until we reached Maidenhead.
 </P>  
 
-<!-- ============================================================= -->
-<A NAME="S17"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 55 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 55 - </I></SMALL></P>
 
 <H2> Шаг 17 </H2>
 
@@ -4710,7 +4258,7 @@ rowed away from the spot, and never paused until we reached Maidenhead.
 
 <P><U>A Postcard</U></P>
 
-<CENTER>
+
 <TABLE BORDER="2" WIDTH="70%" CELLSPACING="0" CELLPADDING="10"
   BGCOLOR="#FEFEAC">
 <COLGROUP><COL WIDTH="50%"><COL WIDTH="50%"></COLGROUP>
@@ -4739,7 +4287,7 @@ kali fotografi. </B></P>
 </TD>
 </TR>
 </TABLE>
-</CENTER>
+
 <BR>
 <BR>
 <BR>
@@ -4792,7 +4340,7 @@ kali fotografi. </B></P>
 </TABLE> 
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 56, 57 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 56, 57 - </I></SMALL></P>
 
 <P><U>Shakespeare</U></P> 
 
@@ -4894,34 +4442,9 @@ How can you say to me, I am a king? <BR>
 </P> 
 
 
-<!-- ============================================================= -->
-<A NAME="S18"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 58 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 58 - </I></SMALL></P>
 
 <H2> Шаг 18 </H2>
 
@@ -5027,7 +4550,7 @@ na pote kambio plu idea e info. </B></P>
 <P><B> ex Irene </B></P> 
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 59 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 59 - </I></SMALL></P>
 
 <P><U>Some English Idioms</U></P> 
 
@@ -5111,34 +4634,9 @@ same class.  By forcing oneself to make full use of Glosa&nbsp;1000 one
 has to keep thinking in the beginning about meanings. </P> 
 
 
-<!-- ============================================================= -->
-<A NAME="Mechanics"></A>
-<BR> 
-<BR> 
-<P ALIGN="Center">
-(К другим шагам: 
-<A HREF="ru18s.htm#S1">1</A>, 
-<A HREF="ru18s.htm#S2">2</A>, 
-<A HREF="ru18s.htm#S3">3</A>, 
-<A HREF="ru18s.htm#S4">4</A>, 
-<A HREF="ru18s.htm#S5">5</A>, 
-<A HREF="ru18s.htm#S6">6</A>, 
-<A HREF="ru18s.htm#S7">7</A>, 
-<A HREF="ru18s.htm#S8">8</A>, 
-<A HREF="ru18s.htm#S9">9</A>, 
-<A HREF="ru18s.htm#S10">10</A>, 
-<A HREF="ru18s.htm#S11">11</A>, 
-<A HREF="ru18s.htm#S12">12</A>, 
-<A HREF="ru18s.htm#S13">13</A>, 
-<A HREF="ru18s.htm#S14">14</A>, 
-<A HREF="ru18s.htm#S15">15</A>, 
-<A HREF="ru18s.htm#S16">16</A>, 
-<A HREF="ru18s.htm#S17">17</A>,  
-<A HREF="ru18s.htm#S18">18</A>)
-</P>
-<HR> 
+ 
 
-<CENTER><P><SMALL><I> - стр. 60 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 60 - </I></SMALL></P>
 
 <H2> Glosa Mechanics </H2> 
 
@@ -5177,12 +4675,9 @@ Number, Tense, Passive, Questions, Comparison, Relative Pronoun. </P>
 <B>no-         </B>   opposites       | <B> alti, non-alti </B>      tall, low
 </PRE> 
 
-<!-- ============================================================= -->
-<BR> 
-<BR> 
-<HR> 
 
-<CENTER><P><SMALL><I> - стр. 61 ... 87 - </I></SMALL></P></CENTER>
+
+<P><SMALL><I> - стр. 61 ... 87 - </I></SMALL></P>
 
 <H2> English - Glosa 1000 </H2> 
 
@@ -5204,14 +4699,14 @@ Please refer to the
 for the words.] </I></P> 
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 87 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 87 - </I></SMALL></P>
 
 <P><I> ... [пропущено: Glosa publications] </I></P> 
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 88 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 88 - </I></SMALL></P>
 
-<CENTER>
+
 <P>"The world-wide vocabulary of Science is the nearest thing to the
 lexicon of a truly global Language that mankind has yet achieved.  It
 derives its words from two dead languages - Greek and Latin." </P> 
@@ -5219,10 +4714,10 @@ derives its words from two dead languages - Greek and Latin." </P>
 <P>(Prof. Hogben in his "Vocabulary of Science") </P> 
 
 <P> Glosa is not an invention, it's a discovery. </P> 
-</CENTER> 
+ 
 <BR>
 
-<CENTER><P><SMALL><I> - стр. 89 ... 103 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 89 ... 103 - </I></SMALL></P>
 
 <H2> Glosa 1000 - English </H2> 
 
@@ -5233,7 +4728,7 @@ for the words.] </I></P>
 <BR> 
 
 <A NAME="Key1"></A>
-<CENTER><P><SMALL><I> - стр. 104 ... 107 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 104 ... 107 - </I></SMALL></P>
 
 <H3> Ответы к упражнениям </H3>
 
@@ -5280,7 +4775,7 @@ for the words.] </I></P>
 already given with the exercises's texts.] </I></P> 
 <BR> 
 
-<CENTER><P><SMALL><I> - стр. 108 - </I></SMALL></P></CENTER>
+<P><SMALL><I> - стр. 108 - </I></SMALL></P>
 
 <P><I> ... [пропущено: Glosa publications] </I></P> 
 <BR> 
@@ -5289,14 +4784,11 @@ already given with the exercises's texts.] </I></P>
 
 
 
-<!-- ============================================================= -->
-<BR> 
-<BR> 
-<HR> 
 
-<CENTER><P><SMALL><I> - cover page - </I></SMALL></P></CENTER> 
 
-<CENTER>
+<P><SMALL><I> - cover page - </I></SMALL></P> 
+
+
 <TABLE BGCOLOR="Yellow" WIDTH="80%" BORDER=0>
 <TR>
 <TD ALIGN=CENTER>
@@ -5330,7 +4822,7 @@ IT'S A DISCOVERY.</FONT> <BR>
 </TD>
 </TR>
 </TABLE>
-</CENTER>
+
 <BR>
 <BR>
 
