@@ -8,9 +8,7 @@ date: 2011-05-12
 
 *portada:*
 
-<FONT SIZE=+4> ESPAÑOL 
-
-<FONT SIZE=+6>** GLOSA 1000** 
+## ESPAÑOL GLOSA 1000
 
 *[U titula-pagina monstra uno exempla de Glosa-verba ko mu Español kognati-verba. Tu pote vide mu <A HREF="esintra.htm#exempla">infra.</A>]*
 
@@ -21,7 +19,7 @@ Escrito por Richard Burrows, MIL
 Redactado por Wendy Ashby & Ron Clark 
 
 
-<IMG src="../pic/g18s031.gif">
+
 
 Glosa Education Organisation 
 
@@ -178,64 +176,17 @@ refiere a la vida cotidiana.
 
 
 
-||||
-| **RODO  DENDRO**   
-   rosa   árbol    
-| ** AKRO  POLIS**
-cumbre  ciudad|**KLI nik**
-cama|
-||||
-|**TERMO  METRI**
-     calor  medir|**  SATIs  FACEr**
- suficiente  hacer   </TD> <TD>**kas KADE**
-caer|
-||||
-|**   DIA  METRI**
-a traves   medir|**     SKI ence**
-conocimientos|**URBA**
-ciudad|
-||||
-|**RURA**
-campo|**     TELE  SKOPE**
-distante    mirar|**AGRI cultur**
-terreno  |
-||||
-|**HORTI culture**
-jardín    |**GLOSA rio**
-lengua|**   AFRO   DITE**
-espuma  nacer|
-||||
-|**PAN  ORAMA**
-toda    **VISTA**    </TD> <TD>**DEMO  KRATI  **
-gente  gobernar|**     KALI  EIDO  SKOPE**
- hermosas  formas  mirar|
-||||
-|**TELE   FONO**
- distante  sonido|**PERI   SKOPE**
-alrededor  mirar|**AUTO BIO GRAFI**
-propia  vida  escribir|
-||||
-|**  TRI  GONO  METRI**
-tres  ángulas  medir|**  PA st**
-pasado|**  FU tur**
-futuro|
-||||
-|**DEINO  SAURUS**
- terrible   lagarto|**GINA eco LOGI**
-mujeres   comprender|**PAR     ALELO   **
-junto   uno al otro|
-||||
-|**MIKRO  SKOPE**
-pequeño   mirar|**   EPI  DERMA**
- sobre    piel|**MIRA culo**
-milagro|
-||||
-|**FILO    SOFI **
-amar  sabiduría|**  POLI  TEKNO**
- muchas  destrezas|**SEISMO    LOGI     **
-terremoto  comprender|
-||||
-
+| **RODO  DENDRO**      rosa   árbol    | ** AKRO  POLIS** cumbre  ciudad|**KLI nik** cama|
+|**TERMO  METRI**     calor  medir|**  SATIs  FACEr** suficiente  hacer   </TD> <TD>**kas KADE** caer|
+|**   DIA  METRI** a traves   medir|**     SKI ence** conocimientos|**URBA** ciudad|
+|**RURA** campo|**     TELE  SKOPE** distante    mirar|**AGRI cultur** terreno  |
+|**HORTI culture** jardín    |**GLOSA rio** lengua|**   AFRO   DITE** espuma  nacer|
+|**PAN  ORAMA** toda    **VISTA**    </TD> <TD>**DEMO  KRATI  ** gente  gobernar|**     KALI  EIDO  SKOPE**  hermosas  formas  mirar|
+|**TELE   FONO**  distante  sonido|**PERI   SKOPE** alrededor  mirar|**AUTO BIO GRAFI** propia  vida  escribir|
+|**  TRI  GONO  METRI** tres  ángulas  medir|**  PA st** pasado|**  FU tur** futuro|
+|**DEINO  SAURUS**  terrible   lagarto|**GINA eco LOGI** mujeres   comprender|**PAR     ALELO   ** junto   uno al otro|
+|**MIKRO  SKOPE** pequeño   mirar|**   EPI  DERMA**  sobre    piel|**MIRA culo** milagro|
+|**FILO    SOFI ** amar  sabiduría|**  POLI  TEKNO**  muchas  destrezas|**SEISMO    LOGI     ** terremoto  comprender|
 
 
 
@@ -631,7 +582,7 @@ tú mismo/a sabrás lo suficiente para empezar a hablar, a
 escribir, a COMUNICAR el GLOSA, el idioma internacional moderno. 
 
 ## EL  SÍMBOLO  GLOSISTA 
-<IMG src="../pic/g18s031.gif">
+
 
 
 **El símbolo representa la red mundial de las
@@ -706,7 +657,7 @@ Un ur-bibli monstra ci epi pagina 15 "Psalmus 23" in bi paraleli kolumna Espa ol
 *p. 16:*
 
 
-<IMG src="../pic/g18s031.gif">
+
 ## GLOSA  1000
 
 
@@ -804,7 +755,7 @@ U verba lista minus in u-ci dokumenta, sed tu pote detekti u ge-ergo versio de i
 
 *p. 43:*
 
-## <IMG src="../pic/g18s031.gif">GLOSA  PUBLICATIONS
+## GLOSA  PUBLICATIONS
 
 ###  <A HREF="../en/g18s.htm">18  STEPS  TO  FLUENCY  IN  EURO-GLOSA</A>
 
