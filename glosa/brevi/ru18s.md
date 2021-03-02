@@ -1359,7 +1359,7 @@ kuko, e kolekti plu posta-karta.  Mi spe gene tu reakti.  Plu Saluta
 <BR>
 <BR>
 
-<P><U>Plu Glosa Nota</U>, ISSN&nbsp;0265-6892: Этот журнал держит тех,
+<P><U>Plu Glosa Nota</U>, Этот журнал держит тех,
 кто говорит на Глосе в контакте друг с другом, дает детали о
 публикациях, событиях и прогрессе Глосы. <BR>
 Статьи: лингвистика, наука, техника, образование, проблемы и
@@ -1368,8 +1368,8 @@ kuko, e kolekti plu posta-karta.  Mi spe gene tu reakti.  Plu Saluta
 PGN помогает беглости в Глосе и подходит одинаково для начинающи и
 продвинутых. </P>
 
-<P><U>Eduka-Glosa</U>, ISSN&nbsp;0959-8251: Официальный журнал Glosa
-Education Organisation (GEO) Registered Charity Number&nbsp;298237. <BR>
+<P><U>Eduka-Glosa</U>, Официальный журнал Glosa
+Education Organisation (GEO). <BR>
 Eduka-Glosa ставит ударение, что отдельно от легкости и аккуратности в
 междуродном общении Глоса делает большой вклад в образование, дает
 значения тысячам научных и технических терминов и многим евро-словарям.
@@ -4798,14 +4798,6 @@ already given with the exercises's texts.] </I></P>
 ТРЕТЬЕГО МИРА, СОХРАНЕНИЯ </FONT><BR>
 
 
-<BR>
-<BR>
-<BR>
-<IMG src="../pic/g18s044.gif" ALT="[diagram with Glosa-logo]"
-  WIDTH=476 HEIGHT=518>
-<BR>
-<BR>
-<BR>
 
 <P>"Мировой научный словарный запас - это самая близкая вещь
 к лексикону действительного Глобального Языка, который человечество уже достигло. Он берет свои слова из
@@ -4817,7 +4809,6 @@ already given with the exercises's texts.] </I></P>
 <FONT SIZE="+2">GLOSA IS NOT AN INVENTION <BR> 
 IT'S A DISCOVERY.</FONT> <BR>
 <BR>
-<DIV ALIGN=RIGHT>ISBN 0 946540 15 2&nbsp;&nbsp;&nbsp;</DIV><BR>
 <BR>
 </TD>
 </TR>
