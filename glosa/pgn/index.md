@@ -42,7 +42,8 @@ There are also some complete, scanned issues as PDF-file available.</td></tr>
 Plu holo, ge-skana numero (pdf):
 
 
-[19](pgn019.pdf) [21](pgn021.pdf) [27](pgn027.pdf) [29](pgn029.pdf) [30](pgn030.pdf) [37](pgn037.pdf) [41](pgn041.pdf) [42](pgn042.pdf) [43](pgn043.pdf) [45](pgn045.pdf) [46](pgn046.pdf) [47](pgn047.pdf) [48](pgn048.pdf) [49](pgn049.pdf) [50](pgn050.pdf) [51](pgn051.pdf) [52](pgn052.pdf) [53](pgn053.pdf) [54](pgn054.pdf) [55](pgn055.pdf) [56](pgn056.pdf) [57](pgn057.pdf) [58](pgn058.pdf) [59](pgn059.pdf) [60](pgn060.pdf) [61](pgn061.pdf) [62](pgn062.pdf) [63](pgn063.pdf) [64](pgn064.pdf) [65](pgn065.pdf) [66](pgn066.pdf) [67](pgn067.pdf) [68](pgn068.pdf) [69](pgn069.pdf) [70](pgn070.pdf) [71](pgn071.pdf) [80](pgn080.pdf)
+[19](pgn019.pdf) [21](pgn021.pdf) [27](pgn027.pdf) [29](pgn029.pdf) [30](pgn030.pdf) [37](pgn037.pdf) [41](pgn041.pdf) [42](pgn042.pdf) [43](pgn043.pdf) [45](pgn045.pdf) [46](pgn046.pdf) [47](pgn047.pdf) [48](pgn048.pdf) [49](pgn049.pdf) [50](pgn050.pdf) [51](pgn051.pdf) [52](pgn052.pdf) [53](pgn053.pdf) [54](pgn054.pdf) [55](pgn055.pdf) [56](pgn056.pdf) [57](pgn057.pdf) [58](pgn058.pdf) [59](pgn059.pdf) [60](pgn060.pdf) [61](pgn061.pdf) [62](pgn062.pdf) [63](pgn063.pdf) [64](pgn064.pdf) [65](pgn065.pdf) [66](pgn066.pdf) [67](pgn067.pdf) [68](pgn068.pdf) [69](pgn069.pdf) [70](pgn070.pdf) [71](pgn071.pdf) [80](pgn080.pdf) [97](pgn097.pdf).
+  
 
   
 
@@ -132,23 +133,9 @@ Plu holo, ge-skana numero (pdf):
 [U Logika](pgn089.htm#logika) (brevi stori de Tao-filosofi)  
 [Enigma Pagina](pgn089.htm#enigma)  
 
-90:
 
-[Enigma Pagina](../pic/pgn090_enigm.png) (png-pikto-dokumenta)  
 
-91:
+Plu enigma pagina (png):
 
-[Enigma Pagina](../pic/pgn091_enigm.png) (png-pikto-dokumenta)  
 
-92:
-
-[Enigma Pagina](../pic/pgn092_enigm.png) (png-pikto-dokumenta)  
-
-93:
-
-[Enigma Pagina](../pic/pgn093_enigm.png) (png-pikto-dokumenta)  
-
-[97](pgn097.pdf "(PGN97)"):
-
-holo, ge-skana [PGN 97](pgn097.pdf "(PGN97)") (PDF-dokumenta, 1.1 MB)
-  
+[90](../pic/pgn090_enigm.png) (png-pikto-dokumenta)  [91](../pic/pgn091_enigm.png) (png-pikto-dokumenta)   [92](../pic/pgn092_enigm.png) (png-pikto-dokumenta)   [93](../pic/pgn093_enigm.png) (png-pikto-dokumenta)
