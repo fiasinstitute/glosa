@@ -23,9 +23,9 @@ Glosa es un internatio auxi-lingua.
 
 Brevi info in plu hetero lingua 
 
- - [Cefa-pagina in Glosa](../gl/index.html)
- - [Mainpage in English](../en/index.html)
- - [Hauptseite auf Deutsch](../dt/index.html)
+ - [Cefa-pagina in Glosa](gl/index.html)
+ - [Mainpage in English](en/index.html)
+ - [Hauptseite auf Deutsch](dt/index.html)
 
 
 
