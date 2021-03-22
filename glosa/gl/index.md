@@ -4,69 +4,12 @@ layout: post
 published: true
 ---
 
+[Sko- e textu-materia](index_materia.html)
 
-+-----------------------------------+----------------------------------:+
-| [![\[Glosa-logo\]](../pic/logo070 |   ------------------------------- |
-| 7.png){width="235"                | --------------------------------- |
-| height="100"}](../index.html)     | --------------------------------- |
-|                                   | ---------------- ---------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --- ----------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | -----------                       |
-|                                   |       [ ![Glosa info in Glosa](.. |
-|                                   | /pic/flagglosa.png){width="17" he |
-|                                   | ight="17"} Glosa  ]{style="white- |
-|                                   | space:nowrap"}      [ [![Glosa in |
-|                                   | formation in English](../pic/flag |
-|                                   | english.png){width="25" height="1 |
-|                                   | 2"} English](../en/index.html "Gl |
-|                                   | osa information in English"){.lei |
-|                                   | ste} ]{style="white-space:nowrap" |
-|                                   | }       [ [![Glosa-Info in Deutsc |
-|                                   | h](../pic/flagdeutsch.png){width= |
-|                                   | "25" height="12"} Deutsch](../dt/ |
-|                                   | index.html "Glosa-Info Deutsch"){ |
-|                                   | .leiste}     ]{style="white-space |
-|                                   | :nowrap"}                         |
-|                                   |   ------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | ---------------- ---------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --- ----------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | --------------------------------- |
-|                                   | -----------                       |
-+-----------------------------------+-----------------------------------+
+[Plu nexu](index_nexu.html)
 
- 
+[Plu verba](../gid/index_gl.html)
 
-  ----------------- ------------------------------------------------------ ---------------------------------------- ---------------------------------------------
-   U lingua Glosa    [Sko- e textu-materia](index_materia.html){.leiste}    [Plu nexu](index_nexu.html){.leiste}     [Plu verba](../gid/index_gl.html){.leiste} 
-  ----------------- ------------------------------------------------------ ---------------------------------------- ---------------------------------------------
-
- 
-
- 
-
-\
-
-U lingua Glosa
-==============
 
 Glosa es un internatio auxi-lingua (alo *auxlang*); qi pa gene face ex
 Lancelot Hogben (ko nima *Interglossa*, GB, 1943), Ronald Clark e Wendy
@@ -110,15 +53,3 @@ alfabeti minus uno speciali litera alo uno diplo litera.
 de tu auxi difusi Glosa - tu puta-me pagina es fo stimula! Id sti memo
 mi de u proto-tem mi pa vide Glosa - id es ta facili e habe mega pote
 pro munda paci e kon-ergo. \...".]{.small}
-
-Marcel Springer, [www.glosa.org](../index.html), 2007-07-09
-.. 2018-06-18.
-
-(Elektroni-grama-adresa: ![\[Cel E-grama adresa homo
-PNG-imagi\]](../pic/emailm.png){width="47" height="20"}glosa.org. Place
-bali solo simpli \"Plain ASCII\" grama de tema Glosa minus ali
-inklude-ra. Gratia. - [Idio domi-pagina ko
-in-presa](http://www.mspringer.de), ne fo neo
-[statistiki/reti-numera](../en/wcount.htm).)
-
- 
