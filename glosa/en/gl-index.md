@@ -4,13 +4,6 @@ layout: post
 published: true
 ---
 
-[Sko- e textu-materia](index_materia.html)
-
-[Plu nexu](index_nexu.html)
-
-[Plu verba](../gid/index_gl.html)
-
-
 Glosa es un internatio auxi-lingua (alo *auxlang*); qi pa gene face ex
 Lancelot Hogben (ko nima *Interglossa*, GB, 1943), Ronald Clark e Wendy
 Ashby (GB, 1972-1992). Plu auxlang es artificiali lingua; qi debi auxi
