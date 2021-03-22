@@ -5,9 +5,21 @@ published: true
 date: 2018-10-11
 ---
 
-Glosa es un internatio auxi-lingua.
+
+## Glosa es un internatio auxi-lingua.
+
+Place lekto info in:
+
+### [Cefa-pagina in Glosa](gl/)
+
+### [Mainpage in English](en/)
+
+### [Hauptseite auf Deutsch](dt/)
+
 
 ## Brevi info
+
+Brevi info in plu hetero lingua:
 
 |**English**| [Short information](brevi/english)|
 |**Español**| [Breve información](brevi/espanjol)|
@@ -16,17 +28,6 @@ Glosa es un internatio auxi-lingua.
 |**Magyar**| [Rövid leírás](brevi/magyar)|
 |**Nederlands**| [Korte informatie](brevi/nederlands)|
 |**По-русски**| [Краткое описание](brevi/ruski)|
-
-
-**Place lekto info in**
- - [Glosa](gl/) — [English](en/) — [Deutsch](dt/)
-
-Brevi info in plu hetero lingua 
-
- - [Cefa-pagina in Glosa](gl/index.html)
- - [Mainpage in English](en/index.html)
- - [Hauptseite auf Deutsch](dt/index.html)
-
 
 
 ## Alia ra
