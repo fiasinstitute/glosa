@@ -5,8 +5,6 @@ published: true
 date: 2018-10-11
 ---  
   
-<span id="start"></span>
-
 
 
 -----

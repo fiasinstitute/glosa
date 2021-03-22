@@ -5,26 +5,6 @@ published: true
 date: 2018-10-11
 ---
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><a href="../index.html"><img src="../pic/logo0707.png" width="235" height="100" alt="[Glosa-logo]" /></a></td>
-<td style="text-align: right;"><table>
-<tbody>
-<tr class="odd">
-<td>    <span style="white-space:nowrap"> <a href="../gl/index_nexu.html" class="leiste" title="Glosa info in Glosa"><img src="../pic/flagglosa.png" width="17" height="17" alt="Glosa info in Glosa" /> Glosa</a> </span></td>
-<td>    <span style="white-space:nowrap"> <a href="../en/index_nexu.html" class="leiste" title="Glosa information in English"><img src="../pic/flagenglish.png" width="25" height="12" alt="Glosa information in English" /> English</a> </span>   </td>
-<td>  <span style="white-space:nowrap"> <img src="../pic/flagdeutsch.png" width="25" height="12" alt="Glosa-Info in Deutsch" /> Deutsch     </span></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
 
  
 
