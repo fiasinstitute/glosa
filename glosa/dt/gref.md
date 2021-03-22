@@ -1,239 +1,209 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-   "http://www.w3.org/TR/html4/loose.dtd">
-<HTML>
-<HEAD>
-<TITLE>Grundwissen Glosa</TITLE>
-<LINK href="../pic/icon.png" rel="icon" type="image/png">
-</HEAD>
-<BODY>
-<!-- original URL was http://www.glosa.org/dt/gref.htm -->
+---
+title: Grundwissen GLOSA
+layout: post
+published: true
+date: 2018-10-11
+---  
 
-<CENTER>
-<BR>
-<H1>Grundwissen GLOSA</H1>
 
-<B>COPYRIGHT</B> 1994, 1996 Glosa Education Organization;<BR>
-W. Ashby, R. Clark (AutorInnen)<BR>
-P. O. Bartlett (Internetbearbeitung, 1996)<BR>
-M. &#83;p&#114;&#105;nger (HTML-Erg&auml;nzung, deutsche 
-&Uuml;bertragung, 2000)<BR>
-Letzte &Auml;nderung 2011-12-05. <BR>
-</CENTER>
+**COPYRIGHT** 1994, 1996 Glosa Education Organization;  
+W. Ashby, R. Clark (AutorInnen)  
+P. O. Bartlett (Internetbearbeitung, 1996)  
+M. Springer (HTML-Ergänzung, deutsche Übertragung, 2000)  
+Letzte Änderung 2011-12-05.  
 
-<HR>
-<!-- ============================================================== -->
-<H2>Inhalt</H2>
+-----
 
-<UL>
-<LI> <A HREF="gref.htm#Org">Glosa Education Organization</A>
-<LI> <A HREF="gref.htm#Char">Glosa-Charakteristik</A>
-<LI> <A HREF="gref.htm#Rules">Einige Regeln</A>
-<LI> <A HREF="gref.htm#Mechanics">Glosa-Mechanik (Musters&auml;tze)</A>
-<LI> <A HREF="gref.htm#Examples">Weitere Beispiele</A>
-<LI> <A HREF="gref.htm#VocGE">Vokabular Glosa-Deutsch</A>:
-       <A HREF="gref.htm#gea">a</A> <A HREF="gref.htm#geb">b</A> <A HREF="gref.htm#gec">c</A>
-       <A HREF="gref.htm#ged">d</A> <A HREF="gref.htm#gee">e</A> <A HREF="gref.htm#gef">f</A>
-       <A HREF="gref.htm#geg">g</A> <A HREF="gref.htm#geh">h</A> <A HREF="gref.htm#gei">i</A>
-       <A HREF="gref.htm#gej">j</A> <A HREF="gref.htm#gek">k</A> <A HREF="gref.htm#gel">l</A>
-       <A HREF="gref.htm#gem">m</A> <A HREF="gref.htm#gen">n</A> <A HREF="gref.htm#geo">o</A>
-       <A HREF="gref.htm#gep">p</A> <A HREF="gref.htm#geq">q</A> <A HREF="gref.htm#ger">r</A>
-       <A HREF="gref.htm#ges">s</A> <A HREF="gref.htm#get">t</A> <A HREF="gref.htm#geu">u</A>
-       <A HREF="gref.htm#gev">v</A> <A HREF="gref.htm#gew">w</A> <A HREF="gref.htm#gex">x</A>
-       <A HREF="gref.htm#gey">y</A> <A HREF="gref.htm#gez">z</A> 
-<LI> <A HREF="gref.htm#VocEG">Vokabular Deutsch-Glosa</A>:
-       <A HREF="gref.htm#ega">a</A> <A HREF="gref.htm#egb">b</A> <A HREF="gref.htm#egc">c</A>
-       <A HREF="gref.htm#egd">d</A> <A HREF="gref.htm#ege">e</A> <A HREF="gref.htm#egf">f</A>
-       <A HREF="gref.htm#egg">g</A> <A HREF="gref.htm#egh">h</A> <A HREF="gref.htm#egi">i</A>
-       <A HREF="gref.htm#egj">j</A> <A HREF="gref.htm#egk">k</A> <A HREF="gref.htm#egl">l</A>
-       <A HREF="gref.htm#egm">m</A> <A HREF="gref.htm#egn">n</A> <A HREF="gref.htm#ego">o</A>
-       <A HREF="gref.htm#egp">p</A> <A HREF="gref.htm#egq">q</A> <A HREF="gref.htm#egr">r</A>
-       <A HREF="gref.htm#egs">s</A> <A HREF="gref.htm#egt">t</A> <A HREF="gref.htm#egu">u</A>
-       <A HREF="gref.htm#egv">v</A> <A HREF="gref.htm#egw">w</A> <A HREF="gref.htm#egx">x</A>
-       <A HREF="gref.htm#egy">y</A> <A HREF="gref.htm#egz">z</A> 
-<LI> <A HREF="gref.htm#Funct">Funktionsw&ouml;rter</A>:
-       <A HREF="gref.htm#Generics">Generische Termini</A>,
-       <A HREF="gref.htm#Pronouns">Pronomen</A>,
-       <A HREF="gref.htm#LinkWords">Bindew&ouml;rter</A>,
-       <A HREF="gref.htm#Associatives">Verh&auml;ltnisw&ouml;rter</A>,
-       <A HREF="gref.htm#Numbers">Zahlen</A>,
-       <A HREF="gref.htm#Articles">Artikel</A>,
-       <A HREF="gref.htm#Questions">Fragen</A>,
-       <A HREF="gref.htm#Negatives">Verneinungen</A>,
-       <A HREF="gref.htm#Tenses">Zeiten</A>,
-       <A HREF="gref.htm#Modals">Art und Weise</A>,
-       <A HREF="gref.htm#Verboids">Hilfsverben</A>,
-       <A HREF="gref.htm#Comparison">Vergleiche</A>,
-       <A HREF="gref.htm#When">Wann</A>,
-       <A HREF="gref.htm#Where">Wo</A>,
-       <A HREF="gref.htm#Colors">Farben</A>,
-       <A HREF="gref.htm#Greetings">Gru&szlig;formeln</A>
-</UL>
-<BR>
+## Inhalt
 
-<!-- ============================================================== -->
-<A NAME="Org"></A>
-<H2>Glosa Education Organization</H2>
+  - [Glosa Education Organization](gref.htm#Org)
+  - [Glosa-Charakteristik](gref.htm#Char)
+  - [Einige Regeln](gref.htm#Rules)
+  - [Glosa-Mechanik (Mustersätze)](gref.htm#Mechanics)
+  - [Weitere Beispiele](gref.htm#Examples)
+  - [Vokabular Glosa-Deutsch](gref.htm#VocGE): [a](gref.htm#gea)
+    [b](gref.htm#geb) [c](gref.htm#gec) [d](gref.htm#ged)
+    [e](gref.htm#gee) [f](gref.htm#gef) [g](gref.htm#geg)
+    [h](gref.htm#geh) [i](gref.htm#gei) [j](gref.htm#gej)
+    [k](gref.htm#gek) [l](gref.htm#gel) [m](gref.htm#gem)
+    [n](gref.htm#gen) [o](gref.htm#geo) [p](gref.htm#gep)
+    [q](gref.htm#geq) [r](gref.htm#ger) [s](gref.htm#ges)
+    [t](gref.htm#get) [u](gref.htm#geu) [v](gref.htm#gev)
+    [w](gref.htm#gew) [x](gref.htm#gex) [y](gref.htm#gey)
+    [z](gref.htm#gez)
+  - [Vokabular Deutsch-Glosa](gref.htm#VocEG): [a](gref.htm#ega)
+    [b](gref.htm#egb) [c](gref.htm#egc) [d](gref.htm#egd)
+    [e](gref.htm#ege) [f](gref.htm#egf) [g](gref.htm#egg)
+    [h](gref.htm#egh) [i](gref.htm#egi) [j](gref.htm#egj)
+    [k](gref.htm#egk) [l](gref.htm#egl) [m](gref.htm#egm)
+    [n](gref.htm#egn) [o](gref.htm#ego) [p](gref.htm#egp)
+    [q](gref.htm#egq) [r](gref.htm#egr) [s](gref.htm#egs)
+    [t](gref.htm#egt) [u](gref.htm#egu) [v](gref.htm#egv)
+    [w](gref.htm#egw) [x](gref.htm#egx) [y](gref.htm#egy)
+    [z](gref.htm#egz)
+  - [Funktionswörter](gref.htm#Funct): [Generische
+    Termini](gref.htm#Generics), [Pronomen](gref.htm#Pronouns),
+    [Bindewörter](gref.htm#LinkWords),
+    [Verhältniswörter](gref.htm#Associatives),
+    [Zahlen](gref.htm#Numbers), [Artikel](gref.htm#Articles),
+    [Fragen](gref.htm#Questions), [Verneinungen](gref.htm#Negatives),
+    [Zeiten](gref.htm#Tenses), [Art und Weise](gref.htm#Modals),
+    [Hilfsverben](gref.htm#Verboids), [Vergleiche](gref.htm#Comparison),
+    [Wann](gref.htm#When), [Wo](gref.htm#Where),
+    [Farben](gref.htm#Colors), [Grußformeln](gref.htm#Greetings)
 
-<BLOCKQUOTE>
-    Glosa Education Organization<BR>
-    35&nbsp;Wingfield Road <BR>
-    Kingston Upon Thames <BR>
-    Surrey KT2&nbsp;5LR <BR>
-    ENGLAND <BR>
-    (Registrierte "charity number": 298237)<BR>
-</BLOCKQUOTE>
+  
+<span id="Org"></span>
 
-<P>Die "Glosa Education Organization" f&ouml;rdert weltweit 
-den Schulunterricht in Glosa.
-Sie wirbt f&uuml;r Glosa als ein wirkungsvolles Hilfsmittel f&uuml;r die 
-internationale Kommunikation, betont aber auch den p&auml;dagogischen
-Nutzen dieser Sprache.
-</P>
+## Glosa Education Organization
 
-<P>Hier ist auch weitere Hilfe erh&auml;ltich.</P>
-<BR>
+> Glosa Education Organization  
+> 35 Wingfield Road  
+> Kingston Upon Thames  
+> Surrey KT2 5LR  
+> ENGLAND  
+> (Registrierte "charity number": 298237)  
 
-<!-- ============================================================== -->
-<A NAME="Char"></A>
-<H2>Glosa-Charakteristik</H2>
+Die "Glosa Education Organization" fördert weltweit den Schulunterricht
+in Glosa. Sie wirbt für Glosa als ein wirkungsvolles Hilfsmittel für die
+internationale Kommunikation, betont aber auch den pädagogischen Nutzen
+dieser Sprache.
 
-<P><b>GLOSA</b> ist eine Welthilfssprache, also eine k&uuml;nstliche Sprache, 
-die entwickelt wurde f&uuml;r den Gebrauch
-zwischen Menschen verschiedener Muttersprachen, Herkunft und Kulturen.
-Es will nicht andere Sprachen ersetzen oder verdr&auml;ngen, sondern lediglich
-ein Kommunikationhilfsmittel sein.</P>
+Hier ist auch weitere Hilfe erhältich.
 
-<P>Glosa hat mehrere Besonderheiten:</P>
+  
+<span id="Char"></span>
 
-<OL>
-<LI> Seine Struktur ist sehr einfach und beruht auf Semantik.
-     Es ist eine analytische Sprache ohne Beugungen, Geschlechter oder
-     Sonderzeichen. Dennoch ist es m&ouml;glich, Mehrzahlen, Zeiten,
-     Fragen usw. zu bilden. &Auml;hnlich wie das Chinesische oder
-     Malaiische, verwendet Glosa f&uuml;r jede grammatische Funktion je ein 
-     eigenes Wort, das sonst keine andere Bedeutung hat, und kommt so ohne 
-     Flexionen aus. Viele Glosa-W&ouml;rter k&ouml;nnen als mehrere Wortarten
-     dienen.
+## Glosa-Charakteristik
 
-<LI> Glosa-W&ouml;rter beruhen auf lateinischen und griechischen Wurzeln,
-     genau wie die wichtigsten europ&auml;ischen Sprachen. &Uuml;ber
-     Wissenschaft, Technik und Medizin durchdringen diese W&ouml;rter
-     alle Sprachen und sind so den meisten Menschen bekannt. 
-     
-<LI> 1000 Vokabeln ("Glosa&nbsp;1000", s. Vokabelliste unten) reichen f&uuml;r 
-     die meisten Situationen aus. 
-     Damit Anf&auml;nger Glosa schnell verstehen k&ouml;nnen, soll dieser
-     begrenzte Wortschatz bevorzugt werden. Wenn man damit nicht 
-     auskommt oder auskommen will (z. B. bei Sachtexten oder Dichtung), 
-     gibt es aber auch noch mehr W&ouml;rter ("Glosa 6000").
-     
-<LI> Die Aussprache ist regelm&auml;&szlig;ig und einfach.
-     Geschrieben wird, wie man spricht.
+**GLOSA** ist eine Welthilfssprache, also eine künstliche Sprache, die
+entwickelt wurde für den Gebrauch zwischen Menschen verschiedener
+Muttersprachen, Herkunft und Kulturen. Es will nicht andere Sprachen
+ersetzen oder verdrängen, sondern lediglich ein Kommunikationhilfsmittel
+sein.
 
-<LI> Glosa ist neutral, denn es ist ja niemandes eigene Sprache.
-     Niemand wird benachteiligt, unterdr&uuml;ckt oder bevorzugt.
-</OL>
-<BR>
+Glosa hat mehrere Besonderheiten:
 
-<!-- ============================================================== -->
-<A NAME="Rules"></A>
-<H2>Einige Regeln</H2>
+1.  Seine Struktur ist sehr einfach und beruht auf Semantik. Es ist eine
+    analytische Sprache ohne Beugungen, Geschlechter oder Sonderzeichen.
+    Dennoch ist es möglich, Mehrzahlen, Zeiten, Fragen usw. zu bilden.
+    Ähnlich wie das Chinesische oder Malaiische, verwendet Glosa für
+    jede grammatische Funktion je ein eigenes Wort, das sonst keine
+    andere Bedeutung hat, und kommt so ohne Flexionen aus. Viele
+    Glosa-Wörter können als mehrere Wortarten dienen.
+2.  Glosa-Wörter beruhen auf lateinischen und griechischen Wurzeln,
+    genau wie die wichtigsten europäischen Sprachen. Über Wissenschaft,
+    Technik und Medizin durchdringen diese Wörter alle Sprachen und sind
+    so den meisten Menschen bekannt.
+3.  1000 Vokabeln ("Glosa 1000", s. Vokabelliste unten) reichen für die
+    meisten Situationen aus. Damit Anfänger Glosa schnell verstehen
+    können, soll dieser begrenzte Wortschatz bevorzugt werden. Wenn man
+    damit nicht auskommt oder auskommen will (z. B. bei Sachtexten oder
+    Dichtung), gibt es aber auch noch mehr Wörter ("Glosa 6000").
+4.  Die Aussprache ist regelmäßig und einfach. Geschrieben wird, wie man
+    spricht.
+5.  Glosa ist neutral, denn es ist ja niemandes eigene Sprache. Niemand
+    wird benachteiligt, unterdrückt oder bevorzugt.
 
-<H3>Schreibung, Aussprache, Alphabet</H3>
+  
+<span id="Rules"></span>
 
-<P><B>Geschriebenes Glosa</B> verwendet das lateinische Alphabet mit 
-26 Buchstaben ohne Akzente oder Sonderzeichen.<BR>
-Doppelbuchstaben der Quellw&ouml;rter werden zu einfachen Buchstaben 
-(Bsp. Gazette wird gazeta).<BR>
-Griechisches CH (Chi) wird K, PH F, RH R, TH T und Y wird I.<BR>
-QU wird zu Q.</P>
+## Einige Regeln
 
-<P>Die <B>Aussprache</B> ist phonetisch (also wie man spricht) und
-orientiert sich am Italienischen.
-Jeder Buchstabe wird ausgesprochen, auch der Schlussvokal. <BR>
-Die 5 <U>Vokale</U> (Selbstlaute a, e, i, o, u) wie in Spanisch.
-Und wie lange Vokale im Deutschen. Allerdings wird das O
-lang und offen gesprochen, quasi ein "lang gesprochenes kurzes
-deutsches O", also nicht wie in B-OO-t, sondern wie in L-O-rd,
-Sp-O-rt oder englisch m-O-re oder wie englisch -aw- (AW-ful). <BR>
-<U>Diphthonge</U> (Vokale hintereinander): Sprich die Vokale
-  getrennt aus. <BR>
-<U>Konsonanten</U> (Mitlaute) wie in Deutsch mit folgenden
-  Ausnahmen: <BR>
-&nbsp;&nbsp;C immer ausgesprochen wie TSCH in "deu-TSCH", vgl.
-  italienisch C-iao. <BR>
-&nbsp;&nbsp;Q, eher wie KU als wie KW. In Glosa ist das Q ohne U! <BR>
-&nbsp;&nbsp;R wird immer ausgesprochen, wenn m&ouml;glich gerollt,
-  Carrrolin Rrrreiberrrr. <BR>
-&nbsp;&nbsp;S immer scharfes S (wie &szlig;). <BR>
-&nbsp;&nbsp;SC immer ausgesprochen wie deutsches SCH (- ist aber sehr
-  selten). <BR>
-&nbsp;&nbsp;V wie deutsches W ("Welle"), vgl. englisches V. <BR>
-&nbsp;&nbsp;(Y wie deutsches I, vgl. franz&ouml;sisches Y.  Y kommt
-  aber in Glosa-W&ouml;rtern nicht vor.) <BR>
-&nbsp;&nbsp;(W wie englisches W, also eher ein konsonantisches U.  W
-  kommt aber in Glosa-W&ouml;rtern nicht vor.) <BR>
-&nbsp;&nbsp;Z wie weiches S ("Hase"), vgl. englisches Z. <BR><BR>
+### Schreibung, Aussprache, Alphabet
 
-&nbsp;&nbsp;G normal wie in "gehen". <BR>
-&nbsp;&nbsp;H normal wie in "Hilfe". <BR>
-&nbsp;&nbsp;J normal wie in "ja". <BR>
-&nbsp;&nbsp;X normal wie KS. Am Anfang des Wortes darf X auch nur wie S
-  ausgesprochen werden. <BR><BR>
+**Geschriebenes Glosa** verwendet das lateinische Alphabet mit 26
+Buchstaben ohne Akzente oder Sonderzeichen.  
+Doppelbuchstaben der Quellwörter werden zu einfachen Buchstaben (Bsp.
+Gazette wird gazeta).  
+Griechisches CH (Chi) wird K, PH F, RH R, TH T und Y wird I.  
+QU wird zu Q.
 
-<B>Betonung</B>: Der Vokal vor dem letzten Konsonanten wird (sanft) betont.
-</P>
-<BR>
+Die **Aussprache** ist phonetisch (also wie man spricht) und orientiert
+sich am Italienischen. Jeder Buchstabe wird ausgesprochen, auch der
+Schlussvokal.  
+Die 5 <span class="underline">Vokale</span> (Selbstlaute a, e, i, o, u)
+wie in Spanisch. Und wie lange Vokale im Deutschen. Allerdings wird das
+O lang und offen gesprochen, quasi ein "lang gesprochenes kurzes
+deutsches O", also nicht wie in B-OO-t, sondern wie in L-O-rd, Sp-O-rt
+oder englisch m-O-re oder wie englisch -aw- (AW-ful).  
+<span class="underline">Diphthonge</span> (Vokale hintereinander):
+Sprich die Vokale getrennt aus.  
+<span class="underline">Konsonanten</span> (Mitlaute) wie in Deutsch mit
+folgenden Ausnahmen:  
+  C immer ausgesprochen wie TSCH in "deu-TSCH", vgl. italienisch
+C-iao.  
+  Q, eher wie KU als wie KW. In Glosa ist das Q ohne U\!  
+  R wird immer ausgesprochen, wenn möglich gerollt, Carrrolin
+Rrrreiberrrr.  
+  S immer scharfes S (wie ß).  
+  SC immer ausgesprochen wie deutsches SCH (- ist aber sehr selten).  
+  V wie deutsches W ("Welle"), vgl. englisches V.  
+  (Y wie deutsches I, vgl. französisches Y. Y kommt aber in
+Glosa-Wörtern nicht vor.)  
+  (W wie englisches W, also eher ein konsonantisches U. W kommt aber in
+Glosa-Wörtern nicht vor.)  
+  Z wie weiches S ("Hase"), vgl. englisches Z.  
+  
+  G normal wie in "gehen".  
+  H normal wie in "Hilfe".  
+  J normal wie in "ja".  
+  X normal wie KS. Am Anfang des Wortes darf X auch nur wie S
+ausgesprochen werden.  
+  
+**Betonung**: Der Vokal vor dem letzten Konsonanten wird (sanft) betont.
 
-<H3>Zeichensetzung:</H3>
+  
 
-<P>Doppelpunkt steht vor einer Aufz&auml;hlung.<BR>
-Kommata trennen die Glieder einer Aufz&auml;hlung.<BR>
-Ein Komma ist auch bei Vokativ-Ausdr&uuml;cken n&ouml;tig 
-  (Peter - Glosa-Komma - h&ouml;r auf!). <BR>
-Semikolon trennt Haupt- und Nebensatz 
-  (Ein Satz enth&auml;lt Subjekt und Verb).<BR>
-Bindestrich setzt W&ouml;rter zusammen.</P>
-<BR>
+### Zeichensetzung:
 
-<H3>Satzbau</H3>
+Doppelpunkt steht vor einer Aufzählung.  
+Kommata trennen die Glieder einer Aufzählung.  
+Ein Komma ist auch bei Vokativ-Ausdrücken nötig (Peter - Glosa-Komma -
+hör auf\!).  
+Semikolon trennt Haupt- und Nebensatz (Ein Satz enthält Subjekt und
+Verb).  
+Bindestrich setzt Wörter zusammen.
 
-<P>Subjekt (evtl. mit Adjektiv), dann <BR>
-Verneinung (falls erforderlich), 
-Hilfsverb, Hauptverb, 
-direktes Objekt (wen?, Akkusativ), dann evtl.<BR> 
-Pr&auml;positionalausdr&uuml;cke. <BR>
-Gleiche Ordnung gilt auch f&uuml;r Nebens&auml;tze.</P>
+  
 
-<P>Da einem Glosa-Wort seine Funktion nicht anzusehen ist (keine Formenbildung)
-und da das gleiche Wort als Verb oder als Nomen fungieren kann 
-(sog. Konzeptw&ouml;rter), ist die Wortstellung in Glosa NICHT frei! </P>
+### Satzbau
 
-<P>Faustregel ohne Garantie: Satz ins Englische &uuml;bersetzen und 
-dann die Wortstellung in Glosa &uuml;bernehmen 
-(Aber: Frage ohne Inversion). </P>
-<BR>
+Subjekt (evtl. mit Adjektiv), dann  
+Verneinung (falls erforderlich), Hilfsverb, Hauptverb, direktes Objekt
+(wen?, Akkusativ), dann evtl.  
+Präpositionalausdrücke.  
+Gleiche Ordnung gilt auch für Nebensätze.
 
-<H3>Nomina, Redewendungen</H3>
+Da einem Glosa-Wort seine Funktion nicht anzusehen ist (keine
+Formenbildung) und da das gleiche Wort als Verb oder als Nomen fungieren
+kann (sog. Konzeptwörter), ist die Wortstellung in Glosa NICHT frei\!
 
-<P> &bdquo;U(n)&ldquo; und &bdquo;plu&ldquo; dienen in erster Linie
-als Substantiv-Kennzeichen, wenn der Sinn nicht anders deutlich
-wird. Sie sind nicht notwendig (aber zul&auml;ssig) nach einer
-Pr&auml;position. </P> 
+Faustregel ohne Garantie: Satz ins Englische übersetzen und dann die
+Wortstellung in Glosa übernehmen (Aber: Frage ohne Inversion).
 
-<P>F&uuml;r Pflanzen und Tiere werden die wissenschaftlichen (lateinischen)
-Namen verwendet. M&ouml;glichst werden die lokalen geographischen Namen
-verwendet.</P>
+  
 
-<P>Redewendungen d&uuml;rfen nicht buchst&auml;blich Wort f&uuml;r Wort
-&uuml;bersetzt werden. Glosa soll klar und unidiomatisch sein.</P>
-<BR>
-<BR>
+### Nomina, Redewendungen
 
-<!-- ============================================================== -->
-<A NAME="Mechanics"></A>
-<H2>Glosa-Mechanik (Musters&auml;tze)</H2>
-<PRE>
+„U(n)“ und „plu“ dienen in erster Linie als Substantiv-Kennzeichen, wenn
+der Sinn nicht anders deutlich wird. Sie sind nicht notwendig (aber
+zulässig) nach einer Präposition.
+
+Für Pflanzen und Tiere werden die wissenschaftlichen (lateinischen)
+Namen verwendet. Möglichst werden die lokalen geographischen Namen
+verwendet.
+
+Redewendungen dürfen nicht buchstäblich Wort für Wort übersetzt werden.
+Glosa soll klar und unidiomatisch sein.
+
+  
+  
+<span id="Mechanics"></span>
+
+## Glosa-Mechanik (Mustersätze)
+
+``` 
         u feli                     eine Katze, die Katze
         plu feli; poli feli        Katzen; viele Katzen 
         tri feli                   drei Katzen 
@@ -247,15 +217,15 @@ verwendet.</P>
         Fe pa ki ad urba.          Sie ging(/ist gegangen) in die Stadt.
         Fe pa du ki ad urba.       Sie ging in die Stadt.
                                       ("du" kennzeichnet den Verlauf eines 
-				      Geschehens. Vgl. "progressive form" im
-				      Englischen: she was going)
+                      Geschehens. Vgl. "progressive form" im
+                      Englischen: she was going)
         Fe fu du ki ad urba.       Sie wird in die Stadt gehen.
                                       (She will be going to town.)
         Fe nu pa ki ad urba.       Sie ist gerade in die Stadt gegangen.
         Fe nu fu ki ad urba.       Sie ist gerade im Begriff in die Stadt zu
                                       gehen.
-        Fe pa more ki ad urba.     Sie ging gew&ouml;hnlich in die Stadt.
-        Fe ne sio ki ad urba.      Sie ginge nicht (w&uuml;rde nicht gehen) in
+        Fe pa more ki ad urba.     Sie ging gewöhnlich in die Stadt.
+        Fe ne sio ki ad urba.      Sie ginge nicht (würde nicht gehen) in
                                       die Stadt.
         Lase na ki ad urba.        Lasst uns in die Stadt gehen.
         Lase fe ki ad urba.        Lass sie in die Stadt gehen.
@@ -265,7 +235,7 @@ verwendet.</P>
         Qo acide?                  Was ist los (geschieht) ?
         Tu pa vide qo-pe?          Wen hast du gesehen?
         Qo-ka fe pa ki ad urba?    Warum ging sie in die Stadt?
-        Fe fu posi ki ad urba.     Sie k&ouml;nnte in die Stadt gehen.
+        Fe fu posi ki ad urba.     Sie könnte in die Stadt gehen.
         gene u feli                eine Katze bekommen
         ge-lose feli               verlorene Katze
         Id frakti; id pa frakti.   Es bricht; es ist gebrochen.
@@ -282,67 +252,68 @@ verwendet.</P>
             gravi; no-gravi        schwer; leicht
         Verneinungen mit NE-:
             frigi                  kalt
-	    ne-frigi               nicht kalt (aber nicht unbedingt hei&szlig;)
+        ne-frigi               nicht kalt (aber nicht unbedingt heiß)
         Tu feno sani.              Du siehst wohlauf (gesund) aus.
         An feno no-sani.           Er sieht krank aus (Er scheint...).
         Tu pa gene nati di okto,   Du wurdest am 8. Mai geboren.
             meno pento.
         Mi gene sko de Deutsch.    Ich lerne Deutsch (bekomme Wissen in).
         Fe sti fobo mi.            Sie erschreckt mich.
-        Na nece sti logi u demo.   Wir m&uuml;ssen die Leute dazu bringen,
-	                              uns zu verstehen.
+        Na nece sti logi u demo.   Wir müssen die Leute dazu bringen,
+                                  uns zu verstehen.
         Fe habe dek anua.          Sie ist 10 Jahre alt.
         An nima es George.         Sein Name ist George.
         Place.  Gratia.  Penite.   Bitte.  Danke.  Entschuldige.
         Qo-lo tu eko?              Wo wohnst du?
         Qo es tu eko-lo?           Wo wohnst du?
         Qe tu gene sko de Glosa?   Lernst du Glosa?
-        retro tri meno             vor drei Monaten (3 Monate zur&uuml;ck)
-        iso mega de                so gro&szlig; wie
+        retro tri meno             vor drei Monaten (3 Monate zurück)
+        iso mega de                so groß wie
         di-mo                      Sonntag (Tag eins)
         di-bi                      Montag (Tag zwei)
-        Qo horo?  Id es pen horo.  Wie sp&auml;t? (Welche Zeit?) Es ist 5 Uhr.
+        Qo horo?  Id es pen horo.  Wie spät? (Welche Zeit?) Es ist 5 Uhr.
         Nona minuta po tri horo    9 Minuten nach 3
         bi-pen minuta pre six horo 25 Minuten vor 6 Uhr
-        Na pa ki a Roma tem        Wir fuhren nach Rom im M&auml;rz. 
+        Na pa ki a Roma tem        Wir fuhren nach Rom im März. 
            meno tri.
-        medika-pe                  Arzt (oder &Auml;rztin) 
-        medika-fe                  &Auml;rztin 
+        medika-pe                  Arzt (oder Ärztin) 
+        medika-fe                  Ärztin 
         medika-an                  Arzt 
-        France-lingua              Franz&ouml;sisch (die Sprache)
+        France-lingua              Französisch (die Sprache)
 
+```
 
-</PRE>
-<!-- ============================================================== -->
-<A NAME="Examples"></A>
-<H2>Weitere Beispiele</H2>
-<PRE>
+<span id="Examples"></span>
+
+## Weitere Beispiele
+
+``` 
     Hallo! Bitte! Danke!                    Ave!  Place!  Gratia!
-    Gl&uuml;ckwunsch! Leb wohl!                 Gratula!  Vale!
-    Danke f&uuml;r deinen Brief.            Gratia de tu grama.
+    Glückwunsch! Leb wohl!                 Gratula!  Vale!
+    Danke für deinen Brief.            Gratia de tu grama.
     Entschuldige! Verzeihung! Pass auf!     Pardo!  Penite!  Kura!
     Hilf mir! Sie helfen einander!          Auxi mi!  Mu auxi alelo.
     Die Maschine funktioniert gut.          U makina funktio bene.
-    Au&szlig;er Betrieb! Kann den Fehler    No-funktio!  Ne pote detekti u
+    Außer Betrieb! Kann den Fehler    No-funktio!  Ne pote detekti u
        nicht finden.                           defekti.
     Denk nach! Du solltest ihr helfen!      Kogita!  Tu debi auxi fe.
     Sie kann gehen. Kann sie gehen?         Fe pote gresi.  Qe fe pote gresi?
     Er konnte laufen und springen.          An pa pote dromo e salta.
-    K&ouml;nnen sie springen?                    Qe mu pote salta?
+    Können sie springen?                    Qe mu pote salta?
     Sie sang, als er kam.                   Fe pa du kanta; kron an pa veni.
       (Sie war gerade am singen, als ...)
     Sie hat sich gerade hingesetzt.         Fe nu-pa sedi.
     Was hast du gesehen?                    Tu pa vide qo?
     Warum ist es passiert? (KAusal)         Qo-ka id pa acide?
     Wozu ging er? (inTEntional)             Qo-te an pa ki?
-    Ich wei&szlig;, was sie denkt.                Mi ski; qod fe puta.
+    Ich weiß, was sie denkt.                Mi ski; qod fe puta.
     Ich frage mich, ob sie gehen wird.      Mi qestio se; qe fe fu ki.
     Der Mann, den du letzte Woche gesehen   Un andro; tu pa vide pa setimana.
        hast. (The man you saw last week.)
     Die Frau, die um die Ecke ging, ist     U gina; qi ki peri gono; es
       meine Nachbarin.                         mi para-fe.
     Ich sah sie. Sie sah mich.              Mi pa vide fe.  Fe pa vide mi.
-    Meine B&uuml;cher sind auf dem Tisch.        Mi plu bibli es epi tabla.
+    Meine Bücher sind auf dem Tisch.        Mi plu bibli es epi tabla.
     Sie sprachen gleichzeitig.              Mu pa dice iso-kron.
     Er lebte im 19. Jahrhundert.            An pa vive tem hekto-anua mo-nona.
     Sie lebt in einer deutschen Stadt.      Fe eko in deutsche urba.
@@ -350,17 +321,17 @@ verwendet.</P>
       leben.
     Arbeiter. Einwohner. Helfer. Liebhaber. Ergo-pe. In-pe. Pro-pe. Filo-pe.
     Ort.  Wahlkreis.  Plateau.              Loka = -lo.  Elekti-lo.  Plati-lo
-    &Uuml;berall. Irgendwo. Nirgends.            Panto-lo.  Uno-lo.  Nuli-lo.
+    Überall. Irgendwo. Nirgends.            Panto-lo.  Uno-lo.  Nuli-lo.
     Offenbar konnte sie nicht kommen.       Feno, fe ne pote veni.
     Es bricht. Es wurde gebrochen.          Id frakti.  Pa gene frakti.
        Gebrochen.                              Ge-frakti.
     Wer sah dich? Wen hast du gesehen?      Qo-pe pa vide tu[?]  Tu pa vide
                                               qo-pe?
-    Trotz des sch&ouml;nen Wetters               Anti kali klima
-      blieben wir drinnen. Drau&szlig;en.           na pa resta intra.  Extra.
+    Trotz des schönen Wetters               Anti kali klima
+      blieben wir drinnen. Draußen.           na pa resta intra.  Extra.
     Sache (thing). Etwas (some-thing).      Ra.  Uno-ra.  Ali-ra.  Nuli-ra.
        Etwas (any-thing). Nichts (no-thing)
-    Man sage, es sei nur ein Ger&uuml;cht.      Mu dice; id es solo u mu-dice.
+    Man sage, es sei nur ein Gerücht.      Mu dice; id es solo u mu-dice.
     Wo wohnst du? Nah oder fern?            To eko qo-lo?  Proxi alo tele?
     Er versteht. Er versteht nicht.         An logi.  An ne logi.
     Versteht er?                            Qe an logi?
@@ -370,29 +341,29 @@ verwendet.</P>
     Sie ist gerade ausgegangen.             Fe nu-pa ki ex.
     Ich gehe gerade los.                    Mi nu-fu ki ab.
     'rauf. 'runter.                         Ana.  Kata.
-    Hals &uuml;ber Kopf, drunter und dr&uuml;ber.     Ana kata.
-    Vorw&auml;rts und r&uuml;ckw&auml;rts.                 Avanti e retro.
+    Hals über Kopf, drunter und drüber.     Ana kata.
+    Vorwärts und rückwärts.                 Avanti e retro.
     Zwei Fahrkarten, einfache Fahrt, bitte. Bi bileta ab, place.
-    Drei Hin- und R&uuml;ckfahrkarten, bitte.     Tri versi bile[ta], place.
+    Drei Hin- und Rückfahrkarten, bitte.     Tri versi bile[ta], place.
        Danke.                                  Grati[a].
     Ich fahre nach London (mit dem Auto).   Mi vagona a London.
-    Sie f&auml;hrt mit dem Zug. Ich gehe (zu Fu&szlig;) Fe trena.  Mi pedi.
+    Sie fährt mit dem Zug. Ich gehe (zu Fuß) Fe trena.  Mi pedi.
     Dies (das hier). Jenes (das dort).      U-ci.  U-la.
-    Dieser Baum ist h&ouml;her als jener.        U-ci dendro es ma alti de u-la.
+    Dieser Baum ist höher als jener.        U-ci dendro es ma alti de u-la.
     Fahrbahn. Gehweg. Rinnstein.            Rota-via.  Pedi-via.  Kanali.
     Staubsauger. Computer.                  Puri-me.  Puta-me.
     Der Arzt untersuchte den Patienten.     U iatri pa examina u pato-pe.
     Er wurde vom Arzt untersucht.           An pa gene examina ex iatri.
-    Es wurde hei&szlig;. Es wurde gek&uuml;hlt           Id pa gene termo.  Id pa gene frigi
-      im K&uuml;hlschrank.                          in frigi-me.
+    Es wurde heiß. Es wurde gekühlt           Id pa gene termo.  Id pa gene frigi
+      im Kühlschrank.                          in frigi-me.
     Dampfmaschine. Druckpresse.             Vapo-me.  Tipo-me.
-    B&uuml;cherregal. Schreibtisch.         Bibli-mo(bili).  Grafo-mo.
-    MA-terial, Stoff.  Getr&auml;nk.             Materia, -ma.  Bibe-ma.
+    Bücherregal. Schreibtisch.         Bibli-mo(bili).  Grafo-mo.
+    MA-terial, Stoff.  Getränk.             Materia, -ma.  Bibe-ma.
     Mineral. Ablagerung. Zutat.             Geo-ma.  Infra-ma.  Mero-ma.
     Nahrung. Rohmaterial. Schaum.           Vora-ma.  Proto-ma.  Supra-ma.
     Ausgestorbene Tiere. Noch lebende Pflanzen.  Plu pre-nu zoa.  Plu nu fito.
     Ich muss gehen. Ich musste gehen.       Mi nece ki.  Mi pa nece ki.
-    Ich werden gehen m&uuml;ssen.                Mi fu nece ki.
+    Ich werden gehen müssen.                Mi fu nece ki.
     Sie sollte gehen.                       Fe debi ki.
     Sie sollte gegangen sein.               Fe pa debi ki.
     Ich denke, glaube, meine, zweifle.      Mi puta, kredi. doxo, dubi.
@@ -400,34 +371,36 @@ verwendet.</P>
     Vorsicht!  Fall nicht!                  Kura!  Ne kade!
     Schwiegermutter.  Tante.                Andro-matri/Gina-matri.  Parenta sorori.
 
+```
 
-</PRE>
-<!-- ============================================================== -->
-<HR>
-<BR>
-<A NAME="VocGE"></A>
-<H2>Vokabular Glosa-Deutsch</H2>
-<BR>
+-----
 
-<P><I> Die unten stehenden W&ouml;rterlisten werden nicht weiter gepflegt.
-Bitte verwenden Sie lieber den
-  <A HREF="../gid/index.html">GID</A>.</I>
-</P>
+  
+<span id="VocGE"></span>
 
-<A NAME="gea"></A>
-<H3>A</H3>
-<PRE>
+## Vokabular Glosa-Deutsch
+
+  
+
+*Die unten stehenden Wörterlisten werden nicht weiter gepflegt. Bitte
+verwenden Sie lieber den [GID](../gid/index.html).*
+
+<span id="gea"></span>
+
+### A
+
+``` 
 a(d)         nach .. zu, bei 
 a-la         dorthin 
 a-nu         bisher 
-a fini       schlie&szlig;lich, zuletzt 
+a fini       schließlich, zuletzt 
 a kron       eben 
-a maxi       h&ouml;chstens 
+a maxi       höchstens 
 a qo-lo      wohin 
 ab           ab, fort, von .. (weg), weg
 abdomina     Bauch 
 abe          Abtei
-abili        k&ouml;nnen
+abili        können
 absoluti     unbedingt 
 absurdi      Unsinn 
 academi      Akademie 
@@ -435,8 +408,8 @@ acide        sich ereignen, geschehen, Ereignis, passieren, stattfinden
 ad           (= a) nach .. zu, bei 
 ad-in        hinein 
 adapta       anpassen 
-adeno        Dr&uuml;se 
-adi          hinzuf&uuml;gen 
+adeno        Drüse 
+adi          hinzufügen 
 adresa       Adresse
 adverbi      Adverb 
 aero         Luft 
@@ -444,10 +417,10 @@ aerodroma    Flughafen
 aeroplana    Flugzeug 
 afera        Angelegenheit 
 afro         Schaum 
-age          fahren, f&uuml;hren  
+age          fahren, führen  
 agenti       Agent 
-ago          f&uuml;hren 
-ago-lice     F&uuml;hrerschein 
+ago          führen 
+ago-lice     Führerschein 
 agri         Feld 
 agri-pe      Bauer 
 agrio        wild  
@@ -455,19 +428,19 @@ akidi        sauer
 akorda       abmachen, einverstanden 
 akorda-co    folglich 
 akro         Gipfel, Spitze 
-akti         handeln, Handlung, tun, Tat, sich benehmen, durchf&uuml;hren, 
+akti         handeln, Handlung, tun, Tat, sich benehmen, durchführen, 
                 treiben, machen 
-aktivi       besch&auml;ftigt, flei&szlig;ig, besch&auml;ftigen, lebhaft, 
-                t&auml;tig  
+aktivi       beschäftigt, fleißig, beschäftigen, lebhaft, 
+                tätig  
 aku          Nagel, Nadel  
-akusti       h&ouml;ren, zuh&ouml;ren 
+akusti       hören, zuhören 
 akuto        scharf 
-ala          Fl&uuml;gel 
-alba         wei&szlig; 
-albi         wei&szlig;  
+ala          Flügel 
+alba         weiß 
+albi         weiß  
 album        Album 
 alelo        einander 
-alexi        sch&uuml;tzen, verteidigen 
+alexi        schützen, verteidigen 
 alfabeti     Alphabet 
 alga         Alge 
 algo         Leid, Schmerz 
@@ -480,7 +453,7 @@ aliena       fremd
 aligatora    Alligator 
 alo          oder 
 alterna      wechseln 
-alti         hoch, H&ouml;he  
+alti         hoch, Höhe  
 ambasadora   Botschaft 
 ambi         beide 
 ambienta     Umwelt 
@@ -488,15 +461,15 @@ ambula       spazieren
 amera        bitter 
 ami          Freund, Bekannter, freundlich 
 amigda       Mandel 
-amila        (Mehl-)St&auml;rke 
-amo          lieben, m&ouml;gen, Liebe 
+amila        (Mehl-)Stärke 
+amo          lieben, mögen, Liebe 
 amorfo       Klumpen 
 amplexi      umarmen 
-amusa        am&uuml;sieren
+amusa        amüsieren
 an           er, ihm, sein 
 an-fili      Sohn 
-an-regi      K&ouml;nig 
-ana          aufw&auml;rts, herauf, hinauf 
+an-regi      König 
+ana          aufwärts, herauf, hinauf 
 anas         Ente 
 andro        Mann, Ehemann 
 animali      Tier 
@@ -513,16 +486,16 @@ anti-ergo    faul
 anti-pe      Feind 
 anti alelo   gegeneinander 
 anto         Blume 
-anua         Jahr, j&auml;hrlich 
+anua         Jahr, jährlich 
 anua tem     Jahreszeit 
 aparatu      Apparat 
-aperi        offen, &ouml;ffnen 
+aperi        offen, öffnen 
 apis         Biene 
 aplika       anwenden  
-apo          abnehmen, abrei&szlig;en, wegnehmen, wegschaffen 
+apo          abnehmen, abreißen, wegnehmen, wegschaffen 
 apologi      sich entschuldigen 
 aporta       mitbringen 
-apreci       sch&auml;tzen 
+apreci       schätzen 
 aqa          Wasser; nass 
 ara          Pflug 
 aranea       Spinne 
@@ -534,14 +507,14 @@ argenti      Silber
 aritmetika   arithmetisch 
 arka         Bogen
 arkeo        alt
-arki         Chef, Autorit&auml;t, Beh&ouml;rde  
+arki         Chef, Autorität, Behörde  
 arktika      arktisch, Arktis  
 arma         Heer, Waffe  
 arme         Armee 
 aroga        arrogant 
 arti         Kunst 
 artikula     Verbindung 
-artisti      K&uuml;nstler 
+artisti      Künstler 
 asila        sicherer Ort, Hafen 
 asilu        sicherer Ort, Asyl 
 asinus       Esel 
@@ -558,27 +531,29 @@ atomi        Atom
 atria        Hof, Halle 
 atrio        Hof, Halle 
 atro         schwarz 
-audi         h&ouml;ren, zuh&ouml;ren 
-audi-pe      H&ouml;rer 
+audi         hören, zuhören 
+audi-pe      Hörer 
 auri         Ohr 
-aurora       D&auml;mmerung 
-austra       S&uuml;den  
+aurora       Dämmerung 
+austra       Süden  
 auto         selbst, eigen 
 auto kritici Gewissen 
 auto-lauda   stolz 
 automati     automatisch 
 auxi         Hilfe, helfen, Vorteil 
-avanti       vorw&auml;rts, vorr&ouml;cken, vorstellen  
+avanti       vorwärts, vorröcken, vorstellen  
 avari        gierig 
 avena        Flocken 
 avi          Vogel  
 axi          Achse 
 
+```
 
-</PRE>
-<A NAME="geb"></A>
-<H3>B</H3>
-<PRE>
+<span id="geb"></span>
+
+### B
+
+``` 
 babi         Baby 
 baci         Stab 
 baia         Bucht 
@@ -598,11 +573,11 @@ bapti        tauchen
 bara         Balken  
 barbaro      barbarisch  
 barira       Barriere 
-baro         dr&uuml;cken, dr&auml;ngen, b&uuml;geln, Druck, Gewicht 
+baro         drücken, drängen, bügeln, Druck, Gewicht 
 baroni       Baron 
 basi         Grund, Basis 
 baso         niedrig, Basis 
-bata         schlagen, Schl&auml;ger, Fledermaus ???
+bata         schlagen, Schläger, Fledermaus ???
 bate         schlagen, klopfen, treffen; Schlag 
 bateri       Batterie  
 ben veni     willkommen 
@@ -612,7 +587,7 @@ benzina      Benzin
 besboli      Baseball 
 bi           zwei  
 bibe         trinken 
-bibe-ma      Getr&auml;nk 
+bibe-ma      Getränk 
 bibli        Buch  
 bileta       Ticket, Fahrkarte, Fahrschein, Zettel 
 bio          Leben 
@@ -622,20 +597,20 @@ birota       Fahrrad
 biskokta     Waffel 
 blado        Blatt, Klinge 
 blasto       Knospe 
-blasto-tem   Fr&uuml;hling 
+blasto-tem   Frühling 
 bloka        Klotz 
 blonda       blond 
 blu          blau 
 bluse        Bluse 
-bo (-bo)     Laden, Gesch&auml;ft 
+bo (-bo)     Laden, Geschäft 
 bola         Ball, Kugel 
 bombasti     Prahlerei, prahlen 
 bombus       Hummel 
 boni         gut 
-boni-fortuna gl&uuml;cklich, Gl&uuml;ck 
+boni-fortuna glücklich, Glück 
 boreo        Norden  
 boreo-me     Kompass 
-boteka       Laden, Gesch&auml;ft, einkaufen 
+boteka       Laden, Geschäft, einkaufen 
 botilia      Flasche  
 botina       Stiefel 
 botuli       Wurst 
@@ -647,33 +622,35 @@ brevi        kurz
 brika        Ziegelstein  
 brio         Moos, Moor
 bronto       Donner 
-brosa        Besen, B&uuml;rste, Pinsel, fegen, kehren,    
+brosa        Besen, Bürste, Pinsel, fegen, kehren,    
 bruno        braun 
 buka         Wange 
 bulbo        (Blumen-)Zwiebel
 buleta       Kugel, Geschoss
 buli         kochen 
 bungalo      Bungalow 
-buna         Berg, Gebirge, H&uuml;gel 
-buno         H&uuml;gel 
+buna         Berg, Gebirge, Hügel 
+buno         Hügel 
 burgo        Stadt(teil)
-buro         Amt, B&uuml;ro 
-bursa        B&ouml;rse 
+buro         Amt, Büro 
+bursa        Börse 
 busa         Bus 
 busti        brennen, verbrennen 
 buta         Ziel, Zweck 
 butiri       Butter 
 butona       Knopf
-buz          summen, fl&uuml;stern 
+buz          summen, flüstern 
 
+```
 
-</PRE>
-<A NAME="gec"></A>
-<H3>C</H3>
-<PRE>
+<span id="gec"></span>
+
+### C
+
+``` 
 carta        Landkarte 
 casa         Jagd, jagen, treiben 
-cede         als Ertrag hervorbringen, &uuml;berlassen; Ertrag
+cede         als Ertrag hervorbringen, überlassen; Ertrag
 cek          Scheck, checken 
 ceka         Scheck 
 cele         Himmel 
@@ -694,65 +671,67 @@ ceru         Wachs
 cervika      Hals 
 ci           hier, her, vorhanden 
 ciano        blau 
-cide         t&ouml;ten, umbringen, Mord 
+cide         töten, umbringen, Mord 
 cigni        Schwan 
 ciklo        Rad, Kreis 
 cilia        Augenwimper 
 cinera       Asche 
 ciri         Locke 
-cirka        ungef&auml;hr 
+cirka        ungefähr 
 cirkula      Verkehr 
 cirkulatio   Verkehr  
 cirkusta     Umstand 
 cisora       Schere 
 cisori       Schere 
 citri        Zitrone  
-civi         B&uuml;rger 
-civili       h&ouml;flich 
+civi         Bürger 
+civili       höflich 
 civiliza     zivilisieren 
 civita       Stadt  
 co           das gerade gesagte  
 cokolata     Schokolade   
 
+```
 
-</PRE>
-<A NAME="ged"></A>
-<H3>D</H3>
-<PRE>
+<span id="ged"></span>
+
+### D
+
+``` 
 dama         zahm 
 data         Daten, Tatsache, Nachricht 
 datu         Datum  
 daukus       Karotte 
-de           &uuml;ber, in Bezug auf 
+de           über, in Bezug auf 
 de-co        daran, davon 
 de-qo        woran 
-debi         sollen, sollte, m&uuml;sste, Pflicht 
+debi         sollen, sollte, müsste, Pflicht 
 debito       schulden, Schuld 
-decide       sich entschlie&szlig;en, beschlie&szlig;en, entscheiden, 
+decide       sich entschließen, beschließen, entscheiden, 
                 bestimmen; entschlossen 
 deduce       folgern 
 defekti      Fehler  
 defi         herausfordern
 deino        furchtbar 
 deka         zehn 
-deklara      erkl&auml;ren, verzollen 
+deklara      erklären, verzollen 
 deko         passend, schicklich 
 delegati     delegieren  
 delikati     delikat 
 delikato     zart 
 demanda      fordern, verlangen, Nachfrage 
-demo         Bev&ouml;lkerung, Leute, Publikum, Volk 
-demoli       zerst&ouml;ren 
+demo         Bevölkerung, Leute, Publikum, Volk 
+demoli       zerstören 
 demonstra    beweisen 
 dendro       Baum 
 densi        dicht 
 denti        Zahn 
-depende      abh&auml;ngen 
+depende      abhängen 
 derma        Haut, Fell, Leder 
-deserta      W&uuml;ste 
-desira       Wunsch, w&uuml;nschen 
+deserta      Wüste 
+desira       Wunsch, wünschen 
 deskribe     beschreiben 
-destru       zerst&ouml;ren  
+destru       zerstören  
 detekti      finden, entdecken 
 detekti-pe   Erfinder 
 deutsch      deutsch 
@@ -763,15 +742,15 @@ dextro       rechts, rechte
 di           Tag 
 dia          durch, hindurch 
 diaboli      Teufel  
-diali        w&auml;hlen  
-dice         aussprechen, behaupten, erw&auml;hnen, erz&auml;hlen, 
+diali        wählen  
+dice         aussprechen, behaupten, erwähnen, erzählen, 
                 reden, sagen, sprechen; Sprache
 difere       unterscheiden, Unterschied, verschieden 
 difusi       senden, verbreiten 
 digi         Finger 
 digita       Finger, Zeh 
-digni        W&uuml;rde 
-diluti       verd&uuml;nnen  
+digni        Würde 
+diluti       verdünnen  
 diluvi       Flut  
 dina         zwingen, stark, Gewalt, Kraft 
 dinamo       Macht  
@@ -791,40 +770,42 @@ diversio     Umleitung
 divi         Wette, wetten 
 divide       teilen  
 divina       vermuten  
-do (-do)     Geb&auml;de, Haus, Bau
+do (-do)     Gebäde, Haus, Bau
 doci         lehren  
 doci-pe      Lehrer  
-domi         Geb&auml;de, Haus, Heim, Bau 
+domi         Gebäde, Haus, Heim, Bau 
 domina       herrschen, Herrscher 
-dominio      Dom&auml;ne, Gebiet 
-dona         Gabe, Geschenk, geben, gew&auml;hren, schenken
+dominio      Domäne, Gebiet 
+dona         Gabe, Geschenk, geben, gewähren, schenken
 dona foto    leuchten 
 dona lumi    leuchten 
 dona odoro   riechen (= Geruch aussenden) 
-dona profito n&uuml;tzen 
-dona sito    f&uuml;ttern 
-dorsa        R&uuml;cken  
+dona profito nützen 
+dona sito    füttern 
+dorsa        Rücken  
 dosie        Akte  
 doxo         Ansicht, Meinung, meinen
 drama        handeln  
 dromo        laufen, rennen 
 du           fortlaufend, dauernd 
 dubita       Zweifel 
-duce         f&uuml;hren 
+duce         führen 
 duce-pe      Fahrer 
 plu duce-pe  Leitung 
 duce-ra      Hauptsache 
 dulo         Sklave 
 dura         dauern, fest, hart
 dura feru    Stahl 
-duranto      w&auml;hrend 
+duranto      während 
 dusca        duschen 
 
+```
 
-</PRE>
-<A NAME="gee"></A>
-<H3>E</H3>
-<PRE>
+<span id="gee"></span>
+
+### E
+
+``` 
 e            und 
 e so avanti  und so weiter 
 eduka        erziehen 
@@ -837,11 +818,11 @@ eko-lo       Wohnung
 ekonomi      Wirtschaft 
 elasti       Feder 
 elefa        Elefant 
-elekti       w&auml;hlen, Wahl 
+elekti       wählen, Wahl 
 elektro      elektrisch 
 elektroni    elektronisch
 elementa     einfach 
-emotio       Gef&uuml;hl 
+emotio       Gefühl 
 enciklopedia Enzyklopedie 
 energi       Energie 
 enigma       Puzzle 
@@ -850,7 +831,7 @@ enkontra     treffen, begegnen
 entero       innerlich, Darm 
 entra        eintreten 
 epi          auf 
-epi kron     p&uuml;nktlich 
+epi kron     pünktlich 
 eqa          gleich  
 eqilibri     Balance 
 equs         Pferd 
@@ -859,11 +840,11 @@ erinaceus    Igel
 eritro       rot  
 ero          Fehler, Irrtum, Versehen, sich irren  
 es           sein (Verb), bin, ist, ... 
-es de        geh&ouml;ren 
+es de        gehören 
 esce         werden 
 espio        spionieren, Spion 
 est          Osten  
-este         f&uuml;hlen, Bewusstsein 
+este         fühlen, Bewusstsein 
 este odoro   riechen (Geruch wahrnehmen) 
 etio         schuldig, Anklage, Ursache 
 eu           gut 
@@ -873,37 +854,39 @@ evita        vermeiden
 evolve       entwickeln 
 ex           von (engl. "by"), von .. aus, heraus, hinaus, seit
 ex-co        daraus 
-ex longi tem  l&auml;ngst 
+ex longi tem  längst 
 ex qo-lo     woher 
 ex u-la kron  seitdem 
 exakti       genau, richtig 
-examina      durchsehen, pr&uuml;fen, Pr&uuml;fung, untersuchen 
-excele       hervorragend, unvergleichlich, vorz&uuml;glich 
+examina      durchsehen, prüfen, Prüfung, untersuchen 
+excele       hervorragend, unvergleichlich, vorzüglich 
 excesi       zu sehr, zuviel 
 excite       aufregen 
-exclude      ausschlie&szlig;en 
+exclude      ausschließen 
 exempla      Beispiel 
-exercise     &uuml;ben, &Uuml;bung 
+exercise     üben, Übung 
 existe       bestehen, vorhanden 
-exklude      ausschlie&szlig;en 
+exklude      ausschließen 
 exkreti      absondern, ausscheiden   
-expande      gr&ouml;&szlig;er werden, dehnen   
+expande      größer werden, dehnen   
 expekta      erwarten 
 experi       Erfahrung 
 experimenta  Experiment 
-explika      darlegen, erkl&auml;ren  
+explika      darlegen, erklären  
 explode      explodieren, platzen 
 expo         Ausstellung
 extende      Ausdehnung, Umfang, verbreiten 
-extra        &Auml;u&szlig;eres, au&szlig;en, drau&szlig;en 
+extra        Äußeres, außen, draußen 
 extra fiska  Zoll  
 extracto     Extrakt 
 
+```
 
-</PRE>
-<A NAME="gef"></A>
-<H3>F</H3>
-<PRE>
+<span id="gef"></span>
+
+### F
+
+``` 
 fa (-fa)     Gruppe, Satz
 faba         Bohne  
 face         machen, bilden, schaffen 
@@ -914,12 +897,12 @@ fago         fressen, essen
 faktora      Faktor 
 faktu        Tatsache
 fali         versagen, misslingen 
-falsi        falsch, L&uuml;ge
+falsi        falsch, Lüge
 famili       Familie 
 familia      Familie
 familiari    bekannt 
 famina       hungrig, Hunger 
-famo         Ruhm, ber&uuml;hmt 
+famo         Ruhm, berühmt 
 fantasi      Phantasie 
 farina       Mehl, Staub 
 faringi      Hals 
@@ -928,13 +911,13 @@ fascina      faszinieren
 faski        Gruppe, Satz  
 faskina      faszinieren 
 fata         Los, Schicksal 
-fatiga       m&uuml;de, erm&uuml;den  
+fatiga       müde, ermüden  
 fatuo        albern 
 favi         Honigwabe  
-favo         g&uuml;nstig 
+favo         günstig 
 fe           (Femininum-Kennzeichen), weiblich; sie, ihr (Singular) 
 fe-fili      Tochter 
-fe-regi      K&ouml;nigin 
+fe-regi      Königin 
 febri        Fieber 
 feina        fein 
 feki         Fekalie  
@@ -957,7 +940,7 @@ fide         treu, vertrauen
 fikti        vorstellen  
 fila         Blatt 
 filament     Faden 
-fili         Abk&ouml;mmling
+fili         Abkömmling
 filma        Film 
 filo         lieben, philo-, Liebe  
 filtra       Filter, filtern 
@@ -975,79 +958,81 @@ flagela      peitschen, Peitsche
 flama        Flamme 
 flasc        Blitz  
 flavoro      Geschmack, Aroma 
-flexi        kr&uuml;mmen, Kr&uuml;mmung 
+flexi        krümmen, Krümmung 
 floka        Flocke 
-flori        Blume, bl&uuml;hen  
-flu          flie&szlig;en  
-fluidi       Fl&uuml;ssigkeit  
+flori        Blume, blühen  
+flu          fließen  
+fluidi       Flüssigkeit  
 fluvi        Fluss, Strom 
 fluvia       Fluss, Strom 
-fo (fo-)     (= forti) &auml;u&szlig;erst, gar, sehr, stark, laut
-fo-kloro     tief gr&uuml;n 
+fo (fo-)     (= forti) äußerst, gar, sehr, stark, laut
+fo-kloro     tief grün 
 fobo         Angst, Furcht, Schreck  
 foeni        Dattel 
 foku         Fokus, Mittelpunkt 
 folia        Blatt 
 folia-va     Mappe 
 fonda        Hintergrund
-fono         anrufen, Ger&auml;usch 
+fono         anrufen, Geräusch 
 fonta        Quelle 
 fora         Loch
 foresta      Wald 
 forma        Form, Gestalt 
 formika      Ameise  
 formula      Formel 
-forti        (= fo) &auml;u&szlig;erst, laut, sehr 
-fortuna      Chance, Gl&uuml;ck, zuf&auml;llig  
+forti        (= fo) äußerst, laut, sehr 
+fortuna      Chance, Glück, zufällig  
 fosi         Graben 
 foto         Foto, Licht, Schein
 foto-me      Kamera 
 fotografi    fotografieren 
 fragma       Unterteilung, Zaun 
-frakti       brechen, zerbrechen, zerschlagen, pfl&uuml;cken, rei&szlig;en, 
+frakti       brechen, zerbrechen, zerschlagen, pflücken, reißen, 
                 Panne 
-france       franz&ouml;sisch 
+france       französisch 
 France       Frankreich
 France-pe    Franzose 
 frase        Satz
 fratri       Bruder 
-freqe        vielmals, h&auml;ufig, oft 
-fresko       frisch, L&uuml;ftung 
-fria         kr&uuml;meln 
-frigi        kalt, k&uuml;hl 
+freqe        vielmals, häufig, oft 
+fresko       frisch, Lüftung 
+fria         krümeln 
+frigi        kalt, kühl 
 frigi-tem    Winter 
 frika        auswischen, wischen, reiben 
 frikti       reiben 
 fronta       Vorderseite 
 frontira     Grenze 
-fru          genie&szlig;en 
+fru          genießen 
 frukti       Frucht, Obst 
-frustra      entt&auml;uschen 
+frustra      enttäuschen 
 fu           werden (Zukunftskennzeichen) 
 fu pa        haben werden (Zukunft-II-Kennzeichen) 
 fu-di        morgen 
-fu-fu-di     &Uuml;bermorgen 
+fu-fu-di     Übermorgen 
 fu-tem       Zukunft 
 fugi         fliehen, Flucht 
-fugi-pe      Fl&uuml;chtling 
+fugi-pe      Flüchtling 
 fumi         Rauch, rauchen 
 funda        Grund 
 fungu        Schwamm, Pilz
 fungus       Schwamm, Pilz  
-funktio      n&uuml;tzlich, wirken 
+funktio      nützlich, wirken 
 furi         Wut 
 furka        Gabel 
 furna        backen, Ofen 
-fusi         gie&szlig;en 
-fusili       schie&szlig;en, Schuss, Gewehr 
+fusi         gießen 
+fusili       schießen, Schuss, Gewehr 
 fusio        Vereinigung 
 futuri       Zukunft   
 
+```
 
-</PRE>
-<A NAME="geg"></A>
-<H3>G</H3>
-<PRE>
+<span id="geg"></span>
+
+### G
+
+``` 
 gaia         Erde 
 galina       Huhn 
 game         heiraten, Ehe 
@@ -1069,30 +1054,30 @@ gelato       Eiscreme
 geli         frieren
 gemini       Zwilling 
 gene         bekommen, erhalten, kriegen 
-gene frigi   sich erk&auml;lten 
+gene frigi   sich erkälten 
 gene info    erfahren 
-gene more    sich gew&ouml;hnen 
+gene more    sich gewöhnen 
 gene sani    sich erholen 
 gene vista   erscheinen 
-generali     allgemein, &uuml;berhaupt  
+generali     allgemein, überhaupt  
 geneti       erben  
 gentili      vornehm, sanft 
 genu         Knie, knien  
 geo          Erde  
 gero         alt, Alter 
 gimnasti     turnen 
-gimno        nackt, blo&szlig; 
+gimno        nackt, bloß 
 gina         (Ehe-)Frau, Dame, weiblich 
 gira         rotieren 
 glabro       glatt 
 glacia       Eis  
 gladia       Schwert  
-glandi       Dr&uuml;se, Eichel 
-glena        Augenh&ouml;hle, Gelenkpfanne 
+glandi       Drüse, Eichel 
+glena        Augenhöhle, Gelenkpfanne 
 glisa        gleiten 
 glosa        Zunge, Sprache, Glosa 
-gluko        angenehm, nett, s&uuml;&szlig;, bequem, gem&uuml;tlich 
-gluma        H&uuml;lse, Kleie, Spreu 
+gluko        angenehm, nett, süß, bequem, gemütlich 
+gluma        Hülse, Kleie, Spreu 
 gluto        schlucken 
 gono         Ecke 
 gosipa       Baumwolle 
@@ -1107,10 +1092,10 @@ grama-ve     Umschlag
 gramatika    Grammatik  
 gramini      Gras 
 grana        Korn 
-grandi       gro&szlig;artig 
+grandi       großartig 
 grasi        fett 
 gratia       danken 
-gratia de    danke f&uuml;r 
+gratia de    danke für 
 gratis       gratis 
 gratula      gratulieren 
 gravi        wichtig, schwer, Gewicht 
@@ -1125,36 +1110,38 @@ gumi         Gummi
 gusta        Geschmack, kosten, schmecken 
 guta         Tropfen 
 
+```
 
-</PRE>
-<A NAME="geh"></A>
-<H3>H</H3>
-<PRE>
+<span id="geh"></span>
+
+### H
+
+``` 
 habe         haben, besitzen, Eigentum, Gut 
 habe algo    leiden 
 habe bio     leben 
 habitu       Gewohnheit 
-hedo         Freude, Vergn&uuml;gung, froh, fr&ouml;hlich, gl&uuml;cklich, 
+hedo         Freude, Vergnügung, froh, fröhlich, glücklich, 
                 heiter, zufrieden 
 hedo gresi   spazieren gehen 
 helika       Spirale 
 helio        Sonne; drehen   
 hema         Blut  
-hemi         halb, H&auml;lfte 
+hemi         halb, Hälfte 
 hemo         Blut 
 hepa         Leber 
 hesi         klebrig 
 hesio        kleben 
-hesita       z&ouml;gern  
+hesita       zögern  
 hetero       anders, unterschiedlich 
 hetero-co    anders, sonst 
-hiao         g&auml;hnen 
+hiao         gähnen 
 hiberna      Winter 
 hidro        Wasser, nass 
 hierarki     Hierarchie 
 hieroglifo   hieroglyph 
 higie        gesund 
-hiper        oben, obig, &uuml;ber 
+hiper        oben, obig, über 
 hipo         unten, unter 
 hipo         Pferd, reiten 
 histo        Gewebe 
@@ -1163,10 +1150,10 @@ holo         ganz, durchaus
 homari       Hummer 
 homi         Kerl, Mensch
 homini       menschlich, Mensch 
-homo         &auml;hnlich, ebenso, egal, gleich, gleichen 
+homo         ähnlich, ebenso, egal, gleich, gleichen 
   un homo    derselbe
-homo-co      &auml;hnlich, gleich 
-honesti      anst&auml;ndig 
+homo-co      ähnlich, gleich 
+honesti      anständig 
 honori       Ehre 
 hordea       Gerste, Graupe 
 horizo       Horizont 
@@ -1179,11 +1166,13 @@ hospita      bewirten
 hoteli       Hotel 
 humidi       feucht  
 
+```
 
-</PRE>
-<A NAME="gei"></A>
-<H3>I</H3>
-<PRE>
+<span id="gei"></span>
+
+### I
+
+``` 
 i. e.        (= id es) es ist 
 iatri        Arzt, Doktor 
 id           es 
@@ -1197,9 +1186,9 @@ ikno         Spur
 il es        da ist; es gibt 
 imagi        Bild, Vorstellung  
 imagina      vorstellen, Vorstellung 
-imbrika      &uuml;berschneiden, auf etw. &uuml;bergreifen, &uuml;berlappen 
+imbrika      überschneiden, auf etw. übergreifen, überlappen 
 imedia       gleich, sofort, unmittelbar 
-impakti      Sto&szlig; 
+impakti      Stoß 
 imperi       Imperium, Reich 
 importa      Import 
 impresi      Eindruck 
@@ -1228,17 +1217,17 @@ instanta     dringend, sofort
 instrumenta  Werkzeug 
 insula       Insel 
 insura       Versicherung 
-intelige     vern&uuml;nftig, Verstand 
+intelige     vernünftig, Verstand 
 inter        zwischen, unter 
 inter multi ra  unter anderem 
 inter tem    inzwischen 
 interese     Interesse, interessieren 
 internatio   international 
-internexu    Verbindungen kn�pfen 
+internexu    Verbindungen knьpfen 
 interrupti   unterbrechen 
 intestina    Inneres, Eingeweide 
 intra        herein, innen, das Innere 
-introduce    einf&uuml;hren 
+introduce    einführen 
 investi      investieren  
 invidio      Neid 
 invita       einladen 
@@ -1252,34 +1241,38 @@ Italia       Italien
 itera        wieder, wiederholen 
 itinera      reisen, Reise 
 
+```
 
-</PRE>
-<A NAME="gej"></A>
-<H3>J</H3>
-<PRE>
+<span id="gej"></span>
+
+### J
+
+``` 
 ja           ja; freilich 
 jace         liegen 
 jake         Jacke 
-janu         T&uuml;r  
-joko         Witz, Spa&szlig; 
+janu         Tür  
+joko         Witz, Spaß 
 ju           sehr jung  
 ju-an        Junge  
-ju-fe        M&auml;dchen 
+ju-fe        Mädchen 
 judika       entscheiden, beurteilen, richten, Urteil 
 judika-pe    Richter 
 juga         verbinden, eintreten 
 juglans      Walnuss 
-jura         schw&ouml;ren  
+jura         schwören  
 jurnala      Zeitung 
 jurnali      Zeitung 
 justi        billig, fair, gerecht, recht 
 juve         jung, Jugend 
 
+```
 
-</PRE>
-<A NAME="gek"></A>
-<H3>K</H3>
-<PRE>
+<span id="gek"></span>
+
+### K
+
+``` 
 ka           wegen  
 ka (-ka)     (= kamera) Zimmer, Raum  
 ka-co        daher, darum, deshalb 
@@ -1288,10 +1281,10 @@ kade         Fall, fallen
 kaeto        Borste 
 kafa         Kaffee  
 kakao        Kakao 
-kako         h&auml;sslich, schlimm, &Uuml;bel, &uuml;bel  
-kakofoni     L&auml;rm 
+kako         hässlich, schlimm, Übel, übel  
+kakofoni     Lärm 
 kalendari    Kalender 
-kali         sch&ouml;n, h&uuml;bsch 
+kali         schön, hübsch 
 kalici       Tasse, Kelch 
 kalki        Ferse 
 kalkula      rechnen; Kieselstein, Stein 
@@ -1322,7 +1315,7 @@ kapila       Haar
 kapita       Haupt 
 kapitala     Hauptstadt 
 kapitali     Kapital 
-kapitana     Kapit&auml;n 
+kapitana     Kapitän 
 kapitula     Kapitel 
 kapota       Kapuze, Haube 
 kapri        Ziege 
@@ -1331,7 +1324,7 @@ kapsu        Paket, Kapsel
 kapti        fangen 
 karbo        Kohle 
 karboni      Kohlenstoff 
-karcera      Gef&auml;ngnis 
+karcera      Gefängnis 
 kardia       Herz 
 kardina      Scharnier 
 kargo        beladen, Ladung, Last 
@@ -1344,22 +1337,22 @@ karpe        Ernte
 karpu        Handgelenk 
 karta        Karte 
 kartona      Pappe 
-kasea        K&auml;se 
+kasea        Käse 
 kaseta       Kassette 
 kaso         Fall, im Falle von 
 kastela      Schloss 
-kata         abw&auml;rts, herunter, hinunter, nieder; 
-                st&uuml;rzen, untergehen
+kata         abwärts, herunter, hinunter, nieder; 
+                stürzen, untergehen
 katena       Kette, kettenartig 
 kauda        Schwanz 
 kauli        Stengel, Stiel 
 kausa        wegen 
 kautio       Vorsicht 
-kaverno      H&ouml;hle 
+kaverno      Höhle 
 kavita       hohl 
 kefa         Kopf, Haupt 
 kefa-ve      Hut 
-keloni       Schildkr&ouml;te 
+keloni       Schildkröte 
 kemi         chemisch 
 keno         leer  
 kerami       Ton, Keramik 
@@ -1380,25 +1373,25 @@ kino         Kino
 kiono        Schnee 
 kisti        (Harn-, Gallen-)Blase 
 kito         lebende Zelle 
-klandi       lahm, l&auml;hmen, humpeln 
+klandi       lahm, lähmen, humpeln 
 klari        klar, deutlich   
 klasi        Klasse, Grad, klassifizieren 
 klasti       (zer-)schmettern 
-klavi        abschlie&szlig;en, verschlie&szlig;en, Schl&uuml;ssel 
-kleida       zuschlie&szlig;en
-kleidi       zuschlie&szlig;en
+klavi        abschließen, verschließen, Schlüssel 
+kleida       zuschließen
+kleidi       zuschließen
 kleisto      enthalten 
 klepto       stehlen 
 klepto-pe    Dieb 
 kli          Bett 
 klima        Wetter 
 klina        neigen, Neigung 
-kloro        gr&uuml;n 
+kloro        grün 
 kloseta      W. C., Toilette 
-klu          sogar, einschlie&szlig;lich  
+klu          sogar, einschließlich  
 klu-co       dennoch 
-klude        schlie&szlig;en, zumachen 
-ko(n)        begegnen, mit, gegenw&auml;rtig, vorhanden 
+klude        schließen, zumachen 
+ko(n)        begegnen, mit, gegenwärtig, vorhanden 
 ko-co        damit 
 ko-qo        womit 
 koano        Kragen 
@@ -1413,9 +1406,9 @@ kole         Galle
 kolea        Scheide 
 kolegi       Kollege 
 kolekti      sammeln 
-koleri       b&ouml;se, &auml;rgerlich 
-kolina       H&uuml;gel 
-kolumni      S&auml;ule 
+koleri       böse, ärgerlich 
+kolina       Hügel 
+kolumni      Säule 
 koma         Komma 
 komanda      Anordnung, Auftrag, befehlen, bestellen
 kombina      kombinieren 
@@ -1425,15 +1418,15 @@ komika       komisch
 komiti       Komitee, Ausschuss 
 komo         wie? 
 kompani      Gesellschaft 
-kompanio     Gef&auml;hrte 
+kompanio     Gefährte 
 kompara      vergleichen  
 kompensa     kompensieren  
 kompeti      sich (mit)bewerben, konkurrieren 
-kompleti     v&ouml;llig, vollst&auml;ndig, vervollst&auml;ndigen 
+kompleti     völlig, vollständig, vervollständigen 
 kompli       leisten, vollenden 
 komplika     kompliziert  
 komposi      zusammensetzen 
-komuni       gemein (&ouml;ffentlich) 
+komuni       gemein (öffentlich) 
 komunika     Kommunikation, Verbindung, kommunizieren 
 kon alelo    zusammen; miteinander, zugleich 
 koncerta     Konzert 
@@ -1445,7 +1438,7 @@ konekti      verbinden
 konfekti     Marmelade 
 konference   Konferenz 
 konfesi      gestehen
-konformi     einf&ouml;rmig 
+konformi     einförmig 
 konfusi      durcheinander, verwechseln, verwirren 
 kongru       passend, geeignet, anpassen 
 koni         Kegel 
@@ -1456,17 +1449,17 @@ konkavi      konkav, hohl
 konsidera    betrachten 
 konsili      Rat, raten 
 konski       bewusst  
-konsola      Trost, tr&ouml;sten 
+konsola      Trost, trösten 
 konsume      konsumieren  
 kontextu     Zusammenhang  
 kontinenta   Kontinent 
 kontinu      fortfahren 
 konto        Konto 
-kontra       Gegenteil, gegen&uuml;ber, entgegengesetzt 
+kontra       Gegenteil, gegenüber, entgegengesetzt 
 kontra-co    dagegen, sondern, vielmehr 
 kontrola     Kontrolle  
 kontusi      quetschen, Quetschung 
-konversa     Gespr&auml;ch, Unterhaltung 
+konversa     Gespräch, Unterhaltung 
 konvexi      konvex 
 kope         rudern, Ruder, Ruderer 
 kopi         Kopie  
@@ -1490,21 +1483,21 @@ kosmeti      kosmetisch, Kosmetik
 kosmetika    Kosmetik 
 kosmi        Kosmus, Universum 
 kosmo        das All 
-kosta        K&uuml;ste, Rippe, Seite 
+kosta        Küste, Rippe, Seite 
 kostumi      Anzug 
 kotona       Baumwolle 
 kotona-lana  Watte 
 kotoni       Baumwolle 
-koxa         H&uuml;fte, Oberschenkel 
-krania       Sch&auml;del 
+koxa         Hüfte, Oberschenkel 
+krania       Schädel 
 kratera      Krater, Becken 
 krati        herrschen, Regierung 
 krea         schaffen 
 kredi        glauben  
 kredito      Kredit, Guthaben, Ansehen 
-krepita      rascheln, fl&uuml;stern 
+krepita      rascheln, flüstern 
 kresce       wachsen  
-kresta       Hahnenkamm, M&auml;hne, Helm 
+kresta       Hahnenkamm, Mähne, Helm 
 kreta        Kreide 
 kri          trennen 
 kribri       sieben, Sieb 
@@ -1520,39 +1513,41 @@ kritici      kritisieren, Kritik
 kritika      Kritik, kritisieren 
 kroma        Farbe, malen 
 kron         mal, Augenblick 
-kruci        Kreuz, durchqueren, &uuml;berqueren 
+kruci        Kreuz, durchqueren, überqueren 
 krudi        roh  
-kubi         W&uuml;rfel 
+kubi         Würfel 
 kubita       Ellenbogen 
 kuko         kochen  
-kuko-ka      K&uuml;che 
+kuko-ka      Küche 
 kuko-me      Herd 
 kultela      Messer 
 kulti        kultivieren 
 kultura      Kultur 
 kumbe        liegen 
-kumu         Menge, Haufen, anh&auml;ufen 
+kumu         Menge, Haufen, anhäufen 
 kune         Keil 
 kunea        Keil 
 kupra        Kupfer 
-kura         Aufmerksamkeit, Sorge, Vorsicht; aufmerksam, sorgf&auml;ltig, 
-                achten, aufpassen, h&uuml;ten (pro), pflegen, sorgen
+kura         Aufmerksamkeit, Sorge, Vorsicht; aufmerksam, sorgfältig, 
+                achten, aufpassen, hüten (pro), pflegen, sorgen
 kursu        Kurs, Kursus, Lauf 
 kurva        Kurve  
 kuspi        spitz, Spitze 
 
+```
 
-</PRE>
-<A NAME="gel"></A>
-<H3>L</H3>
-<PRE>
-la           dahin, hin, dort, dr&uuml;ben 
+<span id="gel"></span>
+
+### L
+
+``` 
+la           dahin, hin, dort, drüben 
 labia        Lippe 
 labori       Arbeit, Labor 
-lacera       zerrei&szlig;en 
+lacera       zerreißen 
 laevo        linke 
 lago         Hase 
-lakrima      Tr&auml;ne, weinen 
+lakrima      Träne, weinen 
 lakti        Milch 
 laku         See 
 lami         Klinge 
@@ -1560,7 +1555,7 @@ lamina       Scheibe, abschneiden
 lampa        Lampe, Schein 
 lana         Wolle 
 landa        Land, landen 
-lapse        schl&uuml;pfen, gleiten 
+lapse        schlüpfen, gleiten 
 larva        Larve 
 lase         lassen, erlauben 
 lase kade    fallen lassen 
@@ -1575,18 +1570,18 @@ lava         waschen
 laxa         verlieren 
 laxi         verlieren 
 lega         Gesetz, Recht 
-legumi       H&uuml;lsenfr&uuml;chte 
+legumi       Hülsenfrüchte 
 lekto        lesen 
 lenti        Linse 
   plu lenti  Brille 
 lento        langsam 
-leo          L&ouml;we 
+leo          Löwe 
 lepido       Schuppe 
 lepidoptera  Schmetterling 
-lepto        d&uuml;nn, zart 
+lepto        dünn, zart 
 lepus        Kaninchen 
-leuko        wei&szlig; 
-  leuko kloro  blass gr&uuml;n 
+leuko        weiß 
+  leuko kloro  blass grün 
   leuko-bruno  beige 
 leva         heben 
 levia        sanft, leicht 
@@ -1600,7 +1595,7 @@ libela       Stufe, eben, ausgleichen
 liberali     aufgeschlossen, liberal 
 libido       Lust, Verlangen 
 libra        Waage 
-lice         d&uuml;rfen 
+lice         dürfen 
 liga         binden 
 ligni        Holz 
 liko         lecken  
@@ -1614,60 +1609,62 @@ line         Linie, Zeile
 lingua       Sprache, Zunge 
 linqi        verlassen 
 linu         Flachs, Leinen 
-plu linu-ra  W&auml;sche 
+plu linu-ra  Wäsche 
 lipo         Fett, fett 
 lipo-furna   braten 
-liqi         Fl&uuml;ssigkeit 
+liqi         Flüssigkeit 
 lisi         trennen, unterscheiden 
 lista        Liste, Verzeichnis 
 litera       buchstabieren, Buchstabe, Liter 
 literatura   Literatur 
 lito         Stein  
-litora       K&uuml;ste  
+litora       Küste  
 litra        Liter 
 livre        liefern 
 lo (-lo)     Platz, Ort  
-lofo         Hahnenkamm, M&auml;hne, Helm 
+lofo         Hahnenkamm, Mähne, Helm 
 logi         verstehen, Verstand 
-logika       begr&uuml;nden 
+logika       begründen 
 loka         Lage, Platz, Ort, Stelle, Stellung, stellen, legen, streichen 
 loki         setzen 
-longi        lang, L&auml;nge  
+longi        lang, Länge  
 lose         verlieren 
 lose bio     sterben 
-lubrika      &ouml;len 
+lubrika      ölen 
 luci         transparent, durchsichtig 
 lucifera     Streichholz 
 ludo         spielen 
 lue          mieten, Miete  
-lukta        k&auml;mpfen 
+lukta        kämpfen 
 lumi         Licht 
 luna         Mond 
 lupus        Wolf 
 lustra       polieren   
 
+```
 
-</PRE>
-<A NAME="gem"></A>
-<H3>M</H3>
-<PRE>
+<span id="gem"></span>
+
+### M
+
+``` 
 ma (-ma)     (= materi) Materie, Material, Stoff 
 ma           mehr, (Komparativzeichen) 
 ma ... de    mehr ... als 
 ma-boni      verbessern 
 ma-dista     weiter 
-ma-fu        sp&auml;ter 
+ma-fu        später 
 ma-tele      weiter 
 maestro      Meister 
 magika       magisch  
 magneti      Magnetismus 
 magnetofono  Rekorder 
 makina       Maschine 
-makropus     K&auml;nguru  
+makropus     Känguru  
 makula       Fleck, beschmutzen, markieren 
 malea        Hammer 
 mali         schlecht, schlimm, Weh 
-mali-fortuna leider, schade, Ungl&uuml;ck 
+mali-fortuna leider, schade, Unglück 
 malus        Apfel  
 mama         (weibliche) Brust, Mama  
 mana         Morgen, morgens   
@@ -1690,40 +1687,40 @@ materia      Stoff
 matina       Morgen
 matri        Mutter 
 matura       reif 
-maxi         am meisten, h&ouml;chst, (Superlativkennzeichen) 
+maxi         am meisten, höchst, (Superlativkennzeichen) 
 maxi freqe   meist(ens) 
-maxi mero    gr&ouml;&szlig;tenteils 
-maxi proxi   n&auml;chste 
-me (-me)     Ger&auml;t 
+maxi mero    größtenteils 
+maxi proxi   nächste 
+me (-me)     Gerät 
 media        Mitte, mittel 
-medika       medizinisch, &auml;rztlich 
+medika       medizinisch, ärztlich 
 medika-ma    Arznei, Medizin 
 medio        Durchschnitt, Mittel 
 medita       nachdenken 
-mediu        mittelm&auml;&szlig;ig 
-mega         gro&szlig;, viel
+mediu        mittelmäßig 
+mega         groß, viel
 mega-preci   kostbar, teuer  
 mei          weniger 
   mei...de   weniger...als 
-mekani       Ger&auml;t 
-mekina       Ger&auml;t, Mechanismus
+mekani       Gerät 
+mekina       Gerät, Mechanismus
 melano       schwarz 
-  melano kloro dunkelgr&uuml;n
+  melano kloro dunkelgrün
 meli         Honig  
 meliora      verbessern 
 melodi       Melodie 
-memo         Erinnerung, Ged&auml;chtnis 
+memo         Erinnerung, Gedächtnis 
 menace       drohen 
 meno         Monat 
 mensa        Theke, Ladentisch 
-menta        Sinn, Gem&uuml;t 
-merge        tauchen, versenken, st&uuml;rzen 
+menta        Sinn, Gemüt 
+merge        tauchen, versenken, stürzen 
 merito       verdienen 
 merka        kaufen, Kauf 
 merka-pe     Kunde 
 merka-ra     Ware 
 merkato      Markt 
-mero         Abteilung, St&uuml;ck, Teil 
+mero         Abteilung, Stück, Teil 
 mero-pe      Mitglied 
 meso         Mitte; mitten in 
 meso-di      Mittag 
@@ -1731,15 +1728,15 @@ meso noktu   Mitternacht
 metali       Metall 
 metodi       Methode 
 metra        Meter, metre 
-metri        Gr&ouml;&szlig;e, Ma&szlig;, messen
+metri        Größe, Maß, messen
 metri-co     so weit; demnach 
 metro        insofern als 
 mi           ich, mich, mir, mein 
 mi spe       hoffentlich 
-mika         Brocken, St&uuml;ckchen 
+mika         Brocken, Stückchen 
 miko         Schwamm, Pilz 
 mikro        ein bisschen, gering, klein  
-mikro-do     H&uuml;tte  
+mikro-do     Hütte  
 mikro-ra     Einzelheit 
 miliona      Million 
 milita       Krieg, Schlacht 
@@ -1765,32 +1762,32 @@ misteri      Mysterium, Geheimnis, unheimlich
 mite         senden, schicken 
 mixa         mischen 
 mo           eins, ein  
-mo (-mo)     (= mobili) M&ouml;bel 
+mo (-mo)     (= mobili) Möbel 
 mobi         Auto 
-mobili       (= mo) M&ouml;bel 
-mobilia      (= mo) M&ouml;bel 
+mobili       (= mo) Möbel 
+mobilia      (= mo) Möbel 
 mode         Art, Mode, Verfahren 
 modela       Muster, Modell 
-modera       m&auml;&szlig;ig 
+modera       mäßig 
 moderni      modern 
-molekula     Molek&uuml;l 
+molekula     Molekül 
 moli         sanft, weich; reiben, mahlen 
-moli-do      M&uuml;hle 
-moli-me      M&uuml;hle 
+moli-do      Mühle 
+moli-me      Mühle 
 momenta      Moment 
-moneta       M&uuml;nze 
+moneta       Münze 
 monito       raten, warnen 
 monstra      zeigen 
 monti        Berg, Gebirge 
 morali       sittlich, Moral 
-morda        bei&szlig;en  
+morda        beißen  
 more         Gebrauch, Gewohnheit
 morfo        Form, Gestalt
 moroni       Narr 
 morta        Tod, tot 
 morta-pe     Tote 
-moskito      M&uuml;cke 
-moti         r&uuml;hren, setzen, stellen, streichen, tun, bewegen, fahren 
+moskito      Mücke 
+moti         rühren, setzen, stellen, streichen, tun, bewegen, fahren 
 motiva       motivieren 
 motocikla    Motorrad 
 motori       Motor 
@@ -1799,22 +1796,24 @@ muci         Schleim
 multi        viele 
 munda        Welt 
 mura         Mauer, Wand 
-muri         Ratten und M&auml;use  
+muri         Ratten und Mäuse  
 mus          Maus 
 musika       Musik 
 muska        Fliege 
 muski        Moos  
 muskula      Muskel 
-muta         &auml;ndern, ver&auml;ndern, verwandeln, Wechsel 
+muta         ändern, verändern, verwandeln, Wechsel 
 muta tako    schalten 
 muta trena   (Zug) umsteigen 
 mutua        gegenseitig, wechselseitig, gemeinsam 
 
+```
 
-</PRE>
-<A NAME="gen"></A>
-<H3>N</H3>
-<PRE>
+<span id="gen"></span>
+
+### N
+
+``` 
 na           wir, uns, unser 
 nari         Nasenloch 
 narko        betrunken 
@@ -1826,7 +1825,7 @@ nati-landa   Heimat
 natio        Nation 
 nation       Nation 
 natura       Natur, Wesen 
-naturali     nat&uuml;rlich 
+naturali     natürlich 
 navi         Boot, Schiff 
 navi-pe      Matrose
 ne           (Verneinung), nicht 
@@ -1835,11 +1834,11 @@ ne dice      schweigen
 ne kapti     verpassen 
 nebu         Nebel 
 nebula       Nebel 
-nece         m&uuml;ssen, sollen; n&ouml;tig, notwendig, wesentlich 
+nece         müssen, sollen; nötig, notwendig, wesentlich 
 nefo         Wolke 
 nega         verweigern 
 negotia      handeln, Verhandlung 
-nekro        zerst&ouml;ren  
+nekro        zerstören  
 nekto        schwimmen 
 neo          neu 
 nervo        Nerv 
@@ -1857,16 +1856,16 @@ nivi         Schnee
 no           nein 
 no(n)        (bezeichnet Gegenteil) 
 no-dina      schwach 
-no-dura      aufh&ouml;ren 
-no-face      zerst&ouml;ren, vernichten 
+no-dura      aufhören 
+no-face      zerstören, vernichten 
 no-facili    schwierig, Schwierigkeit 
 no-forti     leise 
 no-game      ledig 
-no-klu-co    unabh&auml;ngig davon 
+no-klu-co    unabhängig davon 
 no-memo      vergessen 
-no-posi      unm&ouml;glich 
+no-posi      unmöglich 
 no-puri      schmutzig 
-no-qestio    gleichg&uuml;ltig 
+no-qestio    gleichgültig 
 no-rekti     krumm 
 no-sani      ungesund 
 no-soni      ruhig, still, Stille 
@@ -1886,7 +1885,7 @@ norma        Standard, Norm, Durchschnitt
 normali      normal 
 nota         Rechnung, anmerken 
 noti         bemerken, merken  
-noti valu    merkw&uuml;rdig 
+noti valu    merkwürdig 
 nova         Nachricht 
 nova papira  Zeitung 
 novela       Roman 
@@ -1895,21 +1894,23 @@ nu-di        heute
 nu-fu        bald 
 nu-pa        gerade, soeben, vor kurzem 
 nu-tem       Gegenwart 
-nudi         nackt, blo&szlig;  
+nudi         nackt, bloß  
 nuki         Nuss 
 nuklea       Kern 
 nuli         nichts, kein; durchaus nicht 
 nuli kron    nie, niemals 
 nuli-lo      nirgends 
 nuli-pe      niemand 
-numera       Nummer, Zahl, z&auml;hlen 
+numera       Nummer, Zahl, zählen 
 nuta         nicken 
 
+```
 
-</PRE>
-<A NAME="geo"></A>
-<H3>O</H3>
-<PRE>
+<span id="geo"></span>
+
+### O
+
+``` 
 obe          gehorchen 
 obliga       verpflichten 
 obedi        gehorchen 
@@ -1927,35 +1928,35 @@ odori        Geruch
 odoro        Geruch 
 ofere        Angebot, anbieten, bieten
 ofero        Angebot, anbieten, bieten 
-ofici        B&uuml;ro 
+ofici        Büro 
 ofici-pe     Beamter 
 ok           (= okto) acht (= 8) 
 okasio       Gelegenheit 
 oklu         (Schrauben-)Mutter 
 okto         (= ok) acht (=8)  
 oku          Auge, gucken 
-olea         &Ouml;l  
+olea         Öl  
 oleo-resina  Terpentin 
 olface       riechen (Geruch wahrnehmen) 
 oligo        wenige 
 operatio     Operation 
 opinio       meinen 
-opresi       niederdr&uuml;cken 
+opresi       niederdrücken 
 orange       Orange 
 ordina       abstufen 
-ordinari     gew&ouml;hnlich 
+ordinari     gewöhnlich 
 organi       Orgel 
 organismo    Organismus 
 ori          aufgehen 
 orienta      Osten 
 origi        Quelle, Ursprung 
 oriza        Reis 
-orna         schm&uuml;cken 
+orna         schmücken 
 orto         aufrecht  
 os           Mund 
-osci         zittern, sch&uuml;tteln 
-osku         k&uuml;ssen 
-oskula       k&uuml;ssen  
+osci         zittern, schütteln 
+osku         küssen 
+oskula       küssen  
 osteo        Knochen 
 ostraka      Muschel 
 oti          Ohr 
@@ -1964,17 +1965,19 @@ ovali        oval
 ovis         Schaf 
 oxidi        oxydieren, Rost 
 
+```
 
-</PRE>
-<A NAME="gep"></A>
-<H3>P</H3>
-<PRE>
-pa           (Vergangenheitskennzeichen), vor&ouml;ber 
+<span id="gep"></span>
+
+### P
+
+``` 
+pa           (Vergangenheitskennzeichen), voröber 
 pa-di        gestern 
 pa-pa-di     vorgestern 
 pa-tem       Vergangenheit 
 pa fu        war im Begriff zu ..
-pa more      (tat etwas) gew&ouml;hnlich 
+pa more      (tat etwas) gewöhnlich 
 paci         Frieden 
 paga         Lohn, Gehalt, zahlen 
 pagina       Seite  
@@ -1983,33 +1986,33 @@ paka         Ballen
 paki         dick, fett
 paleo        alt 
 pali         Pfahl, Stange 
-palpa        befingern (durch Ber&uuml;hren untersuchen) 
+palpa        befingern (durch Berühren untersuchen) 
 paluda       Marsch 
 pan          alle 
-pan-di       t&auml;glich 
+pan-di       täglich 
 pani         Brot  
 panika       Hirse 
-panto        alle, s&auml;mtliche 
+panto        alle, sämtliche 
 panto-kron   immer, stets 
-panto-lo     &uuml;berall 
-panto-pe     alle, jedermann, s&auml;mtliche  
+panto-lo     überall 
+panto-pe     alle, jedermann, sämtliche  
 panto-ra     alles 
 papilio      Schmetterling 
 papira       Papier 
 para         nebenan 
 para via     nebenbei 
-para-co      daneben, &uuml;brigens 
+para-co      daneben, übrigens 
 para-pe      Nachbar 
-paralisi     l&auml;hmen 
+paralisi     lähmen 
 pardo        entschuldigen, verzeihen 
 plu parenta  Eltern 
-  parenta-parenta  Gro&szlig;eltern 
+  parenta-parenta  Großeltern 
 parenta fratri  Onkel 
 parenta sorori  Tante 
 parka        Park 
 parti        Teil 
 participa    teilnehmen 
-pasa         &uuml;berholen, vergehen, vorbei 
+pasa         überholen, vergehen, vorbei 
 pasaporta    Pass 
 pasio        Leidenschaft 
 Paska        Ostern 
@@ -2022,24 +2025,24 @@ pato-pe      Kranke, Patient
 patri        Vater 
 pausa        Pause 
 pe (-pe)     (= persona) man, (-)Person, (-)Arbeiter 
-peci         ein St&uuml;ck; ein bisschen 
-pedi         Fu&szlig;
+peci         ein Stück; ein bisschen 
+pedi         Fuß
 pedi-lo      Boden, Stock(werk) 
 pedi-te      Socke 
 pedi-ve      Schuh 
-pedi bola    Fu&szlig;ball 
+pedi bola    Fußball 
 pedi digi    Zehe 
 pektina      Kamm 
 pektora      Brust 
-peli         sch&auml;len 
+peli         schälen 
 peleki       Axt, Beil 
-pen          f&uuml;nf 
+pen          fünf 
 pencila      Bleistift 
-pende        h&auml;ngen 
-  pende ex   von etwas abh&auml;ngen 
+pende        hängen 
+  pende ex   von etwas abhängen 
 pende-te     Gardine, Vorhang 
 penite       bedauern, tut mir leid 
-penta        f&uuml;nf 
+penta        fünf 
 pepsi        Verdauung 
 per          mit Hilfe des; durch, mit 
 per fortuna  etwa 
@@ -2048,14 +2051,14 @@ per nima     namentlich
 per-co       dadurch 
 perfekti     perfekt, vollkommen 
 peri         herum, rings, umher, umgeben  
-peri-lo      N&auml;he 
+peri-lo      Nähe 
 perilo       Not 
 permito      erlauben 
 perplexi     verwirren 
 persekuti    verfolgen 
 persika      Pfirsich 
 persona      (= pe) Person 
-peruka       Per&uuml;cke 
+peruka       Perücke 
 peti         fliegen, hetzen, Flug  
 petitio      Bitte 
 petro        Fels 
@@ -2069,7 +2072,7 @@ pinceta      Pinzette
 pipa         Pfeife, pfeifen 
 pipera       pepper 
 pirami       Pyramide 
-piro         anz&uuml;nden, brennen, Feuer 
+piro         anzünden, brennen, Feuer 
 pirus        Birne 
 piski        Fisch 
 pisu         Erbse 
@@ -2077,14 +2080,14 @@ pisum        Erbse
 pla          Brett, Regal, Fach 
 place        bitte, Gefallen 
 plaka        Kuchen, Platte 
-plankto      Flo&szlig; 
+plankto      Floß 
 planka       Brett 
 plano        flach, eben 
 planta       Pflanze, pflanzen 
 plasti       Form, formen 
 plati        eben, flach  
 platiforma   Plattform, Ebene, Bahnsteig 
-ple          f&uuml;llen, besetzen, tanken, voll, satt 
+ple          füllen, besetzen, tanken, voll, satt 
 plei         mehr 
 pleisto      die meisten; Mehrheit
 plekto       flechten 
@@ -2099,14 +2102,14 @@ pluma        Feder
 plumba       Blei 
 plura        einige; mehrere; ein paar 
 plus         auch, ebenfalls, noch, sowie 
-plus-co      ferner, au&szlig;erdem, dazu   
-pluto        reich, Verm&ouml;gen, Wohlstand, Reichtum 
+plus-co      ferner, außerdem, dazu   
+pluto        reich, Vermögen, Wohlstand, Reichtum 
 pluvi        Regen, regnen 
 pluvi-skuta  Schirm 
 pluvia       Regen, regnen 
 po           nach 
 po-co        danach, darauf, hierauf, nachher 
-po-kron      sp&auml;t 
+po-kron      spät 
 po meso-di   Nachmittag 
 poda         Bein, Glied 
 poda-ve      Hose, Strumpf 
@@ -2124,15 +2127,15 @@ politika     Politik
 poluti       beschmutzen 
 pomi, pomo   apple 
 ponde        wiegen 
-ponti        Br&uuml;cke 
-popula       popul&auml;r 
+ponti        Brücke 
+popula       populär 
 porifera     Schwamm 
-porta        T&uuml;r, Tor 
+porta        Tür, Tor 
 porta        bringen, tragen 
 porta a      holen 
 portu        Hafen 
-posi         m&ouml;glich, vielleicht, k&ouml;nnte 
-u posi       M&ouml;glichkeit 
+posi         möglich, vielleicht, könnte 
+u posi       Möglichkeit 
 positi       Posten, Stand 
 post         nach 
 post alelo   hintereinander; nacheinander 
@@ -2142,37 +2145,37 @@ poste        hinter, hinten, hinterher
 postula      vermuten 
 potamo       Strom, Fluss 
 potato       Kartoffel  
-pote         f&auml;hig, k&ouml;nnen,
+pote         fähig, können,
 pove         arm 
 pragma       Sache 
 prate        Wiese 
-praxi        &uuml;ben, &Uuml;bung, praktisch 
+praxi        üben, Übung, praktisch 
 pre          vorher, vorig 
 pre mega tem einst 
 pre meso-di  Vormittag 
 pre mikro tem  vorhin 
-pre-kron     fr&uuml;h, fr&uuml;her  
-pre nu       bereits, schon, fr&uuml;her
+pre-kron     früh, früher  
+pre nu       bereits, schon, früher
 preci        kosten, Preis 
-precise      pr&auml;zise 
+precise      präzise 
 prefere      eher 
 prefero      lieber, vorziehen 
 premi        preisen 
 prende       fassen, nehmen, packen 
 prepara      bereit, fertig, vorbereiten 
 presa        Presse 
-presidenta   Pr&auml;sident, Vorsitzender  
-presu        dr&auml;ngen, Druck 
-prima        erst, prima, roh, zuerst, zun&auml;chst 
+presidenta   Präsident, Vorsitzender  
+presu        drängen, Druck 
+prima        erst, prima, roh, zuerst, zunächst 
 prima nima   Vorname 
-prima vora   Fr&uuml;hst&uuml;ck 
+prima vora   Frühstück 
 principio    Grundsatz 
 priorita     Vorfahrt 
 privati      privat 
 privilegi    Recht (auf etwas) 
-pro          f&uuml;r, daf&uuml;r (im Gegensatz zu dagegen), g&uuml;nstig  
-pro nu       vorl&auml;ufig 
-proba        Beweis, pr&uuml;fen 
+pro          für, dafür (im Gegensatz zu dagegen), günstig  
+pro nu       vorläufig 
+proba        Beweis, prüfen 
 probabili    wahrscheinlich 
 problema     Problem 
 procenti     Prozent 
@@ -2190,7 +2193,7 @@ propaga      propagieren
 proposi      Vorschlag, vorschlagen 
 proprie      besitzen 
 prosa        Prosa 
-proskeni     B&uuml;hne, inszenieren 
+proskeni     Bühne, inszenieren 
 protesta     Klage, beschweren  
 proto        Anfang, anfangen, beginnen, erst, zuerst 
 proto-pe     Lehrling 
@@ -2199,13 +2202,13 @@ proxi        beinahe, dabei, fast, nahe, nahezu
 proxi-ne     kaum 
 prunus       Pflaume 
 psiko        Psyche, Seele 
-ptero        Fl&uuml;gel 
-publika      Bekanntmachung, bekanntmachen, &ouml;ffentlich 
-pude         Scham, besch&auml;men 
-pugna        Faust, Kampf, k&auml;mpfen 
+ptero        Flügel 
+publika      Bekanntmachung, bekanntmachen, öffentlich 
+pude         Scham, beschämen 
+pugna        Faust, Kampf, kämpfen 
 pulmona      Lunge 
 pulpitu      Pult 
-pulsa        schieben, sto&szlig;en 
+pulsa        schieben, stoßen 
 pulve        Staub 
 pulvina      Kissen, polstern 
 pumpa        Pumpe 
@@ -2221,14 +2224,16 @@ puta         denken
 puta-me      Computer 
 pute         Brunnen, quellen 
  
+```
 
-</PRE>
-<A NAME="geq"></A>
-<H3>Q</H3>
-<PRE>
+<span id="geq"></span>
+
+### Q
+
+``` 
 qadra        Quadrat, viereckig 
-qalita       Eigenschaft, Qualit&auml;t 
-qantita      Quantit&auml;t, Menge 
+qalita       Eigenschaft, Qualität 
+qantita      Quantität, Menge 
 qanto        wieviel? wieviele? 
 qarto        Viertel 
 qe           (?, Fragepartikel) 
@@ -2246,19 +2251,21 @@ qo freqe     wie oft?
 qo horo      wann 
 qo metri     wie viel?  
 qo numera    wie viele? 
-qo speci     welcher Art?, was f&uuml;r ein?  
+qo speci     welcher Art?, was für ein?  
 qo tem       wann 
 qod          welches; das, waswhich, that which 
 qu           ob 
 
+```
 
-</PRE>
-<A NAME="ger"></A>
-<H3>R</H3>
-<PRE>
+<span id="ger"></span>
+
+### R
+
+``` 
 ra (-ra)     Sache, Ding, Artikel, Gegenstand 
 plu ra       Dinge, Material 
-rabi         toll, verr&uuml;ckt 
+rabi         toll, verrückt 
 racia        Rennen, Schlag 
 radi         Wurzel 
 radia        hell, scheinen 
@@ -2272,19 +2279,19 @@ rape         ergreifen
 rapi         greifen, Griff
 rapidi       schnell 
 rari         selten 
-ratio        Verh&auml;ltnis 
+ratio        Verhältnis 
 ratus        Ratte 
 razo         rasieren, kratzen 
 re-          wieder 
 re vide      wiedersehen 
 reakti       antworten 
-reali        echt, eigentlich, tats&auml;chlich, verwirklichen,
+reali        echt, eigentlich, tatsächlich, verwirklichen,
                wirklich 
 rebeli       Rebell 
 recerka      Forschung 
 recerka-pe   Forscher 
-recesi       Unterbrechung, zur&uuml;cksetzen 
-reflekti     reflektieren, zur&uuml;ckstrahlen 
+recesi       Unterbrechung, zurücksetzen 
+reflekti     reflektieren, zurückstrahlen 
 regi         Herrscher 
 regio        Gebiet, Gegend 
 registra     Aufzeichnung, Protokoll, Rekord 
@@ -2292,14 +2299,14 @@ regula       Lineal, Regel, regeln
 rekogni      anerkennen, erkennen 
 rektangula   Rechteck 
 rekti        direkt, gerade 
-relati       Beziehung, Verh&auml;ltnis 
-relatio      Beziehung, Verh&auml;ltnis 
+relati       Beziehung, Verhältnis 
+relatio      Beziehung, Verhältnis 
 relativi     relativ 
 relaxa       ruhen 
 religio      Religion 
 remunera     belohnen 
 rena         Niere 
-rentiera     Aktion&auml;r, Mieter 
+rentiera     Aktionär, Mieter 
 repara       flicken, heilen, Reparatur 
 repli        Antwort  
 reporta      berichten, melden 
@@ -2307,19 +2314,19 @@ representa   darstellen
 reproduce    reproduzieren 
 repti        kriechen 
 republika    Republik 
-residu       &uuml;brig 
-resista      widerstehen, widerstandsf&auml;hig 
+residu       übrig 
+resista      widerstehen, widerstandsfähig 
 respekti     respektieren, Respekt 
 responde     antworten 
-resta        bleiben, Rest, &uuml;brig   
+resta        bleiben, Rest, übrig   
 reti         Netz 
-retro        r&uuml;ckw&auml;rts
+retro        rückwärts
 revolutio    Revolution 
 ridi         lachen 
 ridi-hedo    lustig 
 ridi anti    jmd. auslachen 
 rigi         steif 
-rigidi       steif, hartn&auml;ckig 
+rigidi       steif, hartnäckig 
 ripa         Ufer 
 risko        Gefahr, wagen 
 ritmi        Rhythmus 
@@ -2340,11 +2347,13 @@ ruga         Runzel, runzeln
 rugo         grob 
 rura         Land (im Gegensatz zur Stadt) 
 
+```
 
-</PRE>
-<A NAME="ges"></A>
-<H3>S</H3>
-<PRE>
+<span id="ges"></span>
+
+### S
+
+``` 
 sa.          (= siniora) Frau ...
 sadi         grausam 
 sadisti      sadistisch
@@ -2355,35 +2364,35 @@ sakri        heilig
 sali         Salz 
 salmo        Lachs 
 salta        springen, Sprung 
-saluta       gr&uuml;&szlig;en, willkommen 
+saluta       grüßen, willkommen 
 salva        retten, sparen 
 sani         Gesundheit, gesund 
 sapo         Seife 
-sapro        F&auml;ulnis, verfaulen 
+sapro        Fäulnis, verfaulen 
 sasi         Griff, Bereich, greifen (???) 
 satelita     Satellit 
-sati         gen&uuml;gen, langen, reichen, ziemlich 
+sati         genügen, langen, reichen, ziemlich 
 sauru        Eidechse 
 se           selbst 
 sed          aber 
 sedi         sitzen 
 sedi-lo      Sitz 
 sedi-mo      Sitz, Stuhl 
-seiso        sch&uuml;tteln 
+seiso        schütteln 
 seka         schneiden 
 sekali       Roggen 
-sekretari    Sekret&auml;r(in) 
+sekretari    Sekretär(in) 
 sekreti      geheim
 sekunda      Sekunde 
 selaci       Hai 
 selene       Mond 
 sema         winken, Zeichen, Zeichen geben 
-semani       bedeuten, hei&szlig;en, Sinn 
+semani       bedeuten, heißen, Sinn 
 semi         halb 
 sensi        Sinn 
 sensitivi    empfindlich 
 sensua       sinnlich 
-senti        empfinden, f&uuml;hlen, Gef&uuml;hl 
+senti        empfinden, fühlen, Gefühl 
 separa       trennen 
 septi        sieben (7) 
 seqe         folgen, Folge, Wirkung 
@@ -2414,30 +2423,30 @@ simia        Affe
 simpati      Mitleid, Sympathie 
 simpto       Symptom, Anzeichen, Hinweis, andeuten 
 simul        zusammen 
-simula       vort&auml;uschen, simulieren 
+simula       vortäuschen, simulieren 
 sin          mit 
 sine         ohne 
 singu        einzeln, jeder 
 sinior       (= sr.) Herr 
 siniora      Dame, Frau (Anrede) 
-siniorina    Fr&auml;ulein 
-sio          w&uuml;rde (... wenn) 
+siniorina    Fräulein 
+sio          würde (... wenn) 
 sipa         verschwenden 
 siringi      Spritze, spritzen 
 sistema      System, ordentlich 
 sito         Essen, Speise, Nahrung 
-sito-va      Sch&uuml;ssel 
+sito-va      Schüssel 
 six          sechs 
 skala        Leiter, Treppe 
 skana        absuchen, skandieren 
 skapa        Schulter 
 skeleto      Skelett, Fachwerk 
 skema        Plan, Schema 
-skena        B&uuml;hne, Szene 
+skena        Bühne, Szene 
 skende       klettern, steigen 
-ski          wissen, k&ouml;nnen, kennen, Kenntnis, Wissen 
+ski          wissen, können, kennen, Kenntnis, Wissen 
 skience      Wissenschaft 
-skiurus      Eichh&ouml;rnchen 
+skiurus      Eichhörnchen 
 skizo        spalten 
 sklero       fest, hart 
 sko          Lehre, Unterricht, lehren 
@@ -2448,7 +2457,7 @@ skoto        dunkel
 skribe       schreiben 
 skulptu      schnitzen 
 skuta        Schild, Schirm, Bildschirm 
-smi          L&auml;cheln, l&auml;cheln 
+smi          Lächeln, lächeln 
 snazi        niesen 
 so           so 
 so ge-nima   sogenannte 
@@ -2461,19 +2470,19 @@ solemni      feierlich, ernst
 solidi       fest, solide 
 solo         allein, nur 
 solo mo      einzig 
-solutio      L&ouml;sung  
-solve        l&ouml;sen  
-soma         K&ouml;rper, Leib 
+solutio      Lösung  
+solve        lösen  
+soma         Körper, Leib 
 somni        schlafen  
 sonda        Sonde, sondieren, untersuchen 
-soni         Ger&auml;usch, l&auml;uten 
+soni         Geräusch, läuten 
 sonia        Traum 
 sopo         schlafen  
 sorori       Schwester  
 space        Raum  
 spasmo       Ruck, Zuckung, rucken 
 spata        Spaten, graben 
-spatula      L&ouml;ffel  
+spatula      Löffel  
 spe          Hoffnung, hoffen   
 speci        Art, Sorte, Schlag 
 spekta       Aussehen, sehen 
@@ -2481,25 +2490,25 @@ spekta-pe    Zuschauer
 spektra      Regenbogen 
 spektakla    Schauspiel 
 spekula      Spiegel  
-speleo       H&ouml;hle 
+speleo       Höhle 
 spende       verbringen 
 sperma       Samen  
 sperma-tem   Herbst  
 spira        Atem 
 spiritu      Geist, Seele 
-splendi      Glanz, gl&auml;nzen, hell, scheinen 
+splendi      Glanz, glänzen, hell, scheinen 
 spongi       Schwamm 
 sponta       frei, ungebunden 
   u sponta   Unkraut 
-spora        s&auml;en 
+spora        säen 
 sporta       Sport, Spiel, spielen 
-spre         Spray, spr&uuml;hen 
+spre         Spray, sprühen 
 sr.          (= sinior) Herr  
 sta          stehen 
 stabili      stabil 
 stagna       Teich 
 stana        Blech 
-stape        Steigb&uuml;gel 
+stape        Steigbügel 
 statio       Station, parken 
 stato        Staat 
 statu        Statue 
@@ -2508,44 +2517,44 @@ stego        Dach
 steno        eng, schmal 
 stereo       fest, starr 
 sti          anmachen, einschalten, schalten, einstellen, verursachen, Ursache 
-sti hedo     (fr&ouml;hlich) stimmen 
-sti kredi    &uuml;berzeugen 
+sti hedo     (fröhlich) stimmen 
+sti kredi    überzeugen 
 sti memo     erinnern 
-sti mira     &uuml;berraschen 
+sti mira     überraschen 
 stilo        Stift 
 stimula      anregen, stimulieren 
-sto          anhalten, aufh&ouml;ren, ausl&ouml;schen, ausschalten, hindern
-stoma        Mund, M&uuml;ndung 
+sto          anhalten, aufhören, auslöschen, ausschalten, hindern
+stoma        Mund, Mündung 
 stoma-ple    Schluck 
 stora        Vorrat, Lager 
 stra         Stroh 
-strata       Stra&szlig;e 
+strata       Straße 
 strategi     listig, List, Strategie 
 strepto      drehen, Drehung 
 stria        Streifen 
 stude        lernen, studieren, untersuchen, Untersuchung 
 u stude      Studium 
-studenti     Sch&uuml;ler, Student 
+studenti     Schüler, Student 
 stupe        erstaunen, wundern 
 stupidi      dumm 
-su           (= supra) oben, &uuml;ber  
-su-facia     Oberfl&auml;che 
+su           (= supra) oben, über  
+su-facia     Oberfläche 
 su toto      besonders; vor allem 
 su tunika    Oberhemd 
 sub          unter  
-sub kloro    gr&uuml;nlich 
-sub ridi     l&auml;cheln 
+sub kloro    grünlich 
+sub ridi     lächeln 
 sub termo    warm 
 suberi       Kork 
-subito       pl&ouml;tzlich 
+subito       plötzlich 
 sucede       Erfolg, gelingen 
-sud          S&uuml;den 
+sud          Süden 
 sudo         schwitzen 
-sue          n&auml;hen 
-sue-me       N&auml;hmaschine 
+sue          nähen 
+sue-me       Nähmaschine 
 suge         saugen 
 sui          Schwein
-sukro        s&uuml;&szlig; 
+sukro        süß 
 sukro-ma     Zucker 
 suku         Saft 
 sulfi        Schwefel 
@@ -2554,19 +2563,21 @@ suma         Betrag, Summe
 sumari       zusammenfassen 
 sume         nehmen 
 supa         Suppe 
-supra        (= su) oben, &uuml;ber 
+supra        (= su) oben, über 
 supracilia   Augenbraue 
-sura         bestimmt, gewiss, nat&uuml;rlich, selbstverst&auml;ndlich, sicher,
+sura         bestimmt, gewiss, natürlich, selbstverständlich, sicher,
                 Sicherheit  
 surge        entstehen 
-surprise     &uuml;berraschen 
-susura       rascheln, fl&uuml;stern 
+surprise     überraschen 
+susura       rascheln, flüstern 
 
+```
 
-</PRE>
-<A NAME="get"></A>
-<H3>T</H3>
-<PRE>
+<span id="get"></span>
+
+### T
+
+``` 
 ta           so sehr 
 taba         Bord 
 tabla        Tafel, Tisch 
@@ -2577,10 +2588,10 @@ taeni        schmales Band, Tonband
 tako         schnell, rasch, Eile, Geschwindigkeit 
 takografo    Kurzschrift, Stenographie 
 talaso       Meer, die See 
-tange        ber&uuml;hren, betreffen 
+tange        berühren, betreffen 
 tape         Teppich 
-tardi        sp&auml;t 
-tarsu        Fu&szlig;kn&ouml;chel 
+tardi        spät 
+tarsu        Fußknöchel 
 tasa         Tasse 
 taxo         einrichten, ordnen, Ordnung 
 taxus        Eibe 
@@ -2591,19 +2602,19 @@ tea          Tee
 teatra       Theater 
 tegu         bedecken, decken, zudecken 
 tegula       Ziegel, Kachel 
-teka         Gep&auml;ck, Kasten, Koffer, Schachtel 
+teka         Gepäck, Kasten, Koffer, Schachtel 
 tekni        technisch 
 tekno        geschickt, gewandt, klug, Handwerk
 tekto        bauen 
 tele         entfernt, fern, weit, Strecke 
-tele-dice    Ferngespr&auml;ch 
+tele-dice    Ferngespräch 
 tele-visi    Fernsehen 
 telefoni     Telefon 
 telefono     Telefon 
 telegrama    Telegramm 
 televisio    Fernsehen  
 teli         Brustwarze 
-tem          Weile, Zeit, solange, w&auml;hrend 
+tem          Weile, Zeit, solange, während 
 tem dona     leihen  
 tem gene     leihen, borgen 
 tem habe     mieten 
@@ -2617,13 +2628,13 @@ tende        Absicht, Zweck, Ziel
 tensi        spannen, Spannung 
 tensi a      erreichen, reichen, streben 
 tensio       Spannung, Dehnung, Druck 
-tenta        sich bem&uuml;hen, versuchen 
-tenu         d&uuml;nn, mager 
+tenta        sich bemühen, versuchen 
+tenu         dünn, mager 
 teo          Gott  
 teori        Lehre, Theorie  
 tera         Erde, Boden, Grund  
 terapi       behandeln, therapieren 
-termo        hei&szlig;, heizen, Hitze 
+termo        heiß, heizen, Hitze 
 termo-tem    Sommer 
 testi        bezeugen 
 tet          (= tetra) vier 
@@ -2635,7 +2646,7 @@ tipo         betreffen; tippen, drucken, klopfen, schlagen
 tira         ziehen 
 toga         Toga, Umhang, Mantel 
 toilet       Toilette 
-toka         ber&uuml;hren 
+toka         berühren 
 tolera       Geduld
 tomi         (Buch-)Band
 tomu         Band 
@@ -2644,10 +2655,10 @@ topika       Thema
 topo         Ort, Stelle; an, bei 
 toraki       Brustkasten 
 toxi         Gift 
-trakto       ziehen, rei&szlig;en 
+trakto       ziehen, reißen 
 trakto-me    Traktor 
-trans        durchqueren, &uuml;berqueren, quer 
-translati    &uuml;bersetzen 
+trans        durchqueren, überqueren, quer 
+translati    übersetzen 
 trapa        Falle  
 trauma       Schock, Trauma 
 tremulo      zittern 
@@ -2666,18 +2677,20 @@ trunku       Stamm
 tu           du, dein 
 tubi         Rohr 
 tumo         schwellen, Schwellung 
-tunela       Tunnel, H&ouml;hle 
+tunela       Tunnel, Höhle 
 tunika       Kleid 
 tura         Turm  
-turba        st&ouml;ren, hindern, M&uuml;he  
+turba        stören, hindern, Mühe  
 turisti      Tourist 
 tusi         Husten, husten 
 
+```
 
-</PRE>
-<A NAME="geu"></A>
-<H3>U</H3>
-<PRE>
+<span id="geu"></span>
+
+### U
+
+``` 
 u bi         paar 
 u sponta     Unkraut 
 u(n)         ein, der, die, das 
@@ -2701,11 +2714,11 @@ unda         Welle
 undu         Welle  
 ungua        (Finger-, Zehen-)Nagel, Huf 
 uni          vereinen, vereinigen 
-uniformi     regelm&auml;&szlig;ig, ordentlich 
+uniformi     regelmäßig, ordentlich 
 unio         Sitzung, treffen, versammeln 
 unita        vereinen 
 universa     Universum, Weltall 
-universita   Universit&auml;t 
+universita   Universität 
 unki         Haken 
 unktu        Salbe 
 uno-pe       jemand 
@@ -2716,16 +2729,18 @@ urani        Himmel
 urba         Stadt 
 urge         dringend 
 urina        urinieren 
-usuali       gew&ouml;hnlich 
-uteru        Geb&auml;rmutter 
+usuali       gewöhnlich 
+uteru        Gebärmutter 
 uti          anwenden, gebrauchen, brauchen, Gebrauch, verwenden 
 
+```
 
-</PRE>
-<A NAME="gev"></A>
-<H3>V</H3>
-<PRE>
-va (-va)     (= vasa) Topf, Gef&auml;&szlig;, Beh&auml;lter 
+<span id="gev"></span>
+
+### V
+
+``` 
+va (-va)     (= vasa) Topf, Gefäß, Behälter 
 vaga         wandern 
 vagina       Scheide 
 vagona       Auto, Wagen 
@@ -2733,56 +2748,56 @@ vaku         leer
 vakuo        Vakuum 
 vale         Leb wohl! 
 vali         Tal 
-valu         Wert, wert, gelten, sch&auml;tzen 
-valuta       Geld, W&auml;hrung, Kasse 
+valu         Wert, wert, gelten, schätzen 
+valuta       Geld, Währung, Kasse 
 valva        Klappe, Ventil, Wasserhahn 
 valza        Walzer 
 vanesce      verschwinden 
 vani         umsonst, vergeblich, vergebens 
 vanila       Vanille 
 vapo         Dampf 
-vasa         (= -va) Topf, Gef&auml;&szlig;, Beh&auml;lter 
-vaso         Gef&auml;&szlig;, Beh&auml;lter 
+vasa         (= -va) Topf, Gefäß, Behälter 
+vaso         Gefäß, Behälter 
 ve (-ve)     Kleidung 
-vegeta       Gem&uuml;se 
+vegeta       Gemüse 
 vekto        tragen, bewegen, ziehen 
 vela         segeln, Segel 
 veli         Schleier, Segel 
 veluta       Samt 
 vendo        verkaufen  
 veni         ankommen, kommen 
-veni versi   zur&uuml;ckkehren 
+veni versi   zurückkehren 
 veno         Ader, Vene 
 venti        Wind 
 ventra       Bauch 
 veranda      Veranda 
 verba        Wort  
 veri         allerdings, freilich, recht, richtig, wahr, zwar
-verifi       pr&uuml;fen 
+verifi       prüfen 
 vermi        Wurm  
 vernisa      Lack, lackieren 
-versi        zur&uuml;ck, R&uuml;ckkehr, zur&uuml;ckkehren 
-versi viagia  R&uuml;ckfahrt 
+versi        zurück, Rückkehr, zurückkehren 
+versi viagia  Rückfahrt 
 verte        umkehren, umgekehrt 
 vesikula     (Harn-)Blase 
 vespa        Wespe 
 vespera      Abend 
-vesti        bedecken, Kleid, Kleidung, Kleidungsst&uuml;ck 
+vesti        bedecken, Kleid, Kleidung, Kleidungsstück 
 plu vesti    Zeug 
 vestibula    Vorhalle, Vorhof 
 veto         verbieten  
-vexa         jmd. &auml;rgern 
+vexa         jmd. ärgern 
 vi           ihr (2. Pers. pl.), euer 
-via          Bahn, Stra&szlig;e, Weg  
+via          Bahn, Straße, Weg  
 viagia       Reise, Fahrt 
 vibra        vibrieren 
 vice         anstelle von, ersetzen  
-vice-co      daf&uuml;r 
+vice-co      dafür 
 vide         sehen, erblicken 
 vide-lo      Standpunkt 
 vidua        Witwe 
 vigi         wach, wecken 
-vigo         gedeihen, Vitalit&auml;t 
+vigo         gedeihen, Vitalität 
 viki         Dorf 
 viktima      Opfer 
 viktimi      Opfer 
@@ -2804,49 +2819,57 @@ vive         leben
 voci         schreien, rufen, Ruf 
 voka         Stimme  
 vokali       Vokal  
-vola         schie&szlig;en, fliegen, Flug  
-volu         Bedarf, Wille, w&uuml;nschen, brauchen, gern, wollen 
+vola         schießen, fliegen, Flug  
+volu         Bedarf, Wille, wünschen, brauchen, gern, wollen 
 volumi       Volumen, Raum 
 vomita       sich erbrechen, ausspeien 
 vora         fressen, essen 
 vora-do      Restaurant 
-vora-fito    Gem&uuml;se 
+vora-fito    Gemüse 
 vora-tem     Mahlzeit 
 vota         votieren, stimmen, Stimme 
-vulga        gemein (gew&ouml;hnlich) 
+vulga        gemein (gewöhnlich) 
 vulkani      Vulkan 
 vulne        verletzen, verwunden, Wunde 
 vulpe        Fuchs  
 vultura      Geier 
 
+```
 
-</PRE>
-<A NAME="gew"></A>
-<H3>W</H3>
-<PRE>
+<span id="gew"></span>
+
+### W
+
+``` 
 wiski        Whisky 
 
+```
 
-</PRE>
-<A NAME="gex"></A>
-<H3>X</H3>
-<PRE>
+<span id="gex"></span>
+
+### X
+
+``` 
 xanto        gelb 
 xeno         fremd 
 xeno-pe      Fremder 
 xilo         Holz 
 
+```
 
-</PRE>
-<A NAME="gey"></A>
-<H3>Y</H3>
-<PRE>
+<span id="gey"></span>
 
+### Y
 
-</PRE>
-<A NAME="gez"></A>
-<H3>Z</H3>
-<PRE>
+``` 
+
+```
+
+<span id="gez"></span>
+
+### Z
+
+``` 
 ze           Null, -tig 
 ze-kron      nie, niemals 
 ze-pe        keiner, niemand 
@@ -2862,35 +2885,35 @@ zo (-zo)     (= zona) Zone, Ring
 zoa          Tier 
 zona         Zone, Ring, Reifen   
 
+```
 
-</PRE>
-<HR>
-<BR>
-<!-- ============================================================== -->
-<A NAME="VocEG"></A>
-<H2>Vokabular Deutsch-Glosa</H2>
+-----
 
-([g] markiert griechische Wurzeln.) <BR>
+  
+<span id="VocEG"></span>
 
+## Vokabular Deutsch-Glosa
 
+(\[g\] markiert griechische Wurzeln.)  
+<span id="ega"></span>
 
-<A NAME="ega"></A>
-<H3>A</H3>
-<PRE>
+### A
+
+``` 
 ab                       ab 
 Abend                    vespera 
-abfahren                 ki ab        [g] <!-- ??? --> 
+abfahren                 ki ab        [g]  
 Abfall                   rudi 
 aber                     sed 
-abh&auml;ngen                 depende 
-abholen                  veni te...       <!-- ??? --> 
-Abk&ouml;mmling               fili 
+abhängen                 depende 
+abholen                  veni te...        
+Abkömmling               fili 
 abladen                  no-kargo 
 abmachen                 akorda 
-abnehmen                 apo              <!-- [g] ??? --> 
-abrei&szlig;en                 apo          [g]
-Abschied                 ki ab            <!-- ki-ab ??? --> 
-abschlie&szlig;en              klavi 
+abnehmen                 apo               
+abreißen                 apo          [g]
+Abschied                 ki ab             
+abschließen              klavi 
 abschneiden              lamina 
 Absicht                  tende 
 absondern                exkreti 
@@ -2899,7 +2922,7 @@ abstufen                 ordina
 Abtei                    abe 
 Abteilung                mero 
 abtrocknen               sika 
-abw&auml;rts                  kata         [g] 
+abwärts                  kata         [g] 
 Achse                    axi 
 achten                   kura 
 Ader                     veno 
@@ -2907,10 +2930,10 @@ Adresse                  adresa
 Adverb                   adverbi 
 Affe                     simia 
 Agent                    agenti 
-&auml;hnlich                  homo [g], homo-co 
+ähnlich                  homo [g], homo-co 
 Akademie                 academi 
 Akte                     dosie 
-Aktion&auml;r                 rentiera 
+Aktionär                 rentiera 
 albern                   fatuo 
 Album                    album 
 Alge                     alga 
@@ -2932,11 +2955,11 @@ am wenigsten             mini
 Amboss                   inku
 der Amerikaner           Amerika-pe
 Amt                      buro 
-am&uuml;sieren                amusa 
+amüsieren                amusa 
 anbieten                 ofero 
 Anblick                  vista 
 der andere               un hetero    [g]
-&auml;ndern                   muta
+ändern                   muta
 anders                   hetero [g], hetero-co 
 andeuten                 simpto 
 anerkennen               rekogni
@@ -2960,7 +2983,7 @@ anrufen                  fono         [g]
 ansehen                  skope        [g] 
 Ansehen                  kredito 
 Ansicht                  doxo         [g] 
-anst&auml;ndig                honesti 
+anständig                honesti 
 antarktisch              antarktika 
 Antenne                  antena 
 Antwort                  repli 
@@ -2971,7 +2994,7 @@ Anzeige                  info
 anzeigen                 indika 
 anziehen                 moti epi se 
 Anzug                    kostumi 
-anz&uuml;nden                 piro       [g] 
+anzünden                 piro       [g] 
 Apartment                kamera-fa 
 Apfel                    pomo, malus 
 Apfelsine                orange 
@@ -2979,7 +3002,7 @@ Apotheke                 farmako-bo
 Apparat                  aparatu 
 Arbeit                   ergo         [g]. labori 
 Arbeiter                 ergo-pe      [g] 
-&auml;rgern jmd.              vexa 
+ärgern jmd.              vexa 
 arithmetisch             aritmetika 
 arktisch                 arktika 
 Arm                      braki        [g]
@@ -2991,7 +3014,7 @@ Art                      mode
 Artikel                  ra 
 Arznei                   medika-ma, farmako 
 Arzt                     iatri        [g] 
-&auml;rztlich                 medika 
+ärztlich                 medika 
 Asche                    cinera 
 Aspekt                   aspekti 
 Ast                      rami 
@@ -3007,9 +3030,9 @@ auffallen                surprise
 Aufgabe                  ergo, problem [g] 
 aufgehen (Sonne)         ori 
 aufgeschlossen           liberali 
-aufh&auml;ngen                pende 
+aufhängen                pende 
 aufheben                 leva 
-aufh&ouml;ren                 sto 
+aufhören                 sto 
 aufmerksam               kura 
 Aufmerksamkeit           kura 
 aufnehmen                cepti 
@@ -3020,18 +3043,18 @@ aufsteigen               ori
 aufstehen                gene orto 
 aufstellen               establi 
 Auftrag                  komanda 
-aufw&auml;rts                 ana          [g] 
+aufwärts                 ana          [g] 
 Aufzeichnung             registra 
 Auge                     oku 
 Augenblick               kron         [g] 
 Augenbraue               supracilia 
-Augenh&ouml;hle               glena 
+Augenhöhle               glena 
 Augenwimper              cilia 
 Ausbildung               sko          [g] 
 Ausdruck                 termi [g], expresio 
-Ausfahrt                 ex via <!-- ex-via ??? --> 
-ausf&uuml;hren                duce ex, fero ex 
-Ausgang                  ex-via <!-- ex-via ??? --> 
+Ausfahrt                 ex via  
+ausführen                duce ex, fero ex 
+Ausgang                  ex-via  
 ausgeben                 dona ex 
 ausgeschlossen           no-posi 
 ausgleichen              libela 
@@ -3039,19 +3062,19 @@ aushalten                tolera
 Auskunft                 info 
 auslachen jmd.           ridi anti 
 Ausland                  xeno landa 
-ausl&ouml;schen               sto 
+auslöschen               sto 
 Ausnahme                 excepti
 ausrufen                 voci 
 sich ausruhen            relaxa
 ausschalten              sto 
 ausscheiden              exkreti 
-ausschlie&szlig;en             exclude, exklude 
+ausschließen             exclude, exklude 
 Aussehen, aussehen       feno, spekta 
-au&szlig;en                    extra 
-au&szlig;erdem                 plus-co 
-&Auml;u&szlig;eres                  extra 
-au&szlig;ergew&ouml;hnlich          no-more 
-&auml;u&szlig;erst                  forti; fo 
+außen                    extra 
+außerdem                 plus-co 
+Äußeres                  extra 
+außergewöhnlich          no-more 
+äußerst                  forti; fo 
 ausspeien                vomita 
 aussprechen              dice 
 aussteigen               ki ex 
@@ -3064,14 +3087,16 @@ auswischen               frika
 ausziehen                no-vesti 
 Auto                     mobi, vagona  
 automatisch              automati 
-Autorit&auml;t                arki 
+Autorität                arki 
 Axt                      peleki 
 
+```
 
-</PRE>
-<A NAME="egb"></A>
-<H3>B</H3>
-<PRE>
+<span id="egb"></span>
+
+### B
+
+``` 
 Baby                     babi 
 Bach                     mikro fluvi 
 Backe                    mandibula 
@@ -3120,17 +3145,17 @@ begegnen                 ko, enkontra
 beginnen                 proto        [g] 
 begleiten                ki ko 
 Begriff                  idea         [g] 
-begr&uuml;nden                logika 
+begründen                logika 
 behalten                 tena 
 behandeln                terapi 
 behaupten                dice, deklara 
-Beh&ouml;rde                  arki         [g] 
+Behörde                  arki         [g] 
 beide                    ambi         [g] 
 Beil                     peleki 
 Bein                     poda         [g] 
 beinahe                  proxi 
 Beispiel                 exempla 
-bei&szlig;en                   morda 
+beißen                   morda 
 bekannt                  familiari 
 Bekannter                ami 
 Bekanntmachung           publika 
@@ -3139,7 +3164,7 @@ beladen                  kargo
 beliebt                  ge-amo 
 belohnen                 remunera 
 bemerken                 noti 
-sich bem&uuml;hen             tenta 
+sich bemühen             tenta 
 sich benehmen            akti 
 benutzen                 uti 
 Benzin                   benzina 
@@ -3154,11 +3179,11 @@ Berg                     buna [g], monti
 Bergwerk                 mina 
 berichten                reporta 
 Beruf                    profesio 
-ber&uuml;hmt                  famo 
-ber&uuml;hren                 tange, toka 
-besch&auml;ftigen             aktivi 
-besch&auml;men                pude 
-beschlie&szlig;en              decide 
+berühmt                  famo 
+berühren                 tange, toka 
+beschäftigen             aktivi 
+beschämen                pude 
+beschließen              decide 
 beschmutzen              makula, poluti 
 beschreiben              deskribe 
 Besen                    brosa 
@@ -3184,7 +3209,7 @@ Betrieb                  firma
 betrunken                narko 
 Bett                     kli          [g] 
 beurteilen               judika 
-Bev&ouml;lkerung              demo         [g] 
+Bevölkerung              demo         [g] 
 bewegen                  kine [g], vekto 
 Beweis                   proba 
 beweisen                 demonstra 
@@ -3211,7 +3236,7 @@ bitte                    place
 Bitte                    petitio 
 bitter                   pikro [g], amera 
 Blasebalg                fisa 
-Bl&auml;schen                 vesikula 
+Bläschen                 vesikula 
 Blase                    (Harn- , Gallen-:) kisti, (Haut-:) vesikula 
 Blatt                    fila [g], folia, blada 
 blau                     blu [g], ciano 
@@ -3225,8 +3250,8 @@ blinken                  nikti
 Blitz                    flasc 
 Blitzlicht               marsu-lampa 
 blond                    blonda 
-blo&szlig;                     gimno [g], nudi 
-bl&uuml;hen                   flori 
+bloß                     gimno [g], nudi 
+blühen                   flori 
 Blume                    anto [g], flori 
 Bluse                    bluse 
 Blut                     hemo         [g] 
@@ -3235,9 +3260,9 @@ Bogen                    arca, arka
 Bohne                    faba 
 Bord                     taba 
 Borke                    kortika 
-B&ouml;rse                    bursa 
+Börse                    bursa 
 Borste                   kaeto, seta 
-b&ouml;se                     koleri 
+böse                     koleri 
 Botschaft (Staatenvertetung) ambasadora 
 braten                   lipo-furna 
 brauchen                 volu, uti 
@@ -3253,7 +3278,7 @@ Brille                   plu lenti
 bringen                  fero 
 Brocken                  mika 
 Brot                     pani 
-Br&uuml;cke                   ponti 
+Brücke                   ponti 
 Bruder                   fratri 
 Brunnen                  pute 
 Brust                    pektora 
@@ -3262,21 +3287,23 @@ Brustwarze               teli
 Buch                     bibli [g] 
 Buchstabe                litera 
 Bucht                    baia 
-b&uuml;geln                   baro 
-B&uuml;hne                    proskeni, skena  
+bügeln                   baro 
+Bühne                    proskeni, skena  
 Bungalow                 bungalo 
 bunt                     poli kroma   [g] 
-B&uuml;rger                   civi 
-B&uuml;ro                     buro, ofici 
-B&uuml;rste                   brosa 
+Bürger                   civi 
+Büro                     buro, ofici 
+Bürste                   brosa 
 Bus                      busa 
 Butter                   butiri 
 
+```
 
-</PRE>
-<A NAME="egc"></A>
-<H3>C</H3>
-<PRE>
+<span id="egc"></span>
+
+### C
+
+``` 
 Chef                     arki 
 checken                  cek 
 chemisch                 kemi 
@@ -3285,24 +3312,26 @@ Codex                    kodi
 Computer                 puta-me 
 Courage                  koragio 
 
+```
 
-</PRE>
-<A NAME="egd"></A>
-<H3>D</H3>
-<PRE>
+<span id="egd"></span>
+
+### D
+
+``` 
 da ist                   is es 
 dabei                    proxi 
 Dach                     stego        [g] 
 dadurch                  per-co 
-daf&uuml;r                    vice-co 
+dafür                    vice-co 
 dagegen                  kontra-co 
 daher                    ka-co 
 dahin                    la 
-dahinter                 hinter id <!-- poste id ??? --> 
+dahinter                 hinter id  
 damals                   u-la tem 
 Dame                     gina 
 damit                    ko-co 
-D&auml;mmerung                aurora 
+Dämmerung                aurora 
 Dampf                    vapo 
 danach                   po-co 
 daneben                  para-co 
@@ -3314,7 +3343,7 @@ darin                    in-co
 darlegen                 explika 
 Darm                     entero [g] 
 darstellen               representa 
-dar&uuml;ber                  inter-tem <!-- ??? --> 
+darüber                  inter-tem  
 darum                    ka-co 
 darunter                 infra-co 
 das                      u, un 
@@ -3342,7 +3371,7 @@ derselbe                 un homo
 deshalb                  ka-co 
 desto                    u-la metri 
 deutlich                 klari 
-deutsch                  deutsch <!-- Gro�-/Kleinschreibung ??? --> 
+deutsch                  deutsch  
 Deutscher                Deutsch-pe 
 Deutschland              Deutsch-landa 
 dich                     tu 
@@ -3359,47 +3388,49 @@ Ding                     ra
 direkt                   rekti, dirigi 
 Direktor                 direktora 
 doch                     anti-co 
-Doktor                   iatri <!-- ??? --> 
-Dom&auml;ne                   dominio 
+Doktor                   iatri  
+Domäne                   dominio 
 Donner                   bronto 
 doppelt                  diplo        [g] 
 Dorf                     viki 
 dort                     la 
 dorthin                  a-la 
 Draht                    fi 
-dr&auml;ngen                  baro [g], presu 
-drau&szlig;en                  extra 
+drängen                  baro [g], presu 
+draußen                  extra 
 drehen                   helio [g], strepto 
 Drehung                  strepto 
 drei, 3                  tri 
 dringend                 urge, instanta 
 drohen                   menace 
-dr&uuml;ben                   la 
+drüben                   la 
 Druck                    baro [g], presu, tensio 
-Dr&uuml;se                    adeno, glandi  
+Drüse                    adeno, glandi  
 du                       tu 
 dumm                     stupidi 
 dunkel                   skoto [g], obskura 
-d&uuml;nn                     lepto [g], tenu 
+dünn                     lepto [g], tenu 
 durch                    dia [g]; per 
 durchaus                 holo 
 durcheinander            konfusi 
-Durchfahrt               dia via <!-- dia-via ??? --> 
-durchf&uuml;hren              akti 
+Durchfahrt               dia via  
+durchführen              akti 
 durchqueren              trans, kruci 
 Durchschnitt             medio, norma 
 durchsehen               examina 
 durchsichtig             luci 
-d&uuml;rfen                   lice 
+dürfen                   lice 
 durstig                  dipso 
 duschen                  dusca 
 Dutzend                  mo-bi 
 
+```
 
-</PRE>
-<A NAME="ege"></A>
-<H3>E</H3>
-<PRE>
+<span id="ege"></span>
+
+### E
+
+``` 
 eben                     plano, plati. libela 
 eben                     a kron 
 Ebene                    platiforma 
@@ -3407,16 +3438,16 @@ ebenfalls                plus
 ebenso                   homo 
 Echse                    sauru 
 echt                     reali 
-Ecke                     gono <!-- penta(gon) verwirrend !!! --> 
+Ecke                     gono  
 egal                     homo 
 egoistisch               egotisti 
-Ehe                      game         [g] <!-- bi(gamie) verwirrend !!! --> 
+Ehe                      game         [g]  
 eher                     prefere 
 Ehre                     honori 
 Ei                       ova 
 Eibe                     taxus 
 Eichel                   glandi 
-Eichh&ouml;rnchen             skiurus 
+Eichhörnchen             skiurus 
 Eidechse                 sauru 
 eifrig                   zelo 
 eigen                    auto         [g] 
@@ -3424,17 +3455,17 @@ Eigenschaft              qalita
 eigentlich               reali 
 Eigentum                 habe 
 Eile                     tako         [g] 
-Eimer                    manu-va <!-- Handgef�� ??? --> 
+Eimer                    manu-va  
 ein                      u, un; mo    [g]
 eins                     mo 
-einander                 alelo        [g] <!-- parallel verwirrend !!! --> 
+einander                 alelo        [g]  
 einbeziehen              involve 
 Eindruck                 impresi 
 einfach                  elementa 
 Einfahrt                 in-via 
 Einfluss                 influ 
-einf&ouml;rmig                konformi 
-einf&uuml;hren                introduce 
+einförmig                konformi 
+einführen                introduce 
 Eingang                  in-via 
 Eingeweide               intestina 
 einige                   plura 
@@ -3474,14 +3505,14 @@ entgegengesetzt          kontra
 enthalten                tena, inklude, kleisto 
 enthusiastisch           zelo 
 entscheiden              decide 
-sich entschlie&szlig;en        decide 
+sich entschließen        decide 
 entschlossen             decide 
 entschuldigen            pardo 
  (sich) entschuldigen    apologi  
 entstehen                surge 
-entt&auml;uschen              frustra 
+enttäuschen              frustra 
 entwickeln               developo, evolve 
-Enzyklop&auml;die             enciklopedia 
+Enzyklopädie             enciklopedia 
 er                       an 
 erben                    geneti 
 erblicken                vide 
@@ -3499,9 +3530,9 @@ erhalten                 gene
 sich erholen             gene sani 
 erinnern                 sti memo 
 Erinnerung               memo 
-sich erk&auml;lten            gene frigi 
+sich erkälten            gene frigi 
 erkennen                 rekogni 
-erkl&auml;ren                 explika, deklara 
+erklären                 explika, deklara 
 erlauben                 permito 
 ernst                    serioso, solemni 
 Ernte                    karpe 
@@ -3512,10 +3543,10 @@ ersetzen                 vice
 erst                     proto [g], prima 
 erstaunen                stupe 
 Ertrag                   cede 
-erw&auml;hnen                 dice 
+erwähnen                 dice 
 erwarten                 atende, expekta 
 erwerben                 prokura 
-erz&auml;hlen                 dice 
+erzählen                 dice 
 erzeugen                 produce 
 erziehen                 eduka 
 es                       id 
@@ -3530,16 +3561,18 @@ euer                     vi
 Experiment               experimenta 
 Extrakt                  extract 
 
+```
 
-</PRE>
-<A NAME="egf"></A>
-<H3>F</H3>
-<PRE>
+<span id="egf"></span>
+
+### F
+
+``` 
 Fabrik                   face-do 
 Fach                     idio-interese, pla 
 Fachwerk                 skeleto 
 Faden                    fi, filament 
-f&auml;hig                    pote 
+fähig                    pote 
 Fahne                    insignia 
 fahren                   ki 
 Fahrer                   duce-pe 
@@ -3563,14 +3596,14 @@ fast                     proxi
 faszinieren              faskina 
 faul                     anti-ergo 
 faulen                   sapro 
-F&auml;ulnis                  sapro 
+Fäulnis                  sapro 
 Faust                    pugna 
 Feder                    elasti; (Vogel:) pina, pluma 
 fegen                    brosa 
 fehlen                   minus 
 Fehler                   defekti 
 feierlich                solemni 
-feiern                   celebra <!-- Verwirrung Zelebri --> 
+feiern                   celebra  
 fein                     feina 
 Feind                    anti-pe 
 Fekalie                  feki 
@@ -3583,7 +3616,7 @@ Ferse                    kalki
 Ferien                   libe tem 
 fern                     tele [g], dista 
 ferner                   plus-co 
-Ferngespr&auml;ch             tele dice <!-- tele-dice --> 
+Ferngespräch             tele dice  
 Fernsehen                tele visi, televisio 
 Fernsprecher             telefoni 
 fertig                   ge-fini 
@@ -3609,24 +3642,24 @@ Flasche                  botilia
 flechten                 plekto 
 Fleck                    makula 
 Fleisch                  karni 
-Flei&szlig;                    aktivi 
+Fleiß                    aktivi 
 flicken                  repara 
 Fliege                   muska, diptera 
 fliegen                  peti [g], vola 
 fliehen                  fugi 
-flie&szlig;en                  flu 
+fließen                  flu 
 Flocke                   avena, floka 
-Flo&szlig;                     plankto 
+Floß                     plankto 
 Flucht                   fugi 
-Fl&uuml;chtling               fugi-pe 
+Flüchtling               fugi-pe 
 Flug                     peti [g], vola 
-Fl&uuml;gel                   ptero [g], ala 
+Flügel                   ptero [g], ala 
 Flughafen                aerodroma 
 Flugzeug                 aeroplana 
 Fluss                    fluvi, fluvia 
-fl&uuml;ssig                  liqi 
-Fl&uuml;ssigkeit              fluidi 
-fl&uuml;stern                 buz, krepita, susura 
+flüssig                  liqi 
+Flüssigkeit              fluidi 
+flüstern                 buz, krepita, susura 
 Flut                     diluvi 
 Fokus                    foku 
 Folge                    seqe 
@@ -3649,9 +3682,9 @@ fragen                   qestio
   Sprechen Sie?            Qe tu dice? 
 Frankreich               France 
 Franzose                 France-pe
-franz&ouml;sisch              france 
+französisch              france 
 Frau                     gina [g], femina 
-Fr&auml;ulein                 juve-fe 
+Fräulein                 juve-fe 
 frei                     libe, sponta 
 freilich                 ja, veri 
 Freizeit                 libe-tem 
@@ -3665,37 +3698,39 @@ Frieden                  irene [g], paci
 frieren                  geli 
 frisch                   fresko 
 froh                     hedo         [g] 
-fr&ouml;hlich                 hedo         [g] 
+fröhlich                 hedo         [g] 
 Frosch                   rana 
 Frost                    krista 
 Frucht                   frukti 
 fruchtbar                fertili 
-fr&uuml;h                     pre kron 
-fr&uuml;her                   pre kron; pre nu 
-Fr&uuml;hling                 blasto-tem 
-Fr&uuml;hst&uuml;ck                prima vora 
+früh                     pre kron 
+früher                   pre kron; pre nu 
+Frühling                 blasto-tem 
+Frühstück                prima vora 
 Fuchs                    vulpe 
-f&uuml;hlen                   este [g], senti 
-f&uuml;hren                   ago [g], duce 
-F&uuml;hrerschein             ago-lice 
-f&uuml;llen                   ple 
-f&uuml;nf                     pen, penta 
+fühlen                   este [g], senti 
+führen                   ago [g], duce 
+Führerschein             ago-lice 
+füllen                   ple 
+fünf                     pen, penta 
 Furcht                   fobo         [g]
 furchtbar                deino        [g] 
-f&uuml;rchten                 senti fobo 
-Fu&szlig;                      pedi 
-Fu&szlig;ball                  pedi bola 
-Fu&szlig;kn&ouml;chel               tarsu 
-f&uuml;ttern                  dona sito 
+fürchten                 senti fobo 
+Fuß                      pedi 
+Fußball                  pedi bola 
+Fußknöchel               tarsu 
+füttern                  dona sito 
 
+```
 
-</PRE>
-<A NAME="egg"></A>
-<H3>G</H3>
-<PRE>
+<span id="egg"></span>
+
+### G
+
+``` 
 Gabe                     dona 
 Gabel                    furka 
-g&auml;hnen                   hiao 
+gähnen                   hiao 
 Galle                    kole 
 Gang                     kine 
 Gans                     anseri 
@@ -3706,8 +3741,8 @@ Garnele                  karis
 Garten                   horti 
 Gas                      gasi 
 Gast                     hospi 
-Geb&auml;rmutter              uteru 
-Geb&auml;ude                  domi; -do 
+Gebärmutter              uteru 
+Gebäude                  domi; -do 
 geben                    dona 
 Gebiet                   regio, dominio 
 Gebirge                  buna [g], monti 
@@ -3716,24 +3751,24 @@ Gebrauch                 uti; more
 gebrauchen               uti 
 Geburt                   nati 
 Geburtstag               nati-di 
-Ged&auml;chtnis               memo 
+Gedächtnis               memo 
 Gedanke                  idea 
 gedeihen                 vigo 
 Gedicht                  poesi 
 Geduld                   tolera 
 geeignet                 kongru 
 Gefahr                   risko 
-Gef&auml;hrte                 kompanio 
+Gefährte                 kompanio 
 Gefallen                 place 
-Gef&auml;ngnis                karcera 
-Gef&uuml;hl                   senti, emotio 
+Gefängnis                karcera 
+Gefühl                   senti, emotio 
 gegen                    anti 
 Gegend                   regio, area 
 gegeneinander            anti alelo 
 gegenseitig              mutua 
 Gegenstand               ra 
 Gegenteil                kontra 
-gegen&uuml;ber                kontra 
+gegenüber                kontra 
 Gegenwart                nu-tem 
 Gegner                   anti-pe 
 Gehalt                   paga 
@@ -3742,7 +3777,7 @@ Geheimnis                misteri
 gehen                    ki, gresi 
 Gehirn                   cerebra, enkefa 
 gehorchen                obe, obedi 
-geh&ouml;ren                  es de 
+gehören                  es de 
 Geier                    vultura 
 Geige                    violina 
 Geist                    spiritu 
@@ -3755,19 +3790,19 @@ gelingen                 sucede
 gelten                   valu 
 gemein                   vulga, komuni 
 gemeinsam                mutua 
-Gem&uuml;se                   vora-fito, vegeta 
-Gem&uuml;t                    menta 
-gem&uuml;tlich                gluko 
+Gemüse                   vora-fito, vegeta 
+Gemüt                    menta 
+gemütlich                gluko 
 genau                    exakti 
-genie&szlig;en                 fru 
+genießen                 fru 
 Genosse                  kamerada 
-gen&uuml;gen                  sati 
-Gep&auml;ck                   teka 
+genügen                  sati 
+Gepäck                   teka 
 gerade                   rekti; nu-pa 
 gerade gesagte, das      co 
-Ger&auml;t                    mekani, mekina, -me 
+Gerät                    mekani, mekina, -me 
   Computer                 puta-me 
-Ger&auml;usch                 fono [g], soni 
+Geräusch                 fono [g], soni 
 gerecht                  justi 
 Gericht                  tribuna, benca 
 gering                   mikro 
@@ -3775,7 +3810,7 @@ gern                     volu
 Gerste                   hordea 
 Geruch                   odori, odoro 
 Gesang                   kanta 
-Gesch&auml;ft                 boteka 
+Geschäft                 boteka 
 geschehen                acide 
 Geschenk                 dona 
 Geschichte               histori      [g] 
@@ -3788,14 +3823,14 @@ Geschwindigkeit          tako         [g]
 Gesellschaft             kompani, societa 
 Gesetz                   lega 
 Gesicht                  facia 
-Gespr&auml;ch                 konversa 
+Gespräch                 konversa 
 Gestalt                  morfo [g], forma 
 gestehen                 konfesi 
 gestern                  pa-di 
 gesund                   higie [g], sani 
-Getr&auml;nk                  bibe-ma 
+Getränk                  bibe-ma 
 Getreide                 cereali 
-gew&auml;hren                 dona 
+gewähren                 dona 
 Gewalt                   dina [g], viole 
 gewandt                  tekno [g] 
 Gewebe                   histo 
@@ -3804,16 +3839,16 @@ Gewicht                  baro [g], gravi
 gewinnen                 vikto, gania 
 gewiss                   sura, certa 
 ein gewisser             certa 
-Gewissen                 auto kritici <!-- auto-kritici ??? --> 
-sich gew&ouml;hnen            gene more 
+Gewissen                 auto kritici  
+sich gewöhnen            gene more 
 Gewohnheit               more, habitu 
-gew&ouml;hnlich               usuali, ordinari  
+gewöhnlich               usuali, ordinari  
 gierig                   avari, zelo 
-gie&szlig;en                   fusi 
+gießen                   fusi 
 Gift                     toxi 
 Gipfel                   akro         [g] 
 Gitter                   kancela 
-gl&auml;nzen                  splendi 
+glänzen                  splendi 
 Glas                     vitri 
 glatt                    glabro 
 glauben                  kredi 
@@ -3822,8 +3857,8 @@ gleichen                 homo
 gleiten                  glisa, lapse 
 Glied                    poda         [g] 
 Glocke                   kampani 
-Gl&uuml;ck                    fortuna 
-gl&uuml;cklich                hedo         [g] 
+Glück                    fortuna 
+glücklich                hedo         [g] 
 Gold                     kriso        [g] 
 Gott                     teo          [g] 
 Gottesdienst             latri 
@@ -3843,37 +3878,39 @@ Grenze                   limita, frontira
 Griff                    rapi, sasi 
 Grippe                   influenza 
 grob                     rugo 
-gro&szlig;                     mega         [g] 
-gro&szlig;artig                grandi 
-Gr&ouml;&szlig;e                    metri        [g] 
-gr&ouml;&szlig;er werden            expande 
-gr&ouml;&szlig;tenteils             maxi mero 
-gr&uuml;n                     kloro        [g] 
+groß                     mega         [g] 
+großartig                grandi 
+Größe                    metri        [g] 
+größer werden            expande 
+größtenteils             maxi mero 
+grün                     kloro        [g] 
 Grund                    tera, basi; funda 
 Grundsatz                principio 
 Gruppe                   grupa, fa 
-gr&uuml;&szlig;en                   saluta 
+grüßen                   saluta 
 gucken                   oku 
 Gummi                    gumi, latex, latici  
-g&uuml;nstig                  pro, favo 
+günstig                  pro, favo 
 gut                      eu [g], boni 
 Gut                      habe 
 Guthaben                 kredito 
 
+```
 
-</PRE>
-<A NAME="egh"></A>
-<H3>H</H3>
-<PRE>
+<span id="egh"></span>
+
+### H
+
+``` 
 Haar                     triko [g], kapila 
-haben                    habe <!-- Druckfehler !!! --> 
+haben                    habe  
 Hafen                    asila [g], portu 
 Hahn (Wasser-)           valva 
 Hahnenkamm               kresta, lofo 
 Hai                      selaci 
 Haken                    unki 
 halb                     hemi [g], semi 
-H&auml;lfte                   hemi         [g] 
+Hälfte                   hemi         [g] 
 Halle                    atria, atrio, atriu 
 Hals                     kola, cervika, faringi 
 halten                   tena 
@@ -3885,15 +3922,15 @@ handeln                  negotia, drama
 Handgelenk               karpu 
 Handlung                 akti 
 Handwerk                 tekno        [g] 
-h&auml;ngen                   pende 
+hängen                   pende 
 hart                     sklero [g], dura 
-hartn&auml;ckig               rigidi 
+hartnäckig               rigidi 
 Hase                     lago 
 Hass                     odio 
 hassen                   miso [g], odio 
-h&auml;sslich                 kako         [g] 
+hässlich                 kako         [g] 
 Haube                    kapota 
-h&auml;ufig                   freqe 
+häufig                   freqe 
 Haupt                    kefa [g], kapita 
 Hauptsache               duce-ra 
 Hauptstadt               kapitala 
@@ -3902,14 +3939,14 @@ Haut                     derma        [g]
 heben                    leva 
 Heer                     arma 
 Hefe                     zimo 
-Heft                     broscure <!-- Druckfehler broschure ??? --> 
+Heft                     broscure  
 heftig                   viole 
 heilig                   sakra 
 Heim                     domi 
 Heimat                   nati-landa 
 heiraten                 game         [g] 
-hei&szlig;                     termo        [g] 
-hei&szlig;en                   es ge-nima; semani 
+heiß                     termo        [g] 
+heißen                   es ge-nima; semani 
 heiter                   hedo         [g] 
 heizen                   termo        [g] 
 helfen                   auxi 
@@ -3957,36 +3994,36 @@ hinterher                poste
 Hintern                  piga 
 hinunter                 kata 
 Hinweis                  simpto 
-hinzuf&uuml;gen               adi 
+hinzufügen               adi 
 Hirse                    panika 
 Hitze                    termo        [g] 
 hoch                     alti 
-h&ouml;chst                   maxi 
-h&ouml;chstens                a maxi 
+höchst                   maxi 
+höchstens                a maxi 
 Hof                      korta, atria, atrio, atriu 
 hoffen                   spe 
 hoffentlich              mi spe 
 Hoffnung                 spe 
-h&ouml;lich                   civili 
-H&ouml;he                     alti 
+hölich                   civili 
+Höhe                     alti 
 hohl                     kavita, konkavi 
-H&ouml;hle                    kaverno, speleo, tunela 
+Höhle                    kaverno, speleo, tunela 
 holen                    porta a 
 Holz                     xilo [g], ligni 
 Honig                    meli         [g] 
 Honigwabe                favi 
-h&ouml;ren                    akusti [g], audi 
-H&ouml;rer                    audi-pe 
+hören                    akusti [g], audi 
+Hörer                    audi-pe 
 Horizont                 horizo 
 horizontal               horizonta 
 Horn                     kerati, kornu, trompeta 
 Hose                     poda-ve 
 Hotel                    hoteli 
-h&uuml;bsch                   kali         [g] 
+hübsch                   kali         [g] 
 Huf                      ungua 
-H&uuml;gel                    buna [g], buno [g], kolina 
-H&uuml;lse                    gluma 
-H&uuml;lsenfr&uuml;chte            legumi 
+Hügel                    buna [g], buno [g], kolina 
+Hülse                    gluma 
+Hülsenfrüchte            legumi 
 Huhn                     galina 
 Hummel                   bombus 
 Hummer                   homari 
@@ -3997,17 +4034,19 @@ Hunger                   famina
 hungrig                  famina 
 Husten                   tusi 
 Hut                      kefa-ve 
-H&uuml;fte                    koxa 
-h&uuml;ten                    kura pro 
-H&uuml;tte                    mikro-do 
+Hüfte                    koxa 
+hüten                    kura pro 
+Hütte                    mikro-do 
 
+```
 
-</PRE>
-<A NAME="egi"></A>
-<H3>I</H3>
-<PRE>
+<span id="egi"></span>
+
+### I
+
+``` 
 ich                      mi 
-Ideal                    ideali <!-- Ideal oder ideal ??? --> 
+Ideal                    ideali  
 Idee                     idea 
 Igel                     erinaceus 
 ihn                      an 
@@ -4041,17 +4080,19 @@ sich irren               ero
 Irrtum                   ero 
 Italien                  Italia 
 
+```
 
-</PRE>
-<A NAME="egj"></A>
-<H3>J</H3>
-<PRE>
+<span id="egj"></span>
+
+### J
+
+``` 
 ja                       ja 
 Jacke                    jake 
 Jagd                     casa 
 Jahr                     anua 
 Jahreszeit               anua tem 
-j&auml;hrlich                 anua 
+jährlich                 anua 
 jedenfalls               ali kaso 
 jeder                    singu 
 jedermann                panto-pe 
@@ -4065,11 +4106,13 @@ jung, (sehr)             ju
 Junge                    ju-an 
 Jungfrau                 virgo 
 
+```
 
-</PRE>
-<A NAME="egk"></A>
-<H3>K</H3>
-<PRE>
+<span id="egk"></span>
+
+### K
+
+``` 
 Kabel                    kabla 
 Kachel                   tegula 
 Kaffee                   kafa 
@@ -4079,12 +4122,12 @@ kalt                     frigi
 Kamera                   foto-me 
 Kamerad                  kamerada 
 Kamm                     pektina; (Hahnen-) kresta 
-k&auml;mpfen                  lukta 
+kämpfen                  lukta 
 Kanal                    kanali 
-K&auml;nguru                  makropus 
+Känguru                  makropus 
 Kaninchen                lepus 
 Kapital                  kapitali 
-Kapit&auml;n                  kapitana 
+Kapitän                  kapitana 
 Kapitel                  kapitula 
 Kapsel                   kapsu 
 kaputt                   ge-frakti 
@@ -4092,7 +4135,7 @@ Kapuze                   kapota
 Karotte                  daukus 
 Karte                    karta, carta 
 Kartoffel                potato 
-K&auml;se                     kasea 
+Käse                     kasea 
 Kasse                    valuta 
 Kassette                 kaseta 
 Kasten                   teka         [g] 
@@ -4165,11 +4208,11 @@ kompensieren             kompensa
 kompliziert              komplika 
 Konferenz                konference 
 Konifere                 konifera 
-K&ouml;nig                    an-regi 
-K&ouml;nigin                  fe-regi 
+König                    an-regi 
+Königin                  fe-regi 
 konkav                   konkavi 
 konkurrieren             kompeti 
-k&ouml;nnen                   pote, abili, ski 
+können                   pote, abili, ski 
 konsumieren              konsumi 
 Kontinent                kontinenta 
 Konto                    konto 
@@ -4181,7 +4224,7 @@ Korb                     korbi
 Kordel                   korda 
 Kork                     suberi 
 Korn                     grana 
-K&ouml;rper                   soma         [g] 
+Körper                   soma         [g] 
 korrodieren              korodi 
 Kosmetik                 kosmeti 
 kosmetisch               kosmeti 
@@ -4209,35 +4252,37 @@ Krise                    krisi
 Kritik                   kritici, kritika 
 kritisieren              kritika 
 Krone                    korona 
-kr&uuml;meln                  fria 
+krümeln                  fria 
 krumm                    no-rekti 
-kr&uuml;mmen                  flexi 
-Kr&uuml;mmung                 flexi 
-K&uuml;che                    kuko-ka 
+krümmen                  flexi 
+Krümmung                 flexi 
+Küche                    kuko-ka 
 Kuchen                   plaka 
 Kugel                    bola, buleta  
 Kuh                      fe-bovi 
-k&uuml;hl                     frigi 
+kühl                     frigi 
 kultivieren              kulti 
 Kultur                   kultura 
 Kunde                    merka-pe 
 Kunst                    arti 
-K&uuml;nstler                 artisti 
+Künstler                 artisti 
 Kupfer                   kupra 
 Kurs, Kursus             kursu 
 Kurve                    kurva 
 kurz                     brevi 
-k&uuml;ssen                   osku 
-K&uuml;ste                    kosta, litora 
+küssen                   osku 
+Küste                    kosta, litora 
 
+```
 
-</PRE>
-<A NAME="egl"></A>
-<H3>L</H3>
-<PRE>
+<span id="egl"></span>
+
+### L
+
+``` 
 Labor                    labori 
-l&auml;cheln                  sub ridi, smi 
-L&auml;cheln                  smi 
+lächeln                  sub ridi, smi 
+Lächeln                  smi 
 lachen                   ridi 
 Lachs                    salmo 
 Lack                     vernisa 
@@ -4247,19 +4292,19 @@ Ladentisch               mensa
 Lage                     loka 
 Lager                    kampa, stora 
 lahm                     klandi 
-l&auml;hmen                   klandi, paralisi 
+lähmen                   klandi, paralisi 
 Lampe                    lampa        [g] 
 Land                     landa 
 landen                   landa 
 Landkarte                carta 
 lang                     longi 
-L&auml;nge                    longi 
+Länge                    longi 
 langen                   sati 
 langsam                  lento 
-l&auml;ngst                   ex longi tem 
+längst                   ex longi tem 
 langweilig               no-stimula 
 Lappen                   puri-te 
-L&auml;rm                     kakofoni     [g] 
+Lärm                     kakofoni     [g] 
 Larve                    larva 
 lassen                   lase 
 Last                     kargo 
@@ -4268,7 +4313,7 @@ Lauf                     kursu
 laufen                   dromo 
 Laune                    atitudi 
 laut                     forti; fo- 
-l&auml;uten                   soni 
+läuten                   soni 
 leb wohl!                vale 
 leben                    vive, habe bio 
 Leben                    bio [g], vita 
@@ -4324,32 +4369,34 @@ Literatur                literatura
 Lob                      lauda 
 Loch                     fora 
 Locke                    ciri 
-L&ouml;ffel                   spatula 
+Löffel                   spatula 
 Lohn                     paga 
 Los                      fata 
-l&ouml;sen                    solve 
-L&ouml;sung                   solution 
-L&ouml;we                     leo 
+lösen                    solve 
+Lösung                   solution 
+Löwe                     leo 
 Luft                     aero [g] 
-L&uuml;ge                     falsi 
+Lüge                     falsi 
 Lunge                    pulmona 
 Lust                     libido 
 lustig                   ridi-hedo 
 
+```
 
-</PRE>
-<A NAME="egm"></A>
-<H3>M</H3>
-<PRE>
+<span id="egm"></span>
+
+### M
+
+``` 
 machen                   face, akti 
 Macht                    dinamo       [g] 
-M&auml;dchen                  ju-fe 
+Mädchen                  ju-fe 
 Magen                    gastro 
 mager                    tenu 
 magisch                  magika 
 Magnetismus              magneti 
 Mahlzeit                 vora-tem 
-M&auml;hne                    kresta, lofo 
+Mähne                    kresta, lofo 
 Mais                     zea 
 mal                      kron 
 malen                    kroma        [g] 
@@ -4368,10 +4415,10 @@ Markt                    merkato
 Marmelade                konfekti 
 Marsch                   paluda, marca 
 Maschine                 makina [g], mekina, mekani 
-Ma&szlig;                      metri         [g] 
+Maß                      metri         [g] 
 Massage                  masage 
 Masse                    masi 
-m&auml;&szlig;ig                    modera 
+mäßig                    modera 
 Material                 plu ra/ru 
 Matrose                  navi-pe 
 Materie                  materi; -ma
@@ -4386,7 +4433,7 @@ mehr                     ma; plei
 mehrere                  plura 
   Mehrzahl               plu 
   das Buch               u bibli 
-  die B&uuml;cher             plu bibli 
+  die Bücher             plu bibli 
 mein                     mi 
   das meinige            u-mi 
 meinen                   doxo [g], opinio 
@@ -4402,7 +4449,7 @@ Menge                    qantita, kumu
 Mensch                   homi, homini 
 menschlich               homini 
 merken                   noti 
-merkw&uuml;rdig               noti valu 
+merkwürdig               noti valu 
 Messe                    festa 
 messen                   metri        [g] 
 Messer                   kultela 
@@ -4436,18 +4483,18 @@ Mitte                    meso, media
 mitteilen                info 
 mittel                   media 
 Mittel                   medio 
-mittelm&auml;&szlig;ig              mediu 
+mittelmäßig              mediu 
 Mittelpunkt              centra [g], foku 
 mitten in                meso         [g] 
 Mitternacht              meso noktu 
 mittlerweile             tem-co 
-M&ouml;bel                    mobilia, mobili 
+Möbel                    mobilia, mobili 
 Mode                     mode 
 modern                   moderni 
-m&ouml;gen                    amo 
-m&ouml;glich                  posi 
-M&ouml;glichkeit              u posi 
-Molek&uuml;l                  molekula 
+mögen                    amo 
+möglich                  posi 
+Möglichkeit              u posi 
+Molekül                  molekula 
 Moment                   momenta 
 Monat                    meno         [g] 
 Mond                     selene [g], luna 
@@ -4460,28 +4507,30 @@ morgens                  mana
 motivieren               motiva 
 Motor                    motori 
 Motorrad                 motocikla 
-M&uuml;cke                    moskito 
-m&uuml;de                     fatiga 
-M&uuml;he                     turba 
-M&uuml;hle                    moli-do, moli-me 
+Mücke                    moskito 
+müde                     fatiga 
+Mühe                     turba 
+Mühle                    moli-do, moli-me 
 Mund                     stoma [g], os 
-M&uuml;ndung                  stoma        [g] 
-M&uuml;nze                    moneta 
+Mündung                  stoma        [g] 
+Münze                    moneta 
 Muschel                  konka, ostraka  
 Musik                    musika       [g] 
 Muskel                   mio [g], muskula 
-m&uuml;ssen                   nece 
+müssen                   nece 
 Muster                   modela 
 Mut                      koragi, koragio 
 Mutter                   matri 
 Mutter (f. Schraube)     oklu 
 Mysterium                misteri 
 
+```
 
-</PRE>
-<A NAME="egn"></A>
-<H3>N</H3>
-<PRE>
+<span id="egn"></span>
+
+### N
+
+``` 
 Na! So was!              bene! 
 nach                     po, post 
 nach und nach            per gradu 
@@ -4495,32 +4544,32 @@ nachher                  po-co
 Nachmittag               po meso-di 
 Nachricht                nova, data 
 nachsehen                seqe skope 
-n&auml;chste                  maxi proxi 
+nächste                  maxi proxi 
 Nacht                    nokti, noktu  
 nackt                    gimno [g], nudi 
 Nadel                    aku 
 Nadelbaum                konifera 
 Nagel                    aku, (Finger-, Zehen-:) ungua 
 nahe                     proxi 
-N&auml;he                     peri-lo      [g] 
-n&auml;hen                    sue 
+Nähe                     peri-lo      [g] 
+nähen                    sue 
 nahezu                   proxi 
-N&auml;hmaschine              sue-me 
+Nähmaschine              sue-me 
 Nahrung                  sito         [g]
 Name                     nima [g], nomina 
 namentlich               per nima 
-n&auml;mlich                  i. e., id es <!-- Druckfehler est !!! --> 
+nämlich                  i. e., id es  
 Narr                     moroni       [g] 
 Nase                     nasa 
 Nasenloch                nari 
 nass                     hidro [g], aqa 
 Nation                   natio, nation 
 Natur                    natura 
-nat&uuml;rlich                sura, naturali 
+natürlich                sura, naturali 
 Nebel                    nebu, nebula 
 nebenan                  para         [g] 
 nebenbei                 para via 
-nebeneinander            latu a latu <!-- Druckfehler lat !!! --> 
+nebeneinander            latu a latu  
 nehmen                   prende, sume 
 Neid                     invidio 
 neigen                   klina 
@@ -4539,7 +4588,7 @@ nichts                   zero [g], nuli
 nicken                   nuta 
 nie                      nuli kron, ze-kron 
 nieder                   kata         [g] 
-niederdr&uuml;cken            opresi 
+niederdrücken            opresi 
 niedrig                  baso 
 niemals                  nuli-kron, ze-kron 
 niemand                  nuli-pe, ze-pe 
@@ -4552,7 +4601,7 @@ Norden                   boreo [g], nord
 norm                     norma 
 normal                   normali 
 Not                      minus, perilo 
-n&ouml;tig                    nece 
+nötig                    nece 
 notwendig                nece 
 Null                     zero         [g] 
 Nummer                   numera 
@@ -4560,17 +4609,19 @@ nun                      nu
 nur                      solo 
 Nuss                     nuki 
 Nutzen                   profito 
-n&uuml;tzen                   dona profito 
-n&uuml;tzlich                 funktio 
+nützen                   dona profito 
+nützlich                 funktio 
 
+```
 
-</PRE>
-<A NAME="ego"></A>
-<H3>O</H3>
-<PRE>
+<span id="ego"></span>
+
+### O
+
+``` 
 ob                       qu 
 oben                     hiper, su, supra 
-Oberfl&auml;che               su facia 
+Oberfläche               su facia 
 Oberhemd                 su tunika 
 Oberschenkel             koxa 
 obig                     hiper 
@@ -4580,13 +4631,13 @@ oder                     alo
 Ofen                     furna 
 offen                    aperi 
 offensichtlich           evide 
-&ouml;ffentlich               publika 
-&ouml;ffnen                   aperi 
+öffentlich               publika 
+öffnen                   aperi 
 oft                      freqe 
 ohne                     sine 
 Ohr                      oti [g], auri 
-&Ouml;l                       olea 
-&ouml;len                     lubrika 
+Öl                       olea 
+ölen                     lubrika 
 Onkel                    parenta fratri 
 Operation                operatio 
 Opfer                    viktima, viktimi 
@@ -4602,11 +4653,13 @@ oval                     ovali
 oxydieren                oxidi 
 Ozean                    oceani       [g] 
 
+```
 
-</PRE>
-<A NAME="egp"></A>
-<H3>P</H3>
-<PRE>
+<span id="egp"></span>
+
+### P
+
+``` 
 paar                     u bi 
 ein paar                 plura 
 sich paaren              kopula 
@@ -4629,7 +4682,7 @@ Pause                    pausa        [g]
 Peitsche                 flagela 
 peitschen                flagela 
 Person                   persona 
-Per&uuml;cke                  peruka 
+Perücke                  peruka 
 Pfahl                    pali 
 Pfanne                   patela 
 Pfeffer                  pipera 
@@ -4644,7 +4697,7 @@ pflanzen                 planta
 Pflaume                  prunus 
 pflegen                  kura 
 Pflicht                  debi 
-pfl&uuml;cken                 frakti 
+pflücken                 frakti 
 Pflug                    ara 
 Pfund                    punda 
 Phantasie                fantasi      [g] 
@@ -4657,20 +4710,20 @@ Plane                    kanabi
 Plattform                platiforma 
 Platz                    piatsa 
 platzen                  explode 
-pl&ouml;tzlich                subito 
+plötzlich                subito 
 Pol                      pola 
 polieren                 lustra 
 Politik                  politika     [g] 
 Polizei                  polica       [g] 
 polstern                 kosina, pulvina 
-popul&auml;r                  popula 
+populär                  popula 
 Post                     posta 
 Posten                   positi 
 prahlen                  bombasti 
 Prahlerei                bombasti 
 praktisch                praxi 
-Pr&auml;sident                presidenta 
-pr&auml;zise                  precise 
+Präsident                presidenta 
+präzise                  precise 
 Preis                    preci 
 preisen                  premi 
 Presse                   presa 
@@ -4685,37 +4738,41 @@ propagieren              propaga
 Prosa                    prosa 
 Protokoll                registra 
 Prozent                  procenti 
-pr&uuml;fen                   examina, proba, verifi 
-Pr&uuml;fung                  examina 
+prüfen                   examina, proba, verifi 
+Prüfung                  examina 
 Psyche                   psiko 
 Publikum                 demo         [g] 
 Pult                     pulpitu 
 Pumpe                    pumpa 
 Punkt                    punkta 
-p&uuml;nktlich                epi kron     [g] 
+pünktlich                epi kron     [g] 
 putzen                   puri 
 Puzzle                   enigma 
 Pyramide                 pirami 
 
+```
 
-</PRE>
-<A NAME="egq"></A>
-<H3>Q</H3>
-<PRE>
+<span id="egq"></span>
+
+### Q
+
+``` 
 Quadrat                  qadra 
-Qualit&auml;t                 qalita 
-Quantit&auml;t                qantita 
+Qualität                 qalita 
+Quantität                qantita 
 Quelle                   fonta 
 quellen                  pute 
 quer                     trans 
 quetschen                kontusi 
 Quetschung               kontusi 
 
+```
 
-</PRE>
-<A NAME="egr"></A>
-<H3>R</H3>
-<PRE>
+<span id="egr"></span>
+
+### R
+
+``` 
 Rachen                   mandibula 
 Rad                      rota 
 Radio                    radio 
@@ -4727,7 +4784,7 @@ rasieren                 razo
 Rat                      konsili 
 raten                    konsili, monito 
 Ratte                    ratus 
-Ratten und M&auml;use         muri 
+Ratten und Mäuse         muri 
 Rauch                    fumi 
 rauchen                  fumi 
 Raum                     space, volumi 
@@ -4744,7 +4801,7 @@ reden                    dice, diskurso
 reflektieren             reflekti 
 Regal                    pla 
 Regel                    regula 
-regelm&auml;&szlig;ig               uniformi 
+regelmäßig               uniformi 
 regeln                   regula 
 Regen                    pluvia, pluvi 
 Regenbogen               iride, spektra 
@@ -4761,7 +4818,7 @@ rein                     puri
 Reis                     oriza 
 Reise                    viagia, itinera 
 reisen                   itinera 
-rei&szlig;en                   trakto; frakti 
+reißen                   trakto; frakti 
 reiten                   hipo         [g] 
 Rekord                   registra 
 Rekorder                 magnetofono 
@@ -4789,7 +4846,7 @@ Rinde                    kortika
 Ring                     zona         [g] 
 rings                    peri         [g] 
 Ritus                    ritu 
-Rock                     infra tunika <!-- infra-tunika ??? --> 
+Rock                     infra tunika  
 Roggen                   sekali 
 roh                      krudi; prima 
 Rohr                     tubi 
@@ -4802,10 +4859,10 @@ rot                      rubi, eritro
 rotieren                 gira 
 Ruck                     spasmo 
 rucken                   spasmo 
-R&uuml;cken                   dorsa 
-R&uuml;ckfahrt                versi viagia 
-R&uuml;ckkehr                 versi 
-r&uuml;ckw&auml;rts                retro 
+Rücken                   dorsa 
+Rückfahrt                versi viagia 
+Rückkehr                 versi 
+rückwärts                retro 
 Ruder                    kope 
 rudern                   kope 
 Ruf                      voci 
@@ -4814,21 +4871,23 @@ Ruhe                     kalma        [g]
 ruhen                    relaxa 
 ruhig                    no-soni 
 Ruhm                     famo 
-r&uuml;hren                   moti 
+rühren                   moti 
 rund                     ronda, rondo 
 Rundfunk                 radio 
 Runzel                   ruga 
 runzeln                  ruga 
 
+```
 
-</PRE>
-<A NAME="egs"></A>
-<H3>S</H3>
-<PRE>
+<span id="egs"></span>
+
+### S
+
+``` 
 Sache                    pragma [g], ra 
 Sack                     saka 
 sadistisch               sadisti 
-s&auml;en                     spora 
+säen                     spora 
 Saft                     suku 
 sagen                    dice 
 Salbe                    unktu 
@@ -4836,7 +4895,7 @@ Salz                     sali
 Samen                    sperma 
 sammeln                  kolekti 
 Samt                     veluta 
-s&auml;mtliche                panto        [g] 
+sämtliche                panto        [g] 
 Sand                     arena, sili 
 sanft                    moli, levia, gentili 
 Satellit                 satelita 
@@ -4845,20 +4904,20 @@ Satz                     frase [g], fa
 sauber                   puri 
 sauer                    akidi 
 saugen                   suge 
-S&auml;ule                    kolumni 
+Säule                    kolumni 
 Schachtel                teka 
 schade                   mali fortuna; tristi 
-Sch&auml;del                  krania 
+Schädel                  krania 
 Schaden                  noku 
 Schaf                    ovis 
 schaffen                 face, krea; ergo 
-sch&auml;len                  peli 
+schälen                  peli 
 Schallplatte             disko 
 schalten                 sti; muta tako 
 Scham                    pude 
 scharf                   akuto 
 Schatten                 umbra 
-sch&auml;tzen                 valu, apreci 
+schätzen                 valu, apreci 
 Schaum                   afro, zimo  
 Schauspiel               spektakla 
 Scheck                   ceka, cek 
@@ -4875,9 +4934,9 @@ Schicksal                fata
 schieben                 pulsa 
 schief                   obliqi 
 Schiene                  raila 
-schie&szlig;en                 peti [g]; fusili 
+schießen                 peti [g]; fusili 
 Schiff                   navi 
-Schildkr&ouml;te              keloni 
+Schildkröte              keloni 
 Schirm                   skuta, (Regen:) pluvi-skuta 
 Schlacht                 milita 
 schlafen                 somni, sopo 
@@ -4889,19 +4948,19 @@ Schlange                 serpenti
 schlecht                 mali 
 Schleier                 veli 
 Schleim                  limo, muci 
-schlie&szlig;en                klude 
-schlie&szlig;lich              a fini 
+schließen                klude 
+schließlich              a fini 
 schlimm                  kako [g], mali 
 Schloss                  kastela 
 Schluck                  stoma-ple    [g] 
 schlucken                gluto 
-schl&uuml;pfen                lapse 
+schlüpfen                lapse 
 Schluss                  fini 
-Schl&uuml;ssel                klavi 
+Schlüssel                klavi 
 schmal                   steno        [g] 
 Schmetterling            lepidoptera, papilio 
 schmettern               klasti 
-schm&uuml;cken                orna 
+schmücken                orna 
 Scharnier                kardina 
 Scheide                  kolea 
 schmecken                gusta 
@@ -4918,7 +4977,7 @@ Schnur                   fi, korda
 Schock                   trauma 
 Schokolade               cokolata 
 schon                    pre nu 
-sch&ouml;n                    kali         [g] 
+schön                    kali         [g] 
 Schrank                  tena-mo 
 Schreck                  fobo         [g] 
 schreiben                grafo [g], skribe 
@@ -4929,13 +4988,13 @@ Schritt                  gradu
 Schuh                    pedi-ve 
 Schuld                   debito 
 Schule                   sko-do 
-Sch&uuml;ler                  studenti 
+Schüler                  studenti 
 Schulter                 skapa 
 Schuppe                  lepido 
 Schuss                   fusili 
-Sch&uuml;ssel                 sito-va      [g] 
-sch&uuml;tteln                osci, seiso [g] 
-sch&uuml;tzen                 alexi 
+Schüssel                 sito-va      [g] 
+schütteln                osci, seiso [g] 
+schützen                 alexi 
 schwach                  no-dina 
 Schwamm                  fungu,fungus, miko, porifera, spongi 
 Schwan                   cigni 
@@ -4955,7 +5014,7 @@ schwierig                no-facili
 Schwierigkeit            no-facili 
 schwimmen                nekto        [g] 
 schwitzen                sudo 
-schw&ouml;ren                 jura 
+schwören                 jura 
 sechs, 6                 six 
 See, der                 laku, limni, limno 
 See, die                 talaso [g], mari 
@@ -4971,11 +5030,11 @@ sein (zu "er")           an
 seit                     ex 
 seitdem                  ex u-la kron 
 Seite                    kosta, pagina 
-Sekret&auml;r(in)             sekretari 
+Sekretär(in)             sekretari 
 Sekunde                  sekunda 
 selbst                   auto [g], se 
 Selbstlaut               vokali 
-selbstverst&auml;ndlich       sura 
+selbstverständlich       sura 
 selten                   rari 
 senden                   mite, difusi 
 Serie                    seria 
@@ -5026,7 +5085,7 @@ Sonne                    helio [g], sola
 sonst                    hetero [g], hetero-co 
 Sorge                    kura 
 sorgen                   kura 
-sorgf&auml;ltig               kura 
+sorgfältig               kura 
 soviel                   iso mega     [g] 
 sowie                    plus 
 sowieso                  anti-co 
@@ -5035,10 +5094,10 @@ spalten                  skizo [g], fisu
 spannen                  tensi 
 Spannung                 tensio 
 sparen                   salva 
-Spa&szlig;                     joko 
-sp&auml;t                     po-kron, tardi 
+Spaß                     joko 
+spät                     po-kron, tardi 
 Spaten                   spata 
-sp&auml;ter                   ma-fu 
+später                   ma-fu 
 spazieren gehen          hedo gresi, ambula  
 Speise                   sito         [g] 
 Spiegel                  spekula 
@@ -5057,7 +5116,7 @@ Spreu                    gluma
 springen                 salta 
 Spritze                  siringi 
 spritzen                 siringi 
-spr&uuml;hen                  spre 
+sprühen                  spre 
 Spur                     ikno         [g] 
 Staat                    stato 
 Stab                     baci         [g] 
@@ -5071,7 +5130,7 @@ Standard                 norma
 Standpunkt               vide-lo 
 Stange                   pali 
 stark                    dina         [g] 
-St&auml;rke (Mehl-)           amila 
+Stärke (Mehl-)           amila 
 starr                    stereo 
 starten                  ki ab 
 stattfinden              acide 
@@ -5082,13 +5141,13 @@ staunen                  mira
 stechen                  punge 
 stehen                   sta 
 stehlen                  klepto       [g] 
-Steigb&uuml;gel               stape 
+Steigbügel               stape 
 steigen                  skende 
 steif                    rigi, rigidi 
 Stein                    kalkula, lito 
 Stelle                   loka 
 stellen                  loka, moti 
-Stellung                 loka <!-- auch topo [g] ??? --> 
+Stellung                 loka  
 Stengel                  kauli 
 sterben                  lose bio 
 Stern                    astro        [g] 
@@ -5106,12 +5165,12 @@ stimulieren              stimula
 Stock                    kana, pedi-lo 
 Stoff                    materia; -ma 
 stolz                    auto-lauda 
-st&ouml;ren                   turba 
-Sto&szlig;                     impakti 
-sto&szlig;en                   pulsa 
+stören                   turba 
+Stoß                     impakti 
+stoßen                   pulsa 
 Strafe                   puni 
 Strahl                   radio, rai 
-Stra&szlig;e                   strata 
+Straße                   strata 
 Strategie                strategi 
 streben                  tensi a 
 Strecke                  tele [g], dista 
@@ -5123,8 +5182,8 @@ streng                   severi
 Stroh                    stra 
 Strom                    potamo [g], fluvi, fluvia 
 Strumpf                  poda-ve 
-St&uuml;ck                    mero [g], peci 
-St&uuml;ckchen                mika 
+Stück                    mero [g], peci 
+Stückchen                mika 
 Student                  studenti 
 studieren                stude 
 Studium                  u stude 
@@ -5133,27 +5192,29 @@ Stuhl                    sedi-mo
 Stunde                   horo         [g] 
 Stundenplan              tabula 
 Sturm                    tempestu 
-st&uuml;rzen                  kata [g], merge 
+stürzen                  kata [g], merge 
 suchen                   cerka 
-S&uuml;den                    austra, sud 
+Süden                    austra, sud 
 Summe                    suma 
 summen                   buz 
 Suppe                    supa 
-s&uuml;&szlig;                      sukro 
+süß                      sukro 
 Symbol                   simboli 
 Symptom                  simpto 
 System                   sistema 
 Szene                    skena 
 
+```
 
-</PRE>
-<A NAME="egt"></A>
-<H3>T</H3>
-<PRE>
+<span id="egt"></span>
+
+### T
+
+``` 
 Tablette                 tableta 
 Tafel                    tabla 
 Tag                      di 
-t&auml;glich                  pan-di 
+täglich                  pan-di 
 Tal                      vali 
 tanken                   ple 
 Tante                    parenta sorori 
@@ -5163,9 +5224,9 @@ Taschenlampe             marsu-lampa
 Taschentuch              nasa-te 
 Tasse                    kalici [g], tasa 
 Tat                      akti 
-t&auml;tig                    aktivi 
+tätig                    aktivi 
 Tatsache                 faktu, data 
-tats&auml;chlich              reali 
+tatsächlich              reali 
 tauchen                  bapti, merge 
 tausend                  kilo         [g] 
 technisch                tekni        [g] 
@@ -5206,7 +5267,7 @@ Tote                     morta-pe
 Tourist                  turisti 
 tragen                   fero, porta, vekto 
 Traktor                  trakto-me 
-Tr&auml;ne                    lakrima 
+Träne                    lakrima 
 transparent              luci 
 Traum                    sonia 
 Trauma                   trauma 
@@ -5229,32 +5290,34 @@ trotzdem                 anti-co
 Tuch                     textili; -te 
 tun                      akti; moti 
 Tunnel                   tunela 
-T&uuml;r                      porta, janu 
+Tür                      porta, janu 
 Turm                     tura 
 turnen                   gimnasti     [g] 
 
+```
 
-</PRE>
-<A NAME="egu"></A>
-<H3>U</H3>
-<PRE>
-&Uuml;bel                     kako         [g] 
-&uuml;ben                     praxi, exercise 
-&uuml;ber                     de, hiper, su, supra 
-&uuml;berall                  panto-lo 
-&uuml;bergreifen              imbrika 
-&uuml;berhaupt                generali 
-&uuml;berholen                pasa 
-&uuml;berlappen               imbrika  
-&uuml;bermorgen               fu-fu-di 
-&uuml;berqueren               kruci, trans 
-&uuml;berraschen              sti mira; surprise 
-&uuml;berschneiden            imbrika 
-&uuml;bersetzen               translati 
-&uuml;berzeugen               sti kredi 
-&uuml;brig                    resta, residu 
-&uuml;brigens                 para-co 
-&Uuml;bung                    praxi, exercise 
+<span id="egu"></span>
+
+### U
+
+``` 
+Übel                     kako         [g] 
+üben                     praxi, exercise 
+über                     de, hiper, su, supra 
+überall                  panto-lo 
+übergreifen              imbrika 
+überhaupt                generali 
+überholen                pasa 
+überlappen               imbrika  
+übermorgen               fu-fu-di 
+überqueren               kruci, trans 
+überraschen              sti mira; surprise 
+überschneiden            imbrika 
+übersetzen               translati 
+überzeugen               sti kredi 
+übrig                    resta, residu 
+übrigens                 para-co 
+Übung                    praxi, exercise 
 Ufer                     ripa 
 Uhr                      horo-me 
 um ... zu                te 
@@ -5274,15 +5337,15 @@ unbedingt                absoluti
 und                      e 
 und so weiter            e so avanti 
 ungebunden               sponta 
-ungef&auml;hr                 cirka 
+ungefähr                 cirka 
 ungesund                 no-sani 
-Ungl&uuml;ck                  mali fortuna 
+Unglück                  mali fortuna 
 unheimlich               misteri 
-Universit&auml;t              universita 
+Universität              universita 
 Universum                universa 
 Unkraut                  u sponta 
 unmittelbar              imedia 
-unm&ouml;glich                no-posi 
+unmöglich                no-posi 
 uns                      na 
 unser                    na 
   das unsrige            u-na 
@@ -5312,11 +5375,13 @@ Ursache                  etio [g], sti
 Ursprung                 origi, ur 
 Urteil                   judika 
 
+```
 
-</PRE>
-<A NAME="egv"></A>
-<H3>V</H3>
-<PRE>
+<span id="egv"></span>
+
+### V
+
+``` 
 Vakuum                   vakuo 
 Vanille                  vanila 
 Vater                    patri 
@@ -5324,23 +5389,23 @@ Veilchen                 violeta
 Vene                     veno 
 Ventil                   valva 
 Veranda                  veranda 
-ver&auml;ndern                muta 
+verändern                muta 
 verantwortlich           liabili 
 verbergen                kripti [g], kripto [g] 
 verbessern               ma-boni, meliora  
 verbieten                veto 
 verbinden                juga, konekti, nexi, zigo  
 Verbindung               komunika, artikula, nexu 
-Verbindungen kn&uuml;pfen     internexu 
+Verbindungen knüpfen     internexu 
 verborgen                kripto 
 Verbrechen               krimi 
 verbreiten               difusi 
-verbrennen               busti <!-- ??? --> 
+verbrennen               busti  
 verbringen               spende 
 Verdauung                pepsi 
 verderben                noku 
 verdienen                merito 
-verd&uuml;nnen                diluti 
+verdünnen                diluti 
 verehren                 latri 
 vereinen                 uni, unita  
 vereinigen               uni, unita 
@@ -5354,9 +5419,9 @@ vergebens                vani
 vergehen                 pasa 
 vergessen                no-memo 
 vergleichen              kompara 
-Vergn&uuml;gung               hedo         [g] 
+Vergnügung               hedo         [g] 
 verhaften                aresta 
-Verh&auml;ltnis               relatio, ratio 
+Verhältnis               relatio, ratio 
 Verhandlung              negotia 
 verheiratet              ge-game 
 verkaufen                vendo 
@@ -5366,16 +5431,16 @@ verlassen                ki ab; linqi
 verletzen                vulne 
 verlieren                laxa, laxi, lose 
 vermeiden                evita 
-Verm&ouml;gen                 pluto        [g] 
+Vermögen                 pluto        [g] 
 vermuten                 postula, divina 
 vernichten               no-face 
-vern&uuml;nftig               intelige 
+vernünftig               intelige 
 verpassen                ne kapti 
 verpflichten             obliga 
-verr&uuml;ckt                 rabi 
+verrückt                 rabi 
 versammeln               unio 
 verschieden              difere 
-verschlie&szlig;en             klavi        [g] 
+verschließen             klavi        [g] 
 verschmutzen             poluti 
 verschwenden             disipa, sipa 
 verschwinden             ki ex vista; vanesce  
@@ -5392,7 +5457,7 @@ verteidigen              alexi        [g]
 verteilen                distribu 
 vertrauen                fide 
 verursachen              sti, provoka 
-vervollst&auml;ndigen         kompleti 
+vervollständigen         kompleti 
 verwandeln               muta 
 verwandt                 kognate, kognati 
 verwechseln              konfusi 
@@ -5419,16 +5484,16 @@ Viertel                  qarto
 vierzig                  tetra-ze 
 violett                  violeta 
 Violine                  violina 
-Vitalit&auml;t                vigo 
+Vitalität                vigo 
 Vitamin                  vitamina 
 Vogel                    avi 
 Vokal                    vokali 
 Volk                     demo         [g] 
 voll                     ple 
 vollenden                fini, kompli 
-v&ouml;llig                   kompleti 
+völlig                   kompleti 
 vollkommen               perfekti 
-vollst&auml;ndig              kompleti 
+vollständig              kompleti 
 Volumen                  volumi 
 vor allem                su toto 
 voraus                   ante 
@@ -5446,32 +5511,34 @@ vorhin                   pre mikro tem
 Vorhof                   vestibula 
 vorig                    pre 
 vor kurzem               nu-pa 
-vorl&auml;ufig                pro nu 
+vorläufig                pro nu 
 Vormittag                pre meso-di 
 vorn                     ante 
 Vorname                  prima nima 
 vornehm                  gentili 
 Vorrat                   stora 
-vorr&uuml;cken                avanti 
+vorrücken                avanti 
 Vorschlag                proposi 
 Vorsicht                 kautio, kura 
 Vorsitzende              presidenta 
 vorstellen               avanti, fikti 
 Vorstellung              imagina 
-vort&auml;uschen              simula 
+vortäuschen              simula 
 Vorteil                  auxi 
-vor&uuml;ber                  pa 
-vorw&auml;rts                 avanti 
+vorüber                  pa 
+vorwärts                 avanti 
 vorziehen                prefero 
-vorz&uuml;glich               excele 
+vorzüglich               excele 
 votieren                 vota 
 Vulkan                   vulkani 
 
+```
 
-</PRE>
-<A NAME="egw"></A>
-<H3>W</H3>
-<PRE>
+<span id="egw"></span>
+
+### W
+
+``` 
 Waage                    libra 
 waagerecht               horizonta 
 Wabe                     favi 
@@ -5484,7 +5551,7 @@ Waffel                   biskokta
 wagen                    risko 
 Wagen, der               vagona 
 Wahl                     elekti 
-w&auml;hlen                   elekti, diali 
+wählen                   elekti, diali 
 wahr                     veri 
 wahrscheinlich           probabili 
 Wald                     foresta, silva 
@@ -5500,7 +5567,7 @@ warnen                   monito
 warten                   atende 
 warum                    qo-ka, qo-te 
 was ?                    qo ?, qo-ra ? 
-W&auml;sche                   plu linu-ra 
+Wäsche                   plu linu-ra 
 waschen                  lava 
 Wasser                   hidro [g], aqa 
 Wasserhahn               valva 
@@ -5528,7 +5595,7 @@ Wein                     vini
 weinen                   plora 
 Weinstock                viti 
 weise                    sofi         [g] 
-wei&szlig;                     leuko [g], alba, albi 
+weiß                     leuko [g], alba, albi 
 weit                     lati, dista, tele 
 weiter                   ma-dista, ma-tele 
 Weizen                   tritiku, tritikum 
@@ -5580,7 +5647,7 @@ Wind                     venti
 winken                   sema         [g] 
 Winter                   frigi-tem, hiberna  
 wir                      na 
-wirken                   ergo [g], funktio <!-- fehlt [g] --> 
+wirken                   ergo [g], funktio  
 wirklich                 reali 
 Wirkung                  seqe, efekti 
 wirkungsvoll             eficie 
@@ -5590,7 +5657,7 @@ Wissen                   ski
 Wissenschaft             skience 
 Witwe                    vidua 
 wo ?                     qo-lo ? 
-Woche                    setimana <!-- Wochenende fehlt Glosa-wort !!! --> 
+Woche                    setimana  
 woher                    ex qo-lo 
 wohin                    a qo-lo 
 wohl                     bene 
@@ -5606,36 +5673,42 @@ Wort                     lexi [g], verba
 Wunde                    vulne 
 wundern                  stupe, mira 
 Wunsch                   desira 
-w&uuml;nschen                 desira, volu 
-w&uuml;rde (.. wenn)          sio 
-W&uuml;rde                    digni 
-W&uuml;rfel                   kubi 
+wünschen                 desira, volu 
+würde (.. wenn)          sio 
+Würde                    digni 
+Würfel                   kubi 
 Wurm                     vermi 
 Wurst                    botuli       [g] 
 Wurzel                   radi 
-W&uuml;ste                    deserta 
+Wüste                    deserta 
 Wut                      furi 
 
+```
 
-</PRE>
-<A NAME="egx"></A>
-<H3>X</H3>
-<PRE>
+<span id="egx"></span>
 
+### X
 
-</PRE>
-<A NAME="egy"></A>
-<H3>Y</H3>
-<PRE>
+``` 
 
+```
 
-</PRE>
-<A NAME="egz"></A>
-<H3>Z</H3>
-<PRE>
+<span id="egy"></span>
+
+### Y
+
+``` 
+
+```
+
+<span id="egz"></span>
+
+### Z
+
+``` 
 Zahl                     numera 
 zahlen                   paga 
-z&auml;hlen                   numera 
+zählen                   numera 
 zahm                     dama 
 Zahn                     denti 
 zart                     lepto [g], delikato 
@@ -5657,10 +5730,10 @@ Zeltlager                kampi
 Zepter                   virga 
 zerbrechen               frakti 
 zerfressen               korodi 
-zerrei&szlig;en                lacera 
+zerreißen                lacera 
 zerschlagen              frakti 
 zerschmettern            klasti 
-zerst&ouml;ren                no-face, demoli, destru, nekro 
+zerstören                no-face, demoli, destru, nekro 
 zertifiziert             certifi 
 Zettel                   bileta 
 Zeug                     plu vesti 
@@ -5675,7 +5748,7 @@ Zink                     zinko
 Zitrone                  citri 
 zittern                  osci, tremulo 
 zivilisieren             civiliza 
-z&ouml;gern                   hesita 
+zögern                   hesita 
 Zoll                     extra fiska 
 Zone                     zona; -zo    [g] 
 zu                       ge-klude 
@@ -5683,27 +5756,27 @@ Zucker                   sukro-ma
 Zuckung                  spasmo 
 zudecken                 tegu 
 zuerst                   proto [g], prima 
-zuf&auml;llig                 fortuna 
+zufällig                 fortuna 
 zufrieden                hedo 
 Zug                      trena 
 zugleich                 kon alelo 
-zuh&ouml;ren                  akusti [g], audi 
+zuhören                  akusti [g], audi 
 Zukunft                  fu-tem, futuri 
   ich werde schreiben    mi fu grafo 
 zuletzt                  a fini 
 zumachen                 klude 
-zun&auml;chst                 prima 
+zunächst                 prima 
 Zunge                    glosa [g], lingua 
-zur&uuml;ck                   versi 
-zur&uuml;ckkehren             (veni) versi 
-zur&uuml;cksetzen             recesi 
-zur&uuml;ckstrahlen           reflekti 
+zurück                   versi 
+zurückkehren             (veni) versi 
+zurücksetzen             recesi 
+zurückstrahlen           reflekti 
 zusammen                 kon alelo; simul 
 zusammenfassen           sumari 
 Zusammenhang             kontextu 
 zusammensetzen           komposi 
 Zuschauer                spekta-pe 
-zuschlie&szlig;en              kleidi      [g] 
+zuschließen              kleidi      [g] 
 Zustand                  fisio        [g], status 
 Zutritt                  in-ki 
 zuviel                   tro, excesi 
@@ -5720,47 +5793,52 @@ zwinkern                 nikti
 zwischen                 inter 
 Zylinder                 kilindri 
 
+```
 
-</PRE>
-<HR>
-<!-- ============================================================== -->
-<A NAME="Funct"></A>
-<H2>Funktionsw&ouml;rter</H2>
-<BR>
+-----
 
-<A NAME="Generics"></A>
-<H3>Generische Termini</H3>
-<PRE>
--bo  (BOteka)      Laden                pani-bo     B&auml;ckerei 
--bo-pe             Ladenbesitzer        pani-bo-pe  B&auml;cker 
--do  (DOmi)        Haus, Geb&auml;ude        agri-do     Bauernhaus 
--fa  (FAski)       Satz, B&uuml;ndel         flori-fa    Blumenstrau&szlig; 
+<span id="Funct"></span>
+
+## Funktionswörter
+
+  
+<span id="Generics"></span>
+
+### Generische Termini
+
+``` 
+-bo  (BOteka)      Laden                pani-bo     Bäckerei 
+-bo-pe             Ladenbesitzer        pani-bo-pe  Bäcker 
+-do  (DOmi)        Haus, Gebäude        agri-do     Bauernhaus 
+-fa  (FAski)       Satz, Bündel         flori-fa    Blumenstrauß 
 -fi  (FIlament)    Filament, Faden      kupra-fi    Kupferdraht 
--ka  (KAmera)      Zimmer               kuko-ka     K&uuml;che 
+-ka  (KAmera)      Zimmer               kuko-ka     Küche 
 -li  (LIto)        Stein                lamina-li   Schiefer 
--lo  (LOka)        Ort                  panto-lo    &uuml;berall 
+-lo  (LOka)        Ort                  panto-lo    überall 
 -ma  (MAteria)     Stoff                geo-ma      Mineral 
 -me  (MEkani)      Triebwerk, Maschine  grafo-me    Schreibmaschine 
--mo  (MObili)      M&ouml;bel                grafo-mo    Schreibtisch 
+-mo  (MObili)      Möbel                grafo-mo    Schreibtisch 
 -pe  (PErsona)     Person, Mensch       navi-pe     Seemann 
 -ra  (ReAli)       Ding                 bio-ra      Lebewesen 
 -ru  (instRUmenta) Werkzeug             fora-ru     Bohrer 
 -te  (TExtili)     Tuch, Textilie       nasa-te     Taschentuch 
--va  (VAsa)        Gef&auml;&szlig;                soma-va           Badewanne 
+-va  (VAsa)        Gefäß                soma-va           Badewanne 
 -ve  (VEsti)       Kleid                pedi-ve     Schuh 
--zo  (ZOna)        Ring                 meso-zo     G&uuml;rtel 
+-zo  (ZOna)        Ring                 meso-zo     Gürtel 
 
+```
 
-</PRE>
-<A NAME="Pronouns"></A>
-<H3>Pronomen</H3>
-<PRE>
+<span id="Pronouns"></span>
+
+### Pronomen
+
+``` 
 ich, mich, mein      mi
 du, dein             tu 
 sie, ihr             fe 
 er, sein, ihm        an
 einer                pe 
-es, sein (s&auml;chlich)  id
+es, sein (sächlich)  id
 wir, uns, unser      na 
 ihr, euer            vi [plural] 
 sie [pl.], ihr       mu 
@@ -5768,26 +5846,28 @@ sich                 se
 sich selbst, eigen   auto 
 einander             alelo 
 
+```
 
-</PRE>
-<A NAME="LinkWords"></A>
-<H3>Bindew&ouml;rter</H3>
-<PRE>
+<span id="LinkWords"></span>
+
+### Bindewörter
+
+``` 
 das eben gesagte          -co 
-demgem&auml;&szlig;                  akorda-co 
+demgemäß                  akorda-co 
 darauf                    po-co 
 also                      ko-co 
-unabh&auml;ngig davon          no-klu-co 
+unabhängig davon          no-klu-co 
 nebenbei                  para-co 
 folglich                  seqe-co 
 umgekehrt                 kontra-co 
 dennoch                   klu-co 
-schlie&szlig;lich               fini-co 
+schließlich               fini-co 
 nachdem, was ...          ex-co 
 trotzdem                  anti-co 
 so                        per-co 
 mittlerweile, inzwischen  tem-co 
-au&szlig;erdem                  plus-co 
+außerdem                  plus-co 
 nichtsdestoweniger        anti-co 
 anders, sonst             hetero-co 
 gleicherweise             homo-co 
@@ -5795,17 +5875,19 @@ zusammengefasst           suma-co
 deshalb                   ka-co 
 demnach; so weit          metri-co 
 
+```
 
-</PRE>
-<A NAME="Associatives"></A>
-<H3>Verh&auml;ltnisw&ouml;rter</H3>
-<PRE>
-&uuml;ber; in Bezug auf            de 
+<span id="Associatives"></span>
+
+### Verhältniswörter
+
+``` 
+über; in Bezug auf            de 
 auch, ebenfalls, noch, sowie  plus 
 gegen                         anti 
-gem&auml;&szlig;, laut, entsprechend     akorda 
+gemäß, laut, entsprechend     akorda 
 oder                          alo 
-zur&uuml;ck, noch mal von vorn     versi 
+zurück, noch mal von vorn     versi 
 wegen                         kausa 
 im Vergleich zu               kompara 
 unter der Bedingung, dass     konditio 
@@ -5813,25 +5895,27 @@ daher, folglich               seqe
 betreffend, in betreff        tange 
 zu Gunsten von                pro 
 mit dem Hinweis auf           indika 
-h&auml;ngend                       pende 
+hängend                       pende 
 wie                           homo 
 mit Hilfe des; durch, mit     per 
-einschlie&szlig;lich, sogar         klu 
+einschließlich, sogar         klu 
 mit der Absicht               tende 
 anstelle von                  vice 
 nahe                          proxi 
 insofern als                  metro 
 passend, geeignet zu          kongru 
 vermuten, ob                  postula 
-n&uuml;tzlich                      funktio 
+nützlich                      funktio 
 mit, gleichzeitig             sin; ko 
 Fehlen; ohne                  minus 
 
+```
 
-</PRE>
-<A NAME="Numbers"></A>
-<H3>Zahlen</H3>
-<PRE>
+<span id="Numbers"></span>
+
+### Zahlen
+
+``` 
 0                 ze; zero 
 1                 mo 
 2                 bi 
@@ -5860,21 +5944,23 @@ Fehlen; ohne                  minus
 3 x 4 = 12        tri para tet eqa 
                       mo bi 
 / (geteilt)       divide 
-5 B&uuml;cher          penta bibli 
-das f&uuml;nfte Buch   u bibli penta 
+5 Bücher          penta bibli 
+das fünfte Buch   u bibli penta 
 3 mal             tri kron 
 sie haben jeder 2  singu pe habe bi ra 
 wie viele?        qo numera?; qanto? 
-z&auml;hle sie         numera mu 
+zähle sie         numera mu 
 8. Juni           di ok, meno six 
 Montag            di bi 
 Datum             datu 
 
+```
 
-</PRE>
-<A NAME="Articles"></A>
-<H3>Artikel</H3>
-<PRE>
+<span id="Articles"></span>
+
+### Artikel
+
+``` 
 einer, der               u 
 mehr als einer           plu 
 alle, jeder              pan(to) 
@@ -5882,11 +5968,11 @@ irgend (any)             ali
 jeder einzelne           singu 
 genug von                sati 
 wenige                   oligo 
-gro&szlig;, viel               mega 
+groß, viel               mega 
 viele, eine Menge von    poli; multi 
 klein; -chen             pusi 
 nur                      solo 
-ein bisschen, St&uuml;ckchen  mero; peci 
+ein bisschen, Stückchen  mero; peci 
 dies (das hier)          u-ci 
 jenes (das da)           u-la 
 diese / jene             plu-ci / plu-la 
@@ -5894,11 +5980,13 @@ eine Art ..              speci
 die ... alle             holo 
 welches?                 qo? 
 
+```
 
-</PRE>
-<A NAME="Questions"></A>
-<H3>Fragen</H3>
-<PRE>
+<span id="Questions"></span>
+
+### Fragen
+
+``` 
 Ja/Nein-Fragen       Qe... ? 
 Was/Welches?         Qo? 
 Wie viele?           Qo numera? 
@@ -5911,15 +5999,16 @@ Welche Sache?        Qo-ra?
 Wer?                 Qo-pe? 
 Wie?                 Qo-mode?; Komo? 
 Wann?                Qo-horo?; Qo-di? 
+```
 
-</PRE>
-<P> Fragew&ouml;rter, die gleichzeitig Objekt sind,
-kommen nach dem Verb. </P>
-<BR>
+Fragewörter, die gleichzeitig Objekt sind, kommen nach dem Verb.
 
-<A NAME="Negatives"></A>
-<H3>Verneinungen</H3>
-<PRE>
+  
+<span id="Negatives"></span>
+
+### Verneinungen
+
+``` 
 nicht             ne 
 nicht bevor       ne pre 
 (Gegenteil)       no- 
@@ -5927,11 +6016,13 @@ nichts            nuli; zero
 keineswegs        nuli; zero 
 weder .. noch     ni...ni 
 
+```
 
-</PRE>
-<A NAME="Tenses"></A>
-<H3>Zeiten</H3>
-<PRE>
+<span id="Tenses"></span>
+
+### Zeiten
+
+``` 
 nun                        nu 
 (Vergangenheit)            pa 
 (Zukunft) wird ..          fu 
@@ -5940,43 +6031,47 @@ hat gerade                 nu pa
 wollte, war im Begriff zu  pa fu 
 wird haben                 fu pa 
 
+```
 
-</PRE>
-<A NAME="Modals"></A>
-<H3>Art und Weise</H3>
-<PRE>
+<span id="Modals"></span>
+
+### Art und Weise
+
+``` 
 im Begriff zu               prepara
-gew&ouml;hnlich                  more
+gewöhnlich                  more
 anfangen zu                 proto
-k&ouml;nnen, im Stande sein      pote
-aufh&ouml;ren zu                 no-dura
+können, im Stande sein      pote
+aufhören zu                 no-dura
 hofft zu                    spe
 in der Absicht              te; tende
-m&ouml;gen                       hedo
-k&ouml;nnte; vielleicht          posi
-k&ouml;nnte; das Recht haben zu  lice
-m&uuml;ssen                      nece
+mögen                       hedo
+könnte; vielleicht          posi
+könnte; das Recht haben zu  lice
+müssen                      nece
 sollen                      debi
 scheinen, zu                feno
 versuchen                   tenta
 war gewohnt zu ..           pa more
 wollte                      volu
 
+```
 
-</PRE>
-<A NAME="Verboids"></A>
-<H3>Hilfsverben</H3>
-<PRE>
+<span id="Verboids"></span>
+
+### Hilfsverben
+
+``` 
 sein, bin, bist, ist    es
 machen, handeln, tun    akti
-f&uuml;hlen                  este
+fühlen                  este
 finden                  detekti
 bekommen, werden        gene
 geben                   dona
 bekommen                pa gene
 ge- (Partizip passiv)   ge-
 haben                   habe 
-h&ouml;ren                   audi; akusti
+hören                   audi; akusti
 behalten                tena 
 verlieren               lose 
 machen, bauen           face 
@@ -5990,11 +6085,13 @@ sehen                   vide
 anregen, dazu bringen   sti 
 werfen, senden          bali 
 
+```
 
-</PRE>
-<A NAME="Comparison"></A>
-<H3>Vergleiche</H3>
-<PRE>
+<span id="Comparison"></span>
+
+### Vergleiche
+
+``` 
 gleich, identisch  iso
 wie                homo
 so...wie           iso...de
@@ -6004,11 +6101,13 @@ am meisten, -st    maxi (Superlativkennzeichen)
 am wenigsten       mini
 sehr               fo-
 
+```
 
-</PRE>
-<A NAME="When"></A>
-<H3>Wann</H3>
-<PRE>
+<span id="When"></span>
+
+### Wann
+
+``` 
 nach              po
 vor               pre
 Tag               di
@@ -6020,21 +6119,23 @@ Minute            minuta
 Nacht             noktu
 vor .. (Zeitdauer)  retro
 Sekunde           sekunda
-w&auml;hrend           tem; duranto
-gegenw&auml;rtig       kron
+während           tem; duranto
+gegenwärtig       kron
 Jahr              anua
 
+```
 
-</PRE>
-<A NAME="Where"></A>
-<H3>Wo</H3>
-<PRE>
-(quer) &uuml;ber       trans
+<span id="Where"></span>
+
+### Wo
+
+``` 
+(quer) über       trans
 um .. herum       peri
 bei               a; topo
 bei, zu           a; ad
 von .. weg        ab
-zur&uuml;ck            retro
+zurück            retro
 bei, neben        para
 jenseits          ultra
 hinunter          kata
@@ -6050,24 +6151,26 @@ links             levo
 mitten in         meso
 Norden            boreo
 auf               epi
-gegen&uuml;ber         kontra
-drau&szlig;en           extra
-&uuml;ber, oben        supra; su
+gegenüber         kontra
+draußen           extra
+über, oben        supra; su
 Ort               loka; -lo
 rechts, rechte    dextro
 Seite             latu
-S&uuml;den             austra
+Süden             austra
 da, dort          la
 durch             dia
 unter             infra; hipo
-aufw&auml;rts          ana
+aufwärts          ana
 west              ocide
 
+```
 
-</PRE>
-<A NAME="Colors"></A>
-<H3>Farben</H3>
-<PRE>
+<span id="Colors"></span>
+
+### Farben
+
+``` 
 beige             leuko-bruno
 schwarz           melano
 blau              ciano
@@ -6075,51 +6178,53 @@ braun             bruno
 farblos           minus kroma
 karmesinrot       purpuro-rubi
 rehbraun          polio-bruno
-gr&uuml;n              kloro
-gr&uuml;nlich          sub-kloro
-dunkelgr&uuml;n        melano-kloro
-tief gr&uuml;n         fo-kloro
+grün              kloro
+grünlich          sub-kloro
+dunkelgrün        melano-kloro
+tief grün         fo-kloro
 grau              polio
 orange            rubi-xanto
-blass-gr&uuml;n        leuko-kloro
+blass-grün        leuko-kloro
 purpur            purpuro
 rot               rubi
-wei&szlig;              leuko
+weiß              leuko
 gelb              xanto
 
+```
 
-</PRE>
-<A NAME="Greetings"></A>
-<H3>Gru&szlig;formeln</H3>
-<PRE>
+<span id="Greetings"></span>
+
+### Grußformeln
+
+``` 
 Guten Tag, hallo  boni di
 guten Morgen      boni mana
 guten Abend       boni vespera
 gute Nacht        boni nokti
 hallo; willkommen saluta
-Gr&uuml;&szlig;e             plu saluta
+Grüße             plu saluta
 Wie geht es dir?  Komo tu?
-Geht es dir gut?  Qe tu habe sani? <!-- original was: Qe tu es bene? -->
+Geht es dir gut?  Qe tu habe sani? 
 hallo             ave
 Leb wohl          vale
 Auf Wiedersehen   a re-vide
 Happy Birthday    hedo nati-di
 frohe Weihnachten hedo Kristo-nati
 frohes neues Jahr hedo neo anua
-herzliche Gr&uuml;&szlig;e   plu kardia saluta
-freundliche Gr&uuml;&szlig;e   plu ami saluta <!-- original was .. amiko .. -->
-Gl&uuml;ckw&uuml;nsche   plu gratula
+herzliche Grüße   plu kardia saluta
+freundliche Grüße   plu ami saluta 
+Glückwünsche   plu gratula
 Ich gratuliere dir    Mi gratula tu.
 Auf deine Gesundheit  a tu sani
-Gl&uuml;ck             boni fortuna
+Glück             boni fortuna
 Pech              mali fortuna
 gute Reise        boni viagia 
 wie schrecklich   komo deino
-Was f&uuml;r eine 
-   &Uuml;berraschung   komo mira
+Was für eine 
+   Überraschung   komo mira
 gut               bene
 bitte             place
-danke f&uuml;r ...     gratia de ...
+danke für ...     gratia de ...
 nein; ja          no; ja
 tut mir leid      penite 
 Entschuldigung    pardo
@@ -6128,13 +6233,9 @@ Herr              sinior (sr.)
 Frau              siniora
 nicht wahr?       qe?
 wirklich?         qe, veri?
-Mit frdl. Gr&uuml;&szlig;en  a tu sinceri
-&uuml;brigens          para dice 
+Mit frdl. Grüßen  a tu sinceri
+übrigens          para dice 
 
+```
 
-</PRE>
-<!-- ============================================================== -->
-<HR>
-
-</BODY>
-</HTML>
+-----

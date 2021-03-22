@@ -1,85 +1,82 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-   "http://www.w3.org/TR/html4/loose.dtd">
-<HTML>
-<HEAD>
-<TITLE>Glosa, international auxiliary language - grammar</TITLE>
-<LINK href="../pic/icon.png" rel="icon" type="image/png">
-</HEAD>
-<BODY>
-<!-- original URL was http://www.glosa.org/en/gramm.htm -->
+---
+title: SYNTAX-BASED GRAMMAR OF GLOSA
+layout: post
+published: true
+date: 2018-10-11
+---
 
-<PRE>
-_Ver 2__________________________________________R. Gaskell 1999__________
-</PRE>
 
-<CENTER>
-<H1>SYNTAX-BASED GRAMMAR  OF  GLOSA</H1>
+
+
+    _Ver 2__________________________________________R. Gaskell 1999__________
+
 
 (Uninflected, Isolating language with no Part-of-Speech markers)
-</CENTER>
-<PRE>
+
+``` 
 
 
 _________________________________________________________________________
+```
 
-</PRE>
-<H2>Contents:</H2>
-<PRE>
-1. Overview
-   #1 Derivation of Language Characteristics
-   #2 Words Don't Change With Use
-   #3 No Part-of-Speech Markers
-   #4 Precedence Rule Creates Syntax
+## Contents:
 
-2. Basic Structure
-   A. Words
-   B. Phrases
-   C. Clauses
-   D. Sentences
+    1. Overview
+       #1 Derivation of Language Characteristics
+       #2 Words Don't Change With Use
+       #3 No Part-of-Speech Markers
+       #4 Precedence Rule Creates Syntax
+    
+    2. Basic Structure
+       A. Words
+       B. Phrases
+       C. Clauses
+       D. Sentences
+    
+    3. Function Words
+       E. Noun Markers
+       F. Prepositions
+       G. Modifiers
+       H. Other Functions
+    
+    4. Substantives
+       I. Concept Words
+    5. Noun Phrases
+       J. Substantive as 'noun'
+       K. Pronouns
+       L. Determinants and Numerators
+       M. Noun Modifiers
+    
+    6. Verb Phrases
+       N. Substantive as 'verb'
+       O. Auxiliary Verbs
+       P. Modal Verbs
+       Q. Phrasal Verbs
+       R. Verb Modifiers
+    
+    7. Syntax
+       S. Precedence
+       T. Sentence Order (SVO)
+       U. Compounds
+       V. Concept Clusters
+    
+    8. Punctuation
+       W. Comma
+       X. Semi-colon
+       Y. Other
+    
+    9. Pronunciation
+       Z. Phonetic Rule
+       &. Vowels
+      &&. Consonants
 
-3. Function Words
-   E. Noun Markers
-   F. Prepositions
-   G. Modifiers
-   H. Other Functions
+-----
 
-4. Substantives
-   I. Concept Words
-5. Noun Phrases
-   J. Substantive as 'noun'
-   K. Pronouns
-   L. Determinants and Numerators
-   M. Noun Modifiers
+  
 
-6. Verb Phrases
-   N. Substantive as 'verb'
-   O. Auxiliary Verbs
-   P. Modal Verbs
-   Q. Phrasal Verbs
-   R. Verb Modifiers
+## 1\. Overview
 
-7. Syntax
-   S. Precedence
-   T. Sentence Order (SVO)
-   U. Compounds
-   V. Concept Clusters
-
-8. Punctuation
-   W. Comma
-   X. Semi-colon
-   Y. Other
-
-9. Pronunciation
-   Z. Phonetic Rule
-   &. Vowels
-  &&. Consonants
-
-</PRE>
-<HR>
-<BR>
-
-<H2>1. Overview</H2>
-<PRE>
+``` 
    #1 Derivation of Language Characteristics
      . Vocabulary is from the Classical roots of Greek & Latin
      . Pronunciation - Five Vowels of Italian & Spanish
@@ -102,10 +99,11 @@ _________________________________________________________________________
      . Precedence combines with Subject-Verb-Object order and clause
        structure to produce syntax.
 
+```
 
-</PRE>
-<H2>2. Basic Structure</H2>
-<PRE>
+## 2\. Basic Structure
+
+``` 
    A. Words
      i. These are symbols for ideas, and are the atoms of language, but are
         of little meaning, singly.
@@ -167,10 +165,11 @@ _________________________________________________________________________
       The minimum meaningful group within Glosa: it starts with a capital
       letter and ends with a full stop or equivalent.
 
+```
 
-</PRE>
-<H2>3. Function Words</H2>
-<PRE>
+## 3\. Function Words
+
+``` 
    E. Noun Markers
      i. Indicating the start of a Noun Phrase, particles are placed in front
         of numerators and other modifiers that come before the 'noun'.
@@ -226,22 +225,25 @@ _________________________________________________________________________
 
           EG U makina pa frakto-se. [The machine broke itself.]
 
+```
 
-</PRE>
-<H2>4. Substantives</H2>
-<PRE>
+## 4\. Substantives
+
+``` 
    I. Concept Words
       In Glosa each concept is conveyed by one word, and it can function,
       unchanged, as a noun, verb or modifier, depending on its position in
       the sentence.  These make up the majority of the lexicon, and all new
       word for objects, action or descriptions, are substantives.
+```
 
-</PRE>
-<HR>
-<BR>
+-----
 
-<H2>5. Noun Phrases</H2>
-<PRE>
+  
+
+## 5\. Noun Phrases
+
+``` 
    J. Substantive as 'noun'
       A simple sentence has two Noun Phrases, one for Subject the other for
       Object.  The final word in a NP is a substantive acting as a noun.
@@ -281,10 +283,11 @@ _________________________________________________________________________
         one another.
          EG trans-natio-korporati [TNC]
 
+```
 
-</PRE>
-<H2>6. Verb Phrases</H2>
-<PRE>
+## 6\. Verb Phrases
+
+``` 
       A simple sentence has one Verb Phrase in the middle of the sentence:
       the final word in a V.P. is a substantive acting as a verb.
     i. A single 'verb' can constitute a Verb Phrase.
@@ -356,10 +359,11 @@ _________________________________________________________________________
            ... Un andra es ge-morda ex u kani.
           The Auxiliary Verb can be ~es~ [is] or ~gene~ [gets].
 
+```
 
-</PRE>
-<H2>7. Syntax</H2>
-<PRE>
+## 7\. Syntax
+
+``` 
      The definition of syntax used for Glosa is "word order".
    S. Precedence
       Words in phrases are sequential, and there is an order of precedence
@@ -409,10 +413,11 @@ _________________________________________________________________________
       described as ... u genera-me de cyklo undu pro televideo
                       [a generator of cyclic waves for television].
 
+```
 
-</PRE>
-<H2>8. Punctuation</H2>
-<PRE>
+## 8\. Punctuation
+
+``` 
     Represents, in written form, the normal pauses and inflections of
     speech; and, as required (to avoid ambiguity) indicates the beginning
     of a new syntactic group.
@@ -461,10 +466,11 @@ _________________________________________________________________________
         idiom within Glosa, then such non-literal language ought to be
         marked with some 'neutral' symbol, EG pluvi ^plu feli e kani^.
 
+```
 
-</PRE>
-<H2>9. Pronunciation</H2>
-<PRE>
+## 9\. Pronunciation
+
+``` 
     This follows the generalised pattern of European usage.
    Z. Phonetic Rule
       Each letter has one associated pronunciation.
@@ -478,11 +484,8 @@ _________________________________________________________________________
       pronunciation is used (g, h, j, s, z).  c is pronounced CH; y as ~i~;
       x as /ks/; w is not used; and there is no letter carrying the
       "soft" g, or "soft" j, sound.
+```
 
-</PRE>
-<HR>
+-----
 
-<P> &copy; Glosa Education Organisation, Richmond U.K., 1999 </P>
-
-</BODY>
-</HTML>
+© Glosa Education Organisation, Richmond U.K., 1999
