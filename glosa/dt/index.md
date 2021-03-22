@@ -6,18 +6,13 @@ date: 2018-10-11
 ---
 
 
+## [Lern- und Textmaterial](index_materia.html)
 
+## [Links](index_nexu.html)
 
- 
+## [Wortschatz](../gid/index_de.html) 
 
-|                   |                                              |                          |                                    |
-| :---------------: | :------------------------------------------: | :----------------------: | :--------------------------------: |
-| Die Sprache Glosa | [Lern- und Textmaterial](index_materia.html) | [Links](index_nexu.html) | [Wortschatz](../gid/index_de.html) |
-
- 
-
- 
-
+##  Die Sprache Glosa
  
 
 Glosa ist eine Welthilfssprache, die von Lancelot Hogben (als
