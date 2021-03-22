@@ -135,7 +135,7 @@ Plu holo, ge-skana numero (pdf):
 
 
 
-Plu enigma pagina (png):
+Plu enigma pagina (png-pikto-dokumenta):
 
 
-[90](../pic/pgn090_enigm.png) (png-pikto-dokumenta)  [91](../pic/pgn091_enigm.png) (png-pikto-dokumenta)   [92](../pic/pgn092_enigm.png) (png-pikto-dokumenta)   [93](../pic/pgn093_enigm.png) (png-pikto-dokumenta)
+[90](../pic/pgn090_enigm.png) [91](../pic/pgn091_enigm.png) [92](../pic/pgn092_enigm.png) [93](../pic/pgn093_enigm.png)
