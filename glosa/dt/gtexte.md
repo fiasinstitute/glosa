@@ -1353,4 +1353,4 @@ Patterson, 1997, 1998*
 (Zurück zum [Seitenanfang](gtexte.htm#start). Zur deutschen
 [Glosa-Seite](index_materia.html).)
 
-[www.glosa.org](../index.html), letzte Änderung 2011-05-12.
+

@@ -72,4 +72,3 @@ Address: (R Clark &) W Ashby, GEO
 
 -----
 
-[www.glosa.org](../index.html), .. 2011-05-12.

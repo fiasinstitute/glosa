@@ -106,5 +106,3 @@ date: 2018-10-11
 
 -----
 
-Marcel Springer, [www.glosa.org](../index.html), 2007-08-25
-.. 2018-06-18.

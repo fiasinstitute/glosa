@@ -226,4 +226,3 @@ Bitte klicken Sie [![](../pic/audi03.gif)](../dat/audi06.mp3)
 
 -----
 
-[www.glosa.org](../index.html), 2001-03-10, letzte Änderung 2018-06-18

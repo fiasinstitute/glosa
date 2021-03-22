@@ -68,11 +68,4 @@ Konsonantenverdoppelungen.
 stimula\! Id sti memo mi de u proto-tem mi pa vide Glosa - id es ta
 facili e habe mega pote pro munda paci e kon-ergo. ...“.</span>
 
-Marcel Springer, [www.glosa.org](../index.html), 2007-08-25
-.. 2018-06-18.
 
-(E-Mail: ![\[Cels E-mail-Adresse als
-PNG-Bild\]](../pic/emailm.png)glosa.org. Bitte schicken Sie nur
-Plain-ASCII-Mails über Glosa ohne Anhänge. Danke. - [Persönliche
-Homepage mit Impressum](http://www.mspringer.de), ältere
-[Statistik/Webcounter](../en/wcount.htm).)

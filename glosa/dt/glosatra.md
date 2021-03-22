@@ -255,5 +255,3 @@ Ihren Besuch auf dieser Seite.
 
   
 
-Marcel Springer, [www.glosa.org](../index.html), 2002-08-07
-... 2013-02-27

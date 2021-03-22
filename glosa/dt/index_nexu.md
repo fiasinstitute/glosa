@@ -84,5 +84,4 @@ date: 2018-10-11
 
 -----
 
-Marcel Springer, [www.glosa.org](../index.html), 2007-07-09
-.. 2018-10-11.
+
