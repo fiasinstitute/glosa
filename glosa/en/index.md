@@ -4,40 +4,13 @@ layout: post
 published: true
 ---
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><a href="../index.html"><img src="../pic/logo0707.png" width="235" height="100" alt="[Glosa-logo]" /></a></td>
-<td style="text-align: right;"><table>
-<tbody>
-<tr class="odd">
-<td>    <span style="white-space:nowrap"> <a href="../gl/index.html" class="leiste" title="Glosa info in Glosa"><img src="../pic/flagglosa.png" width="17" height="17" alt="Glosa info in Glosa" /> Glosa</a>   </span></td>
-<td><span style="white-space:nowrap">   <img src="../pic/flagenglish.png" width="25" height="12" alt="Glosa information in English" /> English  </span></td>
-<td>   <span style="white-space:nowrap"> <a href="../dt/index.html" class="leiste" title="Glosa-Info Deutsch"><img src="../pic/flagdeutsch.png" width="25" height="12" alt="Glosa-Info in Deutsch" /> Deutsch</a>     </span></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+## [Learning- and Textmaterial](index_materia.html)
 
- 
+## [Links](index_nexu.html)
 
-|                    |                                                  |                          |                                 |
-| :----------------: | :----------------------------------------------: | :----------------------: | :-----------------------------: |
-| The Language Glosa | [Learning- and Textmaterial](index_materia.html) | [Links](index_nexu.html) | [Vocabulary](../gid/index.html) |
+## [Vocabulary](../gid/index.html) |
 
- 
 
- 
-
-  
-
-# 
 
 Glosa is an international auxiliary language (*auxlang*), that was
 developed by Lancelot Hogben (as *Interglossa*, GB, 1943), Ronald Clark
@@ -70,10 +43,3 @@ available.
 The pronounciation is simple and regular. Its model was Italian and it
 is similar to German. Glosa is written with the Latin alphabet without
 special characters, there are no double vowels or consonants.
-
-  
-  
-
-[\>\>\> Next](index_materia.html)
-
------
