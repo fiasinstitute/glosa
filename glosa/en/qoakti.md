@@ -5,9 +5,6 @@ published: true
 ---
   
   
-
-# 
-
 "Qo akti?" (What to do?) is an artwork project by Mathilde ter Heijne.
 It is a video installation on six monitors about the philosopher Simone
 Weil (1909-1943). The text of the movie is spoken in Glosa. It was

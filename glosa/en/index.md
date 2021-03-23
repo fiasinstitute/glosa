@@ -8,7 +8,7 @@ published: true
 
 ## [Links](index_nexu.html)
 
-## [Vocabulary](../gid/index.html) |
+## [Vocabulary](../gid/index.html)
 
 
 
