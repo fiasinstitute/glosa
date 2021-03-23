@@ -77,17 +77,3 @@ special characters, there are no double vowels or consonants.
 [\>\>\> Next](index_materia.html)
 
 -----
-
-<span class="small">Glosa author Wendy Ashby wrote about this website:
-“... Mega gratia de tu auxi difusi Glosa - tu puta-me pagina es fo
-stimula\! Id sti memo mi de u proto-tem mi pa vide Glosa - id es ta
-facili e habe mega pote pro munda paci e kon-ergo. ...”.</span>
-
-Marcel Springer, [www.glosa.org](../index.html), 2007-07-09
-.. 2018-06-18.
-
-(E-mail: ![\[Cel's E-mail address as
-PNG-image\]](../pic/emailm.png)glosa.org. Please send only plain ASCII
-messages about Glosa without attachments. Thanks. - [Personal homepage
-with imprint](http://www.mspringer.de), older
-[statistics/webcounting](wcount.htm).)

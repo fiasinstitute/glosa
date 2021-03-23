@@ -45,3 +45,10 @@ Brevi info in plu hetero lingua:
 
  - ["18 шагов к беглости в Евро-глоса"](brevi/ru18s.htm)
  - ["Грамматика глосы"](brevi/rugram.htm).
+
+
+Glosa author Wendy Ashby wrote about this website:
+> “... Mega gratia de tu auxi difusi Glosa - tu puta-me pagina es fo
+stimula\! Id sti memo mi de u proto-tem mi pa vide Glosa - id es ta
+facili e habe mega pote pro munda paci e kon-ergo. ...”.
+
