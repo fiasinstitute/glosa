@@ -10,12 +10,9 @@ date: 2018-10-11
 
 Place lekto info in:
 
-### [Cefa-pagina in Glosa](gl/)
-
 ### [Mainpage in English](en/)
 
-### [Hauptseite auf Deutsch](dt/)
-
+<!--### [Hauptseite auf Deutsch](en/dt-index) ### [Cefa-pagina in Glosa](en/gl-index)-->
 
 ## Brevi info
 
