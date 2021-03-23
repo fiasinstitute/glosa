@@ -4,16 +4,9 @@ layout: post
 published: true
 ---
 
-{% marginfigure 'mf-id-whatever' '../pic/gtexte03.gif' '' %}.
+{% marginfigure 'mf-id-whatever' '/glosa/pic/gtexte03.gif' 'Published by Glosa Education Organisation (GEO) Reg. charity no. 298237. P. O. Box 18, Richmond, Surrey, TW9 2GE Britain. ISSN 0265-6892' %}.
 
-
-Published by Glosa Education Organisation (GEO) Reg. charity no. 298237
-
-P. O. Box 18, Richmond, Surrey, TW9 2GE Britain  
-
-ISSN 0265-6892
-
-### Indexi
+## Indexi
 
 Plu holo, ge-skana numero (pdf):
 
@@ -116,30 +109,18 @@ Plu enigma pagina (png-pikto-dokumenta):
 
 [90](../pic/pgn090_enigm.png) [91](../pic/pgn091_enigm.png) [92](../pic/pgn092_enigm.png) [93](../pic/pgn093_enigm.png)
 
+## U deskribe
 
-  
 
-<table>
-<colgroup>
-<col style="width: 45%" />
-<col style="width: 10%" />
-<col style="width: 45%" />
-</colgroup>
-<tbody>
-<tr><td>"Plu Glosa Nota" (PGN) pa eqa un ofici Glosa nova-papira. Id habe un internatio numera ISSN 0265-6892. Norma, 4 papira singu anua pa gene grafo.</td><td>   </td><td>"Plu Glosa Nota" (PGN) was the official Glosa newspaper. It has the international number ISSN 0265-6892. Normally 4 issues a year had been written.</td></tr>
-<tr><td> <br />
-</td><td></td><td></td></tr>
-<tr><td>Tem 2014 un ultima PGN pa gene publika. Id habe u numera 97.</td><td>   </td><td>The last issue, number 97, had been published 2014.</td></tr>
-<tr><td> <br />
-</td><td></td><td></td></tr>
-<tr><td>Oligo artikla pote gene lekto in inter-reti. Vide e klik un indexi infra.<br />
-Plus tu pote gene uno holo, ge-skana PGN homo PDF-dokumenta.</td><td>   </td><td>A few articles can be read online. See and click the index below.<br />
-There are also some complete, scanned issues as PDF-file available.</td></tr>
-<tr><td> <br />
-</td><td></td><td></td></tr>
-<tr><td>Glosa autori Wendy Ashby dona uno origi fonta-dokumenta de fe pro uti id in inter-reti: <a href="pgn086.doc" title="(PGN86 fonta-dokumenta)">pgn086.doc</a>, <a href="pgn087.doc" title="(PGN87 fonta-dokumenta)">pgn087.doc</a>, <a href="pgn088.doc" title="(PGN88 fonta-dokumenta)">pgn088.doc</a>, <a href="pgn089.doc" title="(PGN89 fonta-dokumenta)">pgn089.doc</a> (MS-Word-forma, minus imagi e enigma-pagina. HTML-versio vide infra) e <a href="portmek.doc" title="(Portuguese Glosa mechanics)">portmek.doc</a> (Portuguese Glosa mekanici). Mega gratia a fe!</td><td>   </td><td>Glosa author Wendy Ashby donated some of her original source-files for the use in the WWW: <a href="pgn086.doc" title="(PGN86 fonta-dokumenta)">pgn086.doc</a>, <a href="pgn087.doc" title="(PGN87 fonta-dokumenta)">pgn087.doc</a>, <a href="pgn088.doc" title="(PGN88 fonta-dokumenta)">pgn088.doc</a>, <a href="pgn089.doc" title="(PGN89 fonta-dokumenta)">pgn089.doc</a> (MS-Word-format, without images and riddle-page. HTML-version see below.) and <a href="portmek.doc" title="(Portuguese Glosa mechanics)">portmek.doc</a> (Portuguese Glosa mechanics). Many thanks to her.</td></tr>
-<tr><td> <br />
-</td><td></td><td></td></tr>
-<tr><td>Gratia a Edmund Grimley Evans (ex UK) de provide e skana plu numera 41-43+45-71 e a José Antonio Vergara (ex Chile) de plu numera 19+21+27+29+30.</td><td>   </td><td>Thanks to Edmund Grimley Evans (from UK) for providing and scanning issues 41-43+45-71 and to José Antonio Vergara (from Chile) for issues 19+21+27+29+30.</td></tr>
-</tbody>
-</table>
+{% marginnote '1' '"Plu Glosa Nota" (PGN) was the official Glosa newspaper. It has the international number ISSN 0265-6892. Normally 4 issues a year had been written.' %}."Plu Glosa Nota" (PGN) pa eqa un ofici Glosa nova-papira. Id habe un internatio numera ISSN 0265-6892. Norma, 4 papira singu anua pa gene grafo.
+
+   
+{% marginnote '2' 'The last issue, number 97, had been published 2014.' %}Tem 2014 un ultima PGN pa gene publika. Id habe u numera 97.
+  
+{% marginnote '3' 'A few articles can be read online. See and click the index below.  There are also some complete, scanned issues as PDF-file available.
+' %}Oligo artikla pote gene lekto in inter-reti. Vide e klik un indexi hiper.  Plus tu pote gene uno holo, ge-skana PGN homo PDF-dokumenta.
+   
+
+{% marginnote '4' 'Glosa author Wendy Ashby donated some of her original source-files for the use in the WWW: [pgn086.doc](pgn086.doc "(PGN86 fonta-dokumenta)"), [pgn087.doc](pgn087.doc "(PGN87 fonta-dokumenta)"), [pgn088.doc](pgn088.doc "(PGN88 fonta-dokumenta)"), [pgn089.doc](pgn089.doc "(PGN89 fonta-dokumenta)") (MS-Word-format, without images and riddle-page. HTML-version see below.) and [portmek.doc](portmek.doc "(Portuguese Glosa mechanics)") (Portuguese Glosa mechanics). Many thanks to her.' %}Glosa autori Wendy Ashby dona uno origi fonta-dokumenta de fe pro uti id in inter-reti: [pgn086.doc](pgn086.doc "(PGN86 fonta-dokumenta)"), [pgn087.doc](pgn087.doc "(PGN87 fonta-dokumenta)"), [pgn088.doc](pgn088.doc "(PGN88 fonta-dokumenta)"), [pgn089.doc](pgn089.doc "(PGN89 fonta-dokumenta)") (MS-Word-forma, minus imagi e enigma-pagina. HTML-versio vide infra) e [portmek.doc](portmek.doc "(Portuguese Glosa mechanics)") (Portuguese Glosa mekanici). Mega gratia a fe!
+
+{% marginnote '5' 'Thanks to Edmund Grimley Evans (from UK) for providing and scanning issues 41-43+45-71 and to José Antonio Vergara (from Chile) for issues 19+21+27+29+30.' %}Gratia a Edmund Grimley Evans (ex UK) de provide e skana plu numera 41-43+45-71 e a José Antonio Vergara (ex Chile) de plu numera 19+21+27+29+30.
