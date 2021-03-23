@@ -13,9 +13,6 @@ P. O. Box 18, Richmond, Surrey, TW9 2GE Britain
 
 ISSN 0265-6892
 
-  
-  
-
 ### Indexi
 
 Plu holo, ge-skana numero (pdf):
