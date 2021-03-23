@@ -19,9 +19,9 @@ Walter G. Green III ( [article](https://web.archive.org/web/20110811161444/https
 
 ## ...
 
-[John R. Kay](http://www.millrind.co.uk) (artist/publisher, UK). [A PDF-version of the book “Interglossa”](interglossa.pdf).
+[John R. Kay](http://www.millrind.co.uk) (artist/publisher, UK).
 
-[William Patterson](http://www.kafejo.com/lingvoj/auxlangs/glosa/index.htm) (US), with  [a part of the “Interglossa” book](http://www.kafejo.com/interglossa/). [A vocabulary learning program](http://www.kafejo.com/lingvoj/auxlangs/glosa/exercise).
+[William Patterson](http://www.kafejo.com/lingvoj/auxlangs/glosa/index.htm) (US), with  [Interglossa](http://www.kafejo.com/interglossa/). [A vocabulary learning program](http://www.kafejo.com/lingvoj/auxlangs/glosa/exercise).
 
 ## Websites some Glosa content
 
