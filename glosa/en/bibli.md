@@ -1,8 +1,13 @@
+---
+title: Glosa Bibliography
+layout: post
+published: true
+---
   
   
   
 
-# Glosa Bibliography
+# 
 
   
   

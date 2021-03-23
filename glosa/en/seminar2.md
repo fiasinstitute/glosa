@@ -1,7 +1,10 @@
+---
+title: Seminar 2 in Glosa
+layout: post
+published: true
+---
   
   
-
-# Seminar 2 in Glosa
 
 (R. Gaskell, 1998-09)
 

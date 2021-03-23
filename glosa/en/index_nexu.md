@@ -1,3 +1,9 @@
+---
+title: External Links
+layout: post
+published: true
+---
+
 <table>
 <colgroup>
 <col style="width: 50%" />
@@ -31,7 +37,6 @@
 
   
 
-# External Links
 
   - William T. Branch (made [Glosa learning
     cards](http://code.google.com/p/glosalib/downloads/list) for the

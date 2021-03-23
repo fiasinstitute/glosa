@@ -1,7 +1,12 @@
+---
+title: Qo akti?
+layout: post
+published: true
+---
   
   
 
-# Qo akti?
+# 
 
 "Qo akti?" (What to do?) is an artwork project by Mathilde ter Heijne.
 It is a video installation on six monitors about the philosopher Simone

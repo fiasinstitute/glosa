@@ -1,6 +1,10 @@
+---
+title: GLOSA BASIC REFERENCE
+layout: post
+published: true
+---
   
-
-# GLOSA BASIC REFERENCE
+ 
 
 **COPYRIGHT** 1994, 1996 Glosa Education Organization;  
 Version: 1996/05/14 (Prepared for the Web by Paul O. Bartlett, 1996);  

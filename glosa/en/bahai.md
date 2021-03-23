@@ -1,6 +1,13 @@
+---
+title: Plu Bahá'i-textu in Glosa
+layout: post
+published: true
+---
+
+
 ![\[religio-do\]](../pic/bahai01.gif)
 
-# Plu Bahá'i-textu in Glosa
+# 
 
 (ge-translati ex Evelyn Jerrard, GB)
 

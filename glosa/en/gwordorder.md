@@ -1,8 +1,10 @@
+---
+title: Sentence structure and Word order (syntax) in Glosa
+layout: post
+published: true
+---
   
   
-
-# Sentence structure and Word order (syntax) in Glosa
-
 A sentences is made up of words, and it is the order of the words in the
 sentence that gives us meaning; this order also tells us the word's
 function (verb, noun, or modifier) in that sentence.

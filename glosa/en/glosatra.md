@@ -1,8 +1,12 @@
+---
+title: Glosatra - A Little Computer Program for Glosa
+layout: post
+published: true
+---
   
   
   
 
-# Glosatra - A Little Computer Program for Glosa
 
   
   

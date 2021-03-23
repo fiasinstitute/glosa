@@ -1,7 +1,12 @@
+---
+title: Hints for writing Glosa
+layout: post
+published: true
+---
   
   
 
-# Hints for writing Glosa
+
 
   - Be sure of the pronunciation: borrow a "How to Speak Italian"
     cassette from your library, for the five Italian vowel sounds; say

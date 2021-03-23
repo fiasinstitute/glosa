@@ -1,6 +1,12 @@
+---
+title: SYNTAX-BASED GRAMMAR OF GLOSA
+layout: post
+published: true
+---
+
     _Ver 2__________________________________________R. Gaskell 1999__________
 
-# SYNTAX-BASED GRAMMAR OF GLOSA
+# 
 
 (Uninflected, Isolating language with no Part-of-Speech markers)
 

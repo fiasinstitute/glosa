@@ -1,3 +1,9 @@
+---
+title: Learning- and Textmaterial
+layout: post
+published: true
+---
+
 <table>
 <colgroup>
 <col style="width: 50%" />
@@ -31,7 +37,7 @@
 
   
 
-# Learning- and Textmaterial
+# 
 
   - [“18 Steps to Fluency in Euro-Glosa”](g18s.htm) (190 kB HTML +
     143 kB GIF = 333 kB)  

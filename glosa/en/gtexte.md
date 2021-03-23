@@ -1,8 +1,12 @@
+---
+title: A Tiny Collection of Glosa Texts
+layout: post
+published: true
+---
   
   
 <span id="start"></span>
 
-# A Tiny Collection of Glosa Texts
 
 -----
 

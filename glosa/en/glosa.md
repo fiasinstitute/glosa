@@ -1,3 +1,9 @@
+---
+title: The Language Glosa
+layout: post
+published: true
+---
+
 <table>
 <colgroup>
 <col style="width: 50%" />
@@ -31,7 +37,7 @@
 
   
 
-# The Language Glosa
+# 
 
 Glosa is an international auxiliary language (*auxlang*), that was
 developed by Lancelot Hogben (as *Interglossa*, GB, 1943), Ronald Clark

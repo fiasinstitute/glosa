@@ -1,7 +1,12 @@
+---
+title: GRAMATIKA DE GLOSA
+layout: post
+published: true
+---
   
   
 
-# GRAMATIKA DE GLOSA
+# 
 
 Pa face id : Mico Carmelo Ranibakt.  
  <span class="small">(Mainz, Deutsch-landa. HTML ex Marcel Springer.

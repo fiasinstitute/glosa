@@ -1,7 +1,12 @@
+---
+title: Seminar 1 in Glosa
+layout: post
+published: true
+---
   
   
 
-# Seminar 1 in Glosa
+
 
 (R. Gaskell, September 1995)
 
