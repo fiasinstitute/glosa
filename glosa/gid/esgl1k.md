@@ -239,15 +239,6 @@ avisar	monito
 ayudar	auxi 
 azada	spata 
 azul	ciano 
-
-```
-
-<span id="geb"></span>
-
-### B
-
-``` 
- 
 bahía	baia 
 bailar	kore 
 bajo	baso; kame 
@@ -316,15 +307,6 @@ bullir	buli
 buque	navi; nau 
 burro	asinus 
 buscar	cerka 
-
-```
-
-<span id="gec"></span>
-
-### C
-
-``` 
- 
 caballo	equs 
 cabello	kapila 
 cabeza	kefa 
@@ -602,15 +584,6 @@ curar	repara; terapi
 cursi	krudi 
 curva	kurva; flexi 
 cutis	peli; derma 
-
-```
-
-<span id="ged"></span>
-
-### D
-
-``` 
- 
 daga	kultela; blada 
 dañar	noku; puni 
 danzar	kore 
@@ -728,15 +701,6 @@ duradero	dura
 durante	duranto; tem 
 durar	dura 
 duro	sklero 
-
-```
-
-<span id="gee"></span>
-
-### E
-
-``` 
- 
 e (=y)	e; plus 
 ebrio	narko 
 echar a (con verbo)	proto; komence 
@@ -895,15 +859,6 @@ exterior	extra
 extranjero	extra-landa 
 en el extranjero	extra-landa 
 extraño	xeno 
-
-```
-
-<span id="gef"></span>
-
-### F
-
-``` 
- 
 fabricar	produce 
 fácil	facili 
 factor	faktora 
@@ -979,15 +934,6 @@ furioso	rabi
 fusil	fusili 
 futuro	fu 
 (futuro:) ella estudiará	fe fu stude 
-
-```
-
-<span id="geg"></span>
-
-### G
-
-``` 
- 
 ganso	anseri 
 garganta	kola; cervika 
 garra	ungu; oniko 
@@ -1036,15 +982,6 @@ gusano	vermi
 gustar	place 
 gusto (educación)	kultura 
 gusto (sabor)	flavoro 
-
-```
-
-<span id="geh"></span>
-
-### H
-
-``` 
- 
 ha	ante; pre 
 haba	faba 
 hábil	(-)abili; arti; tekno 
@@ -1122,15 +1059,6 @@ humedad	humidi
 humo	fumi 
 humor	humoro 
 hundir	merge; diti 
-
-```
-
-<span id="gei"></span>
-
-### I
-
-``` 
- 
 -ible	(-)abili 
 idea	idea 
 idéntico	iso 
@@ -1194,15 +1122,6 @@ irritar	vexa; turba
 -ísimo	fo; forti 
 isla	insula; nesia 
 (a la) izquierda	levo 
-
-```
-
-<span id="gej"></span>
-
-### J
-
-``` 
- 
 jabón	sapo 
 jardín	horti 
 jaula	karcera 
@@ -1224,24 +1143,6 @@ jurar	jura
 justo	justi 
 juventud	juve-tem 
 juzgar	decide; judika 
-
-```
-
-<span id="gek"></span>
-
-### K
-
-``` 
- 
-
-```
-
-<span id="gel"></span>
-
-### L
-
-``` 
- 
 la	u 
 labio	labia 
 labor	ergo; labori 
@@ -1319,15 +1220,6 @@ lugar seguro	asilu
 luna	luna 
 lunar	luna 
 luz	lumi; foto 
-
-```
-
-<span id="gem"></span>
-
-### M
-
-``` 
- 
 macho	an 
 macizo	gravi; masi; bari 
 madera	ligni; xilo 
@@ -1469,15 +1361,6 @@ mutuamente	alelo
 muy	forti; fo 
 muy señor mío	karo senior 
 muy señora mía	karo seniora 
-
-```
-
-<span id="gen"></span>
-
-### N
-
-``` 
- 
 nacimiento	nati 
 nación	natio 
 nacionalidad	natio 
@@ -1534,15 +1417,6 @@ nuez	nuki
 nulo	nuli; zero; ze 
 número	numera 
 nunca	nuli-kron 
-
-```
-
-<span id="geo"></span>
-
-### O
-
-``` 
- 
 o ... o	alo ... alo 
 obedecer	obe 
 obeso	obesi 
@@ -1603,15 +1477,6 @@ otro (=distinto)	difere; hetero
 óvalo	ovali 
 oveja	ovis 
 oxidar	oxidi 
-
-```
-
-<span id="gep"></span>
-
-### P
-
-``` 
- 
 padre	patri 
 padre o madre	parenta 
 paga	paga 
@@ -1818,15 +1683,6 @@ dar puntapies	pedi
 punto	punkta 
 puro	puri 
 púrpura	iodeo 
-
-```
-
-<span id="geq"></span>
-
-### Q
-
-``` 
- 
 (lo) que	qod 
 que ... (relativo)	qi ... 
 ¿que?	qo? 
@@ -1849,15 +1705,6 @@ química	kemi
 químico	kemi 
 quitar	nuli; sto; apo 
 quizás	posi 
-
-```
-
-<span id="ger"></span>
-
-### R
-
-``` 
- 
 rabo	kauda 
 (la) radio	radio 
 raíz	radi; rizo 
@@ -1968,15 +1815,6 @@ rostro	facia
 roto	ge-frakti 
 rucio	cinera 
 rueda	rota; ciklo 
-
-```
-
-<span id="ges"></span>
-
-### S
-
-``` 
- 
 saber	ski; logi 
 sabio	sofi 
 sabor	flavoro 
@@ -2101,15 +1939,6 @@ sustancia	materia
 susto	trauma 
 sustraer	apo 
 susurrar	susura 
-
-```
-
-<span id="get"></span>
-
-### T
-
-``` 
- 
 tabla	taba 
 tablas (teatro)	proskeni 
 tablero	taba 
@@ -2211,15 +2040,6 @@ tumbarse	kade
 túnel	tuneli 
 turno	ergo-tem 
 tus	tu 
-
-```
-
-<span id="geu"></span>
-
-### U
-
-``` 
- 
 último	ultima 
 umbral	limina 
 un	u; un 
@@ -2244,15 +2064,6 @@ usual	usuali; more
 útil	uti; funktio 
 (ser) útil	servi 
 utilizar	uti; emplea 
-
-```
-
-<span id="gev"></span>
-
-### V
-
-``` 
- 
 vaca	fe-bovi 
 vacaciones	libe-tem; feria 
 vacilar	dubi; hesita 
@@ -2333,47 +2144,11 @@ vosotros	vi
 voz	voka 
 vueltas	gira; tropi 
 dar vueltas	torna; tropi; rota; gira 
-
-```
-
-<span id="gew"></span>
-
-### W
-
-``` 
- 
 WC	kloseta 
-
-```
-
-<span id="gex"></span>
-
-### X
-
-``` 
- 
-
-```
-
-<span id="gey"></span>
-
-### Y
-
-``` 
- 
 y	e; plus 
 yacer	jace; kumbe 
 yeso	kreta; gipso 
 yo	mi 
-
-```
-
-<span id="gez"></span>
-
-### Z
-
-``` 
- 
 zaga	poste 
 zaguán	atri 
 zancada	gradu 

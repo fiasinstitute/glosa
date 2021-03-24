@@ -93,15 +93,6 @@ auto kritici	совесть
 auxi	помогать
 avi	птица
 axi	копье
-
-```
-
-<span id="geb"></span>
-
-### B
-
-``` 
- 
 babi	ребенок
 baci	палка, брусок
 baci	палка
@@ -140,15 +131,6 @@ bus	автобус
 busti	гореть
 butiri	масло
 butona	пуговица
-
-```
-
-<span id="gec"></span>
-
-### C
-
-``` 
- 
 carta	карта
 casa	охота
 cede	уступать
@@ -167,15 +149,6 @@ ciklo	круг
 cirkulatio	движение
 citri	лемон
 comuni	общий
-
-```
-
-<span id="ged"></span>
-
-### D
-
-``` 
- 
 data	факт, новости
 datu	дата
 de	о
@@ -218,16 +191,7 @@ drama	действие (театр)
 dromo	бежать
 du	продолжение, продолжающееся действие
 duce-pe	экскурсовод, руководитель, проводник
-dulo	раб
-```
-
-<span id="gee"></span>
-
-### E
-
-``` 
- 
-eduka	давать образование
+dulo	рабeduka	давать образование
 efekti	эффект
 eko	проживать
 elasti	пружина, упругость
@@ -254,15 +218,6 @@ exercise	упражнение
 expekta	предполагать, рассчитывать
 experi	опыт, испытание
 extra	вне
-
-```
-
-<span id="gef"></span>
-
-### F
-
-``` 
- 
 faba	боб
 face	сделать, строить
 facia	лицо
@@ -324,15 +279,6 @@ furka	вилка
 fusi	лить
 fusili	пистолет
 futuri (FU)	будущее
-
-```
-
-<span id="geg"></span>
-
-### G
-
-``` 
- 
 galina	цыпленок
 game	женить
 gania	выиграть
@@ -367,15 +313,6 @@ gresi	прогулка пешком
 gru	годный
 gusta	вкус
 guta	капля
-
-```
-
-<span id="geh"></span>
-
-### H
-
-``` 
- 
 have	иметь
 hedo	счастливый
 hedo	счастье, радостный от
@@ -397,15 +334,6 @@ homo-co	так же
 horo	час
 horo-me	часы
 horti	сад
-
-```
-
-<span id="gei"></span>
-
-### I
-
-``` 
- 
 id	это
 idio	индивидуальный
 imagina	воображать
@@ -418,29 +346,11 @@ infra	под
 insekti	насекомое
 insula	остров
 iso	одинаковый, такой же
-
-```
-
-<span id="gej"></span>
-
-### J
-
-``` 
- 
 judika	решать
 juga	присоединять
 ju-fe	девушка
 justi	справедливость
 juve	молодой
-
-```
-
-<span id="gek"></span>
-
-### K
-
-``` 
- 
 ka-co	следовательно
 kade	падать
 kafa	кофе
@@ -554,15 +464,6 @@ kura	забота
 kurva	гнуть
 kuspi	наконечник, острый конец
 kutela	нож
-
-```
-
-<span id="gel"></span>
-
-### L
-
-``` 
- 
 la	там
 labia	губа
 lakrima	плакать
@@ -619,15 +520,6 @@ ludo	играть
 lue	наем
 lumi	свет
 luna	луна
-
-```
-
-<span id="gem"></span>
-
-### M
-
-``` 
- 
 makula	пятно
 malea	молоток
 mana	утро
@@ -685,15 +577,6 @@ musika	музыка
 musika, soni	играть музыку
 muskula	мускул, мышца
 muta	менять
-
-```
-
-<span id="gen"></span>
-
-### N
-
-``` 
- 
 na	мы, наш, нас
 nari	ноздря
 narko	пьяный
@@ -733,15 +616,6 @@ nudi	голый, обнаженный
 nuli	вообще нет; ничего
 numera	счет
 Numera mu	сосчитай их!
-
-```
-
-<span id="geo"></span>
-
-### O
-
-``` 
- 
 obe	повиноваться
 oceani	океан
 ocide	запад
@@ -766,15 +640,6 @@ ostraka	оболочка
 ota	ухо
 ova	яйцо
 ovis	овца
-
-```
-
-<span id="gep"></span>
-
-### P
-
-``` 
- 
 pa	прошедшее время
 pa fu	собирался
 pa gene	получить
@@ -893,15 +758,6 @@ punkta	точка
 puri	чистить
 pusi	немного
 puta	считать
-
-```
-
-<span id="geq"></span>
-
-### Q
-
-``` 
- 
 qadra	квадрат
 qalita	качество
 qantita	количество
@@ -921,15 +777,6 @@ Qo-mode или Komo	Как?
 Qo-pe?	Кто?
 Qo-ra?	Какой предмет?
 Qo-te?	Зачем?
-
-```
-
-<span id="ger"></span>
-
-### R
-
-``` 
- 
 ra	вещь, предмет
 rabi	сумасшедший
 racia	раса
@@ -971,15 +818,6 @@ rota	колесо
 rubi	красный
 rugo	неровность
 rura	сельская местность
-
-```
-
-<span id="ges"></span>
-
-### S
-
-``` 
- 
 sadi	жестокий
 sagita	стрела, стрелка
 saka	мешок, сумка
@@ -1090,15 +928,6 @@ sume	брать, взять
 supa	суп
 supra	над
 sura	уверенный
-
-```
-
-<span id="get"></span>
-
-### T
-
-``` 
- 
 taba	доска,стол
 taeni	лента, шнур
 tako	быстрый, скорый
@@ -1155,15 +984,6 @@ tunela	тоннель
 tunika	платье
 tura	башня
 turba	беспокоить
-
-```
-
-<span id="geu"></span>
-
-### U
-
-``` 
- 
 u bi	пара
 u bibli pen	пятая книга
 u, un	артикль, обозначающий ед. число
@@ -1182,15 +1002,6 @@ urba	город
 urina	мочиться
 uterus	матка, лоно
 uti	использование
-
-```
-
-<span id="gev"></span>
-
-### V
-
-``` 
- 
 vaga	бродить, странствие
 vagona	машина, вагок
 vaku	пустой
@@ -1228,43 +1039,7 @@ vola	полет
 volu	хотеть
 vora	есть
 vulne	сушить на ветру
-
-```
-
-<span id="gew"></span>
-
-### W
-
-``` 
- 
-
-```
-
-<span id="gex"></span>
-
-### X
-
-``` 
- 
 xeno	иностранный
-
-```
-
-<span id="gey"></span>
-
-### Y
-
-``` 
- 
-
-```
-
-<span id="gez"></span>
-
-### Z
-
-``` 
- 
 ze	зеро, ноль
 zero	вообще нет; ничего
 zigo	присоединять

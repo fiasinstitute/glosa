@@ -141,15 +141,6 @@ avanti	avancer
 ave	bonjour 
 aventura	aventure 
 avi	oiseau 
-
-```
-
-<span id="geb"></span>
-
-### B
-
-``` 
- 
 babi	bébé 
 babi bovi	veau 
 baci	bâton 
@@ -202,15 +193,6 @@ busti	brûler
 buta	but 
 butiri	beurre 
 butona	bouton 
-
-```
-
-<span id="gec"></span>
-
-### C
-
-``` 
- 
 carma	charmant 
 casa	chasser; poursuivre 
 cede	céder; renoncer 
@@ -229,15 +211,6 @@ cisori	ciseau
 civili	courtois 
 civita	cité 
 cokolata	chocolat 
-
-```
-
-<span id="ged"></span>
-
-### D
-
-``` 
- 
 dama	dame 
 data	détail 
 de	de; a propos ; quant à 
@@ -312,15 +285,6 @@ duce-pe	directeur
 dulce	douceur; doux; gentil 
 dura	continuer; dur 
 duranto	durant; pendant 
-
-```
-
-<span id="gee"></span>
-
-### E
-
-``` 
- 
 e	et 
 eduka	education 
 eklesia	église 
@@ -369,15 +333,6 @@ extende	étendre
 extra	dehors; extérieur; hors 
 extra landa	à l'étranger 
 extremi	extrême 
-
-```
-
-<span id="gef"></span>
-
-### F
-
-``` 
- 
 face	commettre; construire; créer; exécuter; faire; forger;	menuiser 
 face-do	fabrique; usine 
 facia	face; visage 
@@ -465,15 +420,6 @@ furka	fourchette
 furna	fourneau; le poêle 
 fusi	couler 
 futuri	future 
-
-```
-
-<span id="geg"></span>
-
-### G
-
-``` 
- 
 galina	poule 
 game G	épouser; mariage; marier 
 gasi	gas 
@@ -513,15 +459,6 @@ gumi	caoutchouc
 gusta	goût 
 guta	goutte 
 gutura	gorge 
-
-```
-
-<span id="geh"></span>
-
-### H
-
-``` 
- 
 habe	avoir (possesser); posseder; proprieté 
 habitu	habitude; usage 
 hedo G	bonheur; gai; heureux; joie; plaisir 
@@ -549,15 +486,6 @@ horti	jardin
 hospita	hospitalité 
 hoteli	hôtel 
 humidi	humide 
-
-```
-
-<span id="gei"></span>
-
-### I
-
-``` 
- 
 iatri G	docteur; médecin 
 id pa gene diluvi	passive: il a été inondé 
 idea	idée 
@@ -593,15 +521,6 @@ intra-duce	introduire
 invita	inviter 
 iso ... de	aussi ... que; autant ... que 
 itera	insister sur 
-
-```
-
-<span id="gej"></span>
-
-### J
-
-``` 
- 
 ja	oui 
 jaketa	veste 
 ju-an	garçon 
@@ -613,15 +532,6 @@ jura	jurer
 jurnali	journal 
 justi	juste 
 juve	jeune 
-
-```
-
-<span id="gek"></span>
-
-### K
-
-``` 
- 
 ka	car (conjonction) 
 -ka	chambre; salle 
 ka-co	donc 
@@ -742,15 +652,6 @@ kura-fe	infirmier
 kura-pe	infirmier 
 kursi	courir 
 kuspi	pointe 
-
-```
-
-<span id="gel"></span>
-
-### L
-
-``` 
- 
 la	la; y 
 labia	lèvre 
 laevo	gauche 
@@ -805,15 +706,6 @@ lue	louer
 lukta	combattre; lutte 
 lumi	éclairer; lumière 
 luna	lune 
-
-```
-
-<span id="gem"></span>
-
-### M
-
-``` 
- 
 M1 (abréviation pour "meno mo")	janvier 
 M10 (abréviation pour "meno deka")	octobre 
 M11 (abréviation pour "meno mo-mo")	novembre 
@@ -954,15 +846,6 @@ musika G	musique
 muska	mouche 
 muta	changer; transformer 
 mute	muet 
-
-```
-
-<span id="gen"></span>
-
-### N
-
-``` 
- 
 na	notre; nous 
 nasa	nez 
 nasa-te	mouchoir 
@@ -1032,15 +915,6 @@ nuli	aucun; ne ... aucun; nul
 nuli-kron	ne jamais 
 nuli-ra	rien 
 numera	nombre 
-
-```
-
-<span id="geo"></span>
-
-### O
-
-``` 
- 
 obe	obéir 
 obesi	gros 
 obliga	obliger 
@@ -1066,15 +940,6 @@ osteo G	os
 oti G	oreille 
 ova	œuf 
 ovis	mouton 
-
-```
-
-<span id="gep"></span>
-
-### P
-
-``` 
- 
 pa	dernier 
 pa nece	il fallait 
 pa-di	hier 
@@ -1247,15 +1112,6 @@ puri	curer; nettoyer; pur
 pusi	petit 
 puta	penser 
 pute	puits 
-
-```
-
-<span id="geq"></span>
-
-### Q
-
-``` 
- 
 qalita	proprieté; qualité 
 qanto	combien de 
 qarto	quart 
@@ -1271,15 +1127,6 @@ qo-ka ?	pourquoi ?
 qo-lo ?	où 
 qo-pe ?	qui ? 
 qo-tem ?	quand ? 
-
-```
-
-<span id="ger"></span>
-
-### R
-
-``` 
- 
 ra	article; chose; objet 
 rabi	folle; fou 
 rabi-pe	le fou 
@@ -1334,15 +1181,6 @@ ru	outil
 rubi	rouge 
 rura	campagne 
 rura-pe	paysan 
-
-```
-
-<span id="ges"></span>
-
-### S
-
-``` 
- 
 saka	sac 
 sakri	sacré 
 sali	sel 
@@ -1481,15 +1319,6 @@ supra	audessus; dessus; supérieur
 sura	assurer; certain; sûr 
 surprise	surprendre 
 sutura	couture 
-
-```
-
-<span id="get"></span>
-
-### T
-
-``` 
- 
 ta	tant 
 tabla	table 
 taci	taire 
@@ -1558,15 +1387,6 @@ tu	te; toi; ton; tu; votre
 tualeta	toilette 
 turba	agiter; déranger; embarasser; trouble 
 tusi	tousser 
-
-```
-
-<span id="geu"></span>
-
-### U
-
-``` 
- 
 u	un; une 
 u domi tri	la troisieme maison 
 u-ci	ce; celui-ci; cette; la; le 
@@ -1589,15 +1409,6 @@ urba	ville
 urba via	rue 
 uti	disposer de; employer 
 uti-ple	utile 
-
-```
-
-<span id="gev"></span>
-
-### V
-
-``` 
- 
 vagona	auto-car; automobile; voiture 
 vaku	vide 
 vali	vallée 
@@ -1649,44 +1460,8 @@ volve	rouler
 vora	déjeuner; dîner; manger; repas 
 vora-ka	salle à manger 
 vulne	blesser 
-
-```
-
-<span id="gew"></span>
-
-### W
-
-``` 
- 
-
-```
-
-<span id="gex"></span>
-
-### X
-
-``` 
- 
 xanto G	blond; jaune 
 xeno G	étrange; étranger; bizarre 
-
-```
-
-<span id="gey"></span>
-
-### Y
-
-``` 
- 
-
-```
-
-<span id="gez"></span>
-
-### Z
-
-``` 
- 
 ze-ra	rien 
 zelo	enthousiasme 
 zero G	aucun; ne ... aucun; zero 

@@ -204,15 +204,6 @@ aviser	informa
 avoir (possesser)	habe 
 avouer	konfesi 
 avril	meno tetra 
-
-```
-
-<span id="geb"></span>
-
-### B
-
-``` 
- 
 bain	lava 
 baisser	baso 
 balai	brosa 
@@ -280,15 +271,6 @@ brûler	piro; busti
 brusquement	subito 
 bureau	buro 
 but	buta; tende 
-
-```
-
-<span id="gec"></span>
-
-### C
-
-``` 
- 
 ça	u-la 
 cabine	kabina 
 cabinet	kabineta 
@@ -476,15 +458,6 @@ cultivateur	agri-pe
 cultiver	kulti 
 curer	puri 
 curieux	qestio 
-
-```
-
-<span id="ged"></span>
-
-### D
-
-``` 
- 
 dame	dama; gina 
 danger	risko 
 dans	in 
@@ -603,15 +576,6 @@ dur	dura
 durant	duranto 
 duratif	du 
 durée	tem 
-
-```
-
-<span id="gee"></span>
-
-### E
-
-``` 
- 
 eau	aqa; hidro G 
 écarter	moti ab 
 échanger	kambio 
@@ -750,15 +714,6 @@ exprimer	expresi
 extérieur	extra 
 extraordinaire	stupe 
 extrême	extremi 
-
-```
-
-<span id="gef"></span>
-
-### F
-
-``` 
- 
 fabrique	face-do 
 face	facia 
 facile	facili 
@@ -840,15 +795,6 @@ furieux	koleri
 -futur: erai	fu 
 futur: je viendrai	mi fu veni 
 future	futuri 
-
-```
-
-<span id="geg"></span>
-
-### G
-
-``` 
- 
 gagner	gene 
 gai	hedo G 
 garçon	ju-an 
@@ -884,15 +830,6 @@ gros	obesi
 groupe	grega 
 guerir	repara 
 guerre	milita 
-
-```
-
-<span id="geh"></span>
-
-### H
-
-``` 
- 
 habile	tekni G 
 habiller	vesti 
 habitant	in-pe 
@@ -925,15 +862,6 @@ huit	okto
 humain	homi 
 humeur	atitudi 
 humide	humidi 
-
-```
-
-<span id="gei"></span>
-
-### I
-
-``` 
- 
 ici	ci 
 idée	idea 
 ignorer	ne ski 
@@ -977,15 +905,6 @@ intime	intra
 introduire	introduce 
 inutile	minus uti 
 inviter	invita 
-
-```
-
-<span id="gej"></span>
-
-### J
-
-``` 
- 
 jadis	pre nu 
 jamais	ali-kron; nuli-kron 
 jambe	poda G 
@@ -1013,24 +932,6 @@ jupe	infra tunika
 jurer	jura 
 jusque	a; ad 
 juste	justi 
-
-```
-
-<span id="gek"></span>
-
-### K
-
-``` 
- 
-
-```
-
-<span id="gel"></span>
-
-### L
-
-``` 
- 
 se: l'un l'autre	alelo 
 la	la 
 la	u-ci; u-la 
@@ -1086,15 +987,6 @@ lundi	di-bi
 lune	luna 
 lunettes	lenti 
 lutte	lukta 
-
-```
-
-<span id="gem"></span>
-
-### M
-
-``` 
- 
 ma	mi 
 machine	makina G 
 machine a coudre	sue-me 
@@ -1226,15 +1118,6 @@ mur	matura
 mûr	mura 
 musique	musika G 
 mystère	misteri G 
-
-```
-
-<span id="gen"></span>
-
-### N
-
-``` 
- 
 nager	nekto G 
 naître	gene nati 
 nation	natio 
@@ -1271,15 +1154,6 @@ nudité	nudi
 nuit	noktu 
 nul	nuli 
 nylon	niloni 
-
-```
-
-<span id="geo"></span>
-
-### O
-
-``` 
- 
 obéir	obe 
 objet	ra 
 obliger	obliga 
@@ -1325,15 +1199,6 @@ ouvert	aperi
 ouvrage	ergo 
 ouvrier	ergo-pe 
 ouvrir	aperi 
-
-```
-
-<span id="gep"></span>
-
-### P
-
-``` 
- 
 page	pagina 
 paille	stra 
 pain	pani 
@@ -1533,15 +1398,6 @@ puissance	dina G
 puits	pute 
 punir	puni 
 pur	puri 
-
-```
-
-<span id="geq"></span>
-
-### Q
-
-``` 
- 
 quai	navi-lo 
 qualité	qalita 
 quand ?	qo-tem ? 
@@ -1565,15 +1421,6 @@ qui ?	qo-pe ?
 quinze	mo-penta 
 quitter	ki-ex 
 quoi ?	qo ? 
-
-```
-
-<span id="ger"></span>
-
-### R
-
-``` 
- 
 race	racia 
 raconter	dice 
 radio	radio 
@@ -1677,15 +1524,6 @@ route	strata
 rude	no-facili 
 rue	urba via 
 rue	via 
-
-```
-
-<span id="ges"></span>
-
-### S
-
-``` 
- 
 sa	an G 
 sable	arena 
 sac	saka 
@@ -1808,15 +1646,6 @@ sûr	sura
 surprendre	surprise 
 surtout	su toto 
 système	sistema G 
-
-```
-
-<span id="get"></span>
-
-### T
-
-``` 
- 
 table	tabla 
 tableau	pikto 
 tâcher	tenta 
@@ -1904,15 +1733,6 @@ trouver	detekti
 tu	tu 
 tuer	cide 
 type	tipo G 
-
-```
-
-<span id="geu"></span>
-
-### U
-
-``` 
- 
 un	u; un 
 l'un l'autre	alelo 
 une	u; un 
@@ -1923,15 +1743,6 @@ usage	more; habitu
 user	tro uti 
 usine	face-do 
 utile	uti-ple 
-
-```
-
-<span id="gev"></span>
-
-### V
-
-``` 
- 
 vacances	libe-tem 
 vache	fe-bovi 
 vague	no-klari 
@@ -1990,45 +1801,9 @@ vous	vi
 voyage	viagia 
 vrai	veri 
 vue	vista 
-
-```
-
-<span id="gew"></span>
-
-### W
-
-``` 
- 
-
-```
-
-<span id="gex"></span>
-
-### X
-
-``` 
- 
-
-```
-
-<span id="gey"></span>
-
-### Y
-
-``` 
- 
 y	la 
 il y a	il es 
 yeux	plu oku	
-
-```
-
-<span id="gez"></span>
-
-### Z
-
-``` 
- 
 zero	zero G
 
 ```

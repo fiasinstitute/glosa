@@ -155,15 +155,6 @@ avari	ávido; codicioso
 aventura	aventura 
 avi	ave (pájaro); pájaro 
 axi	eje 
-
-```
-
-<span id="geb"></span>
-
-### B
-
-``` 
- 
 baci	barra (cilindro); vara 
 baia	bahía; cala 
 baka	baya 
@@ -212,15 +203,6 @@ bursa	monedero
 buta	finalidad (propósito); intención; meta;	objeto (=meta) 
 butiri	mantequilla 
 butona	botón 
-
-```
-
-<span id="gec"></span>
-
-### C
-
-``` 
- 
 carta	gráfico; mapa 
 casa	cazar; perseguir 
 cede	ceder; retirarse 
@@ -252,15 +234,6 @@ civili	cortés
 civita	ciudad 
 -co	(lo) dicho 
 cokolata	chocolate 
-
-```
-
-<span id="ged"></span>
-
-### D
-
-``` 
- 
 data	datos; información 
 de	acerca de; de; sobre (=acerca de) 
 debati	debatir 
@@ -338,15 +311,6 @@ dulce	agradable; dulce; simpático
 dulo	esclavo 
 dura	constante; continuar; continuo; duradero; durar 
 duranto	durante; mientras; tiempo (=rato) 
-
-```
-
-<span id="gee"></span>
-
-### E
-
-``` 
- 
 e	e (=y); y 
 eduka	educar; enseñar; instruir 
 efekti	efecto 
@@ -414,15 +378,6 @@ explode	estallar; reventar
 extende	alcanzar 
 extra	exterior; fuera (de) 
 extra-landa	extranjero; en el extranjero 
-
-```
-
-<span id="gef"></span>
-
-### F
-
-``` 
- 
 -fa	conjunto 
 faba	alubia; haba; judia 
 fabrika	construcción 
@@ -535,15 +490,6 @@ furka	bifurcarse; horca
 furna	estufa; horno 
 fusi	fundir; verter 
 fusili	disparar; fusil 
-
-```
-
-<span id="geg"></span>
-
-### G
-
-``` 
- 
 gaia	(la) tierra 
 galina	pollo 
 game	casar; casarse 
@@ -593,15 +539,6 @@ guarda	guardar
 gumi	goma (caucho) 
 gusta	probar (gustar) 
 guta	gota; gotear 
-
-```
-
-<span id="geh"></span>
-
-### H
-
-``` 
- 
 habe	poseer 
 habitu	costumbre; hábito 
 harmoni	(estar de) acuerdo ; armonizar 
@@ -632,15 +569,6 @@ horti	huerto; jardín
 hospita	agasajar; alojar 
 humidi	humedad; mojar 
 humoro	humor 
-
-```
-
-<span id="gei"></span>
-
-### I
-
-``` 
- 
 id	ello 
 idea	idea; pensamiento 
 idio	individuo 
@@ -688,15 +616,6 @@ iso ... de	tan(to) ... como
 iso-tem	contemporáneo 
 itera	(de) nuevo ; otra vez; repetición; (otra) vez ;	volver a 
 itinera	viajar 
-
-```
-
-<span id="gej"></span>
-
-### J
-
-``` 
- 
 ja	de acuerdo 
 ja!	sí (afirmativo) 
 jace	tumbado; estar tumbado ; yacer 
@@ -710,15 +629,6 @@ jura	juramento; jurar
 justi	imparcial; justo 
 juve	joven 
 juve-tem	juventud; niñez 
-
-```
-
-<span id="gek"></span>
-
-### K
-
-``` 
- 
 -ka	cuarto; habitación 
 kade	caer; caerse; tumbarse 
 kafa	café 
@@ -905,15 +815,6 @@ kura	cuidado; cuidadoso
 kursi	(de) carreras 
 kurva	curva; doblar 
 kuspi	punta 
-
-```
-
-<span id="gel"></span>
-
-### L
-
-``` 
- 
 la	ahí; allá; allí 
 labia	labio 
 labori	labor; trabajo 
@@ -991,15 +892,6 @@ lukta	esforzarse; luchar
 lumi	alumbrar; luz 
 luna	luna; lunar 
 lustra	brillo; dar brillo ; pulir 
-
-```
-
-<span id="gem"></span>
-
-### M
-
-``` 
- 
 ma	más 
 ma ... de	más ... de; más ... que 
 ma boni	mejor 
@@ -1104,15 +996,6 @@ musika	música
 muski	musgo 
 muskula	músculo 
 muta	cambiar (modificar); mudar 
-
-```
-
-<span id="gen"></span>
-
-### N
-
-``` 
- 
 na	nos; nosotros; nuestro; nuestros 
 nano	chiquitito; minúsculo; pequeñísimo 
 nara	narrar; relato; reportaje 
@@ -1178,15 +1061,6 @@ numera	cifra; contar; número
 nunci	anunciar; publicar 
 nuta	asentir (con cabeza) 
 nutri	(dar de) comer ; dar de comer a 
-
-```
-
-<span id="geo"></span>
-
-### O
-
-``` 
- 
 obe	obedecer 
 obesi	gordo; grueso; obeso 
 objekti	ser (=ente) 
@@ -1227,15 +1101,6 @@ ova	huevo
 ovali	óvalo 
 ovis	oveja 
 oxidi	corroer; oxidar 
-
-```
-
-<span id="gep"></span>
-
-### P
-
-``` 
- 
 pa	pasado 
 fe pa stude	)pasado:) ella estudió 
 pa-tem	(el/ lo) pasado 
@@ -1392,15 +1257,6 @@ puri	limpio; puro
 pusi	chico; pequeño 
 puta-me	ordenador 
 putri	decaer; pudrir; pudrirse 
-
-```
-
-<span id="geq"></span>
-
-### Q
-
-``` 
- 
 qadra	casilla; cuadrado 
 qalita	calidad; cualidad 
 qantita	cantidad 
@@ -1419,15 +1275,6 @@ qo-te?	¿para que?
 qo-tem?	¿cuándo? 
 qo?	¿que? 
 qod	(el) cual ; (lo) que 
-
-```
-
-<span id="ger"></span>
-
-### R
-
-``` 
- 
 (-)ra	cosa 
 -ra	objeto (=cosa) 
 rabi	furioso; loco 
@@ -1492,15 +1339,6 @@ rude	basura; escombros
 rugo	áspero; basto 
 rupti	quebrar; romper 
 rura	campo (no-ciudad); paisaje 
-
-```
-
-<span id="ges"></span>
-
-### S
-
-``` 
- 
 sadi	cruel; sádico 
 sagita	flecha; saeta 
 saka	bolsa; bolso; saco 
@@ -1652,15 +1490,6 @@ sura	cierto (seguro)
 surge	asomarse 
 surprise	sorpresa 
 susura	cuchichear; susurrar 
-
-```
-
-<span id="get"></span>
-
-### T
-
-``` 
- 
 ta	tanto(s) 
 taba	tabla; tablero 
 tabla	mesa 
@@ -1733,15 +1562,6 @@ tubi	cañería; tubo
 tumo	hincharse 
 tuneli	túnel 
 turba	irritar 
-
-```
-
-<span id="geu"></span>
-
-### U
-
-``` 
- 
 u	alguna; alguno; el; la; un; una; uno 
 u mi	(el) mío 
 u-ci	esto 
@@ -1766,15 +1586,6 @@ urina	orina; orinar
 usuali	usual 
 uteri	útero; matriz 
 uti	útil; utilizar 
-
-```
-
-<span id="gev"></span>
-
-### V
-
-``` 
- 
 -va	vaso 
 vaga	caminar; errar (vagar); vagar 
 vagina	vaina 
@@ -1838,45 +1649,9 @@ volumi	capacidad; volumen
 volve	rodar 
 vora	comer; devorar 
 vulne	herida; herir; lesión 
-
-```
-
-<span id="gew"></span>
-
-### W
-
-``` 
- 
-
-```
-
-<span id="gex"></span>
-
-### X
-
-``` 
- 
 xanto	amarillo; gualdo 
 xeno	ajeno; extraño 
 xilo	madera 
-
-```
-
-<span id="gey"></span>
-
-### Y
-
-``` 
- 
-
-```
-
-<span id="gez"></span>
-
-### Z
-
-``` 
- 
 ze	nulo 
 -ze	cero 
 zelo	celo; entusiasmo 

@@ -143,15 +143,6 @@ automati	automatic; self-acting
 auxi	help; advantage; aid; assist; grow (something);	helpful 
 avanti	forward; advance; ahead; forth; move forward ;	forwards; onwards; pro 
 avi	bird 
-
-```
-
-<span id="geb"></span>
-
-### B
-
-``` 
- 
 babi	baby 
 baci	bar; baton; rod; staff (rod); stick (baton) 
 baia	bay; creek 
@@ -223,15 +214,6 @@ bus	bus; omnibus
 buta	aim; purpose; butt; goal; intention; object (purpose);	score; target; task 
 butiri	butter 
 butona	button; knob (button); pimple 
-
-```
-
-<span id="gec"></span>
-
-### C
-
-``` 
- 
 campiona	champion 
 carma	charm; charming 
 carta	chart; map; diagram; graph 
@@ -266,15 +248,6 @@ civiliza	civilization; civilize
 civita	city; town 
 -co (Italian. Only in compounds!)	the just said 
 cokolata	chocolate 
-
-```
-
-<span id="ged"></span>
-
-### D
-
-``` 
- 
 daga	dagger; stab 
 dama	subdue; tame 
 datu	date (day) 
@@ -353,15 +326,6 @@ dura	continue; still (continue); abiding; constant;	continuous; durable; endure;
 dura feru	steel 
 dura vive	survive 
 dusca (French)	shower (bath) 
-
-```
-
-<span id="gee"></span>
-
-### E
-
-``` 
- 
 e	and 
 editora	editor 
 eduka	educate; education; educational; learning 
@@ -422,15 +386,6 @@ extende	extend; spread
 extra	external; beside; out of; outdoor; outdoors; outer;	outside; outward; outwardly; outwards 
 extra landa	abroad 
 extra-ve	coat 
-
-```
-
-<span id="gef"></span>
-
-### F
-
-``` 
- 
 (-)fa	set (n); bundle; group; bunch; cluster; sheaf 
 faba	bean 
 face	make; build; commit; construct; execute; forge (v);	making; manufacture; produce (make) 
@@ -543,15 +498,6 @@ furka	fork; branch off; pitchfork
 furna	oven; bake; furnace; heater; stove 
 fusi	pour; fuse; melt; shed (liquid); smelt (melt); spill 
 fusili	gun; shoot; discharge (fire); fire (shoot); rifle 
-
-```
-
-<span id="geg"></span>
-
-### G
-
-``` 
- 
 galina	chicken; fowl 
 game	marry; marriage; wed 
 game-ritu	wedding 
@@ -614,15 +560,6 @@ gru	fit; adapt; agree; convenient; fitting; fitting (adj);	install; mount; prope
 guarda	guard 
 gumi	rubber; caoutchouc; gum; resin 
 gusta	taste; taste (test) 
-
-```
-
-<span id="geh"></span>
-
-### H
-
-``` 
- 
 habe	have (own); have the quality of;	has (form of to have, own); has the quality of;	've (short for have, own); own (possess); possess;	property (possessions) 
 habe epi se	wear 
 habe sati tem	afford 
@@ -659,15 +596,6 @@ hospita	entertain; hospitable; hospitality; lodge (v)
 hoteli	hotel 
 humidi	humid; humidity; damp; dampness; moist; moisture;	wet (v) 
 humoro	humor; humour; disposition 
-
-```
-
-<span id="gei"></span>
-
-### I
-
-``` 
- 
 id	it; its 
 idea	idea; thought; mental image; notion 
 idio	unique; private; especial; identity; individual;	own (adj); of his/her/its own (particular);	particular; peculiar; separate (adj); special 
@@ -716,15 +644,6 @@ iso ... de	as ... as
 iso-tem	contemporary (event); simultaneous 
 itera	again; insist; iterate; new (again); re; repeat;	repetition; return 
 iti	go 
-
-```
-
-<span id="gej"></span>
-
-### J
-
-``` 
- 
 ja	yes; agreed!; yeah 
 janu	door; doorway; entrance 
 joko	jest; joke; play a joke ; play (joke) 
@@ -739,15 +658,6 @@ jura	oath; swear oath; swear (oath); take an oath; curse
 jurnali	journal; magazine; newspaper 
 justi	equitable; fair (equitable); fair (just); impartial;	just; just (equitable); just (fair); justice;	right (just) 
 juve	young; youth; youthful 
-
-```
-
-<span id="gek"></span>
-
-### K
-
-``` 
- 
 ka	because; as (because); for (because) 
 -ka (short affix form of kamera)	room; -room 
 ka-co	hence (therefore); so (therefore); therefore 
@@ -927,15 +837,6 @@ kura	care; concern; accurate; administer; attend;	attendance; attention; care fo
 kura puta de	consider 
 kura-pe	nurse (male or female); warden; warder; watchman 
 kurva	curve (n); curve (v); bend (n); bend (v) 
-
-```
-
-<span id="gel"></span>
-
-### L
-
-``` 
- 
 la	there; over there 
 labia	lip 
 laboratori	laboratory 
@@ -1008,15 +909,6 @@ lukta	fight; struggle; make an effort ; exert oneself;	strive; wrestle
 lumi	light (n); illuminate; light (v); light up; luminous;	shine 
 luna	moon; lunar 
 lustra	lustre; polish (n); polish (v) 
-
-```
-
-<span id="gem"></span>
-
-### M
-
-``` 
- 
 ma	more; -er (comparative marker) 
 -ma (short affix form of materia)	material; stuff; matter; substance 
 ma-amo	prefer 
@@ -1137,15 +1029,6 @@ Mus	mouse (animal); mouse (computer)
 musika	music 
 muskula	muscle 
 muta	change; affect; alter; inflect; transform; vary 
-
-```
-
-<span id="gen"></span>
-
-### N
-
-``` 
- 
 na	we; our; ours; us 
 nara	narrate; tell; narrative; report 
 narko	narcotized; drunk; drunken 
@@ -1236,15 +1119,6 @@ nuli-lo	nowhere
 numera	number; count; digit 
 numera panto-pe	altogether 
 numera panto-ra	altogether 
-
-```
-
-<span id="geo"></span>
-
-### O
-
-``` 
- 
 obe	obey; execute; obedience; obedient 
 obstina	obstinate; stubborn 
 oceani	ocean 
@@ -1279,15 +1153,6 @@ oti	ear; bug (v); spy
 ova	egg 
 oxidi	oxidize; corrode; rust 
 oxigena	oxygen 
-
-```
-
-<span id="gep"></span>
-
-### P
-
-``` 
- 
 pa	-ed (past tense marker); did (past tense marker);	had (tense marker); have (past tense marker);	've (past tense marker); has (tense marker);	last (previous); past 
 pa(-)	past 
 pa pote	could 
@@ -1482,15 +1347,6 @@ pusi-fluvi	brook; creek (small river); rivulet; stream (n)
 pusi-valu	scorn 
 puta	compute; think; calculate; idea; reckon; thought;	trim (v) 
 puta-me	computer 
-
-```
-
-<span id="geq"></span>
-
-### Q
-
-``` 
- 
 qadra	frame; square; square (frame) 
 qalita	quality; property (quality) 
 qantita	quantity; amount; dose 
@@ -1504,15 +1360,6 @@ qo-mode?	how ...?
 qo-pe?	what person?; which?; who?; whom? 
 qo-tem?	when? 
 qo?	what?; which? 
-
-```
-
-<span id="ger"></span>
-
-### R
-
-``` 
- 
 (-)ra	thing; affair; object (thing) 
 rabi	rabid; crazy; mad; crazed; foolish; furious; raging 
 rabi multi-pe	mob 
@@ -1574,15 +1421,6 @@ ruina	ruin; undermine
 rumora	gossip; rumor; rumour 
 rupti	interrupt; interruption; break 
 rura	country (rural); rural 
-
-```
-
-<span id="ges"></span>
-
-### S
-
-``` 
- 
 sadi (French)	sadistic; cruel 
 saka	sack; bag; pouch; purse 
 sakrifice	sacrifice 
@@ -1753,15 +1591,6 @@ supra-visi	supervise
 sura	sure; assure; certain; confidence; confident; confirm;	of course; positive; undoubtedly 
 surge	rise (go up); appear; arise; get up; loom (rise);	show up 
 susura	whisper; rustle 
-
-```
-
-<span id="get"></span>
-
-### T
-
-``` 
- 
 taba	board; plank; slab 
 tafo	-taph; tomb 
 tako	fast; quick; brisk; haste; hasty; hurry; nimble;	prompt; rapid; rapidity; rate; speed; speedy; sprint;	swift (quick); velocity 
@@ -1856,15 +1685,6 @@ tunika	dress; tunic
 turba	disturb; bother; disorder; distress; disturbance;	embarass; irritate; trouble; upset (trouble); vex;	worry 
 turi	tower; turret 
 tusi	cough 
-
-```
-
-<span id="geu"></span>
-
-### U
-
-``` 
- 
 u (before all consonants but h, else =un)	a; an; the; one;	any (=a(n)) 
 u-ci ('the here')	this 
 u-la ('the there')	that (pronoun); yonder 
@@ -1895,15 +1715,6 @@ urba-cefa	mayor
 urge	urge; emergency; press for; press (urge) 
 ursu	bear (animal) 
 uti	use; have at one's disposal ; employ; treatment;	useful; using; utilize 
-
-```
-
-<span id="gev"></span>
-
-### V
-
-``` 
- 
 vaga	wander; ramble; roam; rove 
 vagona	car; auto; automobile; carriage; vehicle; wagon 
 vagona-do	garage 
@@ -1972,45 +1783,9 @@ vora-do	restaurant
 voti	vote 
 vulga	common; ordinary; vulgar 
 vulne	wound; injure; injury; lesion 
-
-```
-
-<span id="gew"></span>
-
-### W
-
-``` 
- 
-
-```
-
-<span id="gex"></span>
-
-### X
-
-``` 
- 
 xanto	yellow; blond; yolk 
 xeno	foreign; strange; alien; bizarre; novel (strange);	odd (unusual); queer; unusual 
 xeno-pe	foreigner 
-
-```
-
-<span id="gey"></span>
-
-### Y
-
-``` 
- 
-
-```
-
-<span id="gez"></span>
-
-### Z
-
-``` 
- 
 Zea	cob; maize 
 zelo	zeal; zealous; enthusiastic; ardor; eager; enthusiasm;	keen 
 zero	zero; naught; nil; no; none; nothing; nought; null 

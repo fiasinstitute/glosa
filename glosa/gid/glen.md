@@ -887,15 +887,6 @@ azigo G	unpaired
 azimo (take minus zima) GX	without yeast 
 azo G	nitrogen (N) 
 azur 1	blue 
-
-```
-
-<span id="geb"></span>
-
-### B
-
-``` 
- 
 babax G	chatterer 
 babi 1++	baby 
 babi bovi (=babi-bovi) 1X	calf 
@@ -1318,15 +1309,6 @@ butiro (=butiri) GX	butter
 butona 1++	button; knob (button); pimple 
 buxus	box-wood 
 buz 1+	buzz 
-
-```
-
-<span id="gec"></span>
-
-### C
-
-``` 
- 
 cakali 1	jackal 
 cako 1	chess 
 campiona 1++	champion 
@@ -1478,15 +1460,6 @@ civita 1++	city; town
 cokolat (=cokolata) X	chocolate 
 cokolata 1++	chocolate 
 conversa (=konversa) 1X	converse; talk 
-
-```
-
-<span id="ged"></span>
-
-### D
-
-``` 
- 
 d-d-dice 1+	stammer 
 D3 1	tuesday 
 D4 1	Wednesday 
@@ -1908,15 +1881,6 @@ dura vive 1++	survive
 durante (=duranto, prefer tem) X	during; for (during); in (during);	while (temporal) 
 duranto (prefer tem) 1	during; for (during); in (during);	while (temporal) 
 dusca (French) 1++	shower (bath) 
-
-```
-
-<span id="gee"></span>
-
-### E
-
-``` 
- 
 e 1++	and 
 e- (short form of elektro or elektroni)	
 	(prefix:) e- (electric, electronic);	e- (electric, electronic) 
@@ -2249,15 +2213,6 @@ extravaga	extravagant; behave extravagantly
 extremi 1	extreme 
 exubera	be abundant 
 exuvia	skin; slough 
-
-```
-
-<span id="gef"></span>
-
-### F
-
-``` 
- 
 (-)fa 1++	set (n); bundle; group; bunch; cluster; sheaf 
 faba 1++	bean 
 faber	artisan 
@@ -2719,15 +2674,6 @@ fustiga	thrash
 futili	futile (without meaning); insignificant 
 futu	copulate 
 futuri 1	future 
-
-```
-
-<span id="geg"></span>
-
-### G
-
-``` 
- 
 Gadus 1	cod 
 gaia 1+G	earth; earth (living) 
 gala (take lakti) GX	milk 
@@ -3085,15 +3031,6 @@ gurgustio	hovel; hut (poor's house); shanty
 gusta 1++	taste; taste (test) 
 guta 1+	drop (n); drip; drop (v); dripping; leak (v) 
 gutura	throat 
-
-```
-
-<span id="geh"></span>
-
-### H
-
-``` 
- 
 habe 1++	have (own); have the quality of;	has (form of to have, own); has the quality of;	've (short for have, own); own (possess); possess;	property (possessions) 
 habe epi se 1++	wear 
 habe sati tem 1++	afford 
@@ -3333,15 +3270,6 @@ humori (=humoro) 1GX	humor
 humoro 1++G	humor; humour; disposition 
 humus +	earth 
 hurakan	hurricane 
-
-```
-
-<span id="gei"></span>
-
-### I
-
-``` 
- 
 iati G	heal; medicine 
 iatri 1+G	doctor (medical); healer; heal 
 id 1++	it; its 
@@ -3604,15 +3532,6 @@ iti (prefer long form itinera) 1	itinerary; journey; travel
 iti per ... 1+	ride 
 iti-pe 1	pilgrim 
 itinera 1+	itinerary; journey; travel 
-
-```
-
-<span id="gej"></span>
-
-### J
-
-``` 
- 
 ja 1++	yes; agreed!; yeah 
 jace 1+	lie down; lie (down) 
 jaketa 1+	jacket 
@@ -3683,15 +3602,6 @@ juve-tem 1	youth; childhood
 juveni (=juve) 1X	young; youth 
 juxta	next to; close to 
 juxta-	(prefix:) close to; close to (prefix) 
-
-```
-
-<span id="gek"></span>
-
-### K
-
-``` 
- 
 ka 1++	because; as (because); for (because) 
 -ka (short affix form of kamera) 1++	room; -room 
 ka-co 1++	hence (therefore); so (therefore); therefore 
@@ -4722,15 +4632,6 @@ kuspi 1+	point (sharp)
 kustodi	keeper 
 kuti 1	skin 
 kutikula	cuticle 
-
-```
-
-<span id="gel"></span>
-
-### L
-
-``` 
- 
 la 1++	there; over there 
 labe G	handle (n); tool 
 labesi	subsidence 
@@ -5080,15 +4981,6 @@ luvi 1	take a bath
 luxa (=disloka) X	dislocate 
 luxu 1+	luxury; luxurious 
 luxuria	luxuriate 
-
-```
-
-<span id="gem"></span>
-
-### M
-
-``` 
- 
 M1 (abbreviation for "meno mo") 1	January 
 M10 (abbreviation for "meno deka") 1	October 
 M11 (abbreviation for "meno mo-mo") 1	November 
@@ -5743,15 +5635,6 @@ muta 1++	change; affect; alter; inflect; transform; vary
 mute 1	mute; dumb 
 mutila	mutilate 
 mutua 1+	mutual; reciprocal 
-
-```
-
-<span id="gen"></span>
-
-### N
-
-``` 
- 
 na 1++	we; our; ours; us 
 na domi 1	our house 
 nagma G	heap; pile 
@@ -6109,15 +5992,6 @@ nuptia (=nupti) X	wedding
 nuta 1+	nod; agree 
 nutra (=neutra) 1X	neutral 
 nutri 1+	feed (v); give to eat ; nourish 
-
-```
-
-<span id="geo"></span>
-
-### O
-
-``` 
- 
 o!	oh! 
 ob-	(prefix:) in-the-way; in-the-way (prefix) 
 obe 1++	obey; execute; obedience; obedient 
@@ -6302,15 +6176,6 @@ osteo 1++G	bone
 ``` 
  
 Österreich	Austria 
-
-```
-
-<span id="geo"></span>
-
-### O
-
-``` 
- 
 ostraciza G	ostracize 
 ostraka 1+G	shell (animal) 
 ostrako (=ostraka) GX	shell (animal) 
@@ -6337,15 +6202,6 @@ oxidi 1++G	oxidize; corrode; rust
 oxigen (=oxigena) X	oxygen 
 oxigena 1++	oxygen 
 ozo (prefer odoro) G	smell 
-
-```
-
-<span id="gep"></span>
-
-### P
-
-``` 
- 
 pa 1++	-ed (past tense marker); did (past tense marker);	had (tense marker); have (past tense marker);	've (past tense marker); has (tense marker);	last (previous); past 
 pa(-) 1++	past 
 pa akti 1	did 
@@ -7397,15 +7253,6 @@ puta-me sporta 1	computer game
 pute 1+	well (n) 
 putresce (=putri) X	rot 
 putri 1+	putrefy; decay; decline; rot 
-
-```
-
-<span id="geq"></span>
-
-### Q
-
-``` 
- 
 qa 1+	qua; in capacity of ; in character of 
 qadra 1++	frame; square; square (frame) 
 qadrangula 1	quadrangle 
@@ -7458,15 +7305,6 @@ qod 1+	what (that which)
 qota	quote 
 qotidia	quotidian; everyday 
 qu 1	whether 
-
-```
-
-<span id="ger"></span>
-
-### R
-
-``` 
- 
 (-)ra 1++	thing; affair; object (thing) 
 rabdi (=rabdo, prefer baci) 1X	bar; pole 
 rabdo G	bar; baton; cane; pole; rod; stick (baton);	stick (rod); stick (cane) 
@@ -7817,15 +7655,6 @@ rutelu	shovel; spade
 ruti	wrinkle 
 rutilo	red 
 rutina 1+	routine 
-
-```
-
-<span id="ges"></span>
-
-### S
-
-``` 
- 
 sabato 1+	sabbath; Saturday 
 sabota +	sabotage 
 sabulo	gravel; sand (coarse) 
@@ -8795,15 +8624,6 @@ suspira 1+	sigh
 susura 1++	whisper; rustle 
 sutura 1+	seam 
 svelte	slender 
-
-```
-
-<span id="get"></span>
-
-### T
-
-``` 
- 
 ta 1+	so much; so very 
 taba 1++	board; plank; slab 
 tabanus	gadfly 
@@ -9390,15 +9210,6 @@ turio	shoot (plant); sprout
 tusi 1++	cough 
 tusilago	colts foot 
 tuto	defence; defend; defense; guard 
-
-```
-
-<span id="geu"></span>
-
-### U
-
-``` 
- 
 u (before all consonants but h, else =un) 1++	a; an; the; one;	any (=a(n)) 
 u bibli 1	a book 
 u-ci ('the here') 1++	this 
@@ -9521,15 +9332,6 @@ uva 1+	grape
 uvido	damp; moist; wet 
 uvula	uvula 
 uxori	wife 
-
-```
-
-<span id="gev"></span>
-
-### V
-
-``` 
- 
 V-sek (pronounce like "vay-sek") 1	notch 
 -va (short affix form of vasa) 1	container; jar; pot (vase);	receptacle; vase; vessel (container) 
 va-bovi 1	corned beef 
@@ -9848,25 +9650,7 @@ vultu	expression; look
 vultura 1+	vulture 
 vulturi (=vultura) X	vulture 
 vulva	sheath; wrapper 
-
-```
-
-<span id="gew"></span>
-
-### W
-
-``` 
- 
 wiski 1	whisky 
-
-```
-
-<span id="gex"></span>
-
-### X
-
-``` 
- 
 x-radia 1	x-ray 
 xanto 1++G	yellow; blond; yolk 
 xeno 1++G	foreign; strange; alien; bizarre; novel (strange);	odd (unusual); queer; unusual 
@@ -9877,24 +9661,6 @@ xifo G	sword
 xilo 1G	wood (substance); lumber; timber; wooden 
 xino G	common 
 xisto G	covered colonnade 
-
-```
-
-<span id="gey"></span>
-
-### Y
-
-``` 
- 
-
-```
-
-<span id="gez"></span>
-
-### Z
-
-``` 
- 
 ze (prefer long form zero) 1	zero; nil; null 
 -ze 1+G	-ty (X ten); zero 
 ze-ra 1	nothing 

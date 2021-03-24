@@ -677,15 +677,6 @@ axe	peleki 1+G
 axiom	axioma G 
 axis	axi 1+; fulkru 1 
 axle	axi 1+; fulkru 1 
-
-```
-
-<span id="geb"></span>
-
-### B
-
-``` 
- 
 babble	kotilo G 
 baby	babi 1++ 
 bachelor	no-game-an 1 
@@ -1318,15 +1309,6 @@ by chance	per fortuna 1
 by means of	per 1++ 
 by the way	para dice 1 
 by-path	divertikulu 
-
-```
-
-<span id="gec"></span>
-
-### C
-
-``` 
- 
 cab	taxi 1++ 
 cabbage	brasika 1+; krambe G 
 cabin (small house)	pusi-do 1++ 
@@ -2260,15 +2242,6 @@ cypress	kupresus
 cyst	kisti 1+G 
 cyte	kito 1+G 
 cytoplasm	kitoplasma G 
-
-```
-
-<span id="ged"></span>
-
-### D
-
-``` 
- 
 'd (short for would)	sio 1++ 
 dad	papa 1+ 
 daddy	tata 
@@ -2798,15 +2771,6 @@ dye	kroma 1++G; tinktu (prefer kroma)
 dying	mori 1+ 
 dys- (prefix)	dis- (prefer kako-) G 
 dyslexia	dislexia G 
-
-```
-
-<span id="gee"></span>
-
-### E
-
-``` 
- 
 e- (electric, electronic)	e- (short form of elektro or elektroni) 
 each	singu 1++; hekasto G 
 each other	alelo 1++G 
@@ -3210,15 +3174,6 @@ eye-corner	kanto
 eyelash	cilia 1+ 
 eyelid	oku-tegu 1++; blefaro G; palpebra 
 eyesight	bleps G 
-
-```
-
-<span id="gef"></span>
-
-### F
-
-``` 
- 
 fable	fabula 
 fabric	textili 1++; tisu 1++;	-te (short affix form of textili) 1+; fabrika 1;	tela 1; textura 1 
 face	facia 1++; os 1+; prosopo 1G 
@@ -3713,15 +3668,6 @@ futile (action without result)	vani 1++
 futile (without meaning)	futili 
 future	fu 1++; fu-tem 1; futuri 1 
 future (tense)	fu(-) 1+ 
-
-```
-
-<span id="geg"></span>
-
-### G
-
-``` 
- 
 G	Greek	Heleni 
 gad-fly	oestro G 
 gadfly	estra G; tabanus 
@@ -4050,15 +3996,6 @@ gyna-	gina 1++G
 gypsum	kreta 1+ 
 gypsy	Tsigano 1+ 
 gyrate	gira 1++G; rota 1++ 
-
-```
-
-<span id="geh"></span>
-
-### H
-
-``` 
- 
 habit	habitu 1++; more 1++ 
 bad habit	kako-eto G 
 habitual	hektiko +G 
@@ -4423,15 +4360,6 @@ hydrant	hidra-tubi 1G
 hymn	himno G 
 hyphen	hifen 1G; uni-ra 1 
 hypothesis	hipotesi G 
-
-```
-
-<span id="gei"></span>
-
-### I
-
-``` 
- 
 I	mi 1++; ego (prefer mi) 
 I saw	mi pa vide 1 
 I see	mi vide 1 
@@ -4740,15 +4668,6 @@ itself	auto 1++G; se 1++
 itself (reflexive)	se 1++ 
 ivory	elefa-denti 1 
 ivy	Hedera 1+ 
-
-```
-
-<span id="gej"></span>
-
-### J
-
-``` 
- 
 jab	pulsa 1++ 
 jack	leva-me 1 
 jackal	cakali 1 
@@ -4839,15 +4758,6 @@ justice	judika-ra 1++; justi 1++
 justify	justifi 1; vindika 
 jut	projekti 1++ 
 juvenile	pro ju-pe 1 
-
-```
-
-<span id="gek"></span>
-
-### K
-
-``` 
- 
 kaleidoscope	kaleidoskope G 
 kangaroo	Kangaru 1; Makropus 
 keel	karina 1+; navi-funda 1 
@@ -4921,15 +4831,6 @@ knowledge	ski 1++; skience 1++; epistemo G
 known	ge-ski 1 
 knuckle	digi-juga 1+; kondilo G 
 Koran	Koran 1 
-
-```
-
-<span id="gel"></span>
-
-### L
-
-``` 
- 
 label	info-bileta 1++; nima-bileta 
 labor	ergo 1++G; labora 1+; travalia 
 laboratory	laboratori 1++ 
@@ -5331,15 +5232,6 @@ luxurious	luxu 1+
 luxury	luxu 1+ 
 lying down	horizo 1++G 
 lying on back	supine 
-
-```
-
-<span id="gem"></span>
-
-### M
-
-``` 
- 
 'm (short for am)	es 1++ 
 macabre	makabre 
 macadamize	makadamiza 
@@ -5842,15 +5734,6 @@ mystery	kripti 1++G; misteri 1++G
 mystic	misteri 1++G; mistika 1+G 
 myth	fabula; miti G 
 myxo	mixo G 
-
-```
-
-<span id="gen"></span>
-
-### N
-
-``` 
- 
 nail	aku 1++; oniko 1; rafi 1G; gomfo G 
 nail (finger)	ungu 1++ 
 naked	nudi 1++; gimno 1+G; aneimo G 
@@ -6061,15 +5944,6 @@ nut	nuki 1++; kario 1G; nuci
 nutmeg	Muskata 1+; miristika G 
 nylon	niloni 1++ 
 nymph	nimfa G 
-
-```
-
-<span id="geo"></span>
-
-### O
-
-``` 
- 
 o'clock	horo 1++ 
 oak	Qerkus 1+; dri G 
 oar	kope 1++G; remi 1+; tonsa 
@@ -6328,15 +6202,6 @@ oxidize	oxidi 1++G
 oxygen	oxigena 1++ 
 oyster	Ostre 1+G 
 oyster shell	ostre ostraka 1G 
-
-```
-
-<span id="gep"></span>
-
-### P
-
-``` 
- 
 P.M.	po meso-di 1++ 
 pace	gradu 1++ 
 pacify	paci 1++ 
@@ -7239,15 +7104,6 @@ pylon	pilo G
 pyramid	pirami 1+G 
 pyre	piro 1++G 
 python	piton 1G 
-
-```
-
-<span id="geq"></span>
-
-### Q
-
-``` 
- 
 qua	qa 1+ 
 quadrangle	tetra-gono 1+*G; qadrangula 1 
 quadrate	tetra-gono 1+*G 
@@ -7295,15 +7151,6 @@ quixotic	qixotiko
 quiz	qiz 1 
 quote	cita 1+; qota 
 quotidian	qotidia 
-
-```
-
-<span id="ger"></span>
-
-### R
-
-``` 
- 
 rabbi	rabi 
 rabbit	kuni 1++ 
 rabid	rabi 1++ 
@@ -7840,15 +7687,6 @@ rustic	agresti
 rustic poem	idili 
 rustle	susura 1++ 
 rye	sekale 
-
-```
-
-<span id="ges"></span>
-
-### S
-
-``` 
- 
 's (genitive marker)	de 1++ 
 's (short for is)	es 1++ 
 -s (plural sign)	plu 1++ 
@@ -9120,15 +8958,6 @@ syrup	siropa 1
 system	sistema 1++G 
 systematic	sistema 1++G 
 systole	sistoli G 
-
-```
-
-<span id="get"></span>
-
-### T
-
-``` 
- 
 tabby	ge-tigra 1 
 table (figures)	tabula 1+ 
 table (furniture)	mensa 1++; tabla 1+; trapezi G 
@@ -9783,15 +9612,6 @@ typhoon	tifona 1
 typical	tipika 1++G 
 tyrant	tirani 1+G 
 tyre	rota-zo 1++; pneu G 
-
-```
-
-<span id="geu"></span>
-
-### U
-
-``` 
- 
 udder	ubera 
 ugly	no-kali 1++ 
 ulcer	ulcera 
@@ -9947,15 +9767,6 @@ utmost	maxi 1++; ultima 1++
 utter (speak)	dice 1++; expresi 1++ 
 utter (whole)	holo 1++G 
 uvula	uvula 
-
-```
-
-<span id="gev"></span>
-
-### V
-
-``` 
- 
 vacancy	vaku 1++ 
 vacant	kavita 1++; vaku 1++ 
 vacation	feria 1++; libe-tem 1++ 
@@ -10129,15 +9940,6 @@ vowel	vokali 1++
 voyage	viagia 1++ 
 vulgar	krudi 1++; vulga 1++ 
 vulture	vultura 1+ 
-
-```
-
-<span id="gew"></span>
-
-### W
-
-``` 
- 
 waddle	anas-ki 1 
 wade	gresi in aqa 1+; vade 
 wafer	biskokta 1+ 
@@ -10556,26 +10358,8 @@ wrong (v)	injuri; insuri
 wrongdoing	ero 1++ 
 wrongly (prefix)	mis- 
 wrote	pa grafo 1 
-
-```
-
-<span id="gex"></span>
-
-### X
-
-``` 
- 
 x-ray	x-radia 1 
 X-shaped	dekusa 
-
-```
-
-<span id="gey"></span>
-
-### Y
-
-``` 
- 
 yacht	veli-navi 1 
 yard	atri 1++; korta 1++ 
 yarn	(-)fi 1++ 
@@ -10615,15 +10399,6 @@ yours truly	saluta 1++
 yourself	auto 1++G 
 youth	juve 1++; hebe 1G; juve-tem 1 
 youthful	juve 1++ 
-
-```
-
-<span id="gez"></span>
-
-### Z
-
-``` 
- 
 zeal	kako-zelo 1++; zelo 1++G; spude G 
 zealous	zelo 1++G 
 zebra	zebra 1 
