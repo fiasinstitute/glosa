@@ -610,3 +610,34 @@ hr.slender {
   content: "\e60e";
 }
 /*-- End of Icomoon icon font section --*/
+
+
+/*--  Lexicon tables  --*/
+
+#lexiconInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#lexicon {
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+}
+
+#lexicon th, #lexicon td {
+  padding: 12px;
+}
+
+#lexicon tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#lexicon tr.header, #lexicon tr:hover {
+  background-color: #f1f1f1;
+}
+
