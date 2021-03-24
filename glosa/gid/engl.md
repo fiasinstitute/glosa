@@ -1,19 +1,11 @@
 ---
-title: Glosa Internet Dictionary English-Glosa
+title: Dictionary English-Glosa
 layout: post
 published: true
 lexicon: true
 ---
 
-## Glosa Inter-Reti Diktionaria
-
-The Glosa Internet Dictionary has three levels. All are in this file:
-
-**Vocabularies**: `++` “Core”, `+` “Basic”, “`1`” Glosa-1000 list
-
-**Origin**: “`G`” Greek origin, “`*`” primary lexicon extension, “`1*`” deviatiion from “`1`”, “`X`” to avoid, prefer the lexeme in brackets (=...).
-
-`adj` adjective, `n` noun, `v` verb.
+{% marginnote '1' '**Vocabularies**: `++` “Core”, `+` “Basic”, “`1`” Glosa-1000 list.<br>**Origin**: “`G`” Greek origin, “`*`” primary lexicon extension, “`1*`” deviatiion from “`1`”, “`X`” to avoid, prefer the lexeme in brackets (=...).<br>`adj` adjective, `n` noun, `v` verb.' %}English-Glosa Reti Diktionaria
 
 <input type="text" id="lexiconInput" onkeyup="lexiconInput()" placeholder="Search..." title="Type in a word">
 
