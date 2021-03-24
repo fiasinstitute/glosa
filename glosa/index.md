@@ -35,17 +35,6 @@ Brevi info in plu hetero lingua:
  - [Introducción a Glosa](brevi/esintra.htm)
  - [Los diccionarios](gid/index.html)
 
-### Français
-
- - [Un texte exemplaire](brevi/frdaudet.htm)
- - Les lexiques [glosa-français](gid/gl1kfr.htm)
- - et [français-glosa](gid/frgl1k.htm).
-
-### По-русски:
-
- - ["Грамматика глосы"](brevi/rugram.htm).
-
-
 Glosa author Wendy Ashby wrote about this website:
 > “... Mega gratia de tu auxi difusi Glosa - tu puta-me pagina es fo
 stimula\! Id sti memo mi de u proto-tem mi pa vide Glosa - id es ta
