@@ -17,23 +17,8 @@ William Patterson (former editor), Kevin Smith,
 Marcel Springer (maintainer of this list, ![](../pic/emailm.png)
 glosa.org).
 
-Date: see [end](coglen.htm#date) of this file.
+Date: 2013-04-30
 
------
-
-[a](coglen.htm#gea)  [b](coglen.htm#geb)  [c](coglen.htm#gec) 
-[d](coglen.htm#ged)  [e](coglen.htm#gee)  [f](coglen.htm#gef) 
-[g](coglen.htm#geg)  [h](coglen.htm#geh)  [i](coglen.htm#gei) 
-[j](coglen.htm#gej)  [k](coglen.htm#gek)  [l](coglen.htm#gel) 
-[m](coglen.htm#gem)  [n](coglen.htm#gen)  [o](coglen.htm#geo) 
-[p](coglen.htm#gep)  [q](coglen.htm#geq)  [r](coglen.htm#ger) 
-[s](coglen.htm#ges)  [t](coglen.htm#get)  [u](coglen.htm#geu) 
-[v](coglen.htm#gev)  [w](coglen.htm#gew)  [x](coglen.htm#gex) 
-[y](coglen.htm#gey)  [z](coglen.htm#gez)
-
------
-
-<span id="gea"></span>
 
 ### A
 
@@ -1795,10 +1780,3 @@ zoa-eko	den
 zona	zone; belt; ring (circular band); circumference;	girdle; hoop 
 
 ```
-
------
-
-	
-<span id="date"></span>
-
-Datu: 2013-04-30, [www.glosa.org](../index.html)
