@@ -2558,7 +2558,7 @@ frakaso          crash; smash
 frakti 1++       break; fracture; interrupt 
 fraktura         fracture 
 frambesi         raspberry 
-Français {pronounce "frongsay"} 1  French 
+FranÃ§ais {pronounce "frongsay"} 1  French 
 frase 1++G       sentence; phrase; speak 
 frasi {=frase} GX  sentence; phrase; speak 
 fratri 1+        brother 
@@ -3594,7 +3594,7 @@ kaeno G          gape; gaping
 kaeta 1G         bristle; bristly 
 kaeto {=kaeta} GX  bristle 
 kafa 1++         coffee 
-kafe 1++         café 
+kafe 1++         cafÃ© 
 kafe {=kafa} 1X  coffee 
 kaino G          new; recent 
 kakafoni {=kako-fono} 1XG  cacophony; clatter; din; noise; tumult 
@@ -5301,7 +5301,7 @@ merko-vendo-pe {=merka-vendo-pe} X  merchant
 merkuri 1        mercury {Hg}; quicksilver 
 merkuri 1        mercury {messenger}; messenger 
 merkuri-di       Wednesday 
-mero 1++G        part; bit; piece; abstract; department; district; quarter {district}; ward {division}; division {part}; fragment; instalment; morsel; part {rôle}; rôle; partial {partly}; partly; portion; section; share; slice {n} 
+mero 1++G        part; bit; piece; abstract; department; district; quarter {district}; ward {division}; division {part}; fragment; instalment; morsel; part {rÃ´le}; rÃ´le; partial {partly}; partly; portion; section; share; slice {n} 
 mero agri 1      allotment 
 mero butiri 1    pat of butter 
 mero landa 1+    county; estate; province 
@@ -6144,7 +6144,7 @@ osme G           smell
 osmo G           push {n} 
 ostenta          display 
 osteo 1++G       bone 
-Österreich       Austria 
+Ã–sterreich       Austria 
 ostraciza G      ostracize 
 ostraka 1+G      shell {animal} 
 ostrako {=ostraka} GX  shell {animal} 
@@ -7490,7 +7490,7 @@ restaura         restore
 resti            rope 
 restrikti        restrict 
 resulta 1        result; outcome 
-resume           resume {summarize}; résumé; summarize; abstract 
+resume           resume {summarize}; rÃ©sumÃ©; summarize; abstract 
 resurge          rise again 
 resuscita        revive 
 retalia 1        retaliation; revenge; revenge on [make ]; vengeance 
