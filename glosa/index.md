@@ -43,7 +43,6 @@ Brevi info in plu hetero lingua:
 
 ### По-русски:
 
- - ["18 шагов к беглости в Евро-глоса"](brevi/ru18s.htm)
  - ["Грамматика глосы"](brevi/rugram.htm).
 
 

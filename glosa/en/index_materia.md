@@ -6,7 +6,7 @@ published: true
 
 
 
-[**“18 Steps to Fluency in Euro-Glosa”**](g18s.htm). *The* official description of Glosa as a handbook. In [German](dt-g18s.htm) ([pdf](dt-g18sd.pdf)), in  [Russian](../brevi/ru18s.htm).
+[**“18 Steps to Fluency in Euro-Glosa”**](g18s.htm). *The* official description of Glosa as a handbook. In [German](dt-g18s.htm) ([pdf](dt-g18sd.pdf)), in  [Russian](ru18s.htm).
 
 A Glosa starting kit.  [**Glosa Basic Reference** (English)](gref.htm),  [**“Grundwissen Glosa”** (German)](dt-gref.htm).
 
