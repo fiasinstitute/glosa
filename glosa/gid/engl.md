@@ -18,7 +18,7 @@ The Glosa Internet Dictionary has three levels. All are in this file:
 <input type="text" id="lexiconInput" onkeyup="lexiconInput()" placeholder="Search..." title="Type in a word">
 
 <div class="table-wrapper"><table id="lexicon">
-  <tr class="header"><th><em>English</em></th><th><em>Glosa</em></th></tr>
+  <tr class="header"><th><strong>English</strong></th><th><strong>Glosa</strong></th></tr>
 {% for row in site.data.lexicons.engl %}<tr><td>{{ row["english"] }}</td><td>{{row["glosa"]}}</td></tr>{% endfor %}
 </table></div>
 
