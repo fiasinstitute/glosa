@@ -27,6 +27,8 @@ Walter G. Green III ( [article](https://web.archive.org/web/20110811161444/https
 
 [Aender dos Santos](http://www.aliraperglosa.blogspot.com) (Brasilia) — [Christopher Marshall](http://www.vaiaata.com/music/u-trau-choir/) (New Zealand; Niuspi, a variant of Glosa) — [Martinovitsné Kutas Ilona](http://www.mek.iif.hu/porta/szint/human/szepirod/modern/martinov) (Hungary) — [Daniel Macouin](http://danielmacouin.chez-alice.fr/) (a French site)
 
+Kevin Smith's [experimental vocabulary](https://web.archive.org/web/20020804041003/http://www.qualitycode.com/html/glosa.eng.html), [a replica](https://web.archive.org/web/20070322200321/http://mysite.wanadoo-members.co.uk/glosa). A [Russian word list](http://www.qualitycode.com/glosa/glosaruski-abc.html).
+
 
 ## Other
 

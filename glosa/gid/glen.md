@@ -12,6 +12,6 @@ lexicon: true
 <input type="text" id="lexiconInput" onkeyup="lexiconInput()" placeholder="Search..." title="Type in a word">
 
 <div class="table-wrapper"><table id="lexicon">
-  <tr class="header"><th><strong>English</strong></th><th><strong>Glosa</strong></th></tr>
+  <tr class="header"><th><strong>Glosa</strong></th><th><strong>English</strong></th></tr>
 {% for row in site.data.lexicons.glen %}<tr><td>{{ row["glosa"] }}</td><td>{{row["english"]}}</td></tr>{% endfor %}
 </table></div>
