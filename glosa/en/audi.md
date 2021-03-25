@@ -4,28 +4,15 @@ layout: post
 published: true
 ---
   
-  
-
-# 
-
-  
-  
-
-To hear MP3-files, you can get the Real-Player Plug-In for your browser
-from [![Download RealPlayer
-Free](../pic/audi01.gif)](http://www.real.com/player/)
-[RealNetworks](http://www.real.com/player/).
-
------
-
-  
-
 ## Turisti Ofici
 
 ![\[Wendy Ashby and Ron Clark\]](../pic/audi02.jpg) W. Ashby, R. Clark  
 
 (Dialogue. Text and voices: © Wendy Ashby, Ronald Clark; Richmond U. K.,
-1990. The Glosa authors themselves\! But with English accent.
+1990. But with English accent.
+
+{% include audioplayer.html path="../dat/audi01.mp3" %}
+
 
 **Text:**
 
@@ -61,19 +48,11 @@ Free](../pic/audi01.gif)](http://www.real.com/player/)
 | Ofici-fe: | *Es nuli. Mi spe; ke vi fu habe un hedo libe-tem. A re-vide, Sinior.*                                                                                                                          |
 | Turisti:  | *Mega gratia. A re-vide.*                                                                                                                                                                      |
 
-Please click [![\[image of a
-mouth\]](../pic/audi03.gif)](../dat/audi01.mp3)
-[here](../dat/audi01.mp3) to hear (MP3-file, 2 minutes 43 seconds, 158
-kB).
-
-  
-  
-
------
-
 ## Tri Ursus
 
 ![\[Robin Gaskell\]](../pic/gtexte14.jpg) R. Gaskell  
+
+{% include audioplayer.html path="../dat/audi02.mp3" %}
 
 (Beginning of a Children Story. Text and voice: Robin Gaskell,
 Cabramatta, Australia, 1998. With light English accent. You can buy a
@@ -90,24 +69,17 @@ nece atend id gene sati tepido.
 U-ci di pa eqa tal u di, ...  
 *
 
-You can read the complete story in the [Tiny Text's
-Collection](gtexte.htm#triursus).
-
-Please click [![\[image of a
-mouth\]](../pic/audi03.gif)](../dat/audi02.mp3)
-[here](../dat/audi02.mp3) to hear (MP3-file, 53 s, 52 kB).
-
-  
-  
-
------
+[Read the complete story](gtexte.htm#triursus).
 
 ## Grama
+
 
 ![\[U Miller famili\]](../pic/audi04.jpg) Johannah, Suzannah, Barbara Jo
 and Gary Miller  
 
 (A spoken letter. Text and voice: Gary R. Miller, Mandan ND, USA, 2001.)
+
+{% include audioplayer.html path="../dat/audi03.mp3" %}
 
 **Text:**  
 *Ave, Marcel,  
@@ -115,17 +87,13 @@ Ci es bi kanta pro tu. Mi spe; plu Glosa soni es korekti. Mi pa vide plu
 hetero ra de Glosa soni. Pluso-co mi ne habe boni instrumenta pro
 registra soni. Sed na spe, u-ci kaseta fu es sufice a tu.*
 
-Please click [![\[image of a
-mouth\]](../pic/audi03.gif)](../dat/audi03.mp3)
-[here](../dat/audi03.mp3) to hear (MP3-file, 27 s, 27 kB).
-
-  
-  
 
 ## Pusi Astro
 
 (Children Song. Words by G. Miller. Voices: Johannah (10 years) and
 Suzannah (7) Miller, Mandan ND, USA, 2001)
+
+{% include audioplayer.html path="../dat/audi04.mp3" %}
 
 **Text:**  
 *Pusi astro, qo-ra es tu;  
@@ -135,17 +103,14 @@ Tu ne dice, so na kanta:
 Pusi astro, qo-ra es tu;  
 Qi nu foto tem u noktu?*
 
-Please click [![\[image of a
-mouth\]](../pic/audi03.gif)](../dat/audi04.mp3)
-[here](../dat/audi04.mp3) to hear (MP3-file, 37 s, 36 kB).
-
-  
   
 
 ## Rubi Fluvi Vali
 
 (Country Song. Words, voice and guitar: Gary R. Miller, Mandan ND, USA,
 2001)
+
+{% include audioplayer.html path="../dat/audi05.mp3" %}
 
 **Text:**  
 *1. Ab na vali - mu dice - tu fu ki.  
@@ -169,19 +134,15 @@ Po-kron tu fu es ab fluvi vali,
 Ka mi ne pote es minus tu.  
 *
 
-Please click [![\[image of a
-mouth\]](../pic/audi03.gif)](../dat/audi05.mp3)
-[here](../dat/audi05.mp3) to hear (MP3-file, 128 s, 125 kB).
-
-  
-  
-
 ## Kosmo Glosa
 
 ![\[notes\]](../pic/audi06.gif)  
 
 (A Glosa hymn. Words by Wendy Ashby, © Richmond GB, 1994, music and
 voice: Gary R. Miller, Mandan ND, USA, 2001/2002)
+
+{% include audioplayer.html path="../dat/audi07.mp3" %}
+
 
 **Text:**  
 *Panto-pe panto-lo pote uti Glosa:  
@@ -200,12 +161,6 @@ fluvi, bun e saxa.
 e eduka. Glosa pote proba ultra pan limita. Stop u lingua frustra: sti
 kosmo komunika.*)
 
-Please click [![\[image of a
-mouth\]](../pic/audi03.gif)](../dat/audi07.mp3)
-[here](../dat/audi07.mp3) to hear (MP3-file, 42 s, 42 kB).
-
-  
-  
 
 -----
 
@@ -216,6 +171,8 @@ Springer, Hamburg, Germany, 2002)
 
 ![\[Marcel\]](../pic/audi05.jpg) M. Springer with towel  
 
+{% include audioplayer.html path="../dat/audi06.mp3" %}
+
 **Text:**  
 *Plu infanti Henzel e Gretel pa konfusi gresi in silva. La id pa es
 skoto e frigo, e mu ne habe sito. U-la-tem mu detekti u domi; qi es
@@ -223,14 +180,3 @@ ge-face ex plu biskokta. In domi u magika-fe eko. Fe pseudo; fe es
 gluko. Sed veri, fe volu fago u ju-an Henzel e volu habe Gretel homo
 dulo-fe. Sed Gretel bali magika-fe ad-in piro in piro-me. U magika-fe
 morta e plu infanti es ge-salva.*
-
-Please click [![\[image of a
-mouth\]](../pic/audi03.gif)](../dat/audi06.mp3)
-[here](../dat/audi06.mp3) to hear (MP3-file, 55 s, 54 kB).
-
-  
-  
-
------
-
-[www.glosa.org](../index.html), 2001-03-10, last modified 2006-03-20
