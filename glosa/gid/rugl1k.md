@@ -1,1370 +1,1120 @@
 ---
-title: Русский (Russian) - Glosa 1000
+title: Russian — Glosa 1000
 layout: post
 published: true
 ---
 
-
-	
-
-
-
------
-
-[а](rugl1k.htm#gea) [б](rugl1k.htm#gebe) [в](rugl1k.htm#gewe)
-[г](rugl1k.htm#gege) [д](rugl1k.htm#gede) [е](rugl1k.htm#geje)
-[ж](rugl1k.htm#gesche) [з](rugl1k.htm#gese) [и](rugl1k.htm#gei)
-[к](rugl1k.htm#geka) [л](rugl1k.htm#geel) [м](rugl1k.htm#geem)
-[н](rugl1k.htm#geen) [о](rugl1k.htm#geo) [п](rugl1k.htm#gepe)
-[р](rugl1k.htm#geer) [с](rugl1k.htm#geess) [т](rugl1k.htm#gete)
-[у](rugl1k.htm#geu) [ф](rugl1k.htm#geef) [х](rugl1k.htm#gecha)
-[ц](rugl1k.htm#geze) [ч](rugl1k.htm#getsche) [ш](rugl1k.htm#gescha)
-[щ](rugl1k.htm#geschtscha) [э](rugl1k.htm#geeobo) [ю](rugl1k.htm#geju)
-[я](rugl1k.htm#geja)
-
-(Перевод на русский - Александр Евгеньевич Кирпичев / Ge-translati ad-in
-Ruski ex Alexander E. Kirpichev, 2001)
+*Ge-translati ex Alexander E. Kirpichev, 2001*.
 
 	
 	
 
-``` 
-10 в шестой степени	dek a six
-3x4=12	tri para tet
-5 восьмых	pen su ok
-92	nona bi
+**10 в шестой степени**	dek a six
+
+**3x4=12**	tri para tet
+
+**5 восьмых**	pen su ok
+
+**92**	nona bi
+
+**автобус** *bus* &emsp;
+**авторитет** *arko* &emsp;
+**акт** *akti* &emsp;
+**акула** *selaci* &emsp;
+**альтернатива** *alo* &emsp;
+**апельсин** *orange* &emsp;
+**аргументировать** *logika* &emsp;
+**арка** *arca* &emsp;
+**армия** *arme* &emsp;
+**артикль** *u; un* &emsp;
+**банк** *banka* &emsp;
+**бант** *nodu* &emsp;
+**бассейн** *kratera* &emsp;
+**башня** *tura* &emsp;
+**бедро?** *koxa* &emsp;
+**бежать** *dromo* &emsp;
+**без** *minus* &emsp;
+**безопасный** *imuni* &emsp;
+**белый** *leuko* &emsp;
+**бензин** *benzina* &emsp;
+**беспокоить** *turba* &emsp;
+**бизнес** *negotia* &emsp;
+**бить** *morda* &emsp;
+**благодарить** *gratia* &emsp;
+**благодаря** *pro* &emsp;
+**близкий** *proxi* &emsp;
+**близнец** *gemini* &emsp;
+**боб** *faba* &emsp;
+**бог** *teo* &emsp;
+**богатый** *pluto* &emsp;
+**бой** *milita* &emsp;
+**болезнь** *pato* &emsp;
+**боль** *algo* &emsp;
+**больше чем один** *plu* &emsp;
+**большой** *mega* &emsp;
+**брать** *sume* &emsp;
+**брить** *razo* &emsp;
+**бродить** *vaga* &emsp;
+**бросать** *bali* &emsp;
+**брусок** *baci* &emsp;
+**будить** *vigi* &emsp;
+**будущее** *futuri (FU)* &emsp;
+**будущее время** *fu* &emsp;
+**буква** *litera* &emsp;
+**бумага** *papira* &emsp;
+**бутылка** *botilia* &emsp;
+**бык** *bovi* &emsp;
+**быстрый** *tako* &emsp;
+**в** *in* &emsp;
+**в (куда)** *a* &emsp;
+**в дополнение к** *plus* &emsp;
+**в противном случае** *hetero-co* &emsp;
+**в результате** *seqe* &emsp;
+**в сравнении** *kompara* &emsp;
+**в таком случае** *per-co* &emsp;
+**в течение** *tem* &emsp;
+**вагок** *vagona* &emsp;
+**важный** *gravi* &emsp;
+**ваш** *vi* &emsp;
+**везти** *fero* &emsp;
+**великий** *grandi* &emsp;
+**велосипед** *birota* &emsp;
+**верить** *kredi* &emsp;
+**верный** *veri* &emsp;
+**вероятный** *probabili* &emsp;
+**верхушка** *akro* &emsp;
+**весло** *kope* &emsp;
+**ветвь** *rami* &emsp;
+**ветер** *venti* &emsp;
+**вечер** *vespera* &emsp;
+**вешать** *pende* &emsp;
+**вещь** *ra* &emsp;
+**взрослый** *matura* &emsp;
+**взять** *sume* &emsp;
+**вид чего-л.** *speci* &emsp;
+**видеть** *vide* &emsp;
+**видимый** *vista* &emsp;
+**вилка** *furka* &emsp;
+**вино** *vini* &emsp;
+**виновный** *etio* &emsp;
+**винт** *heliku* &emsp;
+**включать** *sti* &emsp;
+**включая** *klu* &emsp;
+**вкус** *flavoro; gusta* &emsp;
+**владеть** *proprie* &emsp;
+**власть** *arko* &emsp;
+**вместе** *kon alelo* &emsp;
+**вместо** *vice* &emsp;
+**вмещать** *kleisto* &emsp;
+**вне** *extra* &emsp;
+**внезапно** *subito* &emsp;
+**вода** *aqa; hidro* &emsp;
+**возделывать** *kulti* &emsp;
+**возможно** *posi* &emsp;
+**возможный** *probabili* &emsp;
+**вокруг** *peri* &emsp;
+**волна** *unda* &emsp;
+**волосы** *kapila; triko* &emsp;
+**воображать** *imagina* &emsp;
+**вообще нет** *nuli; zero* &emsp;
+**вопрос** *qestio* &emsp;
+**Начинает вопрос на который можно ответить только да или нет :** *qe* &emsp;
+**воровать** *klepto* &emsp;
+**воротник** *koano* &emsp;
+**восемь** *ok* &emsp;
+**воск** *ceru* &emsp;
+**воспроизводить** *reproduce* &emsp;
+**восток** *orienta* &emsp;
+**восхищаться** *lauda* &emsp;
+**восьмое июня** *ok de meno-six* &emsp;
+**впереди** *ante* &emsp;
+**впоследствии** *po-co* &emsp;
+**время** *kron* &emsp;
+**вряд ли** *proxi ne* &emsp;
+**все** *pan; panto* &emsp;
+**все что-то** *holo* &emsp;
+**вселенная** *kosmi* &emsp;
+**вспоминать** *memo* &emsp;
+**вспышка** *flash* &emsp;
+**встречать** *unio* &emsp;
+**второй** *sekunda* &emsp;
+**вы** *vi* &emsp;
+**выбирать** *elekti* &emsp;
+**выиграть** *gania* &emsp;
+**выключать** *sto* &emsp;
+**вылечивать** *repara* &emsp;
+**выражать недовольство** *protesta* &emsp;
+**высокий** *alti* &emsp;
+**выступ** *pla* &emsp;
+**вытягивание** *tensio* &emsp;
+**выходной** *libe tem* &emsp;
+**вязать** *limita* &emsp;
+**гадать** *divina* &emsp;
+**газ** *gasi* &emsp;
+**галстук** *liga* &emsp;
+**Где?** *Qo-lo?* &emsp;
+**глаз** *oku* &emsp;
+**гланды** *glandi; adeno* &emsp;
+**глубокий** *profunda* &emsp;
+**гниение** *sapro* &emsp;
+**гнуть** *kurva* &emsp;
+**год** *anua* &emsp;
+**годный** *gru; kongru* &emsp;
+**голова** *kefa* &emsp;
+**головоломка** *enigma* &emsp;
+**голос** *voka* &emsp;
+**голубой** *ciano* &emsp;
+**голый** *nudi; gimno* &emsp;
+**гора** *monti* &emsp;
+**гореть** *piro; busti* &emsp;
+**горло** *faringi* &emsp;
+**горн** *kerati* &emsp;
+**город** *urba* &emsp;
+**горох** *pisu* &emsp;
+**горький** *pikro* &emsp;
+**готовить** *kuko; prepara* &emsp;
+**готовиться** *prepara* &emsp;
+**график** *kron seri* &emsp;
+**гребень** *lofo; kresta* &emsp;
+**греметь** *bronto* &emsp;
+**грозить** *menace* &emsp;
+**груда** *kumu* &emsp;
+**груша** *pirus* &emsp;
+**грязь** *limni* &emsp;
+**губа** *labia* &emsp;
+**губка** *porifera* &emsp;
+**давать взаймы** *tem dona* &emsp;
+**давать образование** *eduka* &emsp;
+**давить** *baro* &emsp;
+**даже** *klu* &emsp;
+**даже так** *klu-co* &emsp;
+**далекий** *dista; tele* &emsp;
+**дата** *datu* &emsp;
+**два** *bi* &emsp;
+**двадцать** *bize* &emsp;
+**двенадцать** *mobi* &emsp;
+**дверь** *porta* &emsp;
+**движение** *cirkulatio* &emsp;
+**двор** *atria* &emsp;
+**девушка** *ju-fe* &emsp;
+**девять** *nona* &emsp;
+**действие (театр)** *drama* &emsp;
+**действительный** *reali* &emsp;
+**делать** *akti* &emsp;
+**делать углубление?** *recesi* &emsp;
+**делить** *divide* &emsp;
+**день** *di* &emsp;
+**деньги** *valuta* &emsp;
+**дерево** *dendro* &emsp;
+**держать** *tena* &emsp;
+**десять, 10** *deka* &emsp;
+**дефект** *defekti* &emsp;
+**джем** *konfekti* &emsp;
+**дикий** *agrio* &emsp;
+**для** *pro* &emsp;
+**дно** *funda* &emsp;
+**добрый** *boni (eu-)* &emsp;
+**довать** *dona* &emsp;
+**дождь** *fluvi* &emsp;
+**доказывать** *demonstra; logika* &emsp;
+**долг** *debito* &emsp;
+**долгий** *longi* &emsp;
+**должен** *nece* &emsp;
+**долина** *vali* &emsp;
+**дорога** *via* &emsp;
+**доска** *taba* &emsp;
+**достаточное количество** *sati* &emsp;
+**дочь** *fe-fili* &emsp;
+**дрожь** *seiso* &emsp;
+**друг друга** *alelo* &emsp;
+**дружеский** *ami* &emsp;
+**дубина** *korina* &emsp;
+**дух** *spiritu* &emsp;
+**дымить** *fumi* &emsp;
+**дышать** *spira* &emsp;
+**его** *an* &emsp;
+**едва** *proxi ne* &emsp;
+**единственный** *solo* &emsp;
+**ее** *fe* &emsp;
+**если** *konditio; postula* &emsp;
+**есть** *es; vora* &emsp;
+**ехать** *kine (ki)* &emsp;
+**жалеть** *kariti* &emsp;
+**жара** *termo* &emsp;
+**жатва** *karpe* &emsp;
+**желать** *libido* &emsp;
+**железо (Fe)** *feru* &emsp;
+**желудок** *gastri* &emsp;
+**женить** *game* &emsp;
+**женщина** *gina* &emsp;
+**жесткий** *rigi* &emsp;
+**жестокий** *sadi* &emsp;
+**животное** *animali; zoa* &emsp;
+**жидкий** *liqi* &emsp;
+**жизнь** *bio; vita* &emsp;
+**жир** *lipo* &emsp;
+**жирный** *paki* &emsp;
+**забавный** *komika* &emsp;
+**забота** *kura* &emsp;
+**заваязывать что-л.** *liga* &emsp;
+**зависеть от** *pende ex* &emsp;
+**загадка** *enigma* &emsp;
+**загружать** *kargo* &emsp;
+**зад** *dorsa* &emsp;
+**задвать вопрос** *qestio* &emsp;
+**заимствовать на время** *tem gene* &emsp;
+**закон** *lega* &emsp;
+**закрывать** *klude* &emsp;
+**замерзать** *geli* &emsp;
+**заметка** *nota* &emsp;
+**замок** *kastela* &emsp;
+**занятой** *aktivi* &emsp;
+**запад** *ocide* &emsp;
+**запирать на замок** *kleida* &emsp;
+**записывать** *registra* &emsp;
+**зарабатывать** *merito* &emsp;
+**заслонять от света** *umbra* &emsp;
+**Зачем?** *Qo-te?* &emsp;
+**защитить** *imuni; alexi* &emsp;
+**звезда** *astro* &emsp;
+**звук** *fono; soni* &emsp;
+**звучать** *melodi* &emsp;
+**здесь** *ci* &emsp;
+**здоровый** *sani* &emsp;
+**зелень** *kloro* &emsp;
+**земля** *geo; tera* &emsp;
+**зеркало** *spekula* &emsp;
+**зеро** *ze* &emsp;
+**знак** *sema* &emsp;
+**знать** *ski* &emsp;
+**золото** *kriso* &emsp;
+**зона** *zona; -zo* &emsp;
+**зрелый** *matura* &emsp;
+**зуб** *denti* &emsp;
+**игла** *aku* &emsp;
+**игра** *sporta* &emsp;
+**играть** *sporta; ludo* &emsp;
+**играть музыку** *musika; soni* &emsp;
+**идти** *ki; kine* &emsp;
+**из** *ex* &emsp;
+**избегать** *evita; fugi* &emsp;
+**извинение** *pardo* &emsp;
+**изгиб** *tropi* &emsp;
+**изучение** *stude* &emsp;
+**или** *alo* &emsp;
+**иметь** *have* &emsp;
+**иметь успех** *profito* &emsp;
+**индивидуальный** *idio* &emsp;
+**индустрия** *industri* &emsp;
+**иностранный** *xeno* &emsp;
+**исинный** *veri* &emsp;
+**искать** *cerka* &emsp;
+**искусство** *arti; tekno* &emsp;
+**исповедоваться** *konfesi* &emsp;
+**использование** *uti* &emsp;
+**исправлять** *repara* &emsp;
+**испускать запах (вонять)** *dona odori* &emsp;
+**испытание** *experi* &emsp;
+**история** *histori* &emsp;
+**исчезнуть** *fugi* &emsp;
+**итак** *so* &emsp;
+**их** *mu* &emsp;
+**к** *ad* &emsp;
+**к тому же** *ko-co* &emsp;
+**каждый** *pan; panto; singu* &emsp;
+**казаться** *feno* &emsp;
+**Как?** *Qo-mode?; Komo?* &emsp;
+**Как много?** *Qo metri?* &emsp;
+**Как часто?** *Qo freqe?* &emsp;
+**Какой?** *Qo?* &emsp;
+**Какой предмет?** *Qo-ra?* &emsp;
+**какао** *kakao* &emsp;
+**канал** *kanali* &emsp;
+**каникулы** *libe tem* &emsp;
+**капать** *lase kade* &emsp;
+**капитал** *kapitala* &emsp;
+**капля** *guta* &emsp;
+**капуста** *brasika* &emsp;
+**карман** *marsu* &emsp;
+**карта** *carta; karta* &emsp;
+**картина** *pikto* &emsp;
+**картон** *kartona* &emsp;
+**кастрюля** *patela* &emsp;
+**качание** *oski* &emsp;
+**качество** *qalita* &emsp;
+**квадрат** *qadra* &emsp;
+**кекс** *plaka* &emsp;
+**кипение** *buli* &emsp;
+**кирпич** *brika* &emsp;
+**клавиша** *klavi* &emsp;
+**клапан** *valva* &emsp;
+**класс** *klasi* &emsp;
+**клей** *glu* &emsp;
+**клетка** *karcera* &emsp;
+**клин** *kune* &emsp;
+**клюв** *gnata* &emsp;
+**ключ (вода)** *frea* &emsp;
+**ключ (закрывать)** *klavi* &emsp;
+**книга** *bibli* &emsp;
+**коготь** *unugua* &emsp;
+**кожа** *derma* &emsp;
+**колебание** *oski* &emsp;
+**колесо** *rota* &emsp;
+**количество** *qantita* &emsp;
+**колокол** *kampani* &emsp;
+**комок** *amorfo* &emsp;
+**компания** *kompani* &emsp;
+**конец** *fini* &emsp;
+**конеченость** *poda* &emsp;
+**контора** *ofici* &emsp;
+**контроль** *kontrola* &emsp;
+**конус** *koni* &emsp;
+**копать** *fosi* &emsp;
+**копия** *kopi* &emsp;
+**копыто ungua** *unugua* &emsp;
+**копье** *axi* &emsp;
+**корень** *radi* &emsp;
+**коридор** *atria* &emsp;
+**коричневый** *bruno* &emsp;
+**коробка** *teka* &emsp;
+**космос** *kosmi* &emsp;
+**кость** *osteo* &emsp;
+**кот** *feli* &emsp;
+**Который?** *Qo?* &emsp;
+**кофе** *kafa* &emsp;
+**краб** *kancero* &emsp;
+**красивый** *kali* &emsp;
+**красный** *rubi* &emsp;
+**крахмалить** *amila* &emsp;
+**креветка** *karis* &emsp;
+**критиковать** *kritici* &emsp;
+**кровать** *kli* &emsp;
+**кровь** *hema* &emsp;
+**кролик** *lepus* &emsp;
+**кроме того** *plus-co* &emsp;
+**круг** *ciklo; rondo* &emsp;
+**крутиться** *gira* &emsp;
+**крыло** *ptero* &emsp;
+**крыса** *ratus* &emsp;
+**крыша** *stego* &emsp;
+**крюк** *unki* &emsp;
+**ксить** *brosa* &emsp;
+**Кто?** *Qo-pe?* &emsp;
+**куб** *kubi* &emsp;
+**курить** *fumi* &emsp;
+**куча** *kumu* &emsp;
+**лавка** *boteka; -bo* &emsp;
+**лебедь** *cigni* &emsp;
+**левый** *levo* &emsp;
+**легкий** *facili* &emsp;
+**лед** *glacia* &emsp;
+**лезвие** *litora* &emsp;
+**лемон** *citri* &emsp;
+**лен** *linu* &emsp;
+**лента** *taeni* &emsp;
+**ликвидный** *liqi* &emsp;
+**линия** *line* &emsp;
+**лист** *folia* &emsp;
+**лить** *fusi* &emsp;
+**лицо** *facia* &emsp;
+**лишать** *frustra* &emsp;
+**ловить** *kapti* &emsp;
+**лодка** *navi* &emsp;
+**ложиться** *kumbe* &emsp;
+**ложка** *spatula* &emsp;
+**ломать** *frakti* &emsp;
+**лоно** *uterus* &emsp;
+**лосось** *salmo* &emsp;
+**лошадь** *equs; hipo* &emsp;
+**луг** *agri* &emsp;
+**луна** *luna* &emsp;
+**любить** *filo* &emsp;
+**любой** *ali* &emsp;
+**люди** *pe* &emsp;
+**магазин** *boteka; -bo* &emsp;
+**масло** *butiri; olea* &emsp;
+**масса** *masi* &emsp;
+**материк** *kontinenta* &emsp;
+**матка** *uterus* &emsp;
+**мать** *matri* &emsp;
+**машина** *mekina (ME); vagona* &emsp;
+**медицинский** *medika* &emsp;
+**медь** *kupra* &emsp;
+**меня** *mi* &emsp;
+**менять** *muta* &emsp;
+**место** *loka; -lo* &emsp;
+**месяц** *meno* &emsp;
+**металл** *metali* &emsp;
+**метод** *sistema* &emsp;
+**метр** *metra* &emsp;
+**мешок** *saka* &emsp;
+**миллион** *miliona* &emsp;
+**мина** *mina* &emsp;
+**минута** *minuta* &emsp;
+**мир** *kosmi; paci* &emsp;
+**много** *mega; multi; poli* &emsp;
+**модель** *modela* &emsp;
+**мозг** *enkefa* &emsp;
+**мой** *mi* &emsp;
+**молодой** *juve* &emsp;
+**молоко** *lakti* &emsp;
+**молоток** *malea* &emsp;
+**море** *mari* &emsp;
+**морской берег** *litora* &emsp;
+**мост** *ponti* &emsp;
+**мох** *brio* &emsp;
+**мочиться** *urina* &emsp;
+**мочь** *pote* &emsp;
+**мужчина** *andro* &emsp;
+**музыка** *musika* &emsp;
+**мука** *farina* &emsp;
+**муравей** *formika* &emsp;
+**мускул** *muskula* &emsp;
+**муха** *diptera* &emsp;
+**мы** *na* &emsp;
+**мыло** *sapo* &emsp;
+**мыть** *lava* &emsp;
+**мышца** *muskula* &emsp;
+**мягкий** *moli* &emsp;
+**мясо** *karni* &emsp;
+**мяч** *bola* &emsp;
+**на** *epi* &emsp;
+**наводнение** *diluvi* &emsp;
+**над** *su; supra* &emsp;
+**надеяться** *spe* &emsp;
+**надменный** *aroga* &emsp;
+**надуваться** *brio* &emsp;
+**наем** *lue* &emsp;
+**назад к началу** *versi* &emsp;
+**называть** *nima* &emsp;
+**наиболее** *maxi* &emsp;
+**наименьший** *mini* &emsp;
+**найти** *detekti* &emsp;
+**наказывать** *puni* &emsp;
+**наконечние** *akro* &emsp;
+**наконечник** *kuspi* &emsp;
+**налог** *fiska* &emsp;
+**намереваться** *tende; -te* &emsp;
+**намерение** *tende* &emsp;
+**намеренный** *tende* &emsp;
+**наоборот** *kontra-co* &emsp;
+**нападение** *viole* &emsp;
+**наполнять** *ple* &emsp;
+**народ** *demo; natio* &emsp;
+**народный** *popula* &emsp;
+**нас** *na* &emsp;
+**насекомое** *insekti* &emsp;
+**наслаждаться** *fru* &emsp;
+**насос** *pumpa* &emsp;
+**настолько** *metro* &emsp;
+**настолько (следовательно)** *metri-co* &emsp;
+**наука** *skience* &emsp;
+**нация** *natio* &emsp;
+**начать** *proto* &emsp;
+**наш** *na* &emsp;
+**не** *ne* &emsp;
+**небо** *urani* &emsp;
+**недостаток** *minus* &emsp;
+**немедленно** *kron* &emsp;
+**немного** *pusi* &emsp;
+**ненавидеть** *odio* &emsp;
+**неопредю местоимение** *pe* &emsp;
+**неправда** *ero* &emsp;
+**нерв** *neuro* &emsp;
+**неровность** *rugo* &emsp;
+**несколько** *oligo* &emsp;
+**несмотря на** *anti* &emsp;
+**нет до** *ne pre* &emsp;
+**неудача** *fali* &emsp;
+**низкий** *baso* &emsp;
+**нитка** *fi* &emsp;
+**ничего** *nuli; zero* &emsp;
+**но** *anti-co; sed* &emsp;
+**новости** *data* &emsp;
+**новость** *nova* &emsp;
+**новый** *neo* &emsp;
+**нога** *poda* &emsp;
+**нож** *kutela* &emsp;
+**ноздря** *nari* &emsp;
+**ноль** *ze* &emsp;
+**нос** *nasa* &emsp;
+**ночь** *noktu* &emsp;
+**нюхать** *este odori* &emsp;
+**о** *de* &emsp;
+**обещать** *promise* &emsp;
+**облако** *nefo* &emsp;
+**обманывать** *falsi* &emsp;
+**обмен** *kambio* &emsp;
+**обнаженный** *nudi; gimno* &emsp;
+**обозначающий ед. число** *u; un* &emsp;
+**оболочка** *ostraka* &emsp;
+**обратно** *retro* &emsp;
+**обучение** *sko* &emsp;
+**общий** *comuni* &emsp;
+**объединенный** *arto* &emsp;
+**объявлять о чем-то** *publika* &emsp;
+**обычно** *more* &emsp;
+**обычный** *ordinari* &emsp;
+**овца** *ovis* &emsp;
+**оглашать** *publika* &emsp;
+**огорченный** *penite* &emsp;
+**одевать** *vesti* &emsp;
+**один** *mo* &emsp;
+**одинаковый** *iso* &emsp;
+**одиннадцать** *momo* &emsp;
+**однако** *anti-co* &emsp;
+**ожидание** *atende* &emsp;
+**озеро** *limno* &emsp;
+**означать** *indika; signifi* &emsp;
+**океан** *oceani* &emsp;
+**окно** *fenestra* &emsp;
+**около** *para* &emsp;
+**олово** *stana; St* &emsp;
+**омар** *homari* &emsp;
+**он** *an* &emsp;
+**она** *fe* &emsp;
+**они** *mu* &emsp;
+**опасность** *risko* &emsp;
+**опыт** *experi* &emsp;
+**оранжевый** *orange* &emsp;
+**орган** *organi* &emsp;
+**оружие** *arma* &emsp;
+**осадок** *basi* &emsp;
+**осел** *asinus* &emsp;
+**остановка** *sto* &emsp;
+**остаток** *resta* &emsp;
+**остов** *skeleto* &emsp;
+**остров** *insula* &emsp;
+**острый конец** *kuspi* &emsp;
+**ответ** *responde* &emsp;
+**отвечать** *reakti* &emsp;
+**ответственный** *liabili* &emsp;
+**отвращение** *pude* &emsp;
+**отдельно от того** *no-klu-co* &emsp;
+**отделять** *lisi* &emsp;
+**отец** *patri* &emsp;
+**открывать** *aperi* &emsp;
+**относительность** *relativi* &emsp;
+**отношение** *kognati* &emsp;
+**охота** *casa* &emsp;
+**оценивать** *ratio* &emsp;
+**очень** *fo (FOrti)* &emsp;
+**очищать** *luci* &emsp;
+**очки** *plu lenti* &emsp;
+**ошибка** *ero* &emsp;
+**ощущать** *sensi* &emsp;
+**падать** *kade* &emsp;
+**пайщик** *retiera* &emsp;
+**пакет** *kapsu* &emsp;
+**палец** *digita* &emsp;
+**палка** *baci; rami* &emsp;
+**пар** *vapo* &emsp;
+**пара** *u bi* &emsp;
+**партия** *grega* &emsp;
+**парус** *veli* &emsp;
+**перевозка** *fero* &emsp;
+**перед** *pre* &emsp;
+**передвинуть** *moti* &emsp;
+**пересекать** *kruci* &emsp;
+**переставать** *no-dura* &emsp;
+**перо** *pina* &emsp;
+**персик** *persika* &emsp;
+**песок** *sili* &emsp;
+**петь** *kanta* &emsp;
+**печать** *tipo* &emsp;
+**печень** *hepa* &emsp;
+**пиджак** *testa* &emsp;
+**пирамида** *pirami* &emsp;
+**писать** *grafo* &emsp;
+**писать или произносить по буквам** *litera* &emsp;
+**пистолет** *fusili* &emsp;
+**письмо** *grama* &emsp;
+**пить** *bibe* &emsp;
+**пища** *sito* &emsp;
+**плавать** *nekto* &emsp;
+**плакать** *lakrima* &emsp;
+**план** *skema* &emsp;
+**платить** *paga* &emsp;
+**платье** *tunika* &emsp;
+**плащ** *toga* &emsp;
+**пленка** *filma* &emsp;
+**плечо** *skapa* &emsp;
+**плоский** *plati* &emsp;
+**плуг** *ara* &emsp;
+**по направлению к** *ad* &emsp;
+**победа** *vikto* &emsp;
+**поверхность** *su facia* &emsp;
+**повиноваться** *obe* &emsp;
+**поворот** *tropi* &emsp;
+**повреждать** *noku* &emsp;
+**погода** *klima* &emsp;
+**под** *infra* &emsp;
+**поднимать** *sume* &emsp;
+**поднятие** *leva* &emsp;
+**подушка?** *pulvina* &emsp;
+**подходящий** *kongru* &emsp;
+**пожалуйста** *place* &emsp;
+**позволять** *lase* &emsp;
+**поздний** *tardi* &emsp;
+**показ** *monstra* &emsp;
+**показывать** *indika* &emsp;
+**покидать** *linqi* &emsp;
+**поклоняться** *latri* &emsp;
+**покой** *paci* &emsp;
+**покрывать** *tegu; vesti* &emsp;
+**покрышка** *fatiga* &emsp;
+**покупать** *baia; merka* &emsp;
+**пол** *pedi-lo* &emsp;
+**поле** *agri* &emsp;
+**полезный** *funktio* &emsp;
+**полет** *vola; peti* &emsp;
+**ползать** *repti* &emsp;
+**политика** *politika* &emsp;
+**полиция** *polica* &emsp;
+**полный** *holo; ple* &emsp;
+**положить** *moti* &emsp;
+**полоса** *stria* &emsp;
+**получать** *gene* &emsp;
+**получить** *pa gene* &emsp;
+**польза** *profito* &emsp;
+**полюс** *pola* &emsp;
+**помнить** *memo* &emsp;
+**помогать** *auxi* &emsp;
+**понедельник** *di-bi* &emsp;
+**понимать** *logi* &emsp;
+**популярный** *popula* &emsp;
+**порицать** *etio* &emsp;
+**порт** *asila* &emsp;
+**порядок** *ordina* &emsp;
+**посещение** *visita* &emsp;
+**после** *po* &emsp;
+**последний** *ultima* &emsp;
+**посредством** *per* &emsp;
+**посылать** *bali* &emsp;
+**пот** *sudo* &emsp;
+**потолок** *stego* &emsp;
+**потому что** *kausa* &emsp;
+**похожий** *homo* &emsp;
+**поцелуй** *osku* &emsp;
+**почва** *tera* &emsp;
+**Почему?** *Qo-ka?* &emsp;
+**почка** *blasto; rena* &emsp;
+**почта** *posta* &emsp;
+**почтовая марка** *posta bileta* &emsp;
+**поэзия** *poesi* &emsp;
+**поэтому** *seqe* &emsp;
+**пояс** *zona; -zo* &emsp;
+**правая сторона** *dextro* &emsp;
+**правильный** *veri* &emsp;
+**правитель** *regi* &emsp;
+**право** *privilegi* &emsp;
+**праздновать** *celebra* &emsp;
+**практика** *praxi* &emsp;
+**предел** *limita* &emsp;
+**предлагать** *ofere; proposi* &emsp;
+**предмет** *ra* &emsp;
+**предполагать** *expekta* &emsp;
+**предположение** *divina; postula* &emsp;
+**преследовать за убеждения** *persekuti* &emsp;
+**при условии** *konditio* &emsp;
+**приветствовать** *saluta* &emsp;
+**привыкший** *pa more* &emsp;
+**приглаживание** *glabro* &emsp;
+**пригодный** *funktio* &emsp;
+**признавать** *konfesi* &emsp;
+**приказ** *komanda* &emsp;
+**прикосновение** *tange* &emsp;
+**пример** *exempla* &emsp;
+**природа** *natura* &emsp;
+**присоединять** *zigo; juga* &emsp;
+**приспосабливать** *adapta* &emsp;
+**притворяться** *fikti* &emsp;
+**приходить** *veni* &emsp;
+**причина** *sti* &emsp;
+**приятный** *gluko* &emsp;
+**пробка** *suberi; valva* &emsp;
+**проверка** *examina* &emsp;
+**проверять** *verifi* &emsp;
+**проводник** *duce-pe* &emsp;
+**программа** *programa* &emsp;
+**прогресс** *progresi* &emsp;
+**прогулка пешком** *gresi* &emsp;
+**продавать** *vendo* &emsp;
+**продолжающееся действие** *du* &emsp;
+**продолжение** *du* &emsp;
+**продырявить** *fora* &emsp;
+**проживать** *eko* &emsp;
+**проза** *prosa* &emsp;
+**происходить** *acide* &emsp;
+**промышленность** *industri* &emsp;
+**просматривать** *skana* &emsp;
+**просо** *panika* &emsp;
+**пространство** *space* &emsp;
+**простыня** *lamina* &emsp;
+**противоположности** *no-* &emsp;
+**противоположность** *kontra* &emsp;
+**проход** *pasa* &emsp;
+**прочный** *solidi; stereo* &emsp;
+**прочь** *ab* &emsp;
+**прошедшее время** *pa* &emsp;
+**прошение** *petitio* &emsp;
+**прощать** *pardo* &emsp;
+**пруд** *stagna* &emsp;
+**пружина** *elasti* &emsp;
+**прыжок** *salti* &emsp;
+**прямая линия** *rekti* &emsp;
+**птица** *avi* &emsp;
+**пуговица** *butona* &emsp;
+**пузырь** *kisti* &emsp;
+**пустой** *vaku* &emsp;
+**пустота** *kavita* &emsp;
+**путешествие** *viagia* &emsp;
+**пчела** *api* &emsp;
+**пшеница** *tritikum* &emsp;
+**пыль** *farina* &emsp;
+**пытаться** *tenta* &emsp;
+**пьеса** *drama* &emsp;
+**пьяный** *narko* &emsp;
+**пятая книга** *u bibli pen* &emsp;
+**пятно** *makula; topo* &emsp;
+**пять** *pen* &emsp;
+**пять книг** *pen bibli* &emsp;
+**пятьдесят** *penze* &emsp;
+**раб** *dulo* &emsp;
+**работа** *ergo* &emsp;
+**радостный от** *hedo* &emsp;
+**радуга** *spektra* &emsp;
+**разбрасывать** *spora* &emsp;
+**развивать** *kulti* &emsp;
+**разжижать** *diluti* &emsp;
+**различаться** *difere* &emsp;
+**разочаровывать** *frustra* &emsp;
+**разрастаться** *brio* &emsp;
+**разрешать** *lase; lice* &emsp;
+**разрушать** *nekro* &emsp;
+**разум** *psiko* &emsp;
+**ракета** *misili* &emsp;
+**раса** *racia* &emsp;
+**распад** *sapro* &emsp;
+**расписание** *kron seri* &emsp;
+**распространять** *difusi* &emsp;
+**рассчитывать** *expekta* &emsp;
+**растение** *fito; planta* &emsp;
+**расти** *kresce* &emsp;
+**расточать** *disipa* &emsp;
+**расходиться из центра подобно радиусам** *radia* &emsp;
+**расческа** *pektina* &emsp;
+**рвать** *skizo* &emsp;
+**реагировать** *reakti* &emsp;
+**ребенок** *babi; infanti* &emsp;
+**резать** *seka* &emsp;
+**резина** *latex* &emsp;
+**река** *fluvi* &emsp;
+**рекламировать** *publika* &emsp;
+**религия** *religio* &emsp;
+**рельс** *raila* &emsp;
+**решать** *judika* &emsp;
+**решение (задачи, вопроса)** *solutio* &emsp;
+**риск** *risko* &emsp;
+**риф** *pla* &emsp;
+**рог** *kerati* &emsp;
+**родитель** *parenta* &emsp;
+**рождение** *nati* &emsp;
+**Рождество** *Kristonati* &emsp;
+**рожь** *sekali* &emsp;
+**рот** *gnata; stoma* &emsp;
+**рука** *braki; manu* &emsp;
+**руководитель** *duce-pe* &emsp;
+**руководить** *dirigi* &emsp;
+**ручка** *stilo* &emsp;
+**рыб** *piski* &emsp;
+**рычаг** *vekto* &emsp;
+**ряд** *seri* &emsp;
+**с** *ko* &emsp;
+**сад** *basi; horti* &emsp;
+**сам** *se* &emsp;
+**самолет** *aeroplana* &emsp;
+**самый большой** *maxi* &emsp;
+**сахар** *sukro-ma* &emsp;
+**сбивать с толку** *konfusi* &emsp;
+**сверток** *kapsu* &emsp;
+**сверх** *ultra* &emsp;
+**свет** *foto; lumi* &emsp;
+**светить** *splendi* &emsp;
+**свидетельство** *tesi* &emsp;
+**свинец (Pb)** *plumba* &emsp;
+**свинья** *sui* &emsp;
+**свистеть** *sibila; siringi* &emsp;
+**свободный** *libe* &emsp;
+**сгиб** *plika* &emsp;
+**сделать** *face* &emsp;
+**сделаю что-л. (закончить действие в будущем)** *fu pa* &emsp;
+**север** *boreo* &emsp;
+**сейчас** *nu* &emsp;
+**секретарь** *secretari* &emsp;
+**секунда** *sekunda* &emsp;
+**сельская местность** *rura* &emsp;
+**семь** *seti* &emsp;
+**семья** *famili* &emsp;
+**семя** *sperma* &emsp;
+**сера** *sulfi* &emsp;
+**сердитый** *koleri* &emsp;
+**сердце** *kardia* &emsp;
+**серебро (Ag)** *argenti* &emsp;
+**серия** *seri* &emsp;
+**серый** *polio* &emsp;
+**сестра** *sorori* &emsp;
+**сетка** *reti* &emsp;
+**сидеть** *sedi* &emsp;
+**сила** *dina* &emsp;
+**символ** *sema* &emsp;
+**сказать** *dice* &emsp;
+**сканировать** *skana* &emsp;
+**скболить** *razo* &emsp;
+**сквозь** *trans* &emsp;
+**скелет** *skeleto* &emsp;
+**склониться** *klina* &emsp;
+**скольжение** *glisa; lapse* &emsp;
+**Сколько?** *Qo numera?* &emsp;
+**скоро** *nu fu* &emsp;
+**скорый** *tako* &emsp;
+**слава** *famo* &emsp;
+**следовательно** *ka-co; seqe* &emsp;
+**следовать** *seqe* &emsp;
+**следует** *debi* &emsp;
+**слеза** *lakrima* &emsp;
+**слива** *prunus* &emsp;
+**слизь** *muci* &emsp;
+**слишком** *tro* &emsp;
+**слово** *verba* &emsp;
+**слой** *strata* &emsp;
+**слон** *elefa* &emsp;
+**служба** *ofici* &emsp;
+**служить** *servi* &emsp;
+**случаться** *acide* &emsp;
+**слышать** *audi; akusti* &emsp;
+**смерть** *morta* &emsp;
+**смешной** *komika* &emsp;
+**смеяться** *ridi* &emsp;
+**смотреть на** *skope* &emsp;
+**снег** *nivi* &emsp;
+**снять** *apo* &emsp;
+**собака** *kani* &emsp;
+**собирался** *pa fu* &emsp;
+**собирать** *kolekti* &emsp;
+**совесть** *auto kritici* &emsp;
+**советовать** *monito* &emsp;
+**согласиться** *akorda* &emsp;
+**согласно** *akorda* &emsp;
+**содержать в себе** *kleisto* &emsp;
+**соединение** *arto* &emsp;
+**соединять** *nexi* &emsp;
+**сок** *suku* &emsp;
+**солндный** *solidi; stereo* &emsp;
+**солнце** *sola; helio* &emsp;
+**соль** *sali* &emsp;
+**соответствующий** *kongru* &emsp;
+**сопротивляться** *resista* &emsp;
+**сосать** *suge* &emsp;
+**сосок** *teli* &emsp;
+**состояние** *fisi* &emsp;
+**состязаться** *kompeti* &emsp;
+**сосчитай их!** *Numera mu!* &emsp;
+**сохранный** *imuni* &emsp;
+**спасаться бегством** *fugi* &emsp;
+**спать** *somni* &emsp;
+**спередиюю** *ante* &emsp;
+**спина** *dorsa* &emsp;
+**спираль** *helika* &emsp;
+**список** *seri* &emsp;
+**спорить** *disputa* &emsp;
+**справедливость** *justi* &emsp;
+**спрашивать себя** *qestio se* &emsp;
+**спрятаться** *kripto* &emsp;
+**сравнивать** *kompara* &emsp;
+**средний** *meso* &emsp;
+**ссадина** *krudi* &emsp;
+**старый** *paleo* &emsp;
+**стекло** *vitri* &emsp;
+**стимулировать** *sti* &emsp;
+**сто** *mo centi* &emsp;
+**стол** *taba* &emsp;
+**сторона** *latu* &emsp;
+**стоять** *sta* &emsp;
+**страна** *landa; stato* &emsp;
+**страница** *pagina* &emsp;
+**странствие** *vaga* &emsp;
+**стрела** *sagita* &emsp;
+**стрелка** *sagita* &emsp;
+**строгий** *severi* &emsp;
+**строить** *face; tekno* &emsp;
+**ступеньки** *skala* &emsp;
+**cyимать** *apo* &emsp;
+**сумасшедший** *rabi* &emsp;
+**сумка** *saka* &emsp;
+**суп** *supa* &emsp;
+**сухой** *sika* &emsp;
+**сушить на ветру** *vulne* &emsp;
+**сцена** *proskeni* &emsp;
+**счастливый** *hedo* &emsp;
+**счастье** *hedo* &emsp;
+**счет** *numera* &emsp;
+**считать** *puta* &emsp;
+**сыр** *kasea* &emsp;
+**так же** *homo-co* &emsp;
+**таким образом** *akorda-co* &emsp;
+**такой же** *iso* &emsp;
+**там** *la* &emsp;
+**танцевать** *kore* &emsp;
+**тарелка** *disko* &emsp;
+**твердый** *sklero; solidi; stereo* &emsp;
+**театр** *teatra* &emsp;
+**тем временем** *tem-co* &emsp;
+**темнота** *skoto; no-foto* &emsp;
+**темя** *tema; topika* &emsp;
+**теперь** *nu* &emsp;
+**теплый** *termo* &emsp;
+**терпение** *tolera* &emsp;
+**терять** *lose* &emsp;
+**течение** *flu* &emsp;
+**то что раньше было обычно** *pa more* &emsp;
+**толстый** *paki; paki* &emsp;
+**толчок** *pulsa* &emsp;
+**только** *solo* &emsp;
+**только что сделал** *nu pa* &emsp;
+**томимый жаждой** *dipso* &emsp;
+**тому назад** *retro* &emsp;
+**тонкий** *tenu* &emsp;
+**тоннель** *tunela* &emsp;
+**торжественный** *solemni* &emsp;
+**торт** *plaka* &emsp;
+**тот** *u-la* &emsp;
+**точить** *litora* &emsp;
+**точка** *punkta* &emsp;
+**точный** *veri* &emsp;
+**трава** *gra* &emsp;
+**тратить** *spende* &emsp;
+**трение** *frikti* &emsp;
+**треск** *skizo* &emsp;
+**три** *tri* &emsp;
+**три раза** *tri kron* &emsp;
+**труба** *tubi* &emsp;
+**трясти** *seiso* &emsp;
+**туалет** *kloseta* &emsp;
+**туман** *nebula* &emsp;
+**ты** *tu* &emsp;
+**тысяча** *mo kilo* &emsp;
+**тюрьма** *karcera* &emsp;
+**тяжелый** *gravi* &emsp;
+**тянуть** *trakto; tira* &emsp;
+**у каждого по два** *singu pe habe bi* &emsp;
+**убивать** *cide* &emsp;
+**уборная** *kloseta* &emsp;
+**уважение** *respekta* &emsp;
+**увеньчивать** *lofo; kresta* &emsp;
+**уверенный** *sura* &emsp;
+**угол** *gono* &emsp;
+**уголь** *karbo* &emsp;
+**удар** *bate; trauma* &emsp;
+**удваивать** *diplo* &emsp;
+**удивление** *mira* &emsp;
+**удобный** *gluko* &emsp;
+**удобный случай** *okasio* &emsp;
+**удовольствие** *terapi* &emsp;
+**удостоверять** *certifi* &emsp;
+**узел** *nodu* &emsp;
+**узкая часть** *steno* &emsp;
+**улитка** *koklea* &emsp;
+**улыбаться** *sub ridi* &emsp;
+**умножить** *para* &emsp;
+**умный** *sofi* &emsp;
+**умышленный** *tende* &emsp;
+**университет** *universita* &emsp;
+**уничтожать** *nekro* &emsp;
+**управление** *kontrola* &emsp;
+**управлять** *age* &emsp;
+**упражнение** *exercise* &emsp;
+**упругость** *elasti* &emsp;
+**успокоение** *konsola* &emsp;
+**установить** *fixa* &emsp;
+**уступать** *cede; koncesio* &emsp;
+**утро** *mana* &emsp;
+**ухо** *ota* &emsp;
+**факт** *data* &emsp;
+**фактор** *faktora* &emsp;
+**ферма** *agri-lo* &emsp;
+**фехтовать** *fragma* &emsp;
+**фильм** *filma* &emsp;
+**финик** *foeni* &emsp;
+**форма** *fisi; forma; morfo* &emsp;
+**формула** *formula* &emsp;
+**хвалить** *lauda* &emsp;
+**хвойное дерево** *Konifera* &emsp;
+**хвост** *kauda* &emsp;
+**хлеб** *pani* &emsp;
+**хлопок** *kotona* &emsp;
+**холодный** *frigi* &emsp;
+**хороший** *boni (eu-)* &emsp;
+**хотеть** *volu* &emsp;
+**хотя** *anti* &emsp;
+**хранить** *tena* &emsp;
+**цвет** *kroma* &emsp;
+**цветок** *flori; anto* &emsp;
+**целое что-то** *holo* &emsp;
+**цена** *preci* &emsp;
+**ценность** *valu* &emsp;
+**центр** *centra* &emsp;
+**цепь** *katena* &emsp;
+**цифровой** *digita* &emsp;
+**цурковь** *religio-do* &emsp;
+**цыпленок** *galina* &emsp;
+**чай** *tea* &emsp;
+**час** *horo* &emsp;
+**частица** *mero; peci* &emsp;
+**часы** *horo-me* &emsp;
+**чаша** *tasa* &emsp;
+**чашка** *patela* &emsp;
+**чек** *cek* &emsp;
+**человек** *homini* &emsp;
+**череп** *krania* &emsp;
+**черный** *melano* &emsp;
+**четверть** *qarto* &emsp;
+**четыре** *tet* &emsp;
+**чинить вылечивать** *repara* &emsp;
+**чистить** *puri* &emsp;
+**читать** *lekto* &emsp;
+**Что?** *Qo?* &emsp;
+**что я только что сказал** *no-klu-co* &emsp;
+**чувствовать** *este* &emsp;
+**чувствовать запах** *este odori* &emsp;
+**шаг** *gradu* &emsp;
+**шар** *bola* &emsp;
+**шерсть** *lana* &emsp;
+**шесть** *six* &emsp;
+**шея** *cervika* &emsp;
+**шина** *fatiga* &emsp;
+**ширма** *skuta* &emsp;
+**широкий** *lati* &emsp;
+**шить** *sue* &emsp;
+**шнур** *taeni* &emsp;
+**шок** *trauma* &emsp;
+**щека** *buka* &emsp;
+**щетка** *brosa* &emsp;
+**экзамен** *examina* &emsp;
+**экран** *skuta* &emsp;
+**экскремент** *feki; kopro* &emsp;
+**экскурсовод** *duce-pe* &emsp;
+**электричество** *elektro* &emsp;
+**эти/те** *plu-ci/plu-la* &emsp;
+**это** *id* &emsp;
+**этот** *u-ci* &emsp;
+**эффект** *efekti* &emsp;
+**юг** *austra* &emsp;
+**Я** *mi* &emsp;
+**яблоко** *pomo* &emsp;
+**ягодицa** *piga; glutea* &emsp;
+**яд** *toxi* &emsp;
+**язык** *lingua* &emsp;
+**яйцо** *ova* &emsp;
+**ящик** *toraki* &emsp;
 
-```
-
-<span id="gea"></span>
-
-### А
-
-``` 
-автобус	bus
-авторитет	arko
-акт	akti
-акула	selaci
-альтернатива	alo
-апельсин	orange
-аргументировать	logika
-арка	arca
-армия	arme
-артикль	u; un
-
-```
-
-<span id="gebe"></span>
-
-### Б
-
-``` 
-банк	banka
-бант	nodu
-бассейн	kratera
-башня	tura
-бедро?	koxa
-бежать	dromo
-без	minus
-безопасный	imuni
-белый	leuko
-бензин	benzina
-беспокоить	turba
-бизнес	negotia
-бить	morda
-благодарить	gratia
-благодаря	pro
-близкий	proxi
-близнец	gemini
-боб	faba
-бог	teo
-богатый	pluto
-бой	milita
-болезнь	pato
-боль	algo
-больше чем один	plu
-большой	mega
-брать	sume
-брить	razo
-бродить	vaga
-бросать	bali
-брусок	baci
-будить	vigi
-будущее	futuri (FU)
-будущее время	fu
-буква	litera
-бумага	papira
-бутылка	botilia
-бык	bovi
-быстрый	tako
-
-```
-
-<span id="gewe"></span>
-
-### В
-
-``` 
-в	in
-в (куда)	a
-в дополнение к	plus
-в противном случае	hetero-co
-в результате	seqe
-в сравнении	kompara
-в таком случае	per-co
-в течение	tem
-вагок	vagona
-важный	gravi
-ваш	vi
-везти	fero
-великий	grandi
-велосипед	birota
-верить	kredi
-верный	veri
-вероятный	probabili
-верхушка	akro
-весло	kope
-ветвь	rami
-ветер	venti
-вечер	vespera
-вешать	pende
-вещь	ra
-взрослый	matura
-взять	sume
-вид чего-л.	speci
-видеть	vide
-видимый	vista
-вилка	furka
-вино	vini
-виновный	etio
-винт	heliku
-включать	sti
-включая	klu
-вкус	flavoro; gusta
-владеть	proprie
-власть	arko
-вместе	kon alelo
-вместо	vice
-вмещать	kleisto
-вне	extra
-внезапно	subito
-вода	aqa; hidro
-возделывать	kulti
-возможно	posi
-возможный	probabili
-вокруг	peri
-волна	unda
-волосы	kapila; triko
-воображать	imagina
-вообще нет	nuli; zero
-вопрос	qestio
-	Начинает вопрос на
-	который можно
-	ответить только
-	да или нет :	Qe
-воровать	klepto
-воротник	koano
-восемь	ok
-воск	ceru
-воспроизводить	reproduce
-восток	orienta
-восхищаться	lauda
-восьмое июня	ok de meno-six
-впереди	ante
-впоследствии	po-co
-время	kron
-вряд ли	proxi ne
-все	pan; panto
-все что-то	holo
-вселенная	kosmi
-вспоминать	memo
-вспышка	flash
-встречать	unio
-второй	sekunda
-вы	vi
-выбирать	elekti
-выиграть	gania
-выключать	sto
-вылечивать	repara
-выражать недовольство	protesta 
-высокий	alti
-выступ	pla
-вытягивание	tensio
-выходной	libe tem
-вязать	limita
-
-```
-
-<span id="gege"></span>
-
-### Г
-
-``` 
-гадать	divina
-газ	gasi
-галстук	liga
-Где?	Qo-lo?
-глаз	oku
-гланды	glandi; adeno
-глубокий	profunda
-гниение	sapro
-гнуть	kurva
-год	anua
-годный	gru; kongru
-голова	kefa
-головоломка	enigma
-голос	voka
-голубой	ciano
-голый	nudi; gimno
-гора	monti
-гореть	piro; busti
-горло	faringi
-горн	kerati
-город	urba
-горох	pisu
-горький	pikro
-готовить	kuko; prepara
-готовиться	prepara
-график	kron seri
-гребень	lofo; kresta
-греметь	bronto
-грозить	menace
-груда	kumu
-груша	pirus
-грязь	limni
-губа	labia
-губка	porifera
-
-```
-
-<span id="gede"></span>
-
-### Д
-
-``` 
-давать взаймы	tem dona
-давать образование	eduka
-давить	baro
-даже	klu
-даже так	klu-co
-далекий	dista; tele
-дата	datu
-два	bi
-двадцать	bize
-двенадцать	mobi
-дверь	porta
-движение	cirkulatio
-двор	atria
-девушка	ju-fe
-девять	nona
-действие (театр)	drama
-действительный	reali
-делать	akti
-делать углубление?	recesi
-делить	divide
-день	di
-деньги	valuta
-дерево	dendro
-держать	tena
-десять, 10	deka
-дефект	defekti
-джем	konfekti
-дикий	agrio
-для	pro
-дно	funda
-добрый	boni (eu-)
-довать	dona
-дождь	fluvi
-доказывать	demonstra; logika
-долг	debito
-долгий	longi
-должен	nece
-долина	vali
-дорога	via
-доска	taba
-достаточное количество	sati 
-дочь	fe-fili
-дрожь	seiso
-друг друга	alelo
-дружеский	ami
-дубина	korina
-дух	spiritu
-дымить	fumi
-дышать	spira
-
-```
-
-<span id="geje"></span>
-
-### Е
-
-``` 
-его	an
-едва	proxi ne
-единственный	solo
-ее	fe
-если	konditio; postula
-есть	es; vora
-ехать	kine (ki)
-
-```
-
-<span id="gesche"></span>
-
-### Ж
-
-``` 
-жалеть	kariti
-жара	termo
-жатва	karpe
-желать	libido
-железо (Fe)	feru
-желудок	gastri
-женить	game
-женщина	gina
-жесткий	rigi
-жестокий	sadi
-животное	animali; zoa
-жидкий	liqi
-жизнь	bio; vita
-жир	lipo
-жирный	paki
-
-```
-
-<span id="gese"></span>
-
-### З
-
-``` 
-забавный	komika
-забота	kura
-заваязывать что-л.	liga
-зависеть от	pende ex
-загадка	enigma
-загружать	kargo
-зад	dorsa
-задвать вопрос	qestio
-заимствовать на время	tem gene 
-закон	lega
-закрывать	klude
-замерзать	geli
-заметка	nota
-замок	kastela
-занятой	aktivi
-запад	ocide
-запирать на замок	kleida
-записывать	registra
-зарабатывать	merito
-заслонять от света	umbra
-Зачем?	Qo-te?
-защитить	imuni; alexi
-звезда	astro
-звук	fono; soni
-звучать	melodi
-здесь	ci
-здоровый	sani
-зелень	kloro
-земля	geo; tera
-зеркало	spekula
-зеро	ze
-знак	sema
-знать	ski
-золото	kriso
-зона	zona; -zo
-зрелый	matura
-зуб	denti
-
-```
-
-<span id="gei"></span>
-
-### И
-
-``` 
-игла	aku
-игра	sporta
-играть	sporta; ludo
-играть музыку	musika; soni
-идти	ki; kine
-из	ex
-избегать	evita; fugi
-извинение	pardo
-изгиб	tropi
-изучение	stude
-или	alo
-иметь	have
-иметь успех	profito
-индивидуальный	idio
-индустрия	industri
-иностранный	xeno
-исинный	veri
-искать	cerka
-искусство	arti; tekno
-исповедоваться	konfesi
-использование	uti
-исправлять	repara
-испускать запах (вонять)	dona odori 
-испытание	experi
-история	histori
-исчезнуть	fugi
-итак	so
-их	mu
-
-```
-
-<span id="geka"></span>
-
-### К
-
-``` 
-к	ad
-к тому же	ko-co
-каждый	pan; panto; singu
-казаться	feno
-Как?	Qo-mode?; Komo?
-Как много?	Qo metri?
-Как часто?	Qo freqe?
-Какой?	Qo?
-Какой предмет?	Qo-ra?
-какао	kakao
-канал	kanali
-каникулы	libe tem
-капать	lase kade
-капитал	kapitala
-капля	guta
-капуста	brasika
-карман	marsu
-карта	carta; karta
-картина	pikto
-картон	kartona
-кастрюля	patela
-качание	oski
-качество	qalita
-квадрат	qadra
-кекс	plaka
-кипение	buli
-кирпич	brika
-клавиша	klavi
-клапан	valva
-класс	klasi
-клей	glu
-клетка	karcera
-клин	kune
-клюв	gnata
-ключ (вода)	frea
-ключ (закрывать)	klavi
-книга	bibli
-коготь	unugua
-кожа	derma
-колебание	oski
-колесо	rota
-количество	qantita
-колокол	kampani
-комок	amorfo
-компания	kompani
-конец	fini
-конеченость	poda
-контора	ofici
-контроль	kontrola
-конус	koni
-копать	fosi
-копия	kopi
-копыто ungua	unugua
-копье	axi
-корень	radi
-коридор	atria
-коричневый	bruno
-коробка	teka
-космос	kosmi
-кость	osteo
-кот	feli
-Который?	Qo?
-кофе	kafa
-краб	kancero
-красивый	kali
-красный	rubi
-крахмалить	amila
-креветка	karis
-критиковать	kritici
-кровать	kli
-кровь	hema
-кролик	lepus
-кроме того	plus-co
-круг	ciklo; rondo
-крутиться	gira
-крыло	ptero
-крыса	ratus
-крыша	stego
-крюк	unki
-ксить	brosa
-Кто?	Qo-pe?
-куб	kubi
-курить	fumi
-куча	kumu
-
-```
-
-<span id="geel"></span>
-
-### Л
-
-``` 
-лавка	boteka; -bo
-лебедь	cigni
-левый	levo
-легкий	facili
-лед	glacia
-лезвие	litora
-лемон	citri
-лен	linu
-лента	taeni
-ликвидный	liqi
-линия	line
-лист	folia
-лить	fusi
-лицо	facia
-лишать	frustra
-ловить	kapti
-лодка	navi
-ложиться	kumbe
-ложка	spatula
-ломать	frakti
-лоно	uterus
-лосось	salmo
-лошадь	equs; hipo
-луг	agri
-луна	luna
-любить	filo
-любой	ali
-люди	pe
-
-```
-
-<span id="geem"></span>
-
-### М
-
-``` 
-магазин	boteka; -bo
-масло	butiri; olea
-масса	masi
-материк	kontinenta
-матка	uterus
-мать	matri
-машина	mekina (ME); vagona
-медицинский	medika
-медь	kupra
-меня	mi
-менять	muta
-место	loka; -lo
-месяц	meno
-металл	metali
-метод	sistema
-метр	metra
-мешок	saka
-миллион	miliona
-мина	mina
-минута	minuta
-мир	kosmi; paci
-много	mega; multi; poli
-модель	modela
-мозг	enkefa
-мой	mi
-молодой	juve
-молоко	lakti
-молоток	malea
-море	mari
-морской берег	litora
-мост	ponti
-мох	brio
-мочиться	urina
-мочь	pote
-мужчина	andro
-музыка	musika
-мука	farina
-муравей	formika
-мускул	muskula
-муха	diptera
-мы	na
-мыло	sapo
-мыть	lava
-мышца	muskula
-мягкий	moli
-мясо	karni
-мяч	bola
-
-```
-
-<span id="geen"></span>
-
-### Н
-
-``` 
-на	epi
-наводнение	diluvi
-над	su; supra
-надеяться	spe
-надменный	aroga
-надуваться	brio
-наем	lue
-назад к началу	versi
-называть	nima
-наиболее	maxi
-наименьший	mini
-найти	detekti
-наказывать	puni
-наконечние	akro
-наконечник	kuspi
-налог	fiska
-намереваться	tende; -te
-намерение	tende
-намеренный	tende
-наоборот	kontra-co
-нападение	viole
-наполнять	ple
-народ	demo; natio
-народный	popula
-нас	na
-насекомое	insekti
-наслаждаться	fru
-насос	pumpa
-настолько	metro
-настолько (следовательно)	metri-co
-наука	skience
-нация	natio
-начать	proto
-наш	na
-не	ne
-небо	urani
-недостаток	minus
-немедленно	kron
-немного	pusi
-ненавидеть	odio
-неопредю местоимение	pe 
-неправда	ero
-нерв	neuro
-неровность	rugo
-несколько	oligo
-несмотря на	anti
-нет до	ne pre
-неудача	fali
-низкий	baso
-нитка	fi
-ничего	nuli; zero
-но	anti-co; sed
-новости	data
-новость	nova
-новый	neo
-нога	poda
-нож	kutela
-ноздря	nari
-ноль	ze
-нос	nasa
-ночь	noktu
-нюхать	este odori
-
-```
-
-<span id="geo"></span>
-
-### О
-
-``` 
-о	de
-обещать	promise
-облако	nefo
-обманывать	falsi
-обмен	kambio
-обнаженный	nudi; gimno
-обозначающий ед. число	u; un 
-оболочка	ostraka
-обратно	retro
-обучение	sko
-общий	comuni
-объединенный	arto
-объявлять о чем-то	publika
-обычно	more
-обычный	ordinari
-овца	ovis
-оглашать	publika
-огорченный	penite
-одевать	vesti
-один	mo
-одинаковый	iso
-одиннадцать	momo
-однако	anti-co
-ожидание	atende
-озеро	limno
-означать	indika; signifi
-океан	oceani
-окно	fenestra
-около	para
-олово	stana; St
-омар	homari
-он	an
-она	fe
-они	mu
-опасность	risko
-опыт	experi
-оранжевый	orange
-орган	organi
-оружие	arma
-осадок	basi
-осел	asinus
-остановка	sto
-остаток	resta
-остов	skeleto
-остров	insula
-острый конец	kuspi
-ответ	responde
-отвечать	reakti
-ответственный	liabili
-отвращение	pude
-отдельно от того	no-klu-co
-отделять	lisi
-отец	patri
-открывать	aperi
-относительность	relativi
-отношение	kognati
-охота	casa
-оценивать	ratio
-очень	fo (FOrti)
-очищать	luci
-очки	plu lenti
-ошибка	ero
-ощущать	sensi
-
-```
-
-<span id="gepe"></span>
-
-### П
-
-``` 
-падать	kade
-пайщик	retiera
-пакет	kapsu
-палец	digita
-палка	baci; rami
-пар	vapo
-пара	u bi
-партия	grega
-парус	veli
-перевозка	fero
-перед	pre
-передвинуть	moti
-пересекать	kruci
-переставать	no-dura
-перо	pina
-персик	persika
-песок	sili
-петь	kanta
-печать	tipo
-печень	hepa
-пиджак	testa
-пирамида	pirami
-писать	grafo
-писать или произносить по буквам	litera 
-пистолет	fusili
-письмо	grama
-пить	bibe
-пища	sito
-плавать	nekto
-плакать	lakrima
-план	skema
-платить	paga
-платье	tunika
-плащ	toga
-пленка	filma
-плечо	skapa
-плоский	plati
-плуг	ara
-по направлению к	ad
-победа	vikto
-поверхность	su facia
-повиноваться	obe
-поворот	tropi
-повреждать	noku
-погода	klima
-под	infra
-поднимать	sume
-поднятие	leva
-подушка?	pulvina
-подходящий	kongru
-пожалуйста	place
-позволять	lase
-поздний	tardi
-показ	monstra
-показывать	indika
-покидать	linqi
-поклоняться	latri
-покой	paci
-покрывать	tegu; vesti
-покрышка	fatiga
-покупать	baia; merka
-пол	pedi-lo
-поле	agri
-полезный	funktio
-полет	vola; peti
-ползать	repti
-политика	politika
-полиция	polica
-полный	holo; ple
-положить	moti
-полоса	stria
-получать	gene
-получить	pa gene
-польза	profito
-полюс	pola
-помнить	memo
-помогать	auxi
-понедельник	di-bi
-понимать	logi
-популярный	popula
-порицать	etio
-порт	asila
-порядок	ordina
-посещение	visita
-после	po
-последний	ultima
-посредством	per
-посылать	bali
-пот	sudo
-потолок	stego
-потому что	kausa
-похожий	homo
-поцелуй	osku
-почва	tera
-Почему?	Qo-ka?
-почка	blasto; rena
-почта	posta
-почтовая марка	posta bileta
-поэзия	poesi
-поэтому	seqe
-пояс	zona; -zo
-правая сторона	dextro
-правильный	veri
-правитель	regi
-право	privilegi
-праздновать	celebra
-практика	praxi
-предел	limita
-предлагать	ofere; proposi
-предмет	ra
-предполагать	expekta
-предположение	divina; postula
-преследовать за убеждения	persekuti 
-при условии	konditio
-приветствовать	saluta
-привыкший	pa more
-приглаживание	glabro
-пригодный	funktio
-признавать	konfesi
-приказ	komanda
-прикосновение	tange
-пример	exempla
-природа	natura
-присоединять	zigo; juga
-приспосабливать	adapta
-притворяться	fikti
-приходить	veni
-причина	sti
-приятный	gluko
-пробка	suberi; valva
-проверка	examina
-проверять	verifi
-проводник	duce-pe
-программа	programa
-прогресс	progresi
-прогулка пешком	gresi
-продавать	vendo
-продолжающееся действие	du 
-продолжение	du
-продырявить	fora
-проживать	eko
-проза	prosa
-происходить	acide
-промышленность	industri
-просматривать	skana
-просо	panika
-пространство	space
-простыня	lamina
-противоположности	no-
-противоположность	kontra
-проход	pasa
-прочный	solidi; stereo
-прочь	ab
-прошедшее время	pa
-прошение	petitio
-прощать	pardo
-пруд	stagna
-пружина	elasti
-прыжок	salti
-прямая линия	rekti
-птица	avi
-пуговица	butona
-пузырь	kisti
-пустой	vaku
-пустота	kavita
-путешествие	viagia
-пчела	api
-пшеница	tritikum
-пыль	farina
-пытаться	tenta
-пьеса	drama
-пьяный	narko
-пятая книга	u bibli pen
-пятно	makula; topo
-пять	pen
-пять книг	pen bibli
-пятьдесят	penze
-
-```
-
-<span id="geer"></span>
-
-### Р
-
-``` 
-раб	dulo
-работа	ergo
-радостный от	hedo
-радуга	spektra
-разбрасывать	spora
-развивать	kulti
-разжижать	diluti
-различаться	difere
-разочаровывать	frustra
-разрастаться	brio
-разрешать	lase; lice
-разрушать	nekro
-разум	psiko
-ракета	misili
-раса	racia
-распад	sapro
-расписание	kron seri
-распространять	difusi
-рассчитывать	expekta
-растение	fito; planta
-расти	kresce
-расточать	disipa
-расходиться из центра подобно радиусам	radia 
-расческа	pektina
-рвать	skizo
-реагировать	reakti
-ребенок	babi; infanti
-резать	seka
-резина	latex
-река	fluvi
-рекламировать	publika
-религия	religio
-рельс	raila
-решать	judika
-решение (задачи, вопроса)	solutio
-риск	risko
-риф	pla
-рог	kerati
-родитель	parenta
-рождение	nati
-Рождество	Kristonati
-рожь	sekali
-рот	gnata; stoma
-рука	braki; manu
-руководитель	duce-pe
-руководить	dirigi
-ручка	stilo
-рыб	piski
-рычаг	vekto
-ряд	seri
-
-```
-
-<span id="geess"></span>
-
-### С
-
-``` 
-с	ko
-сад	basi; horti
-сам	se
-самолет	aeroplana
-самый большой	maxi
-сахар	sukro-ma
-сбивать с толку	konfusi
-сверток	kapsu
-сверх	ultra
-свет	foto; lumi
-светить	splendi
-свидетельство	tesi
-свинец (Pb)	plumba
-свинья	sui
-свистеть	sibila; siringi
-свободный	libe
-сгиб	plika
-сделать	face
-сделаю что-л. (закончить действие в будущем)	fu pa 
-север	boreo
-сейчас	nu
-секретарь	secretari
-секунда	sekunda
-сельская местность	rura
-семь	seti
-семья	famili
-семя	sperma
-сера	sulfi
-сердитый	koleri
-сердце	kardia
-серебро (Ag)	argenti
-серия	seri
-серый	polio
-сестра	sorori
-сетка	reti
-сидеть	sedi
-сила	dina
-символ	sema
-сказать	dice
-сканировать	skana
-скболить	razo
-сквозь	trans
-скелет	skeleto
-склониться	klina
-скольжение	glisa; lapse
-Сколько?	Qo numera?
-скоро	nu fu
-скорый	tako
-слава	famo
-следовательно	ka-co; seqe
-следовать	seqe
-следует	debi
-слеза	lakrima
-слива	prunus
-слизь	muci
-слишком	tro
-слово	verba
-слой	strata
-слон	elefa
-служба	ofici
-служить	servi
-случаться	acide
-слышать	audi; akusti
-смерть	morta
-смешной	komika
-смеяться	ridi
-смотреть на	skope
-снег	nivi
-снять	apo
-собака	kani
-собирался	pa fu
-собирать	kolekti
-совесть	auto kritici
-советовать	monito
-согласиться	akorda
-согласно	akorda
-содержать в себе	kleisto
-соединение	arto
-соединять	nexi
-сок	suku
-солндный	solidi; stereo
-солнце	sola; helio
-соль	sali
-соответствующий	kongru
-сопротивляться	resista
-сосать	suge
-сосок	teli
-состояние	fisi
-состязаться	kompeti
-сосчитай их!	Numera mu!
-сохранный	imuni
-спасаться бегством	fugi
-спать	somni
-спередиюю	ante
-спина	dorsa
-спираль	helika
-список	seri
-спорить	disputa
-справедливость	justi
-спрашивать себя	qestio se
-спрятаться	kripto
-сравнивать	kompara
-средний	meso
-ссадина	krudi
-старый	paleo
-стекло	vitri
-стимулировать	sti
-сто	mo centi
-стол	taba
-сторона	latu
-стоять	sta
-страна	landa; stato
-страница	pagina
-странствие	vaga
-стрела	sagita
-стрелка	sagita
-строгий	severi
-строить	face; tekno
-ступеньки	skala
-cyимать	apo
-сумасшедший	rabi
-сумка	saka
-суп	supa
-сухой	sika
-сушить на ветру	vulne
-сцена	proskeni
-счастливый	hedo
-счастье	hedo
-счет	numera
-считать	puta
-сыр	kasea
-
-```
-
-<span id="gete"></span>
-
-### Т
-
-``` 
-так же	homo-co
-таким образом	akorda-co
-такой же	iso
-там	la
-танцевать	kore
-тарелка	disko
-твердый	sklero; solidi; stereo
-театр	teatra
-тем временем	tem-co
-темнота	skoto; no-foto
-темя	tema; topika
-теперь	nu
-теплый	termo
-терпение	tolera
-терять	lose
-течение	flu
-то что раньше было обычно	pa more 
-толстый	paki; paki
-толчок	pulsa
-только	solo
-только что сделал	nu pa
-томимый жаждой	dipso
-тому назад	retro
-тонкий	tenu
-тоннель	tunela
-торжественный	solemni
-торт	plaka
-тот	u-la
-точить	litora
-точка	punkta
-точный	veri
-трава	gra
-тратить	spende
-трение	frikti
-треск	skizo
-три	tri
-три раза	tri kron
-труба	tubi
-трясти	seiso
-туалет	kloseta
-туман	nebula
-ты	tu
-тысяча	mo kilo
-тюрьма	karcera
-тяжелый	gravi
-тянуть	trakto; tira
-
-```
-
-<span id="geu"></span>
-
-### У
-
-``` 
-у каждого по два	singu pe habe bi
-убивать	cide
-уборная	kloseta
-уважение	respekta
-увеньчивать	lofo; kresta
-уверенный	sura
-угол	gono
-уголь	karbo
-удар	bate; trauma
-удваивать	diplo
-удивление	mira
-удобный	gluko
-удобный случай	okasio
-удовольствие	terapi
-удостоверять	certifi
-узел	nodu
-узкая часть	steno
-улитка	koklea
-улыбаться	sub ridi
-умножить	para
-умный	sofi
-умышленный	tende
-университет	universita
-уничтожать	nekro
-управление	kontrola
-управлять	age
-упражнение	exercise
-упругость	elasti
-успокоение	konsola
-установить	fixa
-уступать	cede; koncesio
-утро	mana
-ухо	ota
-
-```
-
-<span id="geef"></span>
-
-### Ф
-
-``` 
-факт	data
-фактор	faktora
-ферма	agri-lo
-фехтовать	fragma
-фильм	filma
-финик	foeni
-форма	fisi; forma; morfo
-формула	formula
-
-```
-
-<span id="gecha"></span>
-
-### Х
-
-``` 
-хвалить	lauda
-хвойное дерево	Konifera
-хвост	kauda
-хлеб	pani
-хлопок	kotona
-холодный	frigi
-хороший	boni (eu-)
-хотеть	volu
-хотя	anti
-хранить	tena
-
-```
-
-<span id="geze"></span>
-
-### Ц
-
-``` 
-цвет	kroma
-цветок	flori; anto
-целое что-то	holo
-цена	preci
-ценность	valu
-центр	centra
-цепь	katena
-цифровой	digita
-цурковь	religio-do
-цыпленок	galina
-
-```
-
-<span id="getsche"></span>
-
-### Ч
-
-``` 
-чай	tea
-час	horo
-частица	mero; peci
-часы	horo-me
-чаша	tasa
-чашка	patela
-чек	cek
-человек	homini
-череп	krania
-черный	melano
-четверть	qarto
-четыре	tet
-чинить вылечивать	repara
-чистить	puri
-читать	lekto
-Что?	Qo?
-что я только что сказал	no-klu-co
-чувствовать	este
-чувствовать запах	este odori
-
-```
-
-<span id="gescha"></span>
-
-### Ш
-
-``` 
-шаг	gradu
-шар	bola
-шерсть	lana
-шесть	six
-шея	cervika
-шина	fatiga
-ширма	skuta
-широкий	lati
-шить	sue
-шнур	taeni
-шок	trauma
-
-```
-
-<span id="geschtscha"></span>
-
-### Щ
-
-``` 
-щека	buka
-щетка	brosa
-
-```
-
-<span id="geeobo"></span>
-
-### Э
-
-``` 
-экзамен	examina
-экран	skuta
-экскремент	feki; kopro
-экскурсовод	duce-pe
-электричество	elektro
-эти/те	plu-ci/plu-la
-это	id
-этот	u-ci
-эффект	efekti
-
-```
-
-<span id="geju"></span>
-
-### Ю
-
-``` 
-юг	austra
-
-```
-
-<span id="geja"></span>
-
-### Я
-
-``` 
-Я	mi
-яблоко	pomo
-ягодицa	piga; glutea
-яд	toxi
-язык	lingua
-яйцо	ova
-ящик	toraki
-
-```
-
------
-
-	
-
-[www.glosa.org](../index.html),  2002-01-08.

@@ -4,9 +4,6 @@ layout: post
 published: true
 ---
 
-
-	
-
 ## Reference lexicon
 
 These are the reference lexicons of Glosa. They are the most up-to-date and checked.
@@ -22,8 +19,6 @@ The derivative lexicons are less precise and may be outdated.
 **German**	[Glosa 1000-Deutsch](gldt.htm), [Deutsch-Glosa 1000](dtgl.htm).
 
 **French**	[French-Glosa](frgl1k.htm), [auto-generated Glosa-French](gl1kfr.htm).
-
-[Daniel Macouin](http://danielmacouin.chez-alice.fr/) has assembled a printable version of these files.
 
 **Italian**	[Auto-generated Glosa 1000-Italian](gmcoglit.htm).
 

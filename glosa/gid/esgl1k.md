@@ -1,2153 +1,2114 @@
 ---
-title: Español - Glosa 1000
+title: Español — Glosa 1000
 layout: post
 published: true
 ---
 
 
+*ex libri "Español - Glosa 1000" (Burrows, Ashby, Clark, 1992)*.
 
-
-## (u ge-korekti versio)
-
-[a](esgl1k.htm#gea)  [b](esgl1k.htm#geb)  [c](esgl1k.htm#gec) 
-[d](esgl1k.htm#ged)  [e](esgl1k.htm#gee)  [f](esgl1k.htm#gef) 
-[g](esgl1k.htm#geg)  [h](esgl1k.htm#geh)  [i](esgl1k.htm#gei) 
-[j](esgl1k.htm#gej)  [k](esgl1k.htm#gek)  [l](esgl1k.htm#gel) 
-[m](esgl1k.htm#gem)  [n](esgl1k.htm#gen)  [o](esgl1k.htm#geo) 
-[p](esgl1k.htm#gep)  [q](esgl1k.htm#geq)  [r](esgl1k.htm#ger) 
-[s](esgl1k.htm#ges)  [t](esgl1k.htm#get)  [u](esgl1k.htm#geu) 
-[v](esgl1k.htm#gev)  [w](esgl1k.htm#gew)  [x](esgl1k.htm#gex) 
-[y](esgl1k.htm#gey)  [z](esgl1k.htm#gez)
-
-	
-
-U-ci lista (vide infra) es ex libri "Español - Glosa 1000" de Richard
-Burrows e de bi Glosa autori Wendy Ashby e Ronald Clark, 1992. Tu pote
-merka u bibli de Glosa Education Organisation, 35 Wingfield Road,
-Kingston Upon Thames, Surrey KT2 5LR, ENGLAND. U bibli habe plus info de
-Glosa e exempla-textu.
-
-U lista pa gene ma-boni e korekti. Poli "Mega-Glosa"-verba pa gene apo.
-Tu pote vide u lista de plu ge-korekti ra in
-[www.glosa.org/gid/esglcorr.htm](esglcorr.htm). Tu pote vide u paleo,
-originali e ne-korekti lista (Sed place ne uti id\! Id es ci solo pro
-histori interese.) : [www.glosa.org/gid/esgl1ko.htm](esgl1ko.htm).
-
-U ge-vice lista (ge-korekti) Glosa-Español habe adresa
-[www.glosa.org/gid/gl1kes.htm](gl1kes.htm) (Un originali bibli ne habe
-Españanol-Glosa-lista.).
-
-Maxi boni sio es: tu sio prefere plu English lista de GID epi
-[www.glosa.org/gid](index.html); si tu pote.
-
-
-``` 
- 
-a	a; ad 
-a ti	tu 
-(hacia) abajo	kata 
-abandonar	linqi 
-abedul	betula 
-abeja	apis 
--able	(-)abili 
-abrazar	amplexi 
-abrigo	toga 
-abrir	aperi 
-absoluto	absoluti 
-abundar	abunda 
-aburrir	fatiga 
-acá	ci 
-acabar de	nu-pa 
-accionista	rentiera 
-aceite	olea 
-acelerar	ma-tako; bali 
-acento	toni 
-acerca de	de 
-acero	aciera 
-ácido	akidi; akuto 
-aconsejar	monito 
-acoplar	kopula; koitus 
-acordarse	memo 
-actitud	atitudi 
-activo	aktivi 
-actor	drama-pe 
-actriz	drama-fe 
-actual	nu 
-actuar	akti; praxi 
-(estar de) acuerdo	akorda; harmoni 
-de acuerdo	ja 
-acumular	kumu 
-adaptar	adapta 
-adecuado	deko 
-adelante	avanti 
-adherir	hesi 
-adhesivo	hesi 
-adición	suma 
-adicionar	adi 
-¡adiós!	vale! 
-adivinar	divina 
-admisible	lice 
-adorar	adora; latri 
-adornar	orna 
-afectar	influ 
-afilar	akuto 
-agarrar	rapi; kapti 
-agasajar	hospita 
-agente	agenti 
-agitar	seiso; agita 
-agotar	spende 
-agradable	dulce; gluko 
-agravar	ma mali 
-agrio	akidi; akuto 
-agua	aqa; hidro 
-aguardar	atende 
-agudeza	faceti 
-agudo	akidi; akuto 
-aguja	aku 
-agujero	fora; poro 
-ahí	la 
-ahogar	sufoka 
-ahora	nu 
-ahorrar	salva 
-aire	aero 
-aislar	lisi 
-ajeno	xeno 
-ajustar	adapta 
-ala	ala; ptero 
-alabar	lauda 
-alba	aurora; eo 
-albo	leuko 
-alcanzar	expande; extende 
-aldea	viki 
-algo	sub- 
-algo (=cosa)	ali-ra 
-algodón	kotona 
-alguien	ali-pe 
-alguna	u; un; ali 
-alguna parte	ali-lo 
-algunas	plura; oligo 
-alguno	u; un; ali 
-algunos	plura; oligo 
-aliento	spira 
-alimentar	sito 
-allá	la 
-allí	la 
-alma	anima; spiritu; psiko 
-almacén	stora 
-almacénar	stora 
-almidón	amila 
-almohada	pulvina; kosina 
-alojar	hospita 
-alquilar	tem-uti 
-alquiler	eko-preci 
-alrededor de	cirka; peri 
-alternar	alterna 
-altitud	alti 
-alto	alti 
-alubia	faba 
-alumbrar	lumi; foto 
-alzar	leva 
-amar	amo; filo 
-amargo	pikro 
-amarillo	xanto 
-ambiente	peri-lo; ambienta 
-amigo	ami 
-amor	amo; filo 
-amplio	lati; plati 
-ampolla	kisti; fisa 
-añadir	adi 
-anaquel	pla 
-ancho	lati; plati 
-andamio	proskeni 
-andar	gresi; ambula 
-ángulo	gono 
-anillo	zona; -zo 
-animal	animala; zoa 
-ánimo	anima; spiritu; psiko 
-año	anua 
-ansioso	anxio; nervoso 
-antepasado	parenta 
-antes (de)	ante; pre 
-antiguo	paleo 
-anual	anua 
-anudar	liga 
-anunciar	nunci; publika 
-aparato	mekani; -me 
-aparecer	apare 
-apariencia	aspekto 
-apetito	apeti; libido 
-apostar	divi 
-aprender	gene sko; diski 
-apretar	presa; baro; piezo 
-apuntar	registra 
-aquello	u-la 
-aquellos	plu-la 
-aquí	ci 
-arado	ara 
-arar	ara 
-árbol	dendro 
-arcilla	kerami 
-arco	arca; arka 
-arco íris	iridi 
-arder	kandi 
-área	area 
-arena	arena; sili 
-argüir	disputa; diskusi 
-árido	sika 
-arma	arma 
-armonizar	akorda; harmoni 
-aroma	odoro; aroma 
-arreglar	ordina; klasi; taxo 
-arrendar	koncesi 
-(hacia) arriba	ana; a-supra 
-arrogante	aroga; vani 
-artículo	artikla 
-asegurar	insura 
-asentir (con cabeza)	nuta 
-asiento (silla)	benca 
-asomarse	emerge; surge 
-asombrar	stupe; mira 
-aspa	veli 
-aspecto	spekta; skope 
-áspero	asperi; rugo 
-astucia	strategi 
-asunto	tema 
-atacar	viole 
-atar	liga 
-atmósfera	aero 
-(hacia) atrás	retro 
-hacia atrás	retro 
-auge	akro; sumita 
-aula	atri 
-aullar	ulula; mugi 
-automático	automati 
-avanzar	avanti 
-ave (pájaro)	avi 
-aventura	aventura 
-avergonzarse	este etio 
-aversión	odio; miso 
-ávido	avari 
-avisar	monito 
-ayudar	auxi 
-azada	spata 
-azul	ciano 
-bahía	baia 
-bailar	kore 
-bajo	baso; kame 
-balanza	libra 
-bañarse	lava 
-banco (asiento)	benca 
-banco (dinero)	banka 
-bandera	insigni 
-barato	mikro-preci 
-barca	navi 
-barco	navi 
-barra (cilindro)	baci 
-barra (mostrador)	mensa 
-barro	kerami 
-base (fondo, pie)	funda 
-base (razones)	evide; basi 
-basta	sati; sufici 
-bastante	sati; sufici 
-basto	asperi; rugo 
-basura	rude 
-baya	koku; baka 
-beber	bibe 
-bello	dekora; kali 
-bellota	glandi 
-besar	oskula 
-beso	oskula 
-bien	boni; bene; eu 
-bifurcarse	furka 
-billete	bileta; tiketa 
-biombo	skuta 
-bisagra	kardina 
-blanco	leuko 
-blando	moli 
-blanquear	leuko 
-bloque	plaka 
-boca	ora; stoma 
-bodega	boteka; -bo 
-bola	bola; sferi 
-bolígrafo	stilo 
-bolsa	saka 
-bolsillo	marsu 
-bolso	saka 
-bombilla	bulbo 
-borde	margina 
-borracho	narko 
-bosque	silva 
-bostezar	hiao; kasmo 
-botánica	botanika; fitologi 
-botella	botilia 
-botón	butona 
-brazo	braki 
-breva	fikus 
-breve	brevi 
-brillar	splendi; radia 
-brillo	lustra 
-dar brillo	lustra 
-brocha	brosa 
-brote	gema; blasto 
-brújula	boreo-me 
-bruma	nebu 
-bucle	ciru 
-bueno	boni; bene; eu 
-buey	bovi; bu 
-bulbo	bulbo 
-bullir	buli 
-buque	navi; nau 
-burro	asinus 
-buscar	cerka 
-caballo	equs 
-cabello	kapila 
-cabeza	kefa 
-cada	singu 
-cada uno	panto; omni 
-cadena	katena 
-cadera	koxa 
-caer	kade 
-caerse	kade 
-café	kafa 
-caja (dinero)	kasa 
-caja (recipiente)	teka 
-cala	baia 
-calentar	termo; kalori 
-calidad	qalita 
-callarse	taci 
-calle	via; strata 
-calor	termo; kalori 
-calza	kune 
-cama	kli 
-cambiar (modificar)	muta 
-cambiar (trocar)	kambio 
-caminar	gresi; ambula; vaga 
-camino	via; strata 
-camisa	supra-tunika 
-campamento	kampu 
-campana	tini-ru 
-campaña	kampania 
-campo (no-ciudad)	rura; agri 
-campo (propiedad)	dominio 
-canal	kanali 
-canción	kanta; melodi 
-cañería	tubi 
-cansar	fatiga 
-cantar	kanta; melodi 
-cantidad	qantita 
-capa	toga 
-capacidad	volumi 
-capaz (de)	pote 
-(el) capital	kapitali 
-(la) capital	kapitala 
-capítulo	kapitula 
-capucha	kapota 
-capullo	gema; blasto 
-cara	facia 
-carbón (leña)	karbo 
-cárcel	karcera 
-carga	kargo 
-cariño	amo; filo 
-carne	karni 
-caro (costoso)	mega-preci 
-(de) carreras	kursi; dromo 
-carretera	via; strata 
-carta	grama 
-cartón	kartona 
-cartulina	kartona 
-casa	domi; -do 
-casar	game 
-casarse	game 
-cáscara	ostraka 
-casco	ungu; oniko 
-casilla	qadra; tetra-gono 
-en caso de que	kaso 
-castaño (color)	bruno; faeo 
-castigar	puni; korekti 
-casto	morali 
-catálogo	lista; kataloga 
-causar	sti 
-caverna	kaverno 
-cazar	casa 
-ceder	cede 
-ceja	supra-cilia 
-celebrar	celebra 
-célebre	famo 
-celo	zelo 
-celos	kako-zelo 
-célula	celu; kito 
-cemento	cementa 
-céntrico	centra; meso 
-cera	ceru 
-cerca (tapia)	fragma 
-cerca de	proxi 
-cerdo	sui; porku 
-cereal	cereali 
-cerebro	cerebra 
-ceremonia	ceremoni; ritu 
-cero	nuli; zero; -ze 
-cerrado	ge-klude 
-cerrar	klude 
-certificar	certifi 
-césped	gra 
-charca	stagna 
-charlar	garulo 
-chico	pusi 
-(micro) chip	mika 
-chiquitito	mikro; nano 
-chocolate	cokolata 
-chupar	sugo 
-ciclo	ciklo 
-ciego	ceko 
-cielo	urani 
-ciencia	skience 
-cieno	muci 
-cierto (seguro)	sura 
-cierto (un tal)	u certa 
-ciervo	cervus 
-cifra	numera 
-cima	kresta 
-circunferencia	zona 
-ciudad	civita; urba 
-ciudadano	civi 
-claro (no oscuro)	klari; luci 
-claro (obvio)	klari 
-clase	klasi; speci 
-clasificar	klasi; ordina 
-clave	klavi 
-clavo	aku 
-clima	klima; meteo 
-cobre (metal)	kupra 
-cocina	kuko-ka 
-cocinar	kuko 
-codicioso	avari 
-coger	kapti; rapi 
-cohete	raketa 
-cojín	pulvina; kosina 
-cola (rabo)	kauda 
-coleccionar	kolekti 
-colegio	kolegi 
-cólera	furi; koleri 
-colgar	pende 
-color	kolora; kroma 
-columna	kolumni; stele 
-columpiar	oscila; vibra 
-combinar	kombina 
-comenzar	komence; proto 
-comer	vora; fago 
-(dar de) comer	nutri 
-dar de comer a	nutri 
-comercio	komerci 
-cómico	komika 
-comida	sito 
-comité	komiti 
-como	komo 
-¿como?	komo?; qo-mode? 
-compañía	kompani 
-comparar	kompara 
-compasión	simpati 
-compensar	kompensa 
-competir	kompeti 
-complejo	komplexi 
-complicado	komplika 
-componer	komposi 
-comprar	merka 
-comprender	logi 
-comprobar	verifi 
-comprometer	kompromise 
-comprometerse	promise; sponsa 
-(en) común	komuni 
-comunicar	komunika 
-con	ko; plus 
-cóncavo	konkavo 
-concha	ostraka 
-condición	stato; fisio 
-(a) condición	konditio 
-condiciónes	stato; fisio 
-conducir	duce; ago 
-conectar	nexu 
-conexión	nexu; relati; reti 
-confesar	konfesi 
-confiar	fide; kredi 
-conformar	konformi 
-conformarse	konformi 
-confundir	konfusi; perplexi 
-congelar	geli 
-conjunto	faski; -fa 
-conmover	excite; vibra 
-cono	koni 
-conocer	ski 
-consciente	konski; sensi; este 
-consejo	koncili 
-considerar	ponde; konsidera 
-consolar	konsola 
-constante	dura 
-construcción	fabrika; konstrukti 
-construir	face; stru; tekto 
-consumir	konsume 
-contacto	takto 
-contar	numera 
-contar con	expekta 
-contemporáneo	iso-tem 
-contento	kontento; felici; hedo 
-contexto	kontextu 
-continente	kontinenta 
-continuar	kontinu; dura 
-continuo	kontinu; dura 
-contra	kontra 
-contrario	kontra 
-convenir	gru 
-convexo	konvexi 
-copiar	kopi 
-copo	floka 
-corazón	kardia 
-corcho	korka 
-corona	korona 
-corral	korta; atri 
-correo	posta 
-correos	posta 
-corriente	flu 
-corroer	oxidi 
-corromper	korupti 
-cortar	seka 
-corte (estilo)	forma; morfo 
-cortés	civili 
-corteza	kortika 
-corto	brevi 
-cosa	(-)ra 
-cosechar	karpe 
-coser	sue 
-cosquillear	titila 
-costa	kosta 
-costado	latu 
-costilla	kosta 
-costoso	mega-preci 
-costumbre	habitu; more 
-costura	sue 
-cráneo	krania 
-crear	krea; poeia 
-crecer	kresce 
-crédito	kredito 
-creer	kredi 
-cresta	kresta 
-creta	kreta; gipso 
-cría	fili 
-criar	kulti 
-criba	kribri; filtra 
-cribar	kribri; filtra 
-crisis	krisi 
-cristal	vitri 
-criticar	judika; kritici 
-crítico	krisi 
-cruce	kruci 
-cruel	sadi; krueli 
-cruz	kruci 
-cruzar	kruci 
-cuadrado	qadra; tetra-gono 
-(el) cual	qod 
-cualidad	qalita 
-cualquiera	ali 
-¿cuándo?	qo-di?; qo-horo?; qo-tem? 
-¿cuánto?	qanto? 
-¿cuántos?	qanto? 
-cuarto	kamera; -ka 
-cúbico	kubi 
-cubierta	tegu 
-cubo	kubi 
-cubrir	tegu 
-cuchara	spatula 
-cuchichear	susura 
-cuchillo	kultela; blada 
-cuenta (banco)	konto 
-cuerno	kornu; kerati 
-cuerpo	korpu; soma 
-cuesta (pendiente)	klina 
-cueva	kaverno 
-cuidado	kura 
-cuidadoso	kura 
-culo	dorsa 
-culpar	etio; kulpa 
-cultivar	kulti 
-cultura	kultura 
-cumbre	kresta 
-cumplir	kompli 
-cuña	kune 
-curar	repara; terapi 
-cursi	krudi 
-curva	kurva; flexi 
-cutis	peli; derma 
-daga	kultela; blada 
-dañar	noku; puni 
-danzar	kore 
-dar	dona 
-dar brillo	lustra 
-dar de comer a	nutri 
-dar placer	place 
-dar vueltas	torna; rota; gira 
-darse prisa	vola; peti 
-datos	data; info 
-de	de; ab 
-de acuerdo	ja 
-de él	an 
-de prisa	rapidi; veloci; tako 
-debajo (de)	infra 
-debatir	debati 
-deber	debi; nece 
-debido a	a kausa de 
-débil	debili 
-decaer	putri; sapro 
-decente	deko 
-decidir	decide; judika 
-decir	dice; loqi 
-(querer) decir	signifi; semani 
-dedo	digi 
-defecto	defekti 
-defender	alexi 
-dejar	linqi 
-dejo	trace; vestigia 
-delante	ante 
-(parte) delantera	fronta 
-delgado	gracili; lepto 
-demasiado	excesi 
-demora	tardi 
-demorar	tardi 
-demostrar	proba; demonstra 
-denso	densi 
-dentro	intra 
-dentro de	in 
-deporte	sporta; ludi 
-(a mano) derecha	dextro 
-derecho (ley)	nomi 
-derecho (recto)	rekti 
-derecho (ventaja)	privilegi 
-derecho (vertical)	vertika; orto 
-derrota	vikto 
-desafiar	defi 
-desaparecer	lose vista 
-desarrollar	developo; evolve 
-descomponer	dekomposi 
-describir	deskribe 
-descuento	diskonto 
-desde	ex; ab 
-desear	volu; desira 
-desempeñar	drama 
-deseo	apeti; libido 
-deshacer	no-face; destru 
-deshonra	pude 
-desierto	deserta 
-desilusionar	frustra 
-deslizar	lapso; glisa 
-desnudo	nudi; gimno 
-despacho	buro; ofice 
-despacio	lento 
-despertado	vigi 
-destacarse	projekti 
-destruir	no-face; destru 
-detener	aresta 
-detrás (de)	poste 
-deuda	debito 
-devorar	vora; fago 
-día	di 
-día festivo	festa 
-dibujar	designa; grafo 
-(lo) dicho	-co 
-diente	denti 
-diez	deka 
-difundir	difusi 
-digerir	pepsi 
-diluir	diluti 
-dinero	valuta 
-dios	deo; teo 
-dirección	direkti 
-dirigir	direkti 
-disco	disko 
-discutir	diskusi 
-disfrutar	fru 
-disgusto	pude 
-disminuir	mei; meiosi 
-disolución	solve 
-disparar	fusili 
-disputar	disputa; polemi 
-distancia	inter-vali; tele 
-distante	dista; tele 
-distinto	difere; hetero 
-disuadir	monito anti 
-divertir	amusa 
-dividir	divide 
-dividir en dos	bi sekti 
-división	fisi; skizo 
-divorcio	divorci 
-doblar	kurva; flexi 
-doble	diplo 
-doler	algo 
-dolor	algo 
-dominar	domina 
-dominio	dominio 
-¿dónde?	qo-lo? 
-dondequiera	uno-lo 
-dorado	kriso 
-dormir	somni; sopo 
-dudar	hesita; dubi 
-dulce	dulce; sukro; gluko 
-duradero	dura 
-durante	duranto; tem 
-durar	dura 
-duro	sklero 
-e (=y)	e; plus 
-ebrio	narko 
-echar a (con verbo)	proto; komence 
-edad	eva 
-edificio	domi; -do 
-educar	eduka 
-efecto	efekti; seqe 
-egoísta	egoisti 
-eje	axi 
-ejemplar	exempla 
-ejemplo	exempla 
-ejercicio	exercise 
-el	u; un 
-(de) él	an 
-él o ella	persona 
-elástico	elasti 
-eléctrico	elektri 
-elegir	elekti 
-elemento	faktora 
-elevado	alti 
-eliminar	nuli; elimina 
-ella	fe 
-ellas	mu 
-ello	id 
-ellos	mu 
-emblema	insigni 
-embuste	falsi 
-emoción	emotio 
-empezar	komence; proto 
-emplear	emplea 
-emprender	enterprise 
-empujar	pulsa 
-en (dentro)	in; eso 
-en (sobre)	epi 
-encaje	glena 
-encantar	fascina; magika 
-encanto	fascina; magika 
-encender	igni; piro 
-encender (=iniciar)	sti 
-encerrar	inklude 
-encima	supra; epi 
-encontrar	enkontra 
-enemigo	non-ami 
-energía	energi 
-enfermedad	mali; pato 
-engañar	falsi 
-engaño	falsi 
-engrase	lubrika; ole 
-enlazar	kopula; koitus 
-enojo	furi; koleri 
-enroscar	strepto 
-enseñanza	sko 
-enseñar	eduka; dona sko 
-entender	logi 
-entero	toto; holo 
-enterrar	in-tera 
-entre	inter 
-entremeterse	intrude 
-entrenar	trena 
-entusiasmo	zelo; entusi 
-envase	teka 
-enviar	mite; bali 
-envidia	invidio; kako-zelo 
-envidiar	invidio; kako-zelo 
-envolver	involve 
-enzima	enzima 
-época	eva 
-equilibrio	eqilibra 
-equivocado	ero; mis- 
-erizado	seta 
-errar (error)	ero 
-errar (vagar)	vaga 
-error	ero; mis- 
-esbelto	gracili; lepto 
-escalera	skala 
-escama	floka; sqama; lepido 
-escamar	floka; sqama; lepido 
-escapar	fugi 
-escarcha	krista 
-escarchar	krista 
-esclavo	dulo 
-escoger	elekti 
-escombros	rude 
-esconder	kripti 
-escribir	skribe; grafo 
-escuchar	audi; akusti 
-escudo	skuta 
-escudriñar	skana 
-escuela	sko-do 
-escultura	skulptu 
-esfera (reloj)	diali 
-esforzarse	lukta 
-eso	u-la 
-esos	plu-la 
-espacio	spaci 
-espalda	dorsa 
-espanto	deino 
-espantoso	deino 
-esparcir	spora 
-especia	flavoro-ma 
-especie	speci 
-espejo	spekula 
-esperanza	spe 
-tener esperanza	spe 
-esperar	atende 
-espeso	densi; paki 
-espía	espio; oti 
-espiar	espio; oti 
-espina	spina; akanta 
-espiral	helika 
-espíritu	spiritu; psiko 
-espuma	spuma 
-esqueleto	skeleto 
-estabilidad	stabili 
-establecerse	establi 
-estaca	pali 
-estación	statio 
-estaciónarse	statio 
-estadística	statistika 
-estado	stato; fisio 
-estallar	erupti; explode 
-estaño	stani 
-estante	pla 
-estar	es 
-estar (de pie)	sta 
-estar para	nu-fu; prepara 
-este (oriente)	est; orienta 
-estío	estiva; termo-tem 
-estirar	tensio 
-esto	u-ci 
-estómago	gastro 
-estos	plu-ci 
-estrecho	steno 
-estrella	astro 
-estricto	exakti; precise 
-estructura	struktura 
-estudiar	diski; stude 
-estufa	furna 
-estúpido	stupidi 
-ético	morali 
-evidencia	evide; basi 
-exacto	exakti; precise 
-examen	examina 
-excitar	excite 
-excretar	exkreti 
-exigir	demanda 
-existencia	existe 
-éxito	profito; sucede 
-exótico	rari; exotika 
-experimento	experimenta 
-experto (adjetivo)	arti; tekno 
-experto (sustantivo)	arti-pe 
-éxtasis	trance 
-extenso	lati; plati 
-exterior	extra 
-extranjero	extra-landa 
-en el extranjero	extra-landa 
-extraño	xeno 
-fabricar	produce 
-fácil	facili 
-factor	faktora 
-falda	infra tunika 
-falso	falsi; pseudo 
-falta	defekti 
-faltar	defekti 
-fama	famo 
-familia	famili 
-familiar	famili 
-fango	limo 
-favor	favo 
-a favor de	pro; favo 
-faz	facia 
-fécula	amila 
-felicitar	gratula 
-feliz	felici; hedo 
-feo	no-kali 
-ferrocarril	feru-via 
-fértil	fertili 
-fértilizar	fertili 
-festivo	festa 
-día festivo	festa 
-fibra	fi 
-fiesta	festa 
-fijar	fixa 
-fila	line 
-fin	fini; sto 
-poner fin a	sto 
-final	ultima 
-finalidad (fin)	fini 
-finalidad (propósito)	buta; tende 
-física	fisika 
-físico	fisika 
-fláccido	flaci 
-flecha	sagita 
-flexible	flexi 
-flojo	debili 
-flor	flori; anto 
-flotar	flo; plankto 
-fluido	fluidi 
-fluir	flu 
-flujo	flu 
-fondo	funda 
-forma	forma; morfo 
-formar	fikti; plasti 
-fortuna	fortuna 
-fosa	glena 
-foso	fosi 
-fracasar	fali 
-franja	fimbri 
-frasco	botilia 
-frecuente	freqe 
-freír	lipo 
-frenar	frenu 
-frente (el frente)	fronta 
-frente (la frente)	fronta 
-fricción	frika 
-friccionar	frika 
-frío	frigi 
-frito	lipo 
-fruta	frukti 
-fruto	frukti 
-fuego	igni; piro 
-fuera (de)	extra 
-fuerte	resista 
-fuerza	dina 
-fugarse	salva se 
-fumar	fumi 
-funcionar	funktio 
-fundir	fusi; liqi 
-furioso	rabi 
-fusil	fusili 
-futuro	fu 
-(futuro:) ella estudiará	fe fu stude 
-ganso	anseri 
-garganta	kola; cervika 
-garra	ungu; oniko 
-gas	gasi 
-gasolina	benzina 
-gastar	spende 
-gato	feli 
-gemir	ulula; mugi 
-general	generali 
-generalizar	generali 
-generar	produce; genera 
-gente	popula; demo 
-girar	rota; gira; tropi 
-glacial	glacia 
-glándula	glandi 
-gobernar	krati 
-golfo	golfo 
-golpe	tipo 
-golpear	tipo 
-goma (caucho)	gumi; latici 
-gordo	obesi 
-gota	guta 
-gotear	guta 
-gozar	fru 
-gozne	kardina 
-gracias	gratia 
-gracioso	komika 
-grada	gradu 
-gráfico	carta; mapa 
-grande (noble)	grandi 
-grande (tamaño)	mega 
-grasa	lipo 
-grave	gravi 
-gravedad	gravita 
-grifo	valva 
-gris	cinera; polio 
-gritar	voci 
-grueso	obesi 
-grupo	grega 
-gualdo	xanto 
-guardar	guarda; alexi 
-guiar	duce; ago 
-guiñar	nikti 
-guirnalda	korona 
-gusano	vermi 
-gustar	place 
-gusto (educación)	kultura 
-gusto (sabor)	flavoro 
-ha	ante; pre 
-haba	faba 
-hábil	(-)abili; arti; tekno 
-hábilidad	arti; tekno 
-habitación	kamera; -ka 
-habitar	eko 
-hábito	habitu; more 
-hablar	dice; loqi 
-hace (un rato)	pre; ante 
-hacer	akti; praxi; face; produce 
-hacer (causar)	sti 
-hacerse	deveni; esce; gene 
-hacha	peleki 
-hacia	a; ad 
-hacia arriba	ana; a-supra 
-hacia atrás	retro 
-hallar	detekti 
-hallarse	sta; es 
-hambre	fami 
-harina	farina; pulve 
-hasta	a; ad 
-hay	il es 
-hebra	fi 
-heces	feki; kopro 
-hedor	feti 
-helado	glacia 
-helar	gelo 
-hembra	femina; fe; gina 
-heredar	heredi; geneti 
-herida	vulne 
-herir	vulne 
-hermana	(fe-)sibi 
-hermano	(an-)sibi 
-hermoso	dekora; kali 
-herramienta	instrumenta; -ru 
-hervir	buli 
-hielo	glacia 
-hierba	gra 
-hierro	feru 
-higo	fikus 
-hija	fe-fili 
-hijo (varón)	an-filia 
-hijos	plu filia 
-hilera	line 
-hilo	fi 
-hincharse	tumo; brio 
-historia	histori 
-hocico	rostra 
-hoja	folia; fila 
-el hombre (raza)	homi; antropo 
-hombre (no mujer)	viri; andro 
-hombro	skapa 
-homogéneo	regulari; uniforma 
-honesto	honesti 
-hongo	fungu 
-honor	honora 
-honradez	honora 
-hora	horo 
-horario	horo-tabla 
-horca	furka 
-horizonte	horizo 
-hormiga	formika; mirmeko 
-horno	furna 
-hospital	pato-do 
-hoyo	fosi 
-hueco	fora; kavita 
-huella	trace; vestigia 
-huerto	horti 
-hueso	osteo 
-huevo	ova 
-huir	fugi; salva se 
-humana	homi; antropo 
-raza humana	homi; antropo 
-humedad	humidi 
-humo	fumi 
-humor	humoro 
-hundir	merge; diti 
--ible	(-)abili 
-idea	idea 
-idéntico	iso 
-idioma	lingua; glosa 
-iglesia	eklesia 
-(casi) igual	homo; simi 
-es igual a	eqa 
-es igual que	eqa 
-imaginar	imagina; fantasi 
-imán	magneti 
-imitar	kopi; mimi 
-impacto	impakti; kolpa 
-imparcial	justi 
-impedir	impedi; obstru 
-importante	importa; gravi 
-imprimir	tipo 
-impuesto	fiska 
-impulso	impulsi 
-incluir	inklude 
-inclusive	klu 
-inculto	krudi 
-indicación	simpto 
-indicador	diali 
-indicar	indika 
-individuo	individu; idio 
-industria	industri 
-industrial	industri 
-infeliz	no-felici; non-hedo 
-infeliz (pobre)	pove 
-influencia	influ 
-influir	influ 
-información	info; data 
-informar	info; reporta 
-inhibir	impedi 
-inmune	imuni; sekuri 
-inoportuno	mis-kron 
-insípido	no-flavoro 
-instalar	gru 
-instituto	kolegi 
-instrucción	sko 
-instruir	doci; eduka 
-instrumento	instrumenta; -ru 
-íntegro	integra; holo 
-intención	tende; buta 
-intenso	forti; fo 
-intentar	tenta 
-interés	interese 
-interésar	interese 
-interior	intra; endo 
-intervalo	inter-tem 
-intuir	intuiti 
-invertir	verte 
-investigación	recerka 
-invisible	no-vista 
-ir	ki 
-ir a (con verbo)	nu-fu 
-ir bien	gru 
-ira	furi; koleri 
-irradiación	radia 
-irritar	vexa; turba 
--ísimo	fo; forti 
-isla	insula; nesia 
-(a la) izquierda	levo 
-jabón	sapo 
-jardín	horti 
-jaula	karcera 
-jerarquía	hierarki 
-jofaina	kratera 
-joven	juve 
-jovencita	ju-fe 
-jovencito	ju-an 
-joya	gema; orna-li 
-judia	faba 
-jugar	sporta; ludi 
-jugoso	suku 
-junta	koncili; komiti 
-juntar	juga; zigo 
-junto a	para; proxi 
-juntura	artri 
-juramento	jura 
-jurar	jura 
-justo	justi 
-juventud	juve-tem 
-juzgar	decide; judika 
-la	u 
-labio	labia 
-labor	ergo; labori 
-lacerar	lacera 
-lado	latu 
-(al) lado (de)	para; proxi 
-lago	stagna; laku; limno 
-lágrima	lakrima 
-lamentar	lamenta 
-lámpara	lampa 
-lana	lana 
-lanzar	bali 
-lanzarse	vola; peti 
-largo	longi 
-larva	larva 
-las	plu 
-lata	stani 
-lateral	latu 
-lavar	lava 
-lavarse	lava 
-lazo	nodi 
-leche	lakti 
-lecho	kli 
-lectura	lekto 
-leer	lekto 
-legumbre	legumi 
-lejos	dista; tele 
-lengua	lingua; glosa 
-lente	lenti 
-lento	lento 
-lesión	vulne 
-letra (abc)	litera 
-levadura	fermenta; zima 
-levantar	leva 
-leve	levia 
-ley	nomi 
-leyes	nomi 
-librar	libe 
-libro	bibli 
-lícito	lice 
-licuar	liqui 
-ligar	liga 
-ligero	levia 
-límite	limita 
-limo	muci 
-limpio	puri 
-línea	line 
-lino	linu 
-líquido	liqi 
-liso	glabro 
-lista	lista; kataloga 
-listo	prepara 
-litoral	litora 
-llano	libela; plati 
-llave	klavi 
-llegar	veni 
-llenar	ple 
-lleno	ple 
-llevar	fero 
-llover	pluvi 
-lluvia	pluvi 
-loar	lauda; latri 
-local	loka; topo 
-loco	rabi 
-lodo	limi 
-lograr	kompli 
-lonja	lamina 
-los	plu 
-lubricar	lubrika 
-lubrificar	lubrika 
-luchar	lukta 
-lugar	loka; -lo; topo 
-(en) lugar de	in loka de ; vice 
-lugar seguro	asilu 
-luna	luna 
-lunar	luna 
-luz	lumi; foto 
-macho	an 
-macizo	gravi; masi; bari 
-madera	ligni; xilo 
-madre	matri 
-madre/ padre	parenta 
-madrugada	aurora; eo 
-madurar	matura 
-maduro	matura 
-mágico	magika 
-magnetismo	magneti 
-magnífico	grandi 
-mal	mali; kako 
-mala suerte	mali fortuna 
-malgastar	lose; disipa 
-malla	reti 
-malo	mali; kako 
-mama	mama 
-mañana	mana 
-mancha	makula 
-mandar	komanda; imperi 
-mandíbula	mandibula 
-manejar	operatio 
-manera	mode; metodi 
-mano	manu 
-mantequilla	butiri 
-manto	toga 
-mapa	mapa; carta 
-máquina	makina 
-mar	mari 
-maravillarse	mira 
-(poner) en marcha	sti 
-margen	margina 
-marido	viri; andro 
-martillo	malea 
-más	ma 
-más ... de	ma ... de 
-más ... que	ma ... de 
-más allá (de)	ultra 
-masa	pasta 
-masaje	masage; karesa 
-materia	materia 
-material	materia 
-matriz	uteri 
-me	mi 
-mediante	per 
-medida	metri; dimensio 
-(a) medida que	gradu 
-medio	medio; meso 
-(por) medio de	per 
-medios	mode; metodi 
-medir	metri 
-médium psíquico	mediu 
-medrar	vigo 
-mejilla	buka 
-mejor	ma boni 
-mejorar	meliora 
-menor	mei 
-menos	mei 
-menos (=salvo)	excepti 
-menos ... que	mei ... de 
-mensaje	info 
-mensual	meno 
-mental	cerebra 
-mente	cerebra 
-mercado	merkato 
-merecer	merito; valu 
-meridional	sud; austra 
-mérito	merito; valu 
-mes	meno 
-mesa	tabla 
-meta	tende; buta 
-metal	metali 
-metálico	metali 
-método	mode; metodi 
-mezclar	mixa 
-mi	mi 
-mí	mi 
-a mí	mi 
-microchip	cip; mika 
-miedo	fobo 
-miembro	poda 
-mientras	tem; duranto 
-miga	mika 
-mimar	masage; karesa 
-mina	mina 
-mineral	minerali 
-mínimo	mini 
-minúsculo	mikro; nano 
-(el) mío	u mi 
-los míos	plu mi 
-mirar	skope 
-mis	mi 
-misericordia	simpati 
-mismo	auto 
-misterio	misteri; enigma 
-mitad	semi 
-modelo	modela 
-modesto	modesti 
-modificar	modifi; limita 
-mojar	humidi 
-moldear	fikti; plasti 
-molécula	molekula 
-molestar	vexa 
-momento	momenta; kron 
-moneda	moneta 
-monedero	bursa 
-mono	simia 
-montaña	monti; buno 
-montar	gru 
-monte	monti; buno 
-montón	kumu 
-moral	morali 
-morder	morda 
-moreno	bruno; faeo 
-morir	morta; lose bio 
-mostrador	mensa 
-mostrar	monstra 
-motivar	motiva 
-mover (se)	ki; kine 
-muchísimo	maxi; pleisto 
-mucho	mega 
-muchos	poli; multi; miria 
-mudar	muta 
-mueble	mobili; -mo 
-muerte	morta 
-muerto	morta 
-muesca	krena 
-mujer	femina; fe; gina 
-(las) mujeres	plu gina 
-multiplicar	multipli 
-multiplicarse	multipli 
-muralla	mura 
-muro	mura 
-músculo	muskula 
-musgo	muski 
-música	musika 
-muslo	koxa 
-mutuamente	alelo 
-muy	forti; fo 
-muy señor mío	karo senior 
-muy señora mía	karo seniora 
-nacimiento	nati 
-nación	natio 
-nacionalidad	natio 
-nada	nuli; zero 
-nadar	nekto 
-nalgas	pigi 
-nariz	nasa; olface 
-narrar	reporta; nara 
-natación	nekto 
-naturaleza	natura 
-navaja	seka-ru; kultela 
-navegar	naviga 
-navidad	Kristo-nati 
-navidades	Kristo-nati 
-necesidad	nece 
-negar	nega 
-negociar	negoti 
-negocios	negoti 
-negro	atro; melano 
-nervio	nervo; neuro 
-nervioso	nervoso 
-neutral	neutra 
-neutro	neutra 
-nevar	nivi 
-ni ... ni	ni ... ni 
-nido	nidi 
-niebla	nebu 
-nieve	nivi 
-niña	ju-fe 
-niña o niño	infanti 
-niñez	juve-tem 
-ninguna	nuli; zero 
-ninguno	nuli; zero 
-niño	ju-an 
-nivel	libela 
-no (con verbos)	ne 
-¡no! (contestando)	... no! 
-noble	grandi; nobili 
-noche	noktu 
-nombre	nomina; nima 
-normal	norma; medio; meso 
-norte	nord; boreo 
-nos	na 
-nosotros	na 
-notar	nota 
-noticia	nova 
-nube	nefo 
-nudo	nodi 
-nuestro	na 
-nuestros	na 
-nuevo	neo 
-(de) nuevo	itera; re 
-nuez	nuki 
-nulo	nuli; zero; ze 
-número	numera 
-nunca	nuli-kron 
-o ... o	alo ... alo 
-obedecer	obe 
-obeso	obesi 
-objeto (=cosa)	kosa; -ra 
-objeto (=meta)	tende; buta 
-oblicuo	obliqi 
-obligación	debi 
-obrar	operatio 
-observar	nota 
-obtener	prokura 
-obvio	klari 
-occidental	uest 
-océano	oceani 
-ocultar	kripti 
-ocupado	aktivi 
-ocupar	eko 
-ocurrir	acide 
-odiar	odio; miso 
-oeste	uest 
-oferta	ofere 
-oficial	ofice; arki 
-oficina	ofice; buro 
-ofrecer	ofere 
-oír	audi; akusti 
-ojo	oku 
-ola	unda 
-óleo	olea 
-oler	odoro; aroma 
-olfatear	nasa; olface 
-olfato	nasa; olface 
-olor	odoro; aroma 
-olvidar	no-memo 
-onda	unda 
-opinar	opini; doxo 
-opinión	opini; doxo 
-oportunidad	okasio 
-oprimir	opresi 
-optar	elekti 
-opuesto	kontra; enantio 
-oquedad	kavita 
-oral	ora; stoma 
-ordenador	puta-me 
-ordenar (=clasificar)	klasi; taxo 
-ordenar (=mandar)	komanda 
-oreja	auri; oti 
-organizar	organiza; sistema 
-órgano	organi 
-oriental	orienta 
-oriente	orienta 
-origen	origi; fonta 
-orina	urina 
-orinar	urina 
-ornar	orna 
-oro	kriso 
-oscuro	no-foto 
-otra vez	itera; re 
-otro (=distinto)	difere; hetero 
-óvalo	ovali 
-oveja	ovis 
-oxidar	oxidi 
-padre	patri 
-padre o madre	parenta 
-paga	paga 
-pagar	paga 
-página	pagina 
-pago	paga 
-país	landa 
-paisaje	rura 
-pájaro	avi 
-pala	spata 
-palabra	verba 
-paleta	korina 
-palo	pali 
-pan	pani 
-paño	textili; -te 
-panorámica	vista; panorama 
-pantalón	poda-ve 
-pantano	paluda 
-pañuelo	nasa-te 
-papel	papira 
-paquete	paketa; kapsu 
-para (que)	tende; te 
-¿para que?	qo-te? 
-paralizado	paralisi 
-parar	sto 
-pardo	bruno 
-parecer	feno 
-parecido	homo; simi 
-pared	mura 
-parpadear	nikti 
-parra	viti 
-parte	mero; peci 
-parte trasera	dorsa 
-partido político	grega 
-pasado	pa 
-(el/ lo) pasado	pa-tem 
-)pasado:) ella estudió	fe pa stude 
-pasaje	pasa 
-pasar	acide 
-pasear	gresi; ambula 
-pasmar	stupe 
-pasmo	stupe 
-paso	gradu 
-pasta	pasta 
-pastel	plaka 
-pata	pedi 
-patio	korta; atri 
-patrón	modela 
-paz	paci; irene 
-pecho	pektora 
-pechuga	pektora 
-pedir	petitio 
-pedir prestado	tem-habe 
-pegar	hesi 
-pegarse	hesi 
-peinar	pektina 
-peine	pektina 
-pelear	milita 
-peligro	risko; perilo 
-peligroso	risko; perilo 
-pelo	kapila 
-pelota	bola; sferi 
-pena	pina; pluma 
-pendiente	klina 
-pensamiento	idea 
-pensar	kogita; pensi 
-peor	ma mali 
-pequeñísimo	mikro; nano 
-pequeño	pusi; mikro 
-pera (fruta)	pirus 
-perder	lose 
-perdonar	pardo 
-perfecto	perfekti 
-pericia	experto; tekno 
-perito	experto; tekno 
-permitir	lase; permito 
-pero (sino)	sed; anti-co 
-perro	kani 
-perseguir	casa 
-persona	persona; -pe 
-perspectiva	vista 
-pertenecer	pertena 
-pesado	gravi; bari 
-pésame	penite 
-pesar (peso)	ponde 
-pescado	piski 
-pese a eso	anti-co 
-pestaña	cilia 
-petición	petitio 
-(el) pez	piski 
-picar (=irritar)	punge 
-pico (=boca)	rostra 
-pico (=punta)	punkta 
-pie	pedi; funda 
-piedra	lito; -li; kalkula 
-piel	peli; derma 
-pierna	poda 
-pincel	brosa 
-pinchar	punge 
-pintar	pikto 
-pintura	pikto 
-pirámide	pirami 
-pista (indicación)	indika; simpto 
-pitar	sibila 
-pivote	artri 
-placer	place 
-dar placer	place 
-plan	skema 
-plancha	plaka 
-planeta	planet 
-planta	planta; fito 
-plata	argenti 
-plato	disko 
-playa	litora 
-plaza	forum 
-plegar	plika 
-plomo	plumba 
-pluma	pluma; pina 
-pobre	pove 
-(un) poco (de)	poko 
-poder	pote 
-poema	poesi 
-poesía	poesi 
-policía	polica 
-político	politika 
-pollo	galina 
-polo	pola 
-polvo	pulve; konio 
-polvoriento	pulve; konio 
-pompa	pompo 
-poner	gene; esce 
-poner en marcha	sti 
-poner fin	sto 
-ponerse	gene; esce 
-por (=a través de)	dia 
-por (medio de)	per 
-¿por qué?	qo-ka? 
-porcino	sui; porku 
-porción	mero; peci 
-porque	kausa 
-porra	korina 
-porvenir	fu-tem 
-poseer	habe; proprie 
-poste	kolumni; stele 
-práctica	praxi; experi 
-practicar	praxi 
-pradero	prate; agri 
-precio	preci 
-preguntar	qestio; roga 
-premio	premi 
-prender	prende; kapti 
-prensar	presa; baro 
-preparado	prepara 
-presenciar (testigo)	testi 
-prestar	tem-dona 
-primavera	blasto-tem 
-primero	prima; proto 
-prisa	rapidi; tako 
-(darse) prisa	vola; peti 
-darse prisa	vola; peti 
-(en) pro (de)	pro; favo 
-probable	probabili 
-probar (gustar)	gusta 
-problema	problema; misteri; enigma 
-proclamar	predika 
-procurar	tenta 
-producir	face; produce; krea; poeia 
-profundo	profunda; bato 
-programa	programa 
-prohibir	veto 
-prole	filia 
-promedio	medio; meso 
-prometer	promise; sponsa 
-promover	promoti 
-propagar	propaga; difusi 
-propiedad	proprie 
-propio	auto 
-proponer	proposi; sugesti 
-prosa	prosa 
-prosperar	vigo 
-proteger	alexi 
-protestar	protesta 
-provecho	profito; sucede 
-proyectil	misili 
-proyecto	skema 
-prudente	sofi 
-prueba	examina; testa 
-publicar	publika; nunci 
-púdico	modesti 
-pudrir	putri; sapro 
-pudrirse	putri; sapro 
-pueblo (=ciudad)	urba 
-pueblo (=gente)	popula; demo 
-puente	ponti 
-puerco	sui; porku 
-puerta	janu; porta 
-pulir	lustra 
-pulmón	pulmona; pneumi 
-pulsar	pulsa 
-puño	pugna 
-punta	kuspi 
-puntapies	pedi 
-dar puntapies	pedi 
-punto	punkta 
-puro	puri 
-púrpura	iodeo 
-(lo) que	qod 
-que ... (relativo)	qi ... 
-¿que?	qo? 
-quebrar	frakti; rupti 
-quedar	resta 
-quedarse	resta 
-queja	lamenta 
-quejar	lamenta 
-quejarse	protesta 
-querer	volu 
-querer decir	signifi; semani 
-queso	kasea 
-quien	qi 
-¿quien?	qo-pe? 
-quienes	qi 
-¿quienes?	qo-pe? 
-quienquiera	uno-pe 
--quiera	uno- 
-química	kemi 
-químico	kemi 
-quitar	nuli; sto; apo 
-quizás	posi 
-rabo	kauda 
-(la) radio	radio 
-raíz	radi; rizo 
-rama	rami 
-ramo	rami 
-ramo de flores	flori-fa 
-rango	klasi; ordina 
-ranura	krena 
-rapidez	rapidi; tako 
-rápido	rapidi; tako 
-rapto	trance 
-raro	rari 
-rascar	razo 
-rasgar	lacera; skizo 
-raspar	razo 
-rato	tem 
-ratón	mus 
-ratos de ocio	libe-tem 
-rayo	rai 
-raza humana	homi; antropo 
-razón (=privilegio)	privilegi 
-razón (=proporcion)	ratio 
-razonar	logika 
-razones	evide; basi 
-reaccionar	reakti 
-real	reali 
-rebaja	diskonto 
-rebaño	grega 
-recado	info 
-receta	formula 
-rechazar	no-volu; rejekti 
-recibir	cepti 
-recipiente	vasa; teka 
-recíprocamente	alelo 
-recompensar	kompensa 
-recordar	memo 
-recto	rekti; orto 
-red	reti 
-redondo	rondo 
-reducir	reduce; meiosi 
-reflexionar	reflekti 
-regalo	doro 
-regente	regi 
-region	regio 
-regir	kontrola; krati 
-registro	registra 
-regla	nomi; teori 
-regocijarse	jubila 
-rehusar	nega 
-reír	ridi 
-reja	kancela 
-rejilla	kancela 
-relación	stori 
-relacionado	kognati 
-relajar	relaxa 
-relajarse	relaxa 
-relámpago	fulge 
-relativo	relativi 
-relato	reporta; nara 
-religión	religio 
-rellenar	ple 
-relucir	splendi; lampa 
-remar	remi; kope 
-remo	remi; kope 
-reñir	disputa; polemi 
-reparar	repara 
-repartir	distribu 
-(de) repente	subito 
-repetición	itera; re 
-reportaje	reporta; nara 
-reproducir	reproduce 
-reproducirse	reproduce 
-residuo	residu 
-resistencia	resista 
-resorte	elasti 
-respirar	spira 
-responder	reakti 
-responsable	liabili 
-restante	residu 
-resultado	resulta; seqe 
-retirarse	cede 
-reto	defi 
-reventar	explode; erupti 
-reverencia	revere 
-(al) revés	kontra 
-revolución	revolutio 
-ría	golfo 
-rico	pluto; rico 
-rígido	rigi 
-riguroso	severi 
-riñón	rena; nefro 
-río	fluvi 
-risa	ridi 
-rito	ritu; ceremoni 
-rizo	ciru 
-robar	klepto 
-roca	petro 
-rociar	spre 
-rodar	rola; volve; kili 
-rodilla	genu 
-rogar	qestio 
-rojo	rubi 
-rollo	rola 
-romper	rupti; frakti 
-ropa	vesti; -ve 
-rosa (color)	rosa 
-rostro	facia 
-roto	ge-frakti 
-rucio	cinera 
-rueda	rota; ciklo 
-saber	ski; logi 
-sabio	sofi 
-sabor	flavoro 
-saco	saka 
-sacudida brusca	spasmo 
-sacudir	seiso 
-sádico	sadi; krueli 
-saeta	sagita 
-sal	sali 
-saltar	salta 
-salud	sani; higie 
-saludar	saluta 
-salvado	gluma 
-salvaje	agrio 
-salvo	excepti 
-sangre	hema 
-santo	sankti 
-seco	sika 
-secretaria	sekretari 
-secretario	sekretari 
-seguir	seqe; ki poste 
-según	akorda 
-segundo	sekunda 
-seguro	asilu; refugi; sekuri; imuni 
-lugar seguro	asilu 
-semejante	homo; simi 
-semi-	semi 
-semilla	sperma; semina 
-señal	signi; sema 
-señalar	indika 
-sencillo	elementa 
-sendos	singu 
-señor	senior 
-señora	seniora 
-sensible	sensitivi 
-sentarse	sedi 
-sentir	sensi; este 
-sentirlo	penite 
-separar	lisi 
-ser (=ente)	objekti; onto 
-ser (verbo)	es 
-serie	seri 
-serio	gravi 
-serrucho	dentili 
-servicios (WC)	kloseta 
-servir	servi 
-sesos	cerebra 
-seto	fragma 
-severo	severi 
-sexo	sexu 
-sexual	sexu 
-shock	trauma 
-sí (afirmativo)	ja! 
-si (condicional)	si; postula 
-siempre	panto-tem 
-siglo	hekto anua 
-significar	signifi; semani 
-signo	signi; sema 
-silbar	sibila 
-silencio	no-soni; silento 
-silencioso	no-soni; silento 
-silvestre	silva 
-simio	simia 
-simpático	dulce; gluko 
-simple	elementa 
-sin	minus 
-sin embargo	anti-co 
-sincero	honesti 
-sino	anti-co 
-sitio (=cabida)	spaci 
-sitio (=posición)	loka; -lo; topo 
-soberano	regi 
-sobrar	resta 
-sobre (=acerca de)	de 
-sobre (=encima)	epi; supra 
-sobresaliente	perfekti 
-social	sociali 
-sociedad	societa 
-sofocar	sufoka 
-sol	sola; heli 
-solamente	solo 
-solemne	solemni 
-sólido	solidi; stereo 
-sólo	solo 
-soltar	laxa 
-solución	solve 
-sombrero	kefa-ve 
-sonar	soni; fono 
-sonda	sonda 
-sonido	soni; fono 
-sonreír	sub-ridi 
-soplar	fla 
-soportar	tolera 
-sorpresa	surprise 
-sortija	zona; -zo 
-spray (aerosol)	spre 
-su(s) (=de ellos)	mu 
-suave	glabro 
-súbito	subito 
-sud	sud; austra 
-sudar	sudo 
-sudor	sudo 
-suelo	baso 
-(en el) suelo	baso; kame 
-sueño	somni; sopo 
-suerte	fortuna 
-buena suerte	boni-fortuna 
-suficiente	sati; sufici 
-sufrimiento	sufero; pato 
-sufrir	sufero; pato 
-sugerir	sugesti 
-sumar	suma; adi 
-sumergir	merge; diti 
-superficie	su-facia 
-suponer	expekta 
-suponiendo	postula 
-sur	sud; austra 
-surco	kanali 
-susceptible	sensitivi 
-suspender	pende 
-sustancia	materia 
-susto	trauma 
-sustraer	apo 
-susurrar	susura 
-tabla	taba 
-tablas (teatro)	proskeni 
-tablero	taba 
-tacón	kalki 
-tajada	lamina 
-(un) tal	u certa 
-taladro	fora-me 
-tallo	kauli 
-talón	kalki 
-tamaño	dimensio; metri 
-tambor	timpani 
-tamiz	kribri; filtra 
-tan(to) ... como	iso ... de 
-tanto(s)	ta; tanto 
-tapar	koveri 
-tapia	fragma 
-tarde	po-kron; tardi 
-(la) tarde	vespera 
-tardío	po-kron; tardi 
-tarea	kargo 
-tarjeta	karta 
-tasa	ratio 
-taza	tasa; kalici 
-te	tu 
-té	tea 
-techo	stego 
-tejado	stego 
-tejido (=tisú)	tisu; histo 
-tela	textili; -te 
-tema	tema 
-temer	fobo 
-temor	fobo 
-temprano	pre-kron; tosto 
-tener	tena 
-tener que	nece 
-tensión	tensio 
-tentar	sonda 
-teoría	teori; nomi 
-tercero	tertia 
-terminar	sto 
-terrible	deino 
-territorio	dominio 
-tertulia	festa 
-tesis	tema 
-testigo	testi-pe 
-ticket	tiketa; bileta 
-tiempo (=clima)	klima; meteo 
-tiempo (=hora/ vez)	tem; kron 
-tiempo (=rato)	duranto 
-tienda	boteka; -bo 
-tierra	baso 
-(la) tierra	tera; gaia 
-tieso	rigi 
-timbre (campana)	tini-ru 
-tipo (cuota)	ratio 
-tira (de papel)	papira 
-tirar de	trakto; tira 
-tiza	kreta; gipso 
-tobillo	tarsu 
-tocar	tange; toka 
-todo	holo; panto-ra 
-todos	panto; omni 
-tolerante	liberali 
-tolerar	tolera 
-tomar	prende 
-tono	toni 
-tonto	fatuo; stupidi 
-torcer	strepto 
-tormenta	tempestu 
-toro	an-bovi 
-torpe	fatuo; stupidi 
-trabajo	ergo; labori 
-traducir	translati 
-traje	vesti-fa 
-tranquilidad	qieti 
-trapo	textili; -te 
-trasero	dorsa 
-traslaparse	imbrika 
-traslúcido	luci 
-tratar (=curar)	medika; terapi 
-tratar (=negociar)	negoti 
-(a) través (de)	trans; dia 
-tren	trena 
-tripas	intestina; entero 
-triste	tristi; melankoli 
-tristeza	tristi; melankoli 
-trocar	kambio 
-tronar	bronto 
-trozo	peci; mero 
-truco (=aparato)	mekani; -me 
-truco (=trampa)	strategi 
-trueno	bronto 
-tu	tu 
-tú	tu 
-tubo	tubi 
-tumbado	jace; kumbe 
-estar tumbado	jace; kumbe 
-tumbarse	kade 
-túnel	tuneli 
-turno	ergo-tem 
-tus	tu 
-último	ultima 
-umbral	limina 
-un	u; un 
-una	u; un 
-uña	ungu 
-unidad	unita 
-unión	nexu; liga 
-unir	nexu; liga 
-universidad	universita 
-universo	universa; kosmo 
-uno	u; un 
-uno (alguien)	persona; -pe 
-unos	plura; oligo 
-usted	tu 
-a usted	tu 
-de usted	tu 
-ustedes	vi 
-a ustedes	vi 
-de ustedes	vi 
-usual	usuali; more 
-útero	uteri 
-útil	uti; funktio 
-(ser) útil	servi 
-utilizar	uti; emplea 
-vaca	fe-bovi 
-vacaciones	libe-tem; feria 
-vacilar	dubi; hesita 
-vacío	kavita 
-vagar	vaga 
-vagón	vagona 
-vaina	vagina 
-valle	vali 
-valor	valu 
-válvula	valva 
-vanidoso	aroga 
-vano	vani 
-vapor	vapo 
-vara	baci 
-variación	vari 
-vasija	vasa; kratera 
-vaso	vasa; -va 
-Vd.	tu 
-a Vd.	tu 
-de Vd.	tu 
-Vds.	vi 
-a Vds.	vi 
-de Vds.	vi 
-vejiga	kisti 
-vela (de barco)	veli 
-velo	vela 
-velocidad	tako; veloci 
-veloz	tako; veloci 
-vender	vendo 
-veneno	toxi 
-venganza	venge; retalia 
-vengarse	venge; retalia 
-venir	veni 
-ventaja	auxi; katalisi 
-ventana	fenestra 
-ver	vide 
-verano	termo-tem; estiva 
-verdad	veri 
-verdadero	veri 
-verde	kloro 
-verter	fusi 
-vertical	vertika; orto 
-vértice	gono 
-vestido	vesti; -ve 
-vestidos	vesti; -ve 
-vez	kron 
-(otra) vez	itera 
-(en) vez de	vice 
-viajar	viagia; itinera 
-vibrar	vibra; oscila 
-vicioso	mali; kako 
-víctima	viktimi 
-vid	viti 
-vida	vita; bio 
-vidrio	vitri 
-viejo	paleo 
-viento	venti 
-vigilar	alexi 
-vigor	force; dina 
-vino	vini 
-violar	viole 
-visible	vista 
-visitar	visita 
-víspera	vespera 
-vista	vista 
-vital	bio 
-viuda	fe-vidua 
-viudo	an-vidua 
-vivir (habitar)	eko 
-vivir (vida)	vive 
-vocal	voka 
-volar	vola; peti 
-volumen	volumi 
-volver	versi 
-volver a	itera 
-volverse	tropi 
-vosotros	vi 
-voz	voka 
-vueltas	gira; tropi 
-dar vueltas	torna; tropi; rota; gira 
-WC	kloseta 
-y	e; plus 
-yacer	jace; kumbe 
-yeso	kreta; gipso 
-yo	mi 
-zaga	poste 
-zaguán	atri 
-zancada	gradu 
-zanja	kanali 
-zapato	pedi-ve 
-zumo	suku 
-
-```
-
+**a** *a; ad* &emsp;
+**a ti** *tu* &emsp;
+**(hacia) abajo** *kata* &emsp;
+**abandonar** *linqi* &emsp;
+**abedul** *betula* &emsp;
+**abeja** *apis* &emsp;
+**-able** *(-)abili* &emsp;
+**abrazar** *amplexi* &emsp;
+**abrigo** *toga* &emsp;
+**abrir** *aperi* &emsp;
+**absoluto** *absoluti* &emsp;
+**abundar** *abunda* &emsp;
+**aburrir** *fatiga* &emsp;
+**acá** *ci* &emsp;
+**acabar de** *nu-pa* &emsp;
+**accionista** *rentiera* &emsp;
+**aceite** *olea* &emsp;
+**acelerar** *ma-tako; bali* &emsp;
+**acento** *toni* &emsp;
+**acerca de** *de* &emsp;
+**acero** *aciera* &emsp;
+**ácido** *akidi; akuto* &emsp;
+**aconsejar** *monito* &emsp;
+**acoplar** *kopula; koitus* &emsp;
+**acordarse** *memo* &emsp;
+**actitud** *atitudi* &emsp;
+**activo** *aktivi* &emsp;
+**actor** *drama-pe* &emsp;
+**actriz** *drama-fe* &emsp;
+**actual** *nu* &emsp;
+**actuar** *akti; praxi* &emsp;
+**(estar de) acuerdo** *akorda; harmoni* &emsp;
+**de acuerdo** *ja* &emsp;
+**acumular** *kumu* &emsp;
+**adaptar** *adapta* &emsp;
+**adecuado** *deko* &emsp;
+**adelante** *avanti* &emsp;
+**adherir** *hesi* &emsp;
+**adhesivo** *hesi* &emsp;
+**adición** *suma* &emsp;
+**adicionar** *adi* &emsp;
+**¡adiós!** *vale!* &emsp;
+**adivinar** *divina* &emsp;
+**admisible** *lice* &emsp;
+**adorar** *adora; latri* &emsp;
+**adornar** *orna* &emsp;
+**afectar** *influ* &emsp;
+**afilar** *akuto* &emsp;
+**agarrar** *rapi; kapti* &emsp;
+**agasajar** *hospita* &emsp;
+**agente** *agenti* &emsp;
+**agitar** *seiso; agita* &emsp;
+**agotar** *spende* &emsp;
+**agradable** *dulce; gluko* &emsp;
+**agravar** *ma mali* &emsp;
+**agrio** *akidi; akuto* &emsp;
+**agua** *aqa; hidro* &emsp;
+**aguardar** *atende* &emsp;
+**agudeza** *faceti* &emsp;
+**agudo** *akidi; akuto* &emsp;
+**aguja** *aku* &emsp;
+**agujero** *fora; poro* &emsp;
+**ahí** *la* &emsp;
+**ahogar** *sufoka* &emsp;
+**ahora** *nu* &emsp;
+**ahorrar** *salva* &emsp;
+**aire** *aero* &emsp;
+**aislar** *lisi* &emsp;
+**ajeno** *xeno* &emsp;
+**ajustar** *adapta* &emsp;
+**ala** *ala; ptero* &emsp;
+**alabar** *lauda* &emsp;
+**alba** *aurora; eo* &emsp;
+**albo** *leuko* &emsp;
+**alcanzar** *expande; extende* &emsp;
+**aldea** *viki* &emsp;
+**algo** *sub-* &emsp;
+**algo (=cosa)** *ali-ra* &emsp;
+**algodón** *kotona* &emsp;
+**alguien** *ali-pe* &emsp;
+**alguna** *u; un; ali* &emsp;
+**alguna parte** *ali-lo* &emsp;
+**algunas** *plura; oligo* &emsp;
+**alguno** *u; un; ali* &emsp;
+**algunos** *plura; oligo* &emsp;
+**aliento** *spira* &emsp;
+**alimentar** *sito* &emsp;
+**allá** *la* &emsp;
+**allí** *la* &emsp;
+**alma** *anima; spiritu; psiko* &emsp;
+**almacén** *stora* &emsp;
+**almacénar** *stora* &emsp;
+**almidón** *amila* &emsp;
+**almohada** *pulvina; kosina* &emsp;
+**alojar** *hospita* &emsp;
+**alquilar** *tem-uti* &emsp;
+**alquiler** *eko-preci* &emsp;
+**alrededor de** *cirka; peri* &emsp;
+**alternar** *alterna* &emsp;
+**altitud** *alti* &emsp;
+**alto** *alti* &emsp;
+**alubia** *faba* &emsp;
+**alumbrar** *lumi; foto* &emsp;
+**alzar** *leva* &emsp;
+**amar** *amo; filo* &emsp;
+**amargo** *pikro* &emsp;
+**amarillo** *xanto* &emsp;
+**ambiente** *peri-lo; ambienta* &emsp;
+**amigo** *ami* &emsp;
+**amor** *amo; filo* &emsp;
+**amplio** *lati; plati* &emsp;
+**ampolla** *kisti; fisa* &emsp;
+**añadir** *adi* &emsp;
+**anaquel** *pla* &emsp;
+**ancho** *lati; plati* &emsp;
+**andamio** *proskeni* &emsp;
+**andar** *gresi; ambula* &emsp;
+**ángulo** *gono* &emsp;
+**anillo** *zona; -zo* &emsp;
+**animal** *animala; zoa* &emsp;
+**ánimo** *anima; spiritu; psiko* &emsp;
+**año** *anua* &emsp;
+**ansioso** *anxio; nervoso* &emsp;
+**antepasado** *parenta* &emsp;
+**antes (de)** *ante; pre* &emsp;
+**antiguo** *paleo* &emsp;
+**anual** *anua* &emsp;
+**anudar** *liga* &emsp;
+**anunciar** *nunci; publika* &emsp;
+**aparato** *mekani; -me* &emsp;
+**aparecer** *apare* &emsp;
+**apariencia** *aspekto* &emsp;
+**apetito** *apeti; libido* &emsp;
+**apostar** *divi* &emsp;
+**aprender** *gene sko; diski* &emsp;
+**apretar** *presa; baro; piezo* &emsp;
+**apuntar** *registra* &emsp;
+**aquello** *u-la* &emsp;
+**aquellos** *plu-la* &emsp;
+**aquí** *ci* &emsp;
+**arado** *ara* &emsp;
+**arar** *ara* &emsp;
+**árbol** *dendro* &emsp;
+**arcilla** *kerami* &emsp;
+**arco** *arca; arka* &emsp;
+**arco íris** *iridi* &emsp;
+**arder** *kandi* &emsp;
+**área** *area* &emsp;
+**arena** *arena; sili* &emsp;
+**argüir** *disputa; diskusi* &emsp;
+**árido** *sika* &emsp;
+**arma** *arma* &emsp;
+**armonizar** *akorda; harmoni* &emsp;
+**aroma** *odoro; aroma* &emsp;
+**arreglar** *ordina; klasi; taxo* &emsp;
+**arrendar** *koncesi* &emsp;
+**(hacia) arriba** *ana; a-supra* &emsp;
+**arrogante** *aroga; vani* &emsp;
+**artículo** *artikla* &emsp;
+**asegurar** *insura* &emsp;
+**asentir (con cabeza)** *nuta* &emsp;
+**asiento (silla)** *benca* &emsp;
+**asomarse** *emerge; surge* &emsp;
+**asombrar** *stupe; mira* &emsp;
+**aspa** *veli* &emsp;
+**aspecto** *spekta; skope* &emsp;
+**áspero** *asperi; rugo* &emsp;
+**astucia** *strategi* &emsp;
+**asunto** *tema* &emsp;
+**atacar** *viole* &emsp;
+**atar** *liga* &emsp;
+**atmósfera** *aero* &emsp;
+**(hacia) atrás** *retro* &emsp;
+**hacia atrás** *retro* &emsp;
+**auge** *akro; sumita* &emsp;
+**aula** *atri* &emsp;
+**aullar** *ulula; mugi* &emsp;
+**automático** *automati* &emsp;
+**avanzar** *avanti* &emsp;
+**ave (pájaro)** *avi* &emsp;
+**aventura** *aventura* &emsp;
+**avergonzarse** *este etio* &emsp;
+**aversión** *odio; miso* &emsp;
+**ávido** *avari* &emsp;
+**avisar** *monito* &emsp;
+**ayudar** *auxi* &emsp;
+**azada** *spata* &emsp;
+**azul** *ciano* &emsp;
+**bahía** *baia* &emsp;
+**bailar** *kore* &emsp;
+**bajo** *baso; kame* &emsp;
+**balanza** *libra* &emsp;
+**bañarse** *lava* &emsp;
+**banco (asiento)** *benca* &emsp;
+**banco (dinero)** *banka* &emsp;
+**bandera** *insigni* &emsp;
+**barato** *mikro-preci* &emsp;
+**barca** *navi* &emsp;
+**barco** *navi* &emsp;
+**barra (cilindro)** *baci* &emsp;
+**barra (mostrador)** *mensa* &emsp;
+**barro** *kerami* &emsp;
+**base (fondo, pie)** *funda* &emsp;
+**base (razones)** *evide; basi* &emsp;
+**basta** *sati; sufici* &emsp;
+**bastante** *sati; sufici* &emsp;
+**basto** *asperi; rugo* &emsp;
+**basura** *rude* &emsp;
+**baya** *koku; baka* &emsp;
+**beber** *bibe* &emsp;
+**bello** *dekora; kali* &emsp;
+**bellota** *glandi* &emsp;
+**besar** *oskula* &emsp;
+**beso** *oskula* &emsp;
+**bien** *boni; bene; eu* &emsp;
+**bifurcarse** *furka* &emsp;
+**billete** *bileta; tiketa* &emsp;
+**biombo** *skuta* &emsp;
+**bisagra** *kardina* &emsp;
+**blanco** *leuko* &emsp;
+**blando** *moli* &emsp;
+**blanquear** *leuko* &emsp;
+**bloque** *plaka* &emsp;
+**boca** *ora; stoma* &emsp;
+**bodega** *boteka; -bo* &emsp;
+**bola** *bola; sferi* &emsp;
+**bolígrafo** *stilo* &emsp;
+**bolsa** *saka* &emsp;
+**bolsillo** *marsu* &emsp;
+**bolso** *saka* &emsp;
+**bombilla** *bulbo* &emsp;
+**borde** *margina* &emsp;
+**borracho** *narko* &emsp;
+**bosque** *silva* &emsp;
+**bostezar** *hiao; kasmo* &emsp;
+**botánica** *botanika; fitologi* &emsp;
+**botella** *botilia* &emsp;
+**botón** *butona* &emsp;
+**brazo** *braki* &emsp;
+**breva** *fikus* &emsp;
+**breve** *brevi* &emsp;
+**brillar** *splendi; radia* &emsp;
+**brillo** *lustra* &emsp;
+**dar brillo** *lustra* &emsp;
+**brocha** *brosa* &emsp;
+**brote** *gema; blasto* &emsp;
+**brújula** *boreo-me* &emsp;
+**bruma** *nebu* &emsp;
+**bucle** *ciru* &emsp;
+**bueno** *boni; bene; eu* &emsp;
+**buey** *bovi; bu* &emsp;
+**bulbo** *bulbo* &emsp;
+**bullir** *buli* &emsp;
+**buque** *navi; nau* &emsp;
+**burro** *asinus* &emsp;
+**buscar** *cerka* &emsp;
+**caballo** *equs* &emsp;
+**cabello** *kapila* &emsp;
+**cabeza** *kefa* &emsp;
+**cada** *singu* &emsp;
+**cada uno** *panto; omni* &emsp;
+**cadena** *katena* &emsp;
+**cadera** *koxa* &emsp;
+**caer** *kade* &emsp;
+**caerse** *kade* &emsp;
+**café** *kafa* &emsp;
+**caja (dinero)** *kasa* &emsp;
+**caja (recipiente)** *teka* &emsp;
+**cala** *baia* &emsp;
+**calentar** *termo; kalori* &emsp;
+**calidad** *qalita* &emsp;
+**callarse** *taci* &emsp;
+**calle** *via; strata* &emsp;
+**calor** *termo; kalori* &emsp;
+**calza** *kune* &emsp;
+**cama** *kli* &emsp;
+**cambiar (modificar)** *muta* &emsp;
+**cambiar (trocar)** *kambio* &emsp;
+**caminar** *gresi; ambula; vaga* &emsp;
+**camino** *via; strata* &emsp;
+**camisa** *supra-tunika* &emsp;
+**campamento** *kampu* &emsp;
+**campana** *tini-ru* &emsp;
+**campaña** *kampania* &emsp;
+**campo (no-ciudad)** *rura; agri* &emsp;
+**campo (propiedad)** *dominio* &emsp;
+**canal** *kanali* &emsp;
+**canción** *kanta; melodi* &emsp;
+**cañería** *tubi* &emsp;
+**cansar** *fatiga* &emsp;
+**cantar** *kanta; melodi* &emsp;
+**cantidad** *qantita* &emsp;
+**capa** *toga* &emsp;
+**capacidad** *volumi* &emsp;
+**capaz (de)** *pote* &emsp;
+**(el) capital** *kapitali* &emsp;
+**(la) capital** *kapitala* &emsp;
+**capítulo** *kapitula* &emsp;
+**capucha** *kapota* &emsp;
+**capullo** *gema; blasto* &emsp;
+**cara** *facia* &emsp;
+**carbón (leña)** *karbo* &emsp;
+**cárcel** *karcera* &emsp;
+**carga** *kargo* &emsp;
+**cariño** *amo; filo* &emsp;
+**carne** *karni* &emsp;
+**caro (costoso)** *mega-preci* &emsp;
+**(de) carreras** *kursi; dromo* &emsp;
+**carretera** *via; strata* &emsp;
+**carta** *grama* &emsp;
+**cartón** *kartona* &emsp;
+**cartulina** *kartona* &emsp;
+**casa** *domi; -do* &emsp;
+**casar** *game* &emsp;
+**casarse** *game* &emsp;
+**cáscara** *ostraka* &emsp;
+**casco** *ungu; oniko* &emsp;
+**casilla** *qadra; tetra-gono* &emsp;
+**en caso de que** *kaso* &emsp;
+**castaño (color)** *bruno; faeo* &emsp;
+**castigar** *puni; korekti* &emsp;
+**casto** *morali* &emsp;
+**catálogo** *lista; kataloga* &emsp;
+**causar** *sti* &emsp;
+**caverna** *kaverno* &emsp;
+**cazar** *casa* &emsp;
+**ceder** *cede* &emsp;
+**ceja** *supra-cilia* &emsp;
+**celebrar** *celebra* &emsp;
+**célebre** *famo* &emsp;
+**celo** *zelo* &emsp;
+**celos** *kako-zelo* &emsp;
+**célula** *celu; kito* &emsp;
+**cemento** *cementa* &emsp;
+**céntrico** *centra; meso* &emsp;
+**cera** *ceru* &emsp;
+**cerca (tapia)** *fragma* &emsp;
+**cerca de** *proxi* &emsp;
+**cerdo** *sui; porku* &emsp;
+**cereal** *cereali* &emsp;
+**cerebro** *cerebra* &emsp;
+**ceremonia** *ceremoni; ritu* &emsp;
+**cero** *nuli; zero; -ze* &emsp;
+**cerrado** *ge-klude* &emsp;
+**cerrar** *klude* &emsp;
+**certificar** *certifi* &emsp;
+**césped** *gra* &emsp;
+**charca** *stagna* &emsp;
+**charlar** *garulo* &emsp;
+**chico** *pusi* &emsp;
+**(micro) chip** *mika* &emsp;
+**chiquitito** *mikro; nano* &emsp;
+**chocolate** *cokolata* &emsp;
+**chupar** *sugo* &emsp;
+**ciclo** *ciklo* &emsp;
+**ciego** *ceko* &emsp;
+**cielo** *urani* &emsp;
+**ciencia** *skience* &emsp;
+**cieno** *muci* &emsp;
+**cierto (seguro)** *sura* &emsp;
+**cierto (un tal)** *u certa* &emsp;
+**ciervo** *cervus* &emsp;
+**cifra** *numera* &emsp;
+**cima** *kresta* &emsp;
+**circunferencia** *zona* &emsp;
+**ciudad** *civita; urba* &emsp;
+**ciudadano** *civi* &emsp;
+**claro (no oscuro)** *klari; luci* &emsp;
+**claro (obvio)** *klari* &emsp;
+**clase** *klasi; speci* &emsp;
+**clasificar** *klasi; ordina* &emsp;
+**clave** *klavi* &emsp;
+**clavo** *aku* &emsp;
+**clima** *klima; meteo* &emsp;
+**cobre (metal)** *kupra* &emsp;
+**cocina** *kuko-ka* &emsp;
+**cocinar** *kuko* &emsp;
+**codicioso** *avari* &emsp;
+**coger** *kapti; rapi* &emsp;
+**cohete** *raketa* &emsp;
+**cojín** *pulvina; kosina* &emsp;
+**cola (rabo)** *kauda* &emsp;
+**coleccionar** *kolekti* &emsp;
+**colegio** *kolegi* &emsp;
+**cólera** *furi; koleri* &emsp;
+**colgar** *pende* &emsp;
+**color** *kolora; kroma* &emsp;
+**columna** *kolumni; stele* &emsp;
+**columpiar** *oscila; vibra* &emsp;
+**combinar** *kombina* &emsp;
+**comenzar** *komence; proto* &emsp;
+**comer** *vora; fago* &emsp;
+**(dar de) comer** *nutri* &emsp;
+**dar de comer a** *nutri* &emsp;
+**comercio** *komerci* &emsp;
+**cómico** *komika* &emsp;
+**comida** *sito* &emsp;
+**comité** *komiti* &emsp;
+**como** *komo* &emsp;
+**¿como?** *komo?; qo-mode?* &emsp;
+**compañía** *kompani* &emsp;
+**comparar** *kompara* &emsp;
+**compasión** *simpati* &emsp;
+**compensar** *kompensa* &emsp;
+**competir** *kompeti* &emsp;
+**complejo** *komplexi* &emsp;
+**complicado** *komplika* &emsp;
+**componer** *komposi* &emsp;
+**comprar** *merka* &emsp;
+**comprender** *logi* &emsp;
+**comprobar** *verifi* &emsp;
+**comprometer** *kompromise* &emsp;
+**comprometerse** *promise; sponsa* &emsp;
+**(en) común** *komuni* &emsp;
+**comunicar** *komunika* &emsp;
+**con** *ko; plus* &emsp;
+**cóncavo** *konkavo* &emsp;
+**concha** *ostraka* &emsp;
+**condición** *stato; fisio* &emsp;
+**(a) condición** *konditio* &emsp;
+**condiciónes** *stato; fisio* &emsp;
+**conducir** *duce; ago* &emsp;
+**conectar** *nexu* &emsp;
+**conexión** *nexu; relati; reti* &emsp;
+**confesar** *konfesi* &emsp;
+**confiar** *fide; kredi* &emsp;
+**conformar** *konformi* &emsp;
+**conformarse** *konformi* &emsp;
+**confundir** *konfusi; perplexi* &emsp;
+**congelar** *geli* &emsp;
+**conjunto** *faski; -fa* &emsp;
+**conmover** *excite; vibra* &emsp;
+**cono** *koni* &emsp;
+**conocer** *ski* &emsp;
+**consciente** *konski; sensi; este* &emsp;
+**consejo** *koncili* &emsp;
+**considerar** *ponde; konsidera* &emsp;
+**consolar** *konsola* &emsp;
+**constante** *dura* &emsp;
+**construcción** *fabrika; konstrukti* &emsp;
+**construir** *face; stru; tekto* &emsp;
+**consumir** *konsume* &emsp;
+**contacto** *takto* &emsp;
+**contar** *numera* &emsp;
+**contar con** *expekta* &emsp;
+**contemporáneo** *iso-tem* &emsp;
+**contento** *kontento; felici; hedo* &emsp;
+**contexto** *kontextu* &emsp;
+**continente** *kontinenta* &emsp;
+**continuar** *kontinu; dura* &emsp;
+**continuo** *kontinu; dura* &emsp;
+**contra** *kontra* &emsp;
+**contrario** *kontra* &emsp;
+**convenir** *gru* &emsp;
+**convexo** *konvexi* &emsp;
+**copiar** *kopi* &emsp;
+**copo** *floka* &emsp;
+**corazón** *kardia* &emsp;
+**corcho** *korka* &emsp;
+**corona** *korona* &emsp;
+**corral** *korta; atri* &emsp;
+**correo** *posta* &emsp;
+**correos** *posta* &emsp;
+**corriente** *flu* &emsp;
+**corroer** *oxidi* &emsp;
+**corromper** *korupti* &emsp;
+**cortar** *seka* &emsp;
+**corte (estilo)** *forma; morfo* &emsp;
+**cortés** *civili* &emsp;
+**corteza** *kortika* &emsp;
+**corto** *brevi* &emsp;
+**cosa** *(-)ra* &emsp;
+**cosechar** *karpe* &emsp;
+**coser** *sue* &emsp;
+**cosquillear** *titila* &emsp;
+**costa** *kosta* &emsp;
+**costado** *latu* &emsp;
+**costilla** *kosta* &emsp;
+**costoso** *mega-preci* &emsp;
+**costumbre** *habitu; more* &emsp;
+**costura** *sue* &emsp;
+**cráneo** *krania* &emsp;
+**crear** *krea; poeia* &emsp;
+**crecer** *kresce* &emsp;
+**crédito** *kredito* &emsp;
+**creer** *kredi* &emsp;
+**cresta** *kresta* &emsp;
+**creta** *kreta; gipso* &emsp;
+**cría** *fili* &emsp;
+**criar** *kulti* &emsp;
+**criba** *kribri; filtra* &emsp;
+**cribar** *kribri; filtra* &emsp;
+**crisis** *krisi* &emsp;
+**cristal** *vitri* &emsp;
+**criticar** *judika; kritici* &emsp;
+**crítico** *krisi* &emsp;
+**cruce** *kruci* &emsp;
+**cruel** *sadi; krueli* &emsp;
+**cruz** *kruci* &emsp;
+**cruzar** *kruci* &emsp;
+**cuadrado** *qadra; tetra-gono* &emsp;
+**(el) cual** *qod* &emsp;
+**cualidad** *qalita* &emsp;
+**cualquiera** *ali* &emsp;
+**¿cuándo?** *qo-di?; qo-horo?; qo-tem?* &emsp;
+**¿cuánto?** *qanto?* &emsp;
+**¿cuántos?** *qanto?* &emsp;
+**cuarto** *kamera; -ka* &emsp;
+**cúbico** *kubi* &emsp;
+**cubierta** *tegu* &emsp;
+**cubo** *kubi* &emsp;
+**cubrir** *tegu* &emsp;
+**cuchara** *spatula* &emsp;
+**cuchichear** *susura* &emsp;
+**cuchillo** *kultela; blada* &emsp;
+**cuenta (banco)** *konto* &emsp;
+**cuerno** *kornu; kerati* &emsp;
+**cuerpo** *korpu; soma* &emsp;
+**cuesta (pendiente)** *klina* &emsp;
+**cueva** *kaverno* &emsp;
+**cuidado** *kura* &emsp;
+**cuidadoso** *kura* &emsp;
+**culo** *dorsa* &emsp;
+**culpar** *etio; kulpa* &emsp;
+**cultivar** *kulti* &emsp;
+**cultura** *kultura* &emsp;
+**cumbre** *kresta* &emsp;
+**cumplir** *kompli* &emsp;
+**cuña** *kune* &emsp;
+**curar** *repara; terapi* &emsp;
+**cursi** *krudi* &emsp;
+**curva** *kurva; flexi* &emsp;
+**cutis** *peli; derma* &emsp;
+**daga** *kultela; blada* &emsp;
+**dañar** *noku; puni* &emsp;
+**danzar** *kore* &emsp;
+**dar** *dona* &emsp;
+**dar brillo** *lustra* &emsp;
+**dar de comer a** *nutri* &emsp;
+**dar placer** *place* &emsp;
+**dar vueltas** *torna; rota; gira* &emsp;
+**darse prisa** *vola; peti* &emsp;
+**datos** *data; info* &emsp;
+**de** *de; ab* &emsp;
+**de acuerdo** *ja* &emsp;
+**de él** *an* &emsp;
+**de prisa** *rapidi; veloci; tako* &emsp;
+**debajo (de)** *infra* &emsp;
+**debatir** *debati* &emsp;
+**deber** *debi; nece* &emsp;
+**debido a** *a kausa de* &emsp;
+**débil** *debili* &emsp;
+**decaer** *putri; sapro* &emsp;
+**decente** *deko* &emsp;
+**decidir** *decide; judika* &emsp;
+**decir** *dice; loqi* &emsp;
+**(querer) decir** *signifi; semani* &emsp;
+**dedo** *digi* &emsp;
+**defecto** *defekti* &emsp;
+**defender** *alexi* &emsp;
+**dejar** *linqi* &emsp;
+**dejo** *trace; vestigia* &emsp;
+**delante** *ante* &emsp;
+**(parte) delantera** *fronta* &emsp;
+**delgado** *gracili; lepto* &emsp;
+**demasiado** *excesi* &emsp;
+**demora** *tardi* &emsp;
+**demorar** *tardi* &emsp;
+**demostrar** *proba; demonstra* &emsp;
+**denso** *densi* &emsp;
+**dentro** *intra* &emsp;
+**dentro de** *in* &emsp;
+**deporte** *sporta; ludi* &emsp;
+**(a mano) derecha** *dextro* &emsp;
+**derecho (ley)** *nomi* &emsp;
+**derecho (recto)** *rekti* &emsp;
+**derecho (ventaja)** *privilegi* &emsp;
+**derecho (vertical)** *vertika; orto* &emsp;
+**derrota** *vikto* &emsp;
+**desafiar** *defi* &emsp;
+**desaparecer** *lose vista* &emsp;
+**desarrollar** *developo; evolve* &emsp;
+**descomponer** *dekomposi* &emsp;
+**describir** *deskribe* &emsp;
+**descuento** *diskonto* &emsp;
+**desde** *ex; ab* &emsp;
+**desear** *volu; desira* &emsp;
+**desempeñar** *drama* &emsp;
+**deseo** *apeti; libido* &emsp;
+**deshacer** *no-face; destru* &emsp;
+**deshonra** *pude* &emsp;
+**desierto** *deserta* &emsp;
+**desilusionar** *frustra* &emsp;
+**deslizar** *lapso; glisa* &emsp;
+**desnudo** *nudi; gimno* &emsp;
+**despacho** *buro; ofice* &emsp;
+**despacio** *lento* &emsp;
+**despertado** *vigi* &emsp;
+**destacarse** *projekti* &emsp;
+**destruir** *no-face; destru* &emsp;
+**detener** *aresta* &emsp;
+**detrás (de)** *poste* &emsp;
+**deuda** *debito* &emsp;
+**devorar** *vora; fago* &emsp;
+**día** *di* &emsp;
+**día festivo** *festa* &emsp;
+**dibujar** *designa; grafo* &emsp;
+**(lo) dicho** *-co* &emsp;
+**diente** *denti* &emsp;
+**diez** *deka* &emsp;
+**difundir** *difusi* &emsp;
+**digerir** *pepsi* &emsp;
+**diluir** *diluti* &emsp;
+**dinero** *valuta* &emsp;
+**dios** *deo; teo* &emsp;
+**dirección** *direkti* &emsp;
+**dirigir** *direkti* &emsp;
+**disco** *disko* &emsp;
+**discutir** *diskusi* &emsp;
+**disfrutar** *fru* &emsp;
+**disgusto** *pude* &emsp;
+**disminuir** *mei; meiosi* &emsp;
+**disolución** *solve* &emsp;
+**disparar** *fusili* &emsp;
+**disputar** *disputa; polemi* &emsp;
+**distancia** *inter-vali; tele* &emsp;
+**distante** *dista; tele* &emsp;
+**distinto** *difere; hetero* &emsp;
+**disuadir** *monito anti* &emsp;
+**divertir** *amusa* &emsp;
+**dividir** *divide* &emsp;
+**dividir en dos** *bi sekti* &emsp;
+**división** *fisi; skizo* &emsp;
+**divorcio** *divorci* &emsp;
+**doblar** *kurva; flexi* &emsp;
+**doble** *diplo* &emsp;
+**doler** *algo* &emsp;
+**dolor** *algo* &emsp;
+**dominar** *domina* &emsp;
+**dominio** *dominio* &emsp;
+**¿dónde?** *qo-lo?* &emsp;
+**dondequiera** *uno-lo* &emsp;
+**dorado** *kriso* &emsp;
+**dormir** *somni; sopo* &emsp;
+**dudar** *hesita; dubi* &emsp;
+**dulce** *dulce; sukro; gluko* &emsp;
+**duradero** *dura* &emsp;
+**durante** *duranto; tem* &emsp;
+**durar** *dura* &emsp;
+**duro** *sklero* &emsp;
+**e (=y)** *e; plus* &emsp;
+**ebrio** *narko* &emsp;
+**echar a (con verbo)** *proto; komence* &emsp;
+**edad** *eva* &emsp;
+**edificio** *domi; -do* &emsp;
+**educar** *eduka* &emsp;
+**efecto** *efekti; seqe* &emsp;
+**egoísta** *egoisti* &emsp;
+**eje** *axi* &emsp;
+**ejemplar** *exempla* &emsp;
+**ejemplo** *exempla* &emsp;
+**ejercicio** *exercise* &emsp;
+**el** *u; un* &emsp;
+**(de) él** *an* &emsp;
+**él o ella** *persona* &emsp;
+**elástico** *elasti* &emsp;
+**eléctrico** *elektri* &emsp;
+**elegir** *elekti* &emsp;
+**elemento** *faktora* &emsp;
+**elevado** *alti* &emsp;
+**eliminar** *nuli; elimina* &emsp;
+**ella** *fe* &emsp;
+**ellas** *mu* &emsp;
+**ello** *id* &emsp;
+**ellos** *mu* &emsp;
+**emblema** *insigni* &emsp;
+**embuste** *falsi* &emsp;
+**emoción** *emotio* &emsp;
+**empezar** *komence; proto* &emsp;
+**emplear** *emplea* &emsp;
+**emprender** *enterprise* &emsp;
+**empujar** *pulsa* &emsp;
+**en (dentro)** *in; eso* &emsp;
+**en (sobre)** *epi* &emsp;
+**encaje** *glena* &emsp;
+**encantar** *fascina; magika* &emsp;
+**encanto** *fascina; magika* &emsp;
+**encender** *igni; piro* &emsp;
+**encender (=iniciar)** *sti* &emsp;
+**encerrar** *inklude* &emsp;
+**encima** *supra; epi* &emsp;
+**encontrar** *enkontra* &emsp;
+**enemigo** *non-ami* &emsp;
+**energía** *energi* &emsp;
+**enfermedad** *mali; pato* &emsp;
+**engañar** *falsi* &emsp;
+**engaño** *falsi* &emsp;
+**engrase** *lubrika; ole* &emsp;
+**enlazar** *kopula; koitus* &emsp;
+**enojo** *furi; koleri* &emsp;
+**enroscar** *strepto* &emsp;
+**enseñanza** *sko* &emsp;
+**enseñar** *eduka; dona sko* &emsp;
+**entender** *logi* &emsp;
+**entero** *toto; holo* &emsp;
+**enterrar** *in-tera* &emsp;
+**entre** *inter* &emsp;
+**entremeterse** *intrude* &emsp;
+**entrenar** *trena* &emsp;
+**entusiasmo** *zelo; entusi* &emsp;
+**envase** *teka* &emsp;
+**enviar** *mite; bali* &emsp;
+**envidia** *invidio; kako-zelo* &emsp;
+**envidiar** *invidio; kako-zelo* &emsp;
+**envolver** *involve* &emsp;
+**enzima** *enzima* &emsp;
+**época** *eva* &emsp;
+**equilibrio** *eqilibra* &emsp;
+**equivocado** *ero; mis-* &emsp;
+**erizado** *seta* &emsp;
+**errar (error)** *ero* &emsp;
+**errar (vagar)** *vaga* &emsp;
+**error** *ero; mis-* &emsp;
+**esbelto** *gracili; lepto* &emsp;
+**escalera** *skala* &emsp;
+**escama** *floka; sqama; lepido* &emsp;
+**escamar** *floka; sqama; lepido* &emsp;
+**escapar** *fugi* &emsp;
+**escarcha** *krista* &emsp;
+**escarchar** *krista* &emsp;
+**esclavo** *dulo* &emsp;
+**escoger** *elekti* &emsp;
+**escombros** *rude* &emsp;
+**esconder** *kripti* &emsp;
+**escribir** *skribe; grafo* &emsp;
+**escuchar** *audi; akusti* &emsp;
+**escudo** *skuta* &emsp;
+**escudriñar** *skana* &emsp;
+**escuela** *sko-do* &emsp;
+**escultura** *skulptu* &emsp;
+**esfera (reloj)** *diali* &emsp;
+**esforzarse** *lukta* &emsp;
+**eso** *u-la* &emsp;
+**esos** *plu-la* &emsp;
+**espacio** *spaci* &emsp;
+**espalda** *dorsa* &emsp;
+**espanto** *deino* &emsp;
+**espantoso** *deino* &emsp;
+**esparcir** *spora* &emsp;
+**especia** *flavoro-ma* &emsp;
+**especie** *speci* &emsp;
+**espejo** *spekula* &emsp;
+**esperanza** *spe* &emsp;
+**tener esperanza** *spe* &emsp;
+**esperar** *atende* &emsp;
+**espeso** *densi; paki* &emsp;
+**espía** *espio; oti* &emsp;
+**espiar** *espio; oti* &emsp;
+**espina** *spina; akanta* &emsp;
+**espiral** *helika* &emsp;
+**espíritu** *spiritu; psiko* &emsp;
+**espuma** *spuma* &emsp;
+**esqueleto** *skeleto* &emsp;
+**estabilidad** *stabili* &emsp;
+**establecerse** *establi* &emsp;
+**estaca** *pali* &emsp;
+**estación** *statio* &emsp;
+**estaciónarse** *statio* &emsp;
+**estadística** *statistika* &emsp;
+**estado** *stato; fisio* &emsp;
+**estallar** *erupti; explode* &emsp;
+**estaño** *stani* &emsp;
+**estante** *pla* &emsp;
+**estar** *es* &emsp;
+**estar (de pie)** *sta* &emsp;
+**estar para** *nu-fu; prepara* &emsp;
+**este (oriente)** *est; orienta* &emsp;
+**estío** *estiva; termo-tem* &emsp;
+**estirar** *tensio* &emsp;
+**esto** *u-ci* &emsp;
+**estómago** *gastro* &emsp;
+**estos** *plu-ci* &emsp;
+**estrecho** *steno* &emsp;
+**estrella** *astro* &emsp;
+**estricto** *exakti; precise* &emsp;
+**estructura** *struktura* &emsp;
+**estudiar** *diski; stude* &emsp;
+**estufa** *furna* &emsp;
+**estúpido** *stupidi* &emsp;
+**ético** *morali* &emsp;
+**evidencia** *evide; basi* &emsp;
+**exacto** *exakti; precise* &emsp;
+**examen** *examina* &emsp;
+**excitar** *excite* &emsp;
+**excretar** *exkreti* &emsp;
+**exigir** *demanda* &emsp;
+**existencia** *existe* &emsp;
+**éxito** *profito; sucede* &emsp;
+**exótico** *rari; exotika* &emsp;
+**experimento** *experimenta* &emsp;
+**experto (adjetivo)** *arti; tekno* &emsp;
+**experto (sustantivo)** *arti-pe* &emsp;
+**éxtasis** *trance* &emsp;
+**extenso** *lati; plati* &emsp;
+**exterior** *extra* &emsp;
+**extranjero** *extra-landa* &emsp;
+**en el extranjero** *extra-landa* &emsp;
+**extraño** *xeno* &emsp;
+**fabricar** *produce* &emsp;
+**fácil** *facili* &emsp;
+**factor** *faktora* &emsp;
+**falda** *infra tunika* &emsp;
+**falso** *falsi; pseudo* &emsp;
+**falta** *defekti* &emsp;
+**faltar** *defekti* &emsp;
+**fama** *famo* &emsp;
+**familia** *famili* &emsp;
+**familiar** *famili* &emsp;
+**fango** *limo* &emsp;
+**favor** *favo* &emsp;
+**a favor de** *pro; favo* &emsp;
+**faz** *facia* &emsp;
+**fécula** *amila* &emsp;
+**felicitar** *gratula* &emsp;
+**feliz** *felici; hedo* &emsp;
+**feo** *no-kali* &emsp;
+**ferrocarril** *feru-via* &emsp;
+**fértil** *fertili* &emsp;
+**fértilizar** *fertili* &emsp;
+**festivo** *festa* &emsp;
+**día festivo** *festa* &emsp;
+**fibra** *fi* &emsp;
+**fiesta** *festa* &emsp;
+**fijar** *fixa* &emsp;
+**fila** *line* &emsp;
+**fin** *fini; sto* &emsp;
+**poner fin a** *sto* &emsp;
+**final** *ultima* &emsp;
+**finalidad (fin)** *fini* &emsp;
+**finalidad (propósito)** *buta; tende* &emsp;
+**física** *fisika* &emsp;
+**físico** *fisika* &emsp;
+**fláccido** *flaci* &emsp;
+**flecha** *sagita* &emsp;
+**flexible** *flexi* &emsp;
+**flojo** *debili* &emsp;
+**flor** *flori; anto* &emsp;
+**flotar** *flo; plankto* &emsp;
+**fluido** *fluidi* &emsp;
+**fluir** *flu* &emsp;
+**flujo** *flu* &emsp;
+**fondo** *funda* &emsp;
+**forma** *forma; morfo* &emsp;
+**formar** *fikti; plasti* &emsp;
+**fortuna** *fortuna* &emsp;
+**fosa** *glena* &emsp;
+**foso** *fosi* &emsp;
+**fracasar** *fali* &emsp;
+**franja** *fimbri* &emsp;
+**frasco** *botilia* &emsp;
+**frecuente** *freqe* &emsp;
+**freír** *lipo* &emsp;
+**frenar** *frenu* &emsp;
+**frente (el frente)** *fronta* &emsp;
+**frente (la frente)** *fronta* &emsp;
+**fricción** *frika* &emsp;
+**friccionar** *frika* &emsp;
+**frío** *frigi* &emsp;
+**frito** *lipo* &emsp;
+**fruta** *frukti* &emsp;
+**fruto** *frukti* &emsp;
+**fuego** *igni; piro* &emsp;
+**fuera (de)** *extra* &emsp;
+**fuerte** *resista* &emsp;
+**fuerza** *dina* &emsp;
+**fugarse** *salva se* &emsp;
+**fumar** *fumi* &emsp;
+**funcionar** *funktio* &emsp;
+**fundir** *fusi; liqi* &emsp;
+**furioso** *rabi* &emsp;
+**fusil** *fusili* &emsp;
+**futuro** *fu* &emsp;
+**(futuro:) ella estudiará** *fe fu stude* &emsp;
+**ganso** *anseri* &emsp;
+**garganta** *kola; cervika* &emsp;
+**garra** *ungu; oniko* &emsp;
+**gas** *gasi* &emsp;
+**gasolina** *benzina* &emsp;
+**gastar** *spende* &emsp;
+**gato** *feli* &emsp;
+**gemir** *ulula; mugi* &emsp;
+**general** *generali* &emsp;
+**generalizar** *generali* &emsp;
+**generar** *produce; genera* &emsp;
+**gente** *popula; demo* &emsp;
+**girar** *rota; gira; tropi* &emsp;
+**glacial** *glacia* &emsp;
+**glándula** *glandi* &emsp;
+**gobernar** *krati* &emsp;
+**golfo** *golfo* &emsp;
+**golpe** *tipo* &emsp;
+**golpear** *tipo* &emsp;
+**goma (caucho)** *gumi; latici* &emsp;
+**gordo** *obesi* &emsp;
+**gota** *guta* &emsp;
+**gotear** *guta* &emsp;
+**gozar** *fru* &emsp;
+**gozne** *kardina* &emsp;
+**gracias** *gratia* &emsp;
+**gracioso** *komika* &emsp;
+**grada** *gradu* &emsp;
+**gráfico** *carta; mapa* &emsp;
+**grande (noble)** *grandi* &emsp;
+**grande (tamaño)** *mega* &emsp;
+**grasa** *lipo* &emsp;
+**grave** *gravi* &emsp;
+**gravedad** *gravita* &emsp;
+**grifo** *valva* &emsp;
+**gris** *cinera; polio* &emsp;
+**gritar** *voci* &emsp;
+**grueso** *obesi* &emsp;
+**grupo** *grega* &emsp;
+**gualdo** *xanto* &emsp;
+**guardar** *guarda; alexi* &emsp;
+**guiar** *duce; ago* &emsp;
+**guiñar** *nikti* &emsp;
+**guirnalda** *korona* &emsp;
+**gusano** *vermi* &emsp;
+**gustar** *place* &emsp;
+**gusto (educación)** *kultura* &emsp;
+**gusto (sabor)** *flavoro* &emsp;
+**ha** *ante; pre* &emsp;
+**haba** *faba* &emsp;
+**hábil** *(-)abili; arti; tekno* &emsp;
+**hábilidad** *arti; tekno* &emsp;
+**habitación** *kamera; -ka* &emsp;
+**habitar** *eko* &emsp;
+**hábito** *habitu; more* &emsp;
+**hablar** *dice; loqi* &emsp;
+**hace (un rato)** *pre; ante* &emsp;
+**hacer** *akti; praxi; face; produce* &emsp;
+**hacer (causar)** *sti* &emsp;
+**hacerse** *deveni; esce; gene* &emsp;
+**hacha** *peleki* &emsp;
+**hacia** *a; ad* &emsp;
+**hacia arriba** *ana; a-supra* &emsp;
+**hacia atrás** *retro* &emsp;
+**hallar** *detekti* &emsp;
+**hallarse** *sta; es* &emsp;
+**hambre** *fami* &emsp;
+**harina** *farina; pulve* &emsp;
+**hasta** *a; ad* &emsp;
+**hay** *il es* &emsp;
+**hebra** *fi* &emsp;
+**heces** *feki; kopro* &emsp;
+**hedor** *feti* &emsp;
+**helado** *glacia* &emsp;
+**helar** *gelo* &emsp;
+**hembra** *femina; fe; gina* &emsp;
+**heredar** *heredi; geneti* &emsp;
+**herida** *vulne* &emsp;
+**herir** *vulne* &emsp;
+**hermana** *(fe-)sibi* &emsp;
+**hermano** *(an-)sibi* &emsp;
+**hermoso** *dekora; kali* &emsp;
+**herramienta** *instrumenta; -ru* &emsp;
+**hervir** *buli* &emsp;
+**hielo** *glacia* &emsp;
+**hierba** *gra* &emsp;
+**hierro** *feru* &emsp;
+**higo** *fikus* &emsp;
+**hija** *fe-fili* &emsp;
+**hijo (varón)** *an-filia* &emsp;
+**hijos** *plu filia* &emsp;
+**hilera** *line* &emsp;
+**hilo** *fi* &emsp;
+**hincharse** *tumo; brio* &emsp;
+**historia** *histori* &emsp;
+**hocico** *rostra* &emsp;
+**hoja** *folia; fila* &emsp;
+**el hombre (raza)** *homi; antropo* &emsp;
+**hombre (no mujer)** *viri; andro* &emsp;
+**hombro** *skapa* &emsp;
+**homogéneo** *regulari; uniforma* &emsp;
+**honesto** *honesti* &emsp;
+**hongo** *fungu* &emsp;
+**honor** *honora* &emsp;
+**honradez** *honora* &emsp;
+**hora** *horo* &emsp;
+**horario** *horo-tabla* &emsp;
+**horca** *furka* &emsp;
+**horizonte** *horizo* &emsp;
+**hormiga** *formika; mirmeko* &emsp;
+**horno** *furna* &emsp;
+**hospital** *pato-do* &emsp;
+**hoyo** *fosi* &emsp;
+**hueco** *fora; kavita* &emsp;
+**huella** *trace; vestigia* &emsp;
+**huerto** *horti* &emsp;
+**hueso** *osteo* &emsp;
+**huevo** *ova* &emsp;
+**huir** *fugi; salva se* &emsp;
+**humana** *homi; antropo* &emsp;
+**raza humana** *homi; antropo* &emsp;
+**humedad** *humidi* &emsp;
+**humo** *fumi* &emsp;
+**humor** *humoro* &emsp;
+**hundir** *merge; diti* &emsp;
+**-ible** *(-)abili* &emsp;
+**idea** *idea* &emsp;
+**idéntico** *iso* &emsp;
+**idioma** *lingua; glosa* &emsp;
+**iglesia** *eklesia* &emsp;
+**(casi) igual** *homo; simi* &emsp;
+**es igual a** *eqa* &emsp;
+**es igual que** *eqa* &emsp;
+**imaginar** *imagina; fantasi* &emsp;
+**imán** *magneti* &emsp;
+**imitar** *kopi; mimi* &emsp;
+**impacto** *impakti; kolpa* &emsp;
+**imparcial** *justi* &emsp;
+**impedir** *impedi; obstru* &emsp;
+**importante** *importa; gravi* &emsp;
+**imprimir** *tipo* &emsp;
+**impuesto** *fiska* &emsp;
+**impulso** *impulsi* &emsp;
+**incluir** *inklude* &emsp;
+**inclusive** *klu* &emsp;
+**inculto** *krudi* &emsp;
+**indicación** *simpto* &emsp;
+**indicador** *diali* &emsp;
+**indicar** *indika* &emsp;
+**individuo** *individu; idio* &emsp;
+**industria** *industri* &emsp;
+**industrial** *industri* &emsp;
+**infeliz** *no-felici; non-hedo* &emsp;
+**infeliz (pobre)** *pove* &emsp;
+**influencia** *influ* &emsp;
+**influir** *influ* &emsp;
+**información** *info; data* &emsp;
+**informar** *info; reporta* &emsp;
+**inhibir** *impedi* &emsp;
+**inmune** *imuni; sekuri* &emsp;
+**inoportuno** *mis-kron* &emsp;
+**insípido** *no-flavoro* &emsp;
+**instalar** *gru* &emsp;
+**instituto** *kolegi* &emsp;
+**instrucción** *sko* &emsp;
+**instruir** *doci; eduka* &emsp;
+**instrumento** *instrumenta; -ru* &emsp;
+**íntegro** *integra; holo* &emsp;
+**intención** *tende; buta* &emsp;
+**intenso** *forti; fo* &emsp;
+**intentar** *tenta* &emsp;
+**interés** *interese* &emsp;
+**interésar** *interese* &emsp;
+**interior** *intra; endo* &emsp;
+**intervalo** *inter-tem* &emsp;
+**intuir** *intuiti* &emsp;
+**invertir** *verte* &emsp;
+**investigación** *recerka* &emsp;
+**invisible** *no-vista* &emsp;
+**ir** *ki* &emsp;
+**ir a (con verbo)** *nu-fu* &emsp;
+**ir bien** *gru* &emsp;
+**ira** *furi; koleri* &emsp;
+**irradiación** *radia* &emsp;
+**irritar** *vexa; turba* &emsp;
+**-ísimo** *fo; forti* &emsp;
+**isla** *insula; nesia* &emsp;
+**(a la) izquierda** *levo* &emsp;
+**jabón** *sapo* &emsp;
+**jardín** *horti* &emsp;
+**jaula** *karcera* &emsp;
+**jerarquía** *hierarki* &emsp;
+**jofaina** *kratera* &emsp;
+**joven** *juve* &emsp;
+**jovencita** *ju-fe* &emsp;
+**jovencito** *ju-an* &emsp;
+**joya** *gema; orna-li* &emsp;
+**judia** *faba* &emsp;
+**jugar** *sporta; ludi* &emsp;
+**jugoso** *suku* &emsp;
+**junta** *koncili; komiti* &emsp;
+**juntar** *juga; zigo* &emsp;
+**junto a** *para; proxi* &emsp;
+**juntura** *artri* &emsp;
+**juramento** *jura* &emsp;
+**jurar** *jura* &emsp;
+**justo** *justi* &emsp;
+**juventud** *juve-tem* &emsp;
+**juzgar** *decide; judika* &emsp;
+**la** *u* &emsp;
+**labio** *labia* &emsp;
+**labor** *ergo; labori* &emsp;
+**lacerar** *lacera* &emsp;
+**lado** *latu* &emsp;
+**(al) lado (de)** *para; proxi* &emsp;
+**lago** *stagna; laku; limno* &emsp;
+**lágrima** *lakrima* &emsp;
+**lamentar** *lamenta* &emsp;
+**lámpara** *lampa* &emsp;
+**lana** *lana* &emsp;
+**lanzar** *bali* &emsp;
+**lanzarse** *vola; peti* &emsp;
+**largo** *longi* &emsp;
+**larva** *larva* &emsp;
+**las** *plu* &emsp;
+**lata** *stani* &emsp;
+**lateral** *latu* &emsp;
+**lavar** *lava* &emsp;
+**lavarse** *lava* &emsp;
+**lazo** *nodi* &emsp;
+**leche** *lakti* &emsp;
+**lecho** *kli* &emsp;
+**lectura** *lekto* &emsp;
+**leer** *lekto* &emsp;
+**legumbre** *legumi* &emsp;
+**lejos** *dista; tele* &emsp;
+**lengua** *lingua; glosa* &emsp;
+**lente** *lenti* &emsp;
+**lento** *lento* &emsp;
+**lesión** *vulne* &emsp;
+**letra (abc)** *litera* &emsp;
+**levadura** *fermenta; zima* &emsp;
+**levantar** *leva* &emsp;
+**leve** *levia* &emsp;
+**ley** *nomi* &emsp;
+**leyes** *nomi* &emsp;
+**librar** *libe* &emsp;
+**libro** *bibli* &emsp;
+**lícito** *lice* &emsp;
+**licuar** *liqui* &emsp;
+**ligar** *liga* &emsp;
+**ligero** *levia* &emsp;
+**límite** *limita* &emsp;
+**limo** *muci* &emsp;
+**limpio** *puri* &emsp;
+**línea** *line* &emsp;
+**lino** *linu* &emsp;
+**líquido** *liqi* &emsp;
+**liso** *glabro* &emsp;
+**lista** *lista; kataloga* &emsp;
+**listo** *prepara* &emsp;
+**litoral** *litora* &emsp;
+**llano** *libela; plati* &emsp;
+**llave** *klavi* &emsp;
+**llegar** *veni* &emsp;
+**llenar** *ple* &emsp;
+**lleno** *ple* &emsp;
+**llevar** *fero* &emsp;
+**llover** *pluvi* &emsp;
+**lluvia** *pluvi* &emsp;
+**loar** *lauda; latri* &emsp;
+**local** *loka; topo* &emsp;
+**loco** *rabi* &emsp;
+**lodo** *limi* &emsp;
+**lograr** *kompli* &emsp;
+**lonja** *lamina* &emsp;
+**los** *plu* &emsp;
+**lubricar** *lubrika* &emsp;
+**lubrificar** *lubrika* &emsp;
+**luchar** *lukta* &emsp;
+**lugar** *loka; -lo; topo* &emsp;
+**(en) lugar de** *in loka de ; vice* &emsp;
+**lugar seguro** *asilu* &emsp;
+**luna** *luna* &emsp;
+**lunar** *luna* &emsp;
+**luz** *lumi; foto* &emsp;
+**macho** *an* &emsp;
+**macizo** *gravi; masi; bari* &emsp;
+**madera** *ligni; xilo* &emsp;
+**madre** *matri* &emsp;
+**madre/ padre** *parenta* &emsp;
+**madrugada** *aurora; eo* &emsp;
+**madurar** *matura* &emsp;
+**maduro** *matura* &emsp;
+**mágico** *magika* &emsp;
+**magnetismo** *magneti* &emsp;
+**magnífico** *grandi* &emsp;
+**mal** *mali; kako* &emsp;
+**mala suerte** *mali fortuna* &emsp;
+**malgastar** *lose; disipa* &emsp;
+**malla** *reti* &emsp;
+**malo** *mali; kako* &emsp;
+**mama** *mama* &emsp;
+**mañana** *mana* &emsp;
+**mancha** *makula* &emsp;
+**mandar** *komanda; imperi* &emsp;
+**mandíbula** *mandibula* &emsp;
+**manejar** *operatio* &emsp;
+**manera** *mode; metodi* &emsp;
+**mano** *manu* &emsp;
+**mantequilla** *butiri* &emsp;
+**manto** *toga* &emsp;
+**mapa** *mapa; carta* &emsp;
+**máquina** *makina* &emsp;
+**mar** *mari* &emsp;
+**maravillarse** *mira* &emsp;
+**(poner) en marcha** *sti* &emsp;
+**margen** *margina* &emsp;
+**marido** *viri; andro* &emsp;
+**martillo** *malea* &emsp;
+**más** *ma* &emsp;
+**más ... de** *ma ... de* &emsp;
+**más ... que** *ma ... de* &emsp;
+**más allá (de)** *ultra* &emsp;
+**masa** *pasta* &emsp;
+**masaje** *masage; karesa* &emsp;
+**materia** *materia* &emsp;
+**material** *materia* &emsp;
+**matriz** *uteri* &emsp;
+**me** *mi* &emsp;
+**mediante** *per* &emsp;
+**medida** *metri; dimensio* &emsp;
+**(a) medida que** *gradu* &emsp;
+**medio** *medio; meso* &emsp;
+**(por) medio de** *per* &emsp;
+**medios** *mode; metodi* &emsp;
+**medir** *metri* &emsp;
+**médium psíquico** *mediu* &emsp;
+**medrar** *vigo* &emsp;
+**mejilla** *buka* &emsp;
+**mejor** *ma boni* &emsp;
+**mejorar** *meliora* &emsp;
+**menor** *mei* &emsp;
+**menos** *mei* &emsp;
+**menos (=salvo)** *excepti* &emsp;
+**menos ... que** *mei ... de* &emsp;
+**mensaje** *info* &emsp;
+**mensual** *meno* &emsp;
+**mental** *cerebra* &emsp;
+**mente** *cerebra* &emsp;
+**mercado** *merkato* &emsp;
+**merecer** *merito; valu* &emsp;
+**meridional** *sud; austra* &emsp;
+**mérito** *merito; valu* &emsp;
+**mes** *meno* &emsp;
+**mesa** *tabla* &emsp;
+**meta** *tende; buta* &emsp;
+**metal** *metali* &emsp;
+**metálico** *metali* &emsp;
+**método** *mode; metodi* &emsp;
+**mezclar** *mixa* &emsp;
+**mi** *mi* &emsp;
+**mí** *mi* &emsp;
+**a mí** *mi* &emsp;
+**microchip** *cip; mika* &emsp;
+**miedo** *fobo* &emsp;
+**miembro** *poda* &emsp;
+**mientras** *tem; duranto* &emsp;
+**miga** *mika* &emsp;
+**mimar** *masage; karesa* &emsp;
+**mina** *mina* &emsp;
+**mineral** *minerali* &emsp;
+**mínimo** *mini* &emsp;
+**minúsculo** *mikro; nano* &emsp;
+**(el) mío** *u mi* &emsp;
+**los míos** *plu mi* &emsp;
+**mirar** *skope* &emsp;
+**mis** *mi* &emsp;
+**misericordia** *simpati* &emsp;
+**mismo** *auto* &emsp;
+**misterio** *misteri; enigma* &emsp;
+**mitad** *semi* &emsp;
+**modelo** *modela* &emsp;
+**modesto** *modesti* &emsp;
+**modificar** *modifi; limita* &emsp;
+**mojar** *humidi* &emsp;
+**moldear** *fikti; plasti* &emsp;
+**molécula** *molekula* &emsp;
+**molestar** *vexa* &emsp;
+**momento** *momenta; kron* &emsp;
+**moneda** *moneta* &emsp;
+**monedero** *bursa* &emsp;
+**mono** *simia* &emsp;
+**montaña** *monti; buno* &emsp;
+**montar** *gru* &emsp;
+**monte** *monti; buno* &emsp;
+**montón** *kumu* &emsp;
+**moral** *morali* &emsp;
+**morder** *morda* &emsp;
+**moreno** *bruno; faeo* &emsp;
+**morir** *morta; lose bio* &emsp;
+**mostrador** *mensa* &emsp;
+**mostrar** *monstra* &emsp;
+**motivar** *motiva* &emsp;
+**mover (se)** *ki; kine* &emsp;
+**muchísimo** *maxi; pleisto* &emsp;
+**mucho** *mega* &emsp;
+**muchos** *poli; multi; miria* &emsp;
+**mudar** *muta* &emsp;
+**mueble** *mobili; -mo* &emsp;
+**muerte** *morta* &emsp;
+**muerto** *morta* &emsp;
+**muesca** *krena* &emsp;
+**mujer** *femina; fe; gina* &emsp;
+**(las) mujeres** *plu gina* &emsp;
+**multiplicar** *multipli* &emsp;
+**multiplicarse** *multipli* &emsp;
+**muralla** *mura* &emsp;
+**muro** *mura* &emsp;
+**músculo** *muskula* &emsp;
+**musgo** *muski* &emsp;
+**música** *musika* &emsp;
+**muslo** *koxa* &emsp;
+**mutuamente** *alelo* &emsp;
+**muy** *forti; fo* &emsp;
+**muy señor mío** *karo senior* &emsp;
+**muy señora mía** *karo seniora* &emsp;
+**nacimiento** *nati* &emsp;
+**nación** *natio* &emsp;
+**nacionalidad** *natio* &emsp;
+**nada** *nuli; zero* &emsp;
+**nadar** *nekto* &emsp;
+**nalgas** *pigi* &emsp;
+**nariz** *nasa; olface* &emsp;
+**narrar** *reporta; nara* &emsp;
+**natación** *nekto* &emsp;
+**naturaleza** *natura* &emsp;
+**navaja** *seka-ru; kultela* &emsp;
+**navegar** *naviga* &emsp;
+**navidad** *Kristo-nati* &emsp;
+**navidades** *Kristo-nati* &emsp;
+**necesidad** *nece* &emsp;
+**negar** *nega* &emsp;
+**negociar** *negoti* &emsp;
+**negocios** *negoti* &emsp;
+**negro** *atro; melano* &emsp;
+**nervio** *nervo; neuro* &emsp;
+**nervioso** *nervoso* &emsp;
+**neutral** *neutra* &emsp;
+**neutro** *neutra* &emsp;
+**nevar** *nivi* &emsp;
+**ni ... ni** *ni ... ni* &emsp;
+**nido** *nidi* &emsp;
+**niebla** *nebu* &emsp;
+**nieve** *nivi* &emsp;
+**niña** *ju-fe* &emsp;
+**niña o niño** *infanti* &emsp;
+**niñez** *juve-tem* &emsp;
+**ninguna** *nuli; zero* &emsp;
+**ninguno** *nuli; zero* &emsp;
+**niño** *ju-an* &emsp;
+**nivel** *libela* &emsp;
+**no (con verbos)** *ne* &emsp;
+**¡no! (contestando)** *... no!* &emsp;
+**noble** *grandi; nobili* &emsp;
+**noche** *noktu* &emsp;
+**nombre** *nomina; nima* &emsp;
+**normal** *norma; medio; meso* &emsp;
+**norte** *nord; boreo* &emsp;
+**nos** *na* &emsp;
+**nosotros** *na* &emsp;
+**notar** *nota* &emsp;
+**noticia** *nova* &emsp;
+**nube** *nefo* &emsp;
+**nudo** *nodi* &emsp;
+**nuestro** *na* &emsp;
+**nuestros** *na* &emsp;
+**nuevo** *neo* &emsp;
+**(de) nuevo** *itera; re* &emsp;
+**nuez** *nuki* &emsp;
+**nulo** *nuli; zero; ze* &emsp;
+**número** *numera* &emsp;
+**nunca** *nuli-kron* &emsp;
+**o ... o** *alo ... alo* &emsp;
+**obedecer** *obe* &emsp;
+**obeso** *obesi* &emsp;
+**objeto (=cosa)** *kosa; -ra* &emsp;
+**objeto (=meta)** *tende; buta* &emsp;
+**oblicuo** *obliqi* &emsp;
+**obligación** *debi* &emsp;
+**obrar** *operatio* &emsp;
+**observar** *nota* &emsp;
+**obtener** *prokura* &emsp;
+**obvio** *klari* &emsp;
+**occidental** *uest* &emsp;
+**océano** *oceani* &emsp;
+**ocultar** *kripti* &emsp;
+**ocupado** *aktivi* &emsp;
+**ocupar** *eko* &emsp;
+**ocurrir** *acide* &emsp;
+**odiar** *odio; miso* &emsp;
+**oeste** *uest* &emsp;
+**oferta** *ofere* &emsp;
+**oficial** *ofice; arki* &emsp;
+**oficina** *ofice; buro* &emsp;
+**ofrecer** *ofere* &emsp;
+**oír** *audi; akusti* &emsp;
+**ojo** *oku* &emsp;
+**ola** *unda* &emsp;
+**óleo** *olea* &emsp;
+**oler** *odoro; aroma* &emsp;
+**olfatear** *nasa; olface* &emsp;
+**olfato** *nasa; olface* &emsp;
+**olor** *odoro; aroma* &emsp;
+**olvidar** *no-memo* &emsp;
+**onda** *unda* &emsp;
+**opinar** *opini; doxo* &emsp;
+**opinión** *opini; doxo* &emsp;
+**oportunidad** *okasio* &emsp;
+**oprimir** *opresi* &emsp;
+**optar** *elekti* &emsp;
+**opuesto** *kontra; enantio* &emsp;
+**oquedad** *kavita* &emsp;
+**oral** *ora; stoma* &emsp;
+**ordenador** *puta-me* &emsp;
+**ordenar (=clasificar)** *klasi; taxo* &emsp;
+**ordenar (=mandar)** *komanda* &emsp;
+**oreja** *auri; oti* &emsp;
+**organizar** *organiza; sistema* &emsp;
+**órgano** *organi* &emsp;
+**oriental** *orienta* &emsp;
+**oriente** *orienta* &emsp;
+**origen** *origi; fonta* &emsp;
+**orina** *urina* &emsp;
+**orinar** *urina* &emsp;
+**ornar** *orna* &emsp;
+**oro** *kriso* &emsp;
+**oscuro** *no-foto* &emsp;
+**otra vez** *itera; re* &emsp;
+**otro (=distinto)** *difere; hetero* &emsp;
+**óvalo** *ovali* &emsp;
+**oveja** *ovis* &emsp;
+**oxidar** *oxidi* &emsp;
+**padre** *patri* &emsp;
+**padre o madre** *parenta* &emsp;
+**paga** *paga* &emsp;
+**pagar** *paga* &emsp;
+**página** *pagina* &emsp;
+**pago** *paga* &emsp;
+**país** *landa* &emsp;
+**paisaje** *rura* &emsp;
+**pájaro** *avi* &emsp;
+**pala** *spata* &emsp;
+**palabra** *verba* &emsp;
+**paleta** *korina* &emsp;
+**palo** *pali* &emsp;
+**pan** *pani* &emsp;
+**paño** *textili; -te* &emsp;
+**panorámica** *vista; panorama* &emsp;
+**pantalón** *poda-ve* &emsp;
+**pantano** *paluda* &emsp;
+**pañuelo** *nasa-te* &emsp;
+**papel** *papira* &emsp;
+**paquete** *paketa; kapsu* &emsp;
+**para (que)** *tende; te* &emsp;
+**¿para que?** *qo-te?* &emsp;
+**paralizado** *paralisi* &emsp;
+**parar** *sto* &emsp;
+**pardo** *bruno* &emsp;
+**parecer** *feno* &emsp;
+**parecido** *homo; simi* &emsp;
+**pared** *mura* &emsp;
+**parpadear** *nikti* &emsp;
+**parra** *viti* &emsp;
+**parte** *mero; peci* &emsp;
+**parte trasera** *dorsa* &emsp;
+**partido político** *grega* &emsp;
+**pasado** *pa* &emsp;
+**(el/ lo) pasado** *pa-tem* &emsp;
+**)pasado:) ella estudió** *fe pa stude* &emsp;
+**pasaje** *pasa* &emsp;
+**pasar** *acide* &emsp;
+**pasear** *gresi; ambula* &emsp;
+**pasmar** *stupe* &emsp;
+**pasmo** *stupe* &emsp;
+**paso** *gradu* &emsp;
+**pasta** *pasta* &emsp;
+**pastel** *plaka* &emsp;
+**pata** *pedi* &emsp;
+**patio** *korta; atri* &emsp;
+**patrón** *modela* &emsp;
+**paz** *paci; irene* &emsp;
+**pecho** *pektora* &emsp;
+**pechuga** *pektora* &emsp;
+**pedir** *petitio* &emsp;
+**pedir prestado** *tem-habe* &emsp;
+**pegar** *hesi* &emsp;
+**pegarse** *hesi* &emsp;
+**peinar** *pektina* &emsp;
+**peine** *pektina* &emsp;
+**pelear** *milita* &emsp;
+**peligro** *risko; perilo* &emsp;
+**peligroso** *risko; perilo* &emsp;
+**pelo** *kapila* &emsp;
+**pelota** *bola; sferi* &emsp;
+**pena** *pina; pluma* &emsp;
+**pendiente** *klina* &emsp;
+**pensamiento** *idea* &emsp;
+**pensar** *kogita; pensi* &emsp;
+**peor** *ma mali* &emsp;
+**pequeñísimo** *mikro; nano* &emsp;
+**pequeño** *pusi; mikro* &emsp;
+**pera (fruta)** *pirus* &emsp;
+**perder** *lose* &emsp;
+**perdonar** *pardo* &emsp;
+**perfecto** *perfekti* &emsp;
+**pericia** *experto; tekno* &emsp;
+**perito** *experto; tekno* &emsp;
+**permitir** *lase; permito* &emsp;
+**pero (sino)** *sed; anti-co* &emsp;
+**perro** *kani* &emsp;
+**perseguir** *casa* &emsp;
+**persona** *persona; -pe* &emsp;
+**perspectiva** *vista* &emsp;
+**pertenecer** *pertena* &emsp;
+**pesado** *gravi; bari* &emsp;
+**pésame** *penite* &emsp;
+**pesar (peso)** *ponde* &emsp;
+**pescado** *piski* &emsp;
+**pese a eso** *anti-co* &emsp;
+**pestaña** *cilia* &emsp;
+**petición** *petitio* &emsp;
+**(el) pez** *piski* &emsp;
+**picar (=irritar)** *punge* &emsp;
+**pico (=boca)** *rostra* &emsp;
+**pico (=punta)** *punkta* &emsp;
+**pie** *pedi; funda* &emsp;
+**piedra** *lito; -li; kalkula* &emsp;
+**piel** *peli; derma* &emsp;
+**pierna** *poda* &emsp;
+**pincel** *brosa* &emsp;
+**pinchar** *punge* &emsp;
+**pintar** *pikto* &emsp;
+**pintura** *pikto* &emsp;
+**pirámide** *pirami* &emsp;
+**pista (indicación)** *indika; simpto* &emsp;
+**pitar** *sibila* &emsp;
+**pivote** *artri* &emsp;
+**placer** *place* &emsp;
+**dar placer** *place* &emsp;
+**plan** *skema* &emsp;
+**plancha** *plaka* &emsp;
+**planeta** *planet* &emsp;
+**planta** *planta; fito* &emsp;
+**plata** *argenti* &emsp;
+**plato** *disko* &emsp;
+**playa** *litora* &emsp;
+**plaza** *forum* &emsp;
+**plegar** *plika* &emsp;
+**plomo** *plumba* &emsp;
+**pluma** *pluma; pina* &emsp;
+**pobre** *pove* &emsp;
+**(un) poco (de)** *poko* &emsp;
+**poder** *pote* &emsp;
+**poema** *poesi* &emsp;
+**poesía** *poesi* &emsp;
+**policía** *polica* &emsp;
+**político** *politika* &emsp;
+**pollo** *galina* &emsp;
+**polo** *pola* &emsp;
+**polvo** *pulve; konio* &emsp;
+**polvoriento** *pulve; konio* &emsp;
+**pompa** *pompo* &emsp;
+**poner** *gene; esce* &emsp;
+**poner en marcha** *sti* &emsp;
+**poner fin** *sto* &emsp;
+**ponerse** *gene; esce* &emsp;
+**por (=a través de)** *dia* &emsp;
+**por (medio de)** *per* &emsp;
+**¿por qué?** *qo-ka?* &emsp;
+**porcino** *sui; porku* &emsp;
+**porción** *mero; peci* &emsp;
+**porque** *kausa* &emsp;
+**porra** *korina* &emsp;
+**porvenir** *fu-tem* &emsp;
+**poseer** *habe; proprie* &emsp;
+**poste** *kolumni; stele* &emsp;
+**práctica** *praxi; experi* &emsp;
+**practicar** *praxi* &emsp;
+**pradero** *prate; agri* &emsp;
+**precio** *preci* &emsp;
+**preguntar** *qestio; roga* &emsp;
+**premio** *premi* &emsp;
+**prender** *prende; kapti* &emsp;
+**prensar** *presa; baro* &emsp;
+**preparado** *prepara* &emsp;
+**presenciar (testigo)** *testi* &emsp;
+**prestar** *tem-dona* &emsp;
+**primavera** *blasto-tem* &emsp;
+**primero** *prima; proto* &emsp;
+**prisa** *rapidi; tako* &emsp;
+**(darse) prisa** *vola; peti* &emsp;
+**darse prisa** *vola; peti* &emsp;
+**(en) pro (de)** *pro; favo* &emsp;
+**probable** *probabili* &emsp;
+**probar (gustar)** *gusta* &emsp;
+**problema** *problema; misteri; enigma* &emsp;
+**proclamar** *predika* &emsp;
+**procurar** *tenta* &emsp;
+**producir** *face; produce; krea; poeia* &emsp;
+**profundo** *profunda; bato* &emsp;
+**programa** *programa* &emsp;
+**prohibir** *veto* &emsp;
+**prole** *filia* &emsp;
+**promedio** *medio; meso* &emsp;
+**prometer** *promise; sponsa* &emsp;
+**promover** *promoti* &emsp;
+**propagar** *propaga; difusi* &emsp;
+**propiedad** *proprie* &emsp;
+**propio** *auto* &emsp;
+**proponer** *proposi; sugesti* &emsp;
+**prosa** *prosa* &emsp;
+**prosperar** *vigo* &emsp;
+**proteger** *alexi* &emsp;
+**protestar** *protesta* &emsp;
+**provecho** *profito; sucede* &emsp;
+**proyectil** *misili* &emsp;
+**proyecto** *skema* &emsp;
+**prudente** *sofi* &emsp;
+**prueba** *examina; testa* &emsp;
+**publicar** *publika; nunci* &emsp;
+**púdico** *modesti* &emsp;
+**pudrir** *putri; sapro* &emsp;
+**pudrirse** *putri; sapro* &emsp;
+**pueblo (=ciudad)** *urba* &emsp;
+**pueblo (=gente)** *popula; demo* &emsp;
+**puente** *ponti* &emsp;
+**puerco** *sui; porku* &emsp;
+**puerta** *janu; porta* &emsp;
+**pulir** *lustra* &emsp;
+**pulmón** *pulmona; pneumi* &emsp;
+**pulsar** *pulsa* &emsp;
+**puño** *pugna* &emsp;
+**punta** *kuspi* &emsp;
+**puntapies** *pedi* &emsp;
+**dar puntapies** *pedi* &emsp;
+**punto** *punkta* &emsp;
+**puro** *puri* &emsp;
+**púrpura** *iodeo* &emsp;
+**(lo) que** *qod* &emsp;
+**que ... (relativo)** *qi ...* &emsp;
+**¿que?** *qo?* &emsp;
+**quebrar** *frakti; rupti* &emsp;
+**quedar** *resta* &emsp;
+**quedarse** *resta* &emsp;
+**queja** *lamenta* &emsp;
+**quejar** *lamenta* &emsp;
+**quejarse** *protesta* &emsp;
+**querer** *volu* &emsp;
+**querer decir** *signifi; semani* &emsp;
+**queso** *kasea* &emsp;
+**quien** *qi* &emsp;
+**¿quien?** *qo-pe?* &emsp;
+**quienes** *qi* &emsp;
+**¿quienes?** *qo-pe?* &emsp;
+**quienquiera** *uno-pe* &emsp;
+**-quiera** *uno-* &emsp;
+**química** *kemi* &emsp;
+**químico** *kemi* &emsp;
+**quitar** *nuli; sto; apo* &emsp;
+**quizás** *posi* &emsp;
+**rabo** *kauda* &emsp;
+**(la) radio** *radio* &emsp;
+**raíz** *radi; rizo* &emsp;
+**rama** *rami* &emsp;
+**ramo** *rami* &emsp;
+**ramo de flores** *flori-fa* &emsp;
+**rango** *klasi; ordina* &emsp;
+**ranura** *krena* &emsp;
+**rapidez** *rapidi; tako* &emsp;
+**rápido** *rapidi; tako* &emsp;
+**rapto** *trance* &emsp;
+**raro** *rari* &emsp;
+**rascar** *razo* &emsp;
+**rasgar** *lacera; skizo* &emsp;
+**raspar** *razo* &emsp;
+**rato** *tem* &emsp;
+**ratón** *mus* &emsp;
+**ratos de ocio** *libe-tem* &emsp;
+**rayo** *rai* &emsp;
+**raza humana** *homi; antropo* &emsp;
+**razón (=privilegio)** *privilegi* &emsp;
+**razón (=proporcion)** *ratio* &emsp;
+**razonar** *logika* &emsp;
+**razones** *evide; basi* &emsp;
+**reaccionar** *reakti* &emsp;
+**real** *reali* &emsp;
+**rebaja** *diskonto* &emsp;
+**rebaño** *grega* &emsp;
+**recado** *info* &emsp;
+**receta** *formula* &emsp;
+**rechazar** *no-volu; rejekti* &emsp;
+**recibir** *cepti* &emsp;
+**recipiente** *vasa; teka* &emsp;
+**recíprocamente** *alelo* &emsp;
+**recompensar** *kompensa* &emsp;
+**recordar** *memo* &emsp;
+**recto** *rekti; orto* &emsp;
+**red** *reti* &emsp;
+**redondo** *rondo* &emsp;
+**reducir** *reduce; meiosi* &emsp;
+**reflexionar** *reflekti* &emsp;
+**regalo** *doro* &emsp;
+**regente** *regi* &emsp;
+**region** *regio* &emsp;
+**regir** *kontrola; krati* &emsp;
+**registro** *registra* &emsp;
+**regla** *nomi; teori* &emsp;
+**regocijarse** *jubila* &emsp;
+**rehusar** *nega* &emsp;
+**reír** *ridi* &emsp;
+**reja** *kancela* &emsp;
+**rejilla** *kancela* &emsp;
+**relación** *stori* &emsp;
+**relacionado** *kognati* &emsp;
+**relajar** *relaxa* &emsp;
+**relajarse** *relaxa* &emsp;
+**relámpago** *fulge* &emsp;
+**relativo** *relativi* &emsp;
+**relato** *reporta; nara* &emsp;
+**religión** *religio* &emsp;
+**rellenar** *ple* &emsp;
+**relucir** *splendi; lampa* &emsp;
+**remar** *remi; kope* &emsp;
+**remo** *remi; kope* &emsp;
+**reñir** *disputa; polemi* &emsp;
+**reparar** *repara* &emsp;
+**repartir** *distribu* &emsp;
+**(de) repente** *subito* &emsp;
+**repetición** *itera; re* &emsp;
+**reportaje** *reporta; nara* &emsp;
+**reproducir** *reproduce* &emsp;
+**reproducirse** *reproduce* &emsp;
+**residuo** *residu* &emsp;
+**resistencia** *resista* &emsp;
+**resorte** *elasti* &emsp;
+**respirar** *spira* &emsp;
+**responder** *reakti* &emsp;
+**responsable** *liabili* &emsp;
+**restante** *residu* &emsp;
+**resultado** *resulta; seqe* &emsp;
+**retirarse** *cede* &emsp;
+**reto** *defi* &emsp;
+**reventar** *explode; erupti* &emsp;
+**reverencia** *revere* &emsp;
+**(al) revés** *kontra* &emsp;
+**revolución** *revolutio* &emsp;
+**ría** *golfo* &emsp;
+**rico** *pluto; rico* &emsp;
+**rígido** *rigi* &emsp;
+**riguroso** *severi* &emsp;
+**riñón** *rena; nefro* &emsp;
+**río** *fluvi* &emsp;
+**risa** *ridi* &emsp;
+**rito** *ritu; ceremoni* &emsp;
+**rizo** *ciru* &emsp;
+**robar** *klepto* &emsp;
+**roca** *petro* &emsp;
+**rociar** *spre* &emsp;
+**rodar** *rola; volve; kili* &emsp;
+**rodilla** *genu* &emsp;
+**rogar** *qestio* &emsp;
+**rojo** *rubi* &emsp;
+**rollo** *rola* &emsp;
+**romper** *rupti; frakti* &emsp;
+**ropa** *vesti; -ve* &emsp;
+**rosa (color)** *rosa* &emsp;
+**rostro** *facia* &emsp;
+**roto** *ge-frakti* &emsp;
+**rucio** *cinera* &emsp;
+**rueda** *rota; ciklo* &emsp;
+**saber** *ski; logi* &emsp;
+**sabio** *sofi* &emsp;
+**sabor** *flavoro* &emsp;
+**saco** *saka* &emsp;
+**sacudida brusca** *spasmo* &emsp;
+**sacudir** *seiso* &emsp;
+**sádico** *sadi; krueli* &emsp;
+**saeta** *sagita* &emsp;
+**sal** *sali* &emsp;
+**saltar** *salta* &emsp;
+**salud** *sani; higie* &emsp;
+**saludar** *saluta* &emsp;
+**salvado** *gluma* &emsp;
+**salvaje** *agrio* &emsp;
+**salvo** *excepti* &emsp;
+**sangre** *hema* &emsp;
+**santo** *sankti* &emsp;
+**seco** *sika* &emsp;
+**secretaria** *sekretari* &emsp;
+**secretario** *sekretari* &emsp;
+**seguir** *seqe; ki poste* &emsp;
+**según** *akorda* &emsp;
+**segundo** *sekunda* &emsp;
+**seguro** *asilu; refugi; sekuri; imuni* &emsp;
+**lugar seguro** *asilu* &emsp;
+**semejante** *homo; simi* &emsp;
+**semi-** *semi* &emsp;
+**semilla** *sperma; semina* &emsp;
+**señal** *signi; sema* &emsp;
+**señalar** *indika* &emsp;
+**sencillo** *elementa* &emsp;
+**sendos** *singu* &emsp;
+**señor** *senior* &emsp;
+**señora** *seniora* &emsp;
+**sensible** *sensitivi* &emsp;
+**sentarse** *sedi* &emsp;
+**sentir** *sensi; este* &emsp;
+**sentirlo** *penite* &emsp;
+**separar** *lisi* &emsp;
+**ser (=ente)** *objekti; onto* &emsp;
+**ser (verbo)** *es* &emsp;
+**serie** *seri* &emsp;
+**serio** *gravi* &emsp;
+**serrucho** *dentili* &emsp;
+**servicios (WC)** *kloseta* &emsp;
+**servir** *servi* &emsp;
+**sesos** *cerebra* &emsp;
+**seto** *fragma* &emsp;
+**severo** *severi* &emsp;
+**sexo** *sexu* &emsp;
+**sexual** *sexu* &emsp;
+**shock** *trauma* &emsp;
+**sí (afirmativo)** *ja!* &emsp;
+**si (condicional)** *si; postula* &emsp;
+**siempre** *panto-tem* &emsp;
+**siglo** *hekto anua* &emsp;
+**significar** *signifi; semani* &emsp;
+**signo** *signi; sema* &emsp;
+**silbar** *sibila* &emsp;
+**silencio** *no-soni; silento* &emsp;
+**silencioso** *no-soni; silento* &emsp;
+**silvestre** *silva* &emsp;
+**simio** *simia* &emsp;
+**simpático** *dulce; gluko* &emsp;
+**simple** *elementa* &emsp;
+**sin** *minus* &emsp;
+**sin embargo** *anti-co* &emsp;
+**sincero** *honesti* &emsp;
+**sino** *anti-co* &emsp;
+**sitio (=cabida)** *spaci* &emsp;
+**sitio (=posición)** *loka; -lo; topo* &emsp;
+**soberano** *regi* &emsp;
+**sobrar** *resta* &emsp;
+**sobre (=acerca de)** *de* &emsp;
+**sobre (=encima)** *epi; supra* &emsp;
+**sobresaliente** *perfekti* &emsp;
+**social** *sociali* &emsp;
+**sociedad** *societa* &emsp;
+**sofocar** *sufoka* &emsp;
+**sol** *sola; heli* &emsp;
+**solamente** *solo* &emsp;
+**solemne** *solemni* &emsp;
+**sólido** *solidi; stereo* &emsp;
+**sólo** *solo* &emsp;
+**soltar** *laxa* &emsp;
+**solución** *solve* &emsp;
+**sombrero** *kefa-ve* &emsp;
+**sonar** *soni; fono* &emsp;
+**sonda** *sonda* &emsp;
+**sonido** *soni; fono* &emsp;
+**sonreír** *sub-ridi* &emsp;
+**soplar** *fla* &emsp;
+**soportar** *tolera* &emsp;
+**sorpresa** *surprise* &emsp;
+**sortija** *zona; -zo* &emsp;
+**spray (aerosol)** *spre* &emsp;
+**su(s) (=de ellos)** *mu* &emsp;
+**suave** *glabro* &emsp;
+**súbito** *subito* &emsp;
+**sud** *sud; austra* &emsp;
+**sudar** *sudo* &emsp;
+**sudor** *sudo* &emsp;
+**suelo** *baso* &emsp;
+**(en el) suelo** *baso; kame* &emsp;
+**sueño** *somni; sopo* &emsp;
+**suerte** *fortuna* &emsp;
+**buena suerte** *boni-fortuna* &emsp;
+**suficiente** *sati; sufici* &emsp;
+**sufrimiento** *sufero; pato* &emsp;
+**sufrir** *sufero; pato* &emsp;
+**sugerir** *sugesti* &emsp;
+**sumar** *suma; adi* &emsp;
+**sumergir** *merge; diti* &emsp;
+**superficie** *su-facia* &emsp;
+**suponer** *expekta* &emsp;
+**suponiendo** *postula* &emsp;
+**sur** *sud; austra* &emsp;
+**surco** *kanali* &emsp;
+**susceptible** *sensitivi* &emsp;
+**suspender** *pende* &emsp;
+**sustancia** *materia* &emsp;
+**susto** *trauma* &emsp;
+**sustraer** *apo* &emsp;
+**susurrar** *susura* &emsp;
+**tabla** *taba* &emsp;
+**tablas (teatro)** *proskeni* &emsp;
+**tablero** *taba* &emsp;
+**tacón** *kalki* &emsp;
+**tajada** *lamina* &emsp;
+**(un) tal** *u certa* &emsp;
+**taladro** *fora-me* &emsp;
+**tallo** *kauli* &emsp;
+**talón** *kalki* &emsp;
+**tamaño** *dimensio; metri* &emsp;
+**tambor** *timpani* &emsp;
+**tamiz** *kribri; filtra* &emsp;
+**tan(to) ... como** *iso ... de* &emsp;
+**tanto(s)** *ta; tanto* &emsp;
+**tapar** *koveri* &emsp;
+**tapia** *fragma* &emsp;
+**tarde** *po-kron; tardi* &emsp;
+**(la) tarde** *vespera* &emsp;
+**tardío** *po-kron; tardi* &emsp;
+**tarea** *kargo* &emsp;
+**tarjeta** *karta* &emsp;
+**tasa** *ratio* &emsp;
+**taza** *tasa; kalici* &emsp;
+**te** *tu* &emsp;
+**té** *tea* &emsp;
+**techo** *stego* &emsp;
+**tejado** *stego* &emsp;
+**tejido (=tisú)** *tisu; histo* &emsp;
+**tela** *textili; -te* &emsp;
+**tema** *tema* &emsp;
+**temer** *fobo* &emsp;
+**temor** *fobo* &emsp;
+**temprano** *pre-kron; tosto* &emsp;
+**tener** *tena* &emsp;
+**tener que** *nece* &emsp;
+**tensión** *tensio* &emsp;
+**tentar** *sonda* &emsp;
+**teoría** *teori; nomi* &emsp;
+**tercero** *tertia* &emsp;
+**terminar** *sto* &emsp;
+**terrible** *deino* &emsp;
+**territorio** *dominio* &emsp;
+**tertulia** *festa* &emsp;
+**tesis** *tema* &emsp;
+**testigo** *testi-pe* &emsp;
+**ticket** *tiketa; bileta* &emsp;
+**tiempo (=clima)** *klima; meteo* &emsp;
+**tiempo (=hora/ vez)** *tem; kron* &emsp;
+**tiempo (=rato)** *duranto* &emsp;
+**tienda** *boteka; -bo* &emsp;
+**tierra** *baso* &emsp;
+**(la) tierra** *tera; gaia* &emsp;
+**tieso** *rigi* &emsp;
+**timbre (campana)** *tini-ru* &emsp;
+**tipo (cuota)** *ratio* &emsp;
+**tira (de papel)** *papira* &emsp;
+**tirar de** *trakto; tira* &emsp;
+**tiza** *kreta; gipso* &emsp;
+**tobillo** *tarsu* &emsp;
+**tocar** *tange; toka* &emsp;
+**todo** *holo; panto-ra* &emsp;
+**todos** *panto; omni* &emsp;
+**tolerante** *liberali* &emsp;
+**tolerar** *tolera* &emsp;
+**tomar** *prende* &emsp;
+**tono** *toni* &emsp;
+**tonto** *fatuo; stupidi* &emsp;
+**torcer** *strepto* &emsp;
+**tormenta** *tempestu* &emsp;
+**toro** *an-bovi* &emsp;
+**torpe** *fatuo; stupidi* &emsp;
+**trabajo** *ergo; labori* &emsp;
+**traducir** *translati* &emsp;
+**traje** *vesti-fa* &emsp;
+**tranquilidad** *qieti* &emsp;
+**trapo** *textili; -te* &emsp;
+**trasero** *dorsa* &emsp;
+**traslaparse** *imbrika* &emsp;
+**traslúcido** *luci* &emsp;
+**tratar (=curar)** *medika; terapi* &emsp;
+**tratar (=negociar)** *negoti* &emsp;
+**(a) través (de)** *trans; dia* &emsp;
+**tren** *trena* &emsp;
+**tripas** *intestina; entero* &emsp;
+**triste** *tristi; melankoli* &emsp;
+**tristeza** *tristi; melankoli* &emsp;
+**trocar** *kambio* &emsp;
+**tronar** *bronto* &emsp;
+**trozo** *peci; mero* &emsp;
+**truco (=aparato)** *mekani; -me* &emsp;
+**truco (=trampa)** *strategi* &emsp;
+**trueno** *bronto* &emsp;
+**tu** *tu* &emsp;
+**tú** *tu* &emsp;
+**tubo** *tubi* &emsp;
+**tumbado** *jace; kumbe* &emsp;
+**estar tumbado** *jace; kumbe* &emsp;
+**tumbarse** *kade* &emsp;
+**túnel** *tuneli* &emsp;
+**turno** *ergo-tem* &emsp;
+**tus** *tu* &emsp;
+**último** *ultima* &emsp;
+**umbral** *limina* &emsp;
+**un** *u; un* &emsp;
+**una** *u; un* &emsp;
+**uña** *ungu* &emsp;
+**unidad** *unita* &emsp;
+**unión** *nexu; liga* &emsp;
+**unir** *nexu; liga* &emsp;
+**universidad** *universita* &emsp;
+**universo** *universa; kosmo* &emsp;
+**uno** *u; un* &emsp;
+**uno (alguien)** *persona; -pe* &emsp;
+**unos** *plura; oligo* &emsp;
+**usted** *tu* &emsp;
+**a usted** *tu* &emsp;
+**de usted** *tu* &emsp;
+**ustedes** *vi* &emsp;
+**a ustedes** *vi* &emsp;
+**de ustedes** *vi* &emsp;
+**usual** *usuali; more* &emsp;
+**útero** *uteri* &emsp;
+**útil** *uti; funktio* &emsp;
+**(ser) útil** *servi* &emsp;
+**utilizar** *uti; emplea* &emsp;
+**vaca** *fe-bovi* &emsp;
+**vacaciones** *libe-tem; feria* &emsp;
+**vacilar** *dubi; hesita* &emsp;
+**vacío** *kavita* &emsp;
+**vagar** *vaga* &emsp;
+**vagón** *vagona* &emsp;
+**vaina** *vagina* &emsp;
+**valle** *vali* &emsp;
+**valor** *valu* &emsp;
+**válvula** *valva* &emsp;
+**vanidoso** *aroga* &emsp;
+**vano** *vani* &emsp;
+**vapor** *vapo* &emsp;
+**vara** *baci* &emsp;
+**variación** *vari* &emsp;
+**vasija** *vasa; kratera* &emsp;
+**vaso** *vasa; -va* &emsp;
+**Vd.** *tu* &emsp;
+**a Vd.** *tu* &emsp;
+**de Vd.** *tu* &emsp;
+**Vds.** *vi* &emsp;
+**a Vds.** *vi* &emsp;
+**de Vds.** *vi* &emsp;
+**vejiga** *kisti* &emsp;
+**vela (de barco)** *veli* &emsp;
+**velo** *vela* &emsp;
+**velocidad** *tako; veloci* &emsp;
+**veloz** *tako; veloci* &emsp;
+**vender** *vendo* &emsp;
+**veneno** *toxi* &emsp;
+**venganza** *venge; retalia* &emsp;
+**vengarse** *venge; retalia* &emsp;
+**venir** *veni* &emsp;
+**ventaja** *auxi; katalisi* &emsp;
+**ventana** *fenestra* &emsp;
+**ver** *vide* &emsp;
+**verano** *termo-tem; estiva* &emsp;
+**verdad** *veri* &emsp;
+**verdadero** *veri* &emsp;
+**verde** *kloro* &emsp;
+**verter** *fusi* &emsp;
+**vertical** *vertika; orto* &emsp;
+**vértice** *gono* &emsp;
+**vestido** *vesti; -ve* &emsp;
+**vestidos** *vesti; -ve* &emsp;
+**vez** *kron* &emsp;
+**(otra) vez** *itera* &emsp;
+**(en) vez de** *vice* &emsp;
+**viajar** *viagia; itinera* &emsp;
+**vibrar** *vibra; oscila* &emsp;
+**vicioso** *mali; kako* &emsp;
+**víctima** *viktimi* &emsp;
+**vid** *viti* &emsp;
+**vida** *vita; bio* &emsp;
+**vidrio** *vitri* &emsp;
+**viejo** *paleo* &emsp;
+**viento** *venti* &emsp;
+**vigilar** *alexi* &emsp;
+**vigor** *force; dina* &emsp;
+**vino** *vini* &emsp;
+**violar** *viole* &emsp;
+**visible** *vista* &emsp;
+**visitar** *visita* &emsp;
+**víspera** *vespera* &emsp;
+**vista** *vista* &emsp;
+**vital** *bio* &emsp;
+**viuda** *fe-vidua* &emsp;
+**viudo** *an-vidua* &emsp;
+**vivir (habitar)** *eko* &emsp;
+**vivir (vida)** *vive* &emsp;
+**vocal** *voka* &emsp;
+**volar** *vola; peti* &emsp;
+**volumen** *volumi* &emsp;
+**volver** *versi* &emsp;
+**volver a** *itera* &emsp;
+**volverse** *tropi* &emsp;
+**vosotros** *vi* &emsp;
+**voz** *voka* &emsp;
+**vueltas** *gira; tropi* &emsp;
+**dar vueltas** *torna; tropi; rota; gira* &emsp;
+**WC** *kloseta* &emsp;
+**y** *e; plus* &emsp;
+**yacer** *jace; kumbe* &emsp;
+**yeso** *kreta; gipso* &emsp;
+**yo** *mi* &emsp;
+**zaga** *poste* &emsp;
+**zaguán** *atri* &emsp;
+**zancada** *gradu* &emsp;
+**zanja** *kanali* &emsp;
+**zapato** *pedi-ve* &emsp;
+**zumo** *suku* &emsp;
 

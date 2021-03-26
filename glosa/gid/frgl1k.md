@@ -1,1805 +1,1753 @@
 ---
-title: Français - Glosa 1000
+title: Français — Glosa 1000
 layout: post
 published: true
 ---
 
+*ex libri "Français - Glosa 1000" (Ashby, Clark 1992).
 
----
-	
+`G`: u Greko radi.
 
+**a** *a* &emsp;
+**abandonner** *ki ab* &emsp;
+**abattre** *sti kade* &emsp;
+**d'abord** *prima* &emsp;
+**aboutir** *fini a* &emsp;
+**abri** *asilu* &emsp;
+**absolu** *absoluti* &emsp;
+**absorber** *tira in* &emsp;
+**accent** *pronunci* &emsp;
+**accepter** *cepti* &emsp;
+**accident** *mal-acide* &emsp;
+**accompagner** *ki ko* &emsp;
+**accomplir** *fini* &emsp;
+**accord** *akorda* &emsp;
+**accueillir** *cepti* &emsp;
+**acheter** *merka* &emsp;
+**acquerir** *gene* &emsp;
+**admettre** *permito; konfesi* &emsp;
+**administer** *organiza* &emsp;
+**admirer** *mira* &emsp;
+**adopter** *adopta* &emsp;
+**adresse** *adresa* &emsp;
+**adroit** *tekno G* &emsp;
+**affaire** *afera* &emsp;
+**affreux** *deino G* &emsp;
+**afin de** *te* &emsp;
+**age** *eva* &emsp;
+**agent** *agenti* &emsp;
+**agir** *akti* &emsp;
+**agiter** *turba* &emsp;
+**agreable** *gluko* &emsp;
+**aider** *auxi* &emsp;
+**aiguille** *aku* &emsp;
+**aile** *ala* &emsp;
+**ailleurs** *hetero-lo* &emsp;
+**aimable** *ami* &emsp;
+**aimer** *amo; filo G* &emsp;
+**ainsi** *so* &emsp;
+**air** *aero* &emsp;
+**aise** *gluko-ra* &emsp;
+**ajouter** *adi* &emsp;
+**Allemand** *Deutsch* &emsp;
+**aller** *ki* &emsp;
+**allumer** *piro G* &emsp;
+**allumette** *lucifero* &emsp;
+**alors** *bene; alora* &emsp;
+**âme** *anima* &emsp;
+**amener** *duce* &emsp;
+**amer** *pikro G* &emsp;
+**ami** *ami* &emsp;
+**amour** *filo G* &emsp;
+**amuser** *amusa* &emsp;
+**an** *anua* &emsp;
+**ancien** *paleo G* &emsp;
+**âne** *asinus* &emsp;
+**Anglais** *English* &emsp;
+**angoisse** *anxio* &emsp;
+**animal** *animala; zoa* &emsp;
+**annoncer** *deklara* &emsp;
+**août** *meno okto; M8 (abréviation pour "meno okto")* &emsp;
+**apercevoir** *oku* &emsp;
+**apparaître** *gene vista* &emsp;
+**appareil** *mekani; -me* &emsp;
+**appartement** *kamera-fa* &emsp;
+**appartenir** *es de* &emsp;
+**appeler (crier)** *voci* &emsp;
+**appeler (nom)** *nima G* &emsp;
+**appliquer** *aplika* &emsp;
+**apporter** *fero* &emsp;
+**apprendre** *dona sko; gene sko* &emsp;
+**apprêter** *prepara* &emsp;
+**approcher** *proxi* &emsp;
+**appuyer sur** *presu; baro G* &emsp;
+**après** *po* &emsp;
+**après-midi** *po meso-di* &emsp;
+**arbre** *dendro* &emsp;
+**argent** *argenti; valuta* &emsp;
+**arme** *arma* &emsp;
+**armée** *arme* &emsp;
+**armoire** *tena-mo* &emsp;
+**arracher** *apo G* &emsp;
+**arranger** *taxo G* &emsp;
+**arrêter** *sto* &emsp;
+**arriver** *veni* &emsp;
+**art** *arti* &emsp;
+**article** *ra; artikla* &emsp;
+**aspect** *aspekto* &emsp;
+**asseoir** *sedi* &emsp;
+**assez** *sati* &emsp;
+**assiette** *disko* &emsp;
+**assister** *auxi* &emsp;
+**assurer** *sura* &emsp;
+**atelier** *ergo-lo* &emsp;
+**attacher** *liga* &emsp;
+**attaquer** *viole* &emsp;
+**atteindre** *veni a* &emsp;
+**attendre** *atende* &emsp;
+**attention** *kura* &emsp;
+**attirer** *trakto; tira* &emsp;
+**attitude** *atitudi* &emsp;
+**aucun** *zero G; nuli* &emsp;
+**audessous** *infra* &emsp;
+**audessus** *supra* &emsp;
+**augmenter** *auge* &emsp;
+**aujourd'hui** *nu-di* &emsp;
+**auprès de** *para* &emsp;
+**aussi** *pluso* &emsp;
+**aussi ... que** *iso ... de* &emsp;
+**aussitôt** *imedia* &emsp;
+**autant ... que** *iso ... de* &emsp;
+**auteur** *grafo-pe* &emsp;
+**auto-bus** *bus* &emsp;
+**auto-car** *vagona* &emsp;
+**automne** *autumna* &emsp;
+**automobile** *vagona* &emsp;
+**autorité** *arki* &emsp;
+**autour** *peri* &emsp;
+**autre** *hetero G* &emsp;
+**autrefois** *pre nu* &emsp;
+**autrement** *hetero G* &emsp;
+**avancer** *avanti* &emsp;
+**avantage** *auxi; profito* &emsp;
+**avec** *ko* &emsp;
+**avenir** *fu-tem* &emsp;
+**aventure** *aventura* &emsp;
+**avertir de** *monito de* &emsp;
+**aveugle** *no-vide* &emsp;
+**avion** *aeroplana* &emsp;
+**avis** *doxo G* &emsp;
+**aviser** *info* &emsp;
+**avoir (possesser)** *habe* &emsp;
+**avouer** *konfesi* &emsp;
+**avril** *meno tetra; M4 (abréviation pour "meno tetra")* &emsp;
+**bain** *lava* &emsp;
+**baisser** *baso* &emsp;
+**balai** *brosa* &emsp;
+**banc** *benca* &emsp;
+**bande** *banda* &emsp;
+**barbe** *barba* &emsp;
+**bas** *baso* &emsp;
+**bas** *non-alti* &emsp;
+**le bas** *poda-ve* &emsp;
+**bataille** *milita* &emsp;
+**bateau** *navi* &emsp;
+**bâton** *baci* &emsp;
+**battre** *bate* &emsp;
+**beau** *kali G* &emsp;
+**beaucoup de** *mega G* &emsp;
+**bébé** *babi* &emsp;
+**bec** *rostra* &emsp;
+**besogne** *ergo G* &emsp;
+**besoin** *minus* &emsp;
+**bête** *zoa* &emsp;
+**beurre** *butiri* &emsp;
+**bicyclette** *birota* &emsp;
+**bien** *bene* &emsp;
+**bientôt** *nu-fu* &emsp;
+**billet** *bileta* &emsp;
+**bizarre** *xeno G* &emsp;
+**blanc** *alba; leuko G* &emsp;
+**blé** *cereali* &emsp;
+**blessé** *ge-noku* &emsp;
+**blesser** *vulne* &emsp;
+**bleu** *blu; ciano* &emsp;
+**blond** *xanto G* &emsp;
+**blouse** *blusa* &emsp;
+**boeuf** *bovi* &emsp;
+**boire** *bibe* &emsp;
+**bois** *ligni; silva* &emsp;
+**boisson** *bibe-ma* &emsp;
+**boîte** *teka G* &emsp;
+**bon** *boni* &emsp;
+**bonheur** *hedo G* &emsp;
+**bonjour** *boni di; ave* &emsp;
+**bord** *margina* &emsp;
+**borner** *limita* &emsp;
+**bouche** *stoma G* &emsp;
+**boucher** *karni-pe* &emsp;
+**boucher** *sto* &emsp;
+**bouillir** *buli* &emsp;
+**boulanger** *pani-pe* &emsp;
+**boulangerie** *pani-bo* &emsp;
+**bourgeois** *burgeso* &emsp;
+**bourgeon** *blasto G* &emsp;
+**bout** *fini; akro G* &emsp;
+**bouteille** *botilia* &emsp;
+**bouton** *butona* &emsp;
+**branche** *rami* &emsp;
+**bras** *braki* &emsp;
+**brav (courage)** *anti-fobo* &emsp;
+**brillant** *radia* &emsp;
+**brique** *brika* &emsp;
+**briser** *frakti* &emsp;
+**brosse** *brosa* &emsp;
+**brouillard** *nebu* &emsp;
+**bruit** *soni; fono* &emsp;
+**brûler** *piro; busti* &emsp;
+**brusquement** *subito* &emsp;
+**bureau** *buro* &emsp;
+**but** *buta; tende* &emsp;
+**ça** *u-la* &emsp;
+**cabine** *kabina* &emsp;
+**cabinet** *kabineta* &emsp;
+**cacher** *kripti G* &emsp;
+**café** *kafe* &emsp;
+**café (boisson)** *kafa* &emsp;
+**calme** *kalma G* &emsp;
+**camarade** *ami* &emsp;
+**camion** *kargo-vagona* &emsp;
+**campagne** *rura* &emsp;
+**caoutchouc** *gumi* &emsp;
+**capable** *pote* &emsp;
+**capitaine** *kapitana* &emsp;
+**car (conjonction)** *ka* &emsp;
+**caractère** *karakteri* &emsp;
+**carte** *karta* &emsp;
+**cas** *kaso* &emsp;
+**casser** *frakti* &emsp;
+**casserole** *buli-va* &emsp;
+**cause** *sti* &emsp;
+**causer** *sti* &emsp;
+**cave** *infra-ka* &emsp;
+**ce** *u-ci* &emsp;
+**céder** *cede* &emsp;
+**ceinture** *zona G* &emsp;
+**ceinture verte** *kloro-zo* &emsp;
+**cela** *u-la* &emsp;
+**celui-ci** *u-ci* &emsp;
+**celui-la** *u-la* &emsp;
+**cent** *hekto G* &emsp;
+**cent cinquante** *mo-penta-ze* &emsp;
+**centre** *centra* &emsp;
+**cependant** *anti-co* &emsp;
+**cercle** *cikla* &emsp;
+**certain** *certa; sura* &emsp;
+**ces** *plu-ci* &emsp;
+**cesser** *sto* &emsp;
+**cette** *u-ci* &emsp;
+**chacun** *singu* &emsp;
+**chagrin** *non-hedo* &emsp;
+**chaise** *sedi-mo* &emsp;
+**chaleur** *termo G* &emsp;
+**chamailler** *disputa* &emsp;
+**chambre** *kamera; -ka* &emsp;
+**champ** *agri* &emsp;
+**chance** *fortuna* &emsp;
+**changer** *muta* &emsp;
+**chanson** *kanta* &emsp;
+**chapeau** *kefa-ve* &emsp;
+**chaque** *singu* &emsp;
+**charbon** *karbo* &emsp;
+**charge** *kargo* &emsp;
+**charmant** *carma* &emsp;
+**charrue** *ara* &emsp;
+**chasser** *casa* &emsp;
+**chat** *feli* &emsp;
+**château** *kastela* &emsp;
+**chaud** *termo G* &emsp;
+**chauffer** *dona termo* &emsp;
+**chaussette** *pedi-te* &emsp;
+**chaussure** *pedi-ve* &emsp;
+**chef** *cefa* &emsp;
+**chemin** *via* &emsp;
+**cheminée** *fumi-tubi* &emsp;
+**chemise** *su-tunika* &emsp;
+**cher** *karo* &emsp;
+**chercher** *cerka* &emsp;
+**cheval** *Equs* &emsp;
+**cheveu** *kapila* &emsp;
+**chèvre** *kapri* &emsp;
+**chez moi** *a mi domi* &emsp;
+**chien** *kani* &emsp;
+**chiffon** *mero-te* &emsp;
+**chocolat** *cokolata* &emsp;
+**choisir** *elekti* &emsp;
+**chose** *ra* &emsp;
+**chute** *kade* &emsp;
+**-ci** *ci* &emsp;
+**ciel** *cele* &emsp;
+**cimetière** *morta-lo* &emsp;
+**cinq** *penta* &emsp;
+**cinquante** *penta-ze* &emsp;
+**circonstance** *acide* &emsp;
+**ciseau** *cisori* &emsp;
+**cité** *civita* &emsp;
+**clair** *klari* &emsp;
+**classe** *klasi* &emsp;
+**clavier** *klavi-taba* &emsp;
+**clé** *klavi* &emsp;
+**clef** *klavi* &emsp;
+**client** *merka-pe* &emsp;
+**clou** *aku* &emsp;
+**cochon** *sui* &emsp;
+**code** *kodi* &emsp;
+**cœur** *kardia* &emsp;
+**coiffeur** *kapila-pe* &emsp;
+**coin** *gono G* &emsp;
+**colère** *koleri G* &emsp;
+**combattre** *lukta* &emsp;
+**combien de** *qanto* &emsp;
+**commander** *komanda* &emsp;
+**comme** *komo* &emsp;
+**commencer** *komence* &emsp;
+**comment** *komo* &emsp;
+**commerce** *komerci* &emsp;
+**commettre** *face* &emsp;
+**commun** *komuni* &emsp;
+**communiquer** *komunika* &emsp;
+**compagnie** *kompani* &emsp;
+**compagnon** *kamerada* &emsp;
+**comparer** *kompara* &emsp;
+**complet** *fini* &emsp;
+**composer** *komposi* &emsp;
+**comprendre** *logi* &emsp;
+**compte** *konto* &emsp;
+**concevoir** *imagina* &emsp;
+**conclure de** *logi ex* &emsp;
+**condamner** *judika anti* &emsp;
+**condition** *stato* &emsp;
+**conditionnel** *sio* &emsp;
+**conduire** *duce* &emsp;
+**confiance** *fide* &emsp;
+**confondre** *konfusi* &emsp;
+**connaissance** *skience* &emsp;
+**connaitre** *ski* &emsp;
+**conseiller** *konsili* &emsp;
+**conséquence** *seqe* &emsp;
+**conserver** *tena* &emsp;
+**considérable** *gravi* &emsp;
+**considérer** *examina* &emsp;
+**consoler** *konsola* &emsp;
+**constituer** *konstitu* &emsp;
+**construire** *face* &emsp;
+**contenir** *tena* &emsp;
+**continuer** *dura* &emsp;
+**contraire** *kontra* &emsp;
+**convaincre** *sti kredi* &emsp;
+**convenir** *gru* &emsp;
+**converser** *konversa* &emsp;
+**coq** *an-galina* &emsp;
+**corde** *korda* &emsp;
+**cordonnier** *kalca-pe* &emsp;
+**corne** *kornu* &emsp;
+**corps** *soma G* &emsp;
+**costume** *vesti* &emsp;
+**côte** *kosta* &emsp;
+**côté** *latu* &emsp;
+**coton** *kotona* &emsp;
+**cou** *kola* &emsp;
+**coucher** *kli* &emsp;
+**coudre** *sue* &emsp;
+**couler** *fusi* &emsp;
+**couleur** *kroma G* &emsp;
+**coup** *bate* &emsp;
+**coupable** *kulpa* &emsp;
+**couper** *seka* &emsp;
+**cour** *korta* &emsp;
+**courage** *anti-fobo* &emsp;
+**courant** *flu* &emsp;
+**courir** *kursi; dromo G* &emsp;
+**court** *brevi* &emsp;
+**courtois** *civili* &emsp;
+**coussin** *kosina* &emsp;
+**couteau** *kultela* &emsp;
+**couter** *preci* &emsp;
+**couture** *sutura* &emsp;
+**couvercle** *tegu* &emsp;
+**cracher** *spu* &emsp;
+**craindre** *fobo G* &emsp;
+**crâne** *krania* &emsp;
+**crayon** *pencila* &emsp;
+**créer** *face; krea* &emsp;
+**creuser** *fosi* &emsp;
+**creux** *kavita* &emsp;
+**cri** *voci* &emsp;
+**crime** *krimi* &emsp;
+**croire** *kredi* &emsp;
+**croiser** *kruci* &emsp;
+**croix** *kruci* &emsp;
+**cuiller** *spatula* &emsp;
+**cuir** *derma* &emsp;
+**cuire** *kuko* &emsp;
+**cuisine** *kuko-ka* &emsp;
+**culpabilité** *kulpa* &emsp;
+**cultivateur** *agri-pe* &emsp;
+**cultiver** *kulti* &emsp;
+**curer** *puri* &emsp;
+**curieux** *qestio* &emsp;
+**dame** *dama; gina* &emsp;
+**danger** *risko* &emsp;
+**dans** *in* &emsp;
+**danser** *kore* &emsp;
+**davantage** *ma* &emsp;
+**de** *de* &emsp;
+**débarrasser** *libe* &emsp;
+**debout** *orto* &emsp;
+**débrouiller** *klari* &emsp;
+**début** *proto G* &emsp;
+**décembre** *meno mo-bi; M12 (abréviation pour "meno mo-bi")* &emsp;
+**décharger** *no-kargo* &emsp;
+**déchirer** *skizo G* &emsp;
+**décider** *judika* &emsp;
+**déclarer** *dice; deklara* &emsp;
+**décorer** *dekora; kali G* &emsp;
+**découvrir** *detekti* &emsp;
+**dedans** *intra* &emsp;
+**défaut** *defekti* &emsp;
+**défendre** *alexi G* &emsp;
+**dégager** *libe* &emsp;
+**degré** *gradu* &emsp;
+**dehors** *extra* &emsp;
+**déjà** *pre-nu* &emsp;
+**déjeuner** *vora* &emsp;
+**au delà de** *ultra* &emsp;
+**délicat** *delikate* &emsp;
+**demain** *fu-di* &emsp;
+**demander** *demanda* &emsp;
+**demeure** *eko-do* &emsp;
+**demi** *semi* &emsp;
+**démolir** *no-face* &emsp;
+**dent** *denti* &emsp;
+**départ** *ki ab* &emsp;
+**dépasser** *pasa* &emsp;
+**dépenser** *spende* &emsp;
+**déposer** *loka* &emsp;
+**dépuis** *ex* &emsp;
+**déranger** *turba* &emsp;
+**dernier** *pa; pre; ultima* &emsp;
+**dérober** *klepto G* &emsp;
+**derrière** *po* &emsp;
+**dès** *ex* &emsp;
+**descendre** *ki kata* &emsp;
+**désert** *deserta* &emsp;
+**déshabiller** *no-vesti* &emsp;
+**désigner** *indika* &emsp;
+**désigner (nommer)** *nima G* &emsp;
+**désir** *fo-volu* &emsp;
+**désormais** *ex nu* &emsp;
+**dessin** *grafo G* &emsp;
+**dessous** *infra* &emsp;
+**dessus** *supra* &emsp;
+**destinée** *fata* &emsp;
+**détacher** *lisi G* &emsp;
+**détail** *data* &emsp;
+**détourner** *tropi G* &emsp;
+**détruire** *no-face* &emsp;
+**deux** *bi* &emsp;
+**tous les deux** *ambi* &emsp;
+**devant** *ante* &emsp;
+**le devant** *fronta* &emsp;
+**développer** *developo* &emsp;
+**devenir** *esce* &emsp;
+**deviner** *divina* &emsp;
+**devoir** *debi* &emsp;
+**diable** *diaboli* &emsp;
+**dieu** *teo* &emsp;
+**differénce** *difere; hetero G* &emsp;
+**difficile** *no-facili* &emsp;
+**digne de** *merito* &emsp;
+**dimanche** *di mo* &emsp;
+**diminuer** *mei G* &emsp;
+**dîner** *vora* &emsp;
+**dire** *dice* &emsp;
+**directeur** *duce-pe* &emsp;
+**direction** *direkti* &emsp;
+**diriger** *direkti* &emsp;
+**discours** *diskursi* &emsp;
+**discussion** *diskusi* &emsp;
+**disparaître** *lose vista* &emsp;
+**disposer** *taxo G* &emsp;
+**disposer de** *uti* &emsp;
+**disputer** *disputa* &emsp;
+**disque** *disko* &emsp;
+**disquette** *flexi-disko* &emsp;
+**distance** *dista; tele G* &emsp;
+**distinguer** *separa* &emsp;
+**divers** *difere* &emsp;
+**dix** *deka* &emsp;
+**dizaine** *proxi deka* &emsp;
+**docteur** *iatri G* &emsp;
+**doigt** *digi* &emsp;
+**domaine** *area* &emsp;
+**domestique** *domi* &emsp;
+**dominer** *domina* &emsp;
+**donc** *ka-co* &emsp;
+**donner** *dona* &emsp;
+**dont** *de qi* &emsp;
+**dormir** *somni; sopo* &emsp;
+**dos** *dorsa* &emsp;
+**double** *diplo G* &emsp;
+**douceur** *gluko; dulce* &emsp;
+**douleur** *algo G* &emsp;
+**doute** *dubi* &emsp;
+**doux** *gluko; dulce* &emsp;
+**douze** *mo-bi; 12* &emsp;
+**drap** *lana-te* &emsp;
+**drapeau** *insigni* &emsp;
+**dresser** *orto* &emsp;
+**droit** *rekti* &emsp;
+**le droit** *privilegi* &emsp;
+**la droite** *dextro* &emsp;
+**drôle** *amusa* &emsp;
+**dur** *dura* &emsp;
+**durant** *duranto* &emsp;
+**duratif** *du* &emsp;
+**durée** *tem* &emsp;
+**eau** *aqa; hidro G* &emsp;
+**écarter** *moti ab* &emsp;
+**échanger** *kambio* &emsp;
+**échapper** *salva* &emsp;
+**échelle** *skala* &emsp;
+**éclair** *flasc* &emsp;
+**éclairer** *lumi* &emsp;
+**éclat (acoustique)** *fo-soni* &emsp;
+**éclat (optique)** *fo-foto* &emsp;
+**éclater** *explode* &emsp;
+**école** *sko-do* &emsp;
+**écouter** *audi; akusti G* &emsp;
+**écraser** *klasto G* &emsp;
+**s'écrier** *voci; exklama* &emsp;
+**écrire** *grafo G* &emsp;
+**education** *eduka* &emsp;
+**effacer** *apo G* &emsp;
+**effet** *seqe* &emsp;
+**'sefforcer** *fo tenta* &emsp;
+**effrayer** *sti fobo* &emsp;
+**égal** *eqa* &emsp;
+**eglise** *religio-do* &emsp;
+**église** *eklesia* &emsp;
+**eh, bien !** *bene !* &emsp;
+**s'élancer** *bali se* &emsp;
+**électricité** *elektro* &emsp;
+**élément** *elementa* &emsp;
+**élève** *sko-pe* &emsp;
+**élever** *kura pro* &emsp;
+**élever** *leva* &emsp;
+**elle** *fe* &emsp;
+**elles** *mu* &emsp;
+**éloigner** *apo G* &emsp;
+**embarasser** *turba* &emsp;
+**embrasser** *oskula* &emsp;
+**emmener** *duce ab* &emsp;
+**émotion** *emotio* &emsp;
+**s'emparer de** *rapi* &emsp;
+**empêcher** *sto* &emsp;
+**employer** *uti* &emsp;
+**emporter** *apo G* &emsp;
+**s'empresser** *peti* &emsp;
+**en** *in* &emsp;
+**en (+ verbe)** *de id; de mu* &emsp;
+**en arrière** *retro* &emsp;
+**en bois** *ex ligni* &emsp;
+**en-outre** *plus-co* &emsp;
+**enchanter** *magika* &emsp;
+**encore** *pluso* &emsp;
+**pas encore** *ne a-nu* &emsp;
+**endormir** *sti sopo* &emsp;
+**endroit** *topo G* &emsp;
+**énergie** *energi G* &emsp;
+**enfant** *infanti* &emsp;
+**enfermer** *inklude* &emsp;
+**enfin** *a fini* &emsp;
+**enfoncer** *pulsa in* &emsp;
+**s'enfuir** *fugi* &emsp;
+**engager a** *promise* &emsp;
+**enlever** *apo G* &emsp;
+**ennemi** *non-ami* &emsp;
+**enorme** *enormo* &emsp;
+**ensemble** *kon alelo* &emsp;
+**l'ensemble** *un holo* &emsp;
+**ensuite** *po-co* &emsp;
+**entendre** *audi; akusti G* &emsp;
+**enterrer** *in-tera* &emsp;
+**enthousiasme** *zelo* &emsp;
+**entier** *holo G* &emsp;
+**entourer de** *peri* &emsp;
+**entraîner** *trakto; tira* &emsp;
+**entre** *inter* &emsp;
+**entrée** *in-lo* &emsp;
+**entrer** *ki in* &emsp;
+**enveloppe** *grama-ve* &emsp;
+**envie** *volu* &emsp;
+**environ** *proxi* &emsp;
+**environnement** *peri-lo* &emsp;
+**environs** *peri-lo* &emsp;
+**envoyer** *mite; bali* &emsp;
+**épais** *densi* &emsp;
+**épaule** *skapa* &emsp;
+**épicerie** *sito-bo* &emsp;
+**épingle** *spina* &emsp;
+**époque** *tem* &emsp;
+**épouser** *game G* &emsp;
+**épreuve** *testa* &emsp;
+**erreur** *ero* &emsp;
+**escalier** *skala* &emsp;
+**espace** *spaci* &emsp;
+**espèce** *speci* &emsp;
+**espérer** *spe* &emsp;
+**esprit** *spiritu* &emsp;
+**essayer** *tenta* &emsp;
+**essence** *benzina* &emsp;
+**essuyer** *frika* &emsp;
+**est (direction)** *est; orienta* &emsp;
+**est (être)** *es* &emsp;
+**estimer** *valu* &emsp;
+**et** *e; sin; plus* &emsp;
+**établir** *fixa* &emsp;
+**étage** *pedi-lo* &emsp;
+**état** *fisio* &emsp;
+**été** *termo-tem* &emsp;
+**éteindre** *sto* &emsp;
+**étendre** *extende* &emsp;
+**éternel** *no-fini* &emsp;
+**étoile** *astro G* &emsp;
+**étonner** *stupe* &emsp;
+**étouffer** *sto spira* &emsp;
+**étrange** *xeno G* &emsp;
+**étranger** *xeno G* &emsp;
+**à l'étranger** *extra landa* &emsp;
+**être** *es* &emsp;
+**étroit** *steno* &emsp;
+**étudiant(e)** *stude-pe* &emsp;
+**étudier** *stude* &emsp;
+**eux** *mu* &emsp;
+**éveiller** *vigi* &emsp;
+**événement** *acide* &emsp;
+**évidemment** *klari* &emsp;
+**éviter** *evita* &emsp;
+**exactement** *exakti* &emsp;
+**examen** *examina* &emsp;
+**excellent** *excele* &emsp;
+**exciter** *excite* &emsp;
+**excuser** *pardo* &emsp;
+**exécuter** *face* &emsp;
+**exemple** *exempla* &emsp;
+**exercer** *sti ergo* &emsp;
+**exiger** *demanda* &emsp;
+**exister** *existe* &emsp;
+**expérience** *experi* &emsp;
+**expliquer** *explika* &emsp;
+**exposer** *monstra* &emsp;
+**expression** *expresi* &emsp;
+**exprimer** *expresi* &emsp;
+**extérieur** *extra* &emsp;
+**extraordinaire** *stupe* &emsp;
+**extrême** *extremi* &emsp;
+**fabrique** *face-do* &emsp;
+**face** *facia* &emsp;
+**facile** *facili* &emsp;
+**façon** *mode* &emsp;
+**facteur (poste)** *posta-pe* &emsp;
+**faible** *no-dina* &emsp;
+**faim** *fami* &emsp;
+**faire** *face* &emsp;
+**faire (causer)** *sti* &emsp;
+**le fait** *faktu* &emsp;
+**il fallait** *pa nece* &emsp;
+**falloir** *nece* &emsp;
+**fameux** *famo* &emsp;
+**famille** *famili* &emsp;
+**farine** *farina* &emsp;
+**fatiguer** *fatiga* &emsp;
+**il faudra** *fu nece* &emsp;
+**faute** *defekti* &emsp;
+**fauteuil** *braki-hedra G* &emsp;
+**faux** *falsi* &emsp;
+**favoriser** *favo* &emsp;
+**femme** *gina* &emsp;
+**fenêtre** *fenestra* &emsp;
+**fer** *feru* &emsp;
+**ferme** *agri-lo* &emsp;
+**fermer** *klude* &emsp;
+**fête** *festa* &emsp;
+**feu** *piro G* &emsp;
+**feuille** *folia* &emsp;
+**fevrier** *meno bi; M2 (abréviation pour "meno bi")* &emsp;
+**fiçelle** *korda; -fi* &emsp;
+**fièvre** *pirexia G* &emsp;
+**figure** *figura* &emsp;
+**fil** *(-)fi* &emsp;
+**filet** *reti* &emsp;
+**jeune fille** *ju-fe* &emsp;
+**film** *filma* &emsp;
+**fils** *an-fili* &emsp;
+**fin** *fini* &emsp;
+**finir** *fini* &emsp;
+**fixer** *fixa* &emsp;
+**fleur** *flori; anto G* &emsp;
+**foi** *kredi* &emsp;
+**foin** *fenu* &emsp;
+**fois** *kron G* &emsp;
+**folie** *rabie* &emsp;
+**folle** *rabi* &emsp;
+**foncé** *melano G* &emsp;
+**fond** *funda* &emsp;
+**fondre** *liqi* &emsp;
+**force** *dina G* &emsp;
+**forêt** *foresta* &emsp;
+**forger** *face* &emsp;
+**forme** *forma; morfo* &emsp;
+**former** *forma* &emsp;
+**fortune** *fortuna* &emsp;
+**fou** *rabi* &emsp;
+**le fou** *rabi-pe* &emsp;
+**foule** *poli-pe* &emsp;
+**fourchette** *furka* &emsp;
+**fourmi** *formika* &emsp;
+**fourneau** *furna* &emsp;
+**fournir** *dona* &emsp;
+**frais** *neo* &emsp;
+**les frais** *spende* &emsp;
+**français** *Francais* &emsp;
+**franchir** *pasa* &emsp;
+**frapper** *bate; tipo G* &emsp;
+**frère** *fratri* &emsp;
+**froid** *frigi* &emsp;
+**fromage** *kasea* &emsp;
+**front** *fronta* &emsp;
+**frontière** *frontira* &emsp;
+**frotter** *frika* &emsp;
+**fruit** *frukti* &emsp;
+**fuir** *fugi* &emsp;
+**fumée** *fumi* &emsp;
+**furieux** *koleri G* &emsp;
+**-futur: erai** *fu* &emsp;
+**futur: je viendrai** *mi fu veni* &emsp;
+**future** *futuri* &emsp;
+**gagner** *gene* &emsp;
+**gai** *hedo G* &emsp;
+**garçon** *ju-an* &emsp;
+**garde** *alexi G* &emsp;
+**gare** *statio* &emsp;
+**gas** *gasi* &emsp;
+**gâteau** *plaka G* &emsp;
+**gauche** *laevo* &emsp;
+**gêner** *vexa* &emsp;
+**general** *generali* &emsp;
+**genou** *genu* &emsp;
+**genre** *speci* &emsp;
+**gens** *plu pe* &emsp;
+**gentil** *dulce* &emsp;
+**geste** *sema* &emsp;
+**glace** *glacia* &emsp;
+**glisser** *glisa* &emsp;
+**gloire** *glori* &emsp;
+**gorge** *gutura* &emsp;
+**goût** *gusta* &emsp;
+**goutte** *guta* &emsp;
+**gouvernement** *krati* &emsp;
+**grâce** *graci* &emsp;
+**graisse** *lipo* &emsp;
+**grand** *mega G* &emsp;
+**grand-mere** *patri-matri; matri-matri* &emsp;
+**grand-père** *matri-patri; patri-patri* &emsp;
+**gras** *lipo* &emsp;
+**grave** *serioso* &emsp;
+**grenier** *stego-ka* &emsp;
+**gris** *polio G* &emsp;
+**gros** *obesi* &emsp;
+**groupe** *grega* &emsp;
+**guerir** *repara* &emsp;
+**guerre** *milita* &emsp;
+**habile** *tekno G* &emsp;
+**habiller** *vesti* &emsp;
+**habitant** *in-pe* &emsp;
+**habiter** *eko* &emsp;
+**habitude** *habitu* &emsp;
+**hasard** *risko* &emsp;
+**se hâter** *akti rapidi* &emsp;
+**haut** *alti* &emsp;
+**herbe** *herba* &emsp;
+**hésiter** *hesita* &emsp;
+**l'heure** *horo G* &emsp;
+**heureusement** *boni fortuna* &emsp;
+**heureux** *hedo G* &emsp;
+**heurter** *noku* &emsp;
+**hier** *pa-di* &emsp;
+**histoire** *histori G* &emsp;
+**hiver** *frigi-tem* &emsp;
+**homme** *homi* &emsp;
+**honnête** *honesti* &emsp;
+**honneur** *honora* &emsp;
+**hôpital** *pato-do* &emsp;
+**horizon** *horizo G* &emsp;
+**horreur** *fobo G* &emsp;
+**horrible** *sti-fobo* &emsp;
+**hors** *extra* &emsp;
+**hospitalité** *hospita* &emsp;
+**hôtel** *hoteli* &emsp;
+**l'huile** *olea* &emsp;
+**huit** *okto* &emsp;
+**humain** *homi* &emsp;
+**humeur** *atitudi* &emsp;
+**humide** *humidi* &emsp;
+**ici** *ci* &emsp;
+**idée** *idea* &emsp;
+**ignorer** *ne ski* &emsp;
+**il** *an G* &emsp;
+**ils** *mu* &emsp;
+**image** *imagi* &emsp;
+**imaginer** *imagina; fantasi G* &emsp;
+**imiter** *mimi* &emsp;
+**immédiat** *imedia* &emsp;
+**immense** *fo-mega* &emsp;
+**immobile** *no-kine* &emsp;
+**important** *gravi* &emsp;
+**impossible** *no-posi* &emsp;
+**impression** *impresi* &emsp;
+**incapable** *no-pote* &emsp;
+**incident** *acide* &emsp;
+**incliner** *klina* &emsp;
+**inconnu** *no-ge-ski* &emsp;
+**indiquer** *indika* &emsp;
+**individu** *persona; individu* &emsp;
+**inférieur** *infra* &emsp;
+**infini** *no-fini* &emsp;
+**infirmier** *kura-pe; kura-an; kura-fe* &emsp;
+**ingénieur** *mekani-pe* &emsp;
+**inquiet** *anxio* &emsp;
+**insecte** *insekti* &emsp;
+**insister sur** *itera* &emsp;
+**inspirer** *inspira* &emsp;
+**installer** *loka; fixa* &emsp;
+**instant** *kron G* &emsp;
+**instinct** *instinkti* &emsp;
+**instruction** *sko* &emsp;
+**intélligence** *intelige* &emsp;
+**intention** *tende* &emsp;
+**interdire** *veto* &emsp;
+**intéresser** *interese* &emsp;
+**intérieur** *intra* &emsp;
+**interroger** *roga* &emsp;
+**interrompre** *interupti* &emsp;
+**intime** *intra* &emsp;
+**introduire** *intra-duce* &emsp;
+**inutile** *minus uti* &emsp;
+**inviter** *invita* &emsp;
+**jadis** *pre nu* &emsp;
+**jamais** *ali-kron* &emsp;
+**ne jamais** *nuli-kron* &emsp;
+**jambe** *poda G* &emsp;
+**janvier** *meno mo; M1 (abréviation pour "meno mo")* &emsp;
+**jardin** *horti* &emsp;
+**jaune** *xanto G* &emsp;
+**je** *mi* &emsp;
+**je suis allé** *mi pa ki* &emsp;
+**jeudi** *di penta* &emsp;
+**jeune** *juve* &emsp;
+**joie** *hedo G* &emsp;
+**joindre** *nexu* &emsp;
+**joli** *kali G* &emsp;
+**joue** *buka* &emsp;
+**jouer** *sporta; ludi* &emsp;
+**jouet** *sporta-ra* &emsp;
+**jouir** *fru* &emsp;
+**jour** *di* &emsp;
+**journal** *jurnali* &emsp;
+**juge** *judika-pe* &emsp;
+**juger** *judika* &emsp;
+**juillet** *meno seti; M7 (abréviation pour "meno seti")* &emsp;
+**juin** *meno sixa; M6 (abréviation pour "meno sixa")* &emsp;
+**jupe** *infra tunika* &emsp;
+**jurer** *jura* &emsp;
+**jusque** *a; ad* &emsp;
+**juste** *justi* &emsp;
+**se: l'un l'autre** *alelo* &emsp;
+**la** *la* &emsp;
+**la** *u-ci; u-la* &emsp;
+**lac** *laku* &emsp;
+**lâcher** *lase ki* &emsp;
+**laid** *no-kali* &emsp;
+**laine** *lana* &emsp;
+**laisser** *lase* &emsp;
+**lait** *lakti* &emsp;
+**lame** *lami* &emsp;
+**lampe** *lampa G* &emsp;
+**lancer** *bali* &emsp;
+**langue** *lingua; glosa G* &emsp;
+**large** *lati* &emsp;
+**larme** *lakrima* &emsp;
+**laver** *lava* &emsp;
+**le** *u-ci; u-la* &emsp;
+**lecon** *sko* &emsp;
+**léger** *levia* &emsp;
+**légume** *leguma* &emsp;
+**lendemain** *po-di* &emsp;
+**lent** *lento* &emsp;
+**lequel ..,** *qi ..,* &emsp;
+**les** *plu-ci; plu-la* &emsp;
+**les ...s (pluriel)** *plu* &emsp;
+**les deux** *bi-ci* &emsp;
+**les etoiles** *plu astro* &emsp;
+**lettre (abc)** *litera* &emsp;
+**lettre (enveloppe)** *grama* &emsp;
+**leur** *mu* &emsp;
+**lever** *leva* &emsp;
+**lèvre** *labia* &emsp;
+**liberté** *libe* &emsp;
+**lier** *liga* &emsp;
+**lieu** *loka; -lo* &emsp;
+**au lieu de** *vice* &emsp;
+**ligne** *line* &emsp;
+**linge** *domi-te* &emsp;
+**liquide** *liqi* &emsp;
+**lire** *lekto* &emsp;
+**lit** *kli* &emsp;
+**lit** *sopo-mo* &emsp;
+**litre** *litra* &emsp;
+**livre** *libri; bibli G* &emsp;
+**livrer** *livra* &emsp;
+**loi** *lega* &emsp;
+**loin** *dista; tele G* &emsp;
+**long** *longi* &emsp;
+**longtemps** *longi-tem* &emsp;
+**lorsque** *kron G* &emsp;
+**louer** *lue* &emsp;
+**lourd** *gravi; masi* &emsp;
+**lui** *ad an* &emsp;
+**lumière** *lumi* &emsp;
+**lundi** *di bi* &emsp;
+**lune** *luna* &emsp;
+**lunettes** *plu lenti* &emsp;
+**lutte** *lukta* &emsp;
+**ma** *mi* &emsp;
+**machine** *makina G* &emsp;
+**machine a coudre** *sue-me* &emsp;
+**madame** *seniora* &emsp;
+**mademoiselle** *seniorina* &emsp;
+**magasin** *magazina* &emsp;
+**magnifique** *grandi* &emsp;
+**mai** *meno penta; M5 (abréviation pour "meno penta")* &emsp;
+**maigre** *tenu* &emsp;
+**maillot** *nekto-ve G* &emsp;
+**main** *manu* &emsp;
+**maintenant** *nu* &emsp;
+**maintenir** *tena* &emsp;
+**mairie** *duce-do* &emsp;
+**mais** *sed* &emsp;
+**maison** *domi; -do* &emsp;
+**maitre** *an-maestro* &emsp;
+**maitresse** *fe-maestro* &emsp;
+**mal** *mali* &emsp;
+**malade** *pato G* &emsp;
+**le malade** *pato-pe* &emsp;
+**maladie** *pato G* &emsp;
+**malgré** *anti* &emsp;
+**malheur** *mali fortuna* &emsp;
+**malin** *tekno-mali* &emsp;
+**le manche** *manu-ra* &emsp;
+**manger** *vora* &emsp;
+**manière** *mode* &emsp;
+**de cette manière** *so* &emsp;
+**manteau** *mantela* &emsp;
+**marchand** *vendo-pe* &emsp;
+**marché** *vendo-lo; merkato* &emsp;
+**marcher** *gresi; funktio* &emsp;
+**mardi** *di tri* &emsp;
+**mari** *andro G* &emsp;
+**mariage** *game G* &emsp;
+**marier** *game G* &emsp;
+**marmite** *buli-va* &emsp;
+**marquer** *marka* &emsp;
+**mars** *meno tri; M3 (abréviation pour "meno tri")* &emsp;
+**marteau** *malea* &emsp;
+**masse** *masi* &emsp;
+**matelas** *soma kosina* &emsp;
+**materiel** *materia; -ma* &emsp;
+**matin** *mana* &emsp;
+**mauvais** *mali* &emsp;
+**me** *mi* &emsp;
+**mécanicien** *meka-pe* &emsp;
+**méchant** *mali; kako G* &emsp;
+**médecin** *medika-pe; iatri G* &emsp;
+**médicament** *medika-ma* &emsp;
+**meilleur** *ma boni* &emsp;
+**mêler** *mixa* &emsp;
+**membre** *membra* &emsp;
+**même** *auto* &emsp;
+**mémoire** *memo* &emsp;
+**menacer** *menace* &emsp;
+**ménage** *eko* &emsp;
+**ménagère** *eko-fe* &emsp;
+**mener** *duce* &emsp;
+**mensonge** *falsi; pseudo G* &emsp;
+**menuiser** *face* &emsp;
+**mer** *mari* &emsp;
+**merci** *gratia* &emsp;
+**mercredi** *di tetra* &emsp;
+**mère** *matri* &emsp;
+**meriter** *merito* &emsp;
+**merveille** *mira* &emsp;
+**mes livres** *mi plu bibli* &emsp;
+**mesdames** *plu siniora* &emsp;
+**mesure** *metri* &emsp;
+**métal** *metali G* &emsp;
+**métier** *profesio* &emsp;
+**mettre** *loka; moti* &emsp;
+**meuble** *mobili; -mo* &emsp;
+**midi** *meso-di* &emsp;
+**le mien** *u-mi* &emsp;
+**mieux** *ma boni* &emsp;
+**le mieux** *maxi boni* &emsp;
+**mil** *kilo G* &emsp;
+**milieu** *meso* &emsp;
+**militaire** *milita* &emsp;
+**million** *miliona* &emsp;
+**mince** *tenu* &emsp;
+**ministre** *ministra-pe* &emsp;
+**minuit** *meso noktu* &emsp;
+**minute** *minuta* &emsp;
+**misérable** *pove* &emsp;
+**mode** *mode* &emsp;
+**moderne** *nu-di; moderni* &emsp;
+**moi** *mi* &emsp;
+**le moindre** *mini* &emsp;
+**moindre que** *mei de* &emsp;
+**moins** *mei G* &emsp;
+**mois** *meno G* &emsp;
+**moisson** *karpe* &emsp;
+**moitié** *semi* &emsp;
+**mol** *moli* &emsp;
+**moment** *momenta* &emsp;
+**mon** *mi* &emsp;
+**monde** *munda* &emsp;
+**monnaie** *moneta* &emsp;
+**monsieur** *senior* &emsp;
+**montagne** *monti; buno G* &emsp;
+**monter dans** *ki in* &emsp;
+**monter qch.** *fero ana* &emsp;
+**montre** *horo-me* &emsp;
+**montrer** *monstra* &emsp;
+**se moquer de** *ridi anti* &emsp;
+**moral** *morali* &emsp;
+**morceau** *mero G; peci* &emsp;
+**mordre** *morda* &emsp;
+**mort** *morta* &emsp;
+**le/la mort** *morta-pe* &emsp;
+**mot** *verba* &emsp;
+**moteur** *motori* &emsp;
+**mou** *moli* &emsp;
+**mouche** *muska* &emsp;
+**mouchoir** *nasa-te* &emsp;
+**mouillé** *aqa; hidro G* &emsp;
+**mourir** *lose bio* &emsp;
+**moustique** *moskito* &emsp;
+**mouton** *ovis* &emsp;
+**mouvement** *kine* &emsp;
+**moyen** *medio* &emsp;
+**au moyen de** *per* &emsp;
+**muet** *ne pote dice; mute* &emsp;
+**mur** *mura* &emsp;
+**mûr** *matura* &emsp;
+**musique** *musika G* &emsp;
+**mystère** *misteri G* &emsp;
+**nager** *nekto G* &emsp;
+**naître** *gene nati* &emsp;
+**nation** *natio* &emsp;
+**nature** *natura* &emsp;
+**né** *nati* &emsp;
+**ne ... aucun** *nuli; zero G* &emsp;
+**ne ... guère** *proxi ne* &emsp;
+**ne ... pas** *ne* &emsp;
+**nécessaire** *nece* &emsp;
+**neige** *niva; nikti G* &emsp;
+**nerveux** *nervoso* &emsp;
+**net** *net* &emsp;
+**nettoyer** *puri* &emsp;
+**neuf** *neo* &emsp;
+**neuf** *nona; 9* &emsp;
+**nez** *nasa* &emsp;
+**noble** *nobili* &emsp;
+**noir** *melano G; atro* &emsp;
+**nom** *nima G* &emsp;
+**nombre** *numera* &emsp;
+**nombreux** *poli G; multi* &emsp;
+**nommer** *nima G* &emsp;
+**non !** *no !* &emsp;
+**non- (contraire)** *no* &emsp;
+**nord** *nord; boreo G* &emsp;
+**notre** *na* &emsp;
+**nous** *na* &emsp;
+**nouveau** *neo* &emsp;
+**nouvelle** *nova* &emsp;
+**novembre** *meno mo-mo; M11 (abréviation pour "meno mo-mo")* &emsp;
+**nu** *nudi* &emsp;
+**nudité** *nudi* &emsp;
+**nuit** *noktu* &emsp;
+**nul** *nuli* &emsp;
+**nylon** *niloni* &emsp;
+**obéir** *obe* &emsp;
+**objet** *ra* &emsp;
+**obliger** *obliga* &emsp;
+**obscur** *no-foto; skoto G; obskuri* &emsp;
+**observer** *skope G* &emsp;
+**obtenir** *prokura* &emsp;
+**occasion** *okasio* &emsp;
+**occuper** *prende* &emsp;
+**octobre** *meno deka; M10 (abréviation pour "meno deka")* &emsp;
+**odeur** *odori* &emsp;
+**œil** *oku* &emsp;
+**œuf** *ova* &emsp;
+**œuvre** *ergo G* &emsp;
+**officiel** *ofice-pe* &emsp;
+**offrir** *ofere* &emsp;
+**oiseau** *avi* &emsp;
+**ombre** *umbra* &emsp;
+**ongle** *ungu* &emsp;
+**onze** *11; mo-mo* &emsp;
+**operation** *opera* &emsp;
+**opinion** *doxo G* &emsp;
+**opposer** *resista* &emsp;
+**or (maintenant)** *nu* &emsp;
+**or (métal)** *kriso G* &emsp;
+**orage** *tempestu* &emsp;
+**ordinaire** *ordinari* &emsp;
+**ordonner** *komanda* &emsp;
+**oreille** *auri; oti G* &emsp;
+**organiser** *organiza* &emsp;
+**orgueil** *aroga* &emsp;
+**origine** *origi* &emsp;
+**os** *osteo G* &emsp;
+**oser** *audaci* &emsp;
+**ôter** *apo G* &emsp;
+**ou** *alo* &emsp;
+**où** *qo-lo ?* &emsp;
+**ou .. ou** *alo ... alo* &emsp;
+**oublier** *no-memo* &emsp;
+**ouest** *uest; ocide* &emsp;
+**oui** *ja* &emsp;
+**outil** *ru* &emsp;
+**ouvert** *aperi* &emsp;
+**ouvrage** *ergo G* &emsp;
+**ouvrier** *ergo-pe* &emsp;
+**ouvrir** *aperi* &emsp;
+**page** *pagina* &emsp;
+**paille** *stra* &emsp;
+**pain** *pani* &emsp;
+**paix** *paci* &emsp;
+**palais** *palati* &emsp;
+**pâle** *palidi* &emsp;
+**panier** *korbi* &emsp;
+**pansement** *bandage* &emsp;
+**pantalon** *poda-ve* &emsp;
+**papier** *papira G* &emsp;
+**paquet** *kapsu* &emsp;
+**par** *per* &emsp;
+**paraítre** *feno* &emsp;
+**parce que** *kausa* &emsp;
+**parcourir** *explora* &emsp;
+**pardon** *pardo* &emsp;
+**pareil** *homo G* &emsp;
+**parent** *parenta* &emsp;
+**parfait** *perfekti* &emsp;
+**parfois** *plu kron* &emsp;
+**parler** *dice; parle* &emsp;
+**parmi** *inter* &emsp;
+**parole** *verba* &emsp;
+**la part** *mero G* &emsp;
+**partager** *divide* &emsp;
+**participe passé** *ge-* &emsp;
+**particulier** *idio G* &emsp;
+**partie** *grega* &emsp;
+**partir de** *ki ab* &emsp;
+**partout** *panto-lo* &emsp;
+**parvenir a** *veni a* &emsp;
+**le pas** *gradu* &emsp;
+**passage** *via* &emsp;
+**le passé** *pa-tem* &emsp;
+**passe: j'ai vu** *mi pa vide* &emsp;
+**passer** *pasa* &emsp;
+**passion** *pasio* &emsp;
+**passive** *pasivi* &emsp;
+**passive: il a été inondé** *id pa gene diluvi* &emsp;
+**pâte** *pasta* &emsp;
+**patrie** *nati-lo* &emsp;
+**patron** *cefa* &emsp;
+**patte** *poda G* &emsp;
+**pauvre** *pove* &emsp;
+**payer** *paga* &emsp;
+**pays** *landa* &emsp;
+**paysan** *rura-pe* &emsp;
+**peau** *derma* &emsp;
+**pêcher** *piski* &emsp;
+**pêcheur** *piski-pe* &emsp;
+**peigne** *pektina* &emsp;
+**peindre** *pikto; kroma G* &emsp;
+**peine** *puni* &emsp;
+**pelle** *spata* &emsp;
+**pencher** *klina* &emsp;
+**pendant** *tem; duranto* &emsp;
+**pendre** *pende* &emsp;
+**pénétrer** *penetra* &emsp;
+**penser** *pensi; puta* &emsp;
+**perdre** *lose* &emsp;
+**père** *patri* &emsp;
+**permettre** *lase; permito* &emsp;
+**personnage** *gravi persona* &emsp;
+**personne** *persona; -pe* &emsp;
+**peser** *ponde* &emsp;
+**petit** *mikro G; pusi* &emsp;
+**pétrole** *petrole* &emsp;
+**peu de** *no-poli; oligo* &emsp;
+**peuple** *demo G* &emsp;
+**peur** *fobo G* &emsp;
+**peut-être** *posi* &emsp;
+**pharmacien** *farmako-pe* &emsp;
+**photographie** *fotografi* &emsp;
+**phrase** *frase* &emsp;
+**pièce** *peci; mero G* &emsp;
+**pied** *pedi* &emsp;
+**pierre** *petro* &emsp;
+**pile** *kumu* &emsp;
+**piquer** *punge* &emsp;
+**pitié** *simpati G* &emsp;
+**place** *loka* &emsp;
+**placer** *loka; moti* &emsp;
+**plafond** *tegu* &emsp;
+**plaindre** *protesta* &emsp;
+**plaine** *plati-lo* &emsp;
+**plaire** *place* &emsp;
+**plaisir** *hedo G* &emsp;
+**plan** *skema G* &emsp;
+**planche** *planka* &emsp;
+**plancher** *pedi-lo* &emsp;
+**plante** *planta* &emsp;
+**planter** *planta* &emsp;
+**plat** *plati* &emsp;
+**plein** *ple* &emsp;
+**pleurer** *plora* &emsp;
+**pleuvoir** *pluvi* &emsp;
+**plier** *plika* &emsp;
+**plonger** *merge* &emsp;
+**plume** *pluma* &emsp;
+**plupart** *pleisto G* &emsp;
+**.. (pluriel):** *plu* &emsp;
+**plus** *ma* &emsp;
+**le plus** *maxi* &emsp;
+**plus de** *ma .. de* &emsp;
+**plus grand** *ma mega* &emsp;
+**plusieurs** *plu* &emsp;
+**plutôt** *prefere* &emsp;
+**poche** *marsu G* &emsp;
+**la poêle** *kuko-va* &emsp;
+**le poêle** *furna* &emsp;
+**poésie** *poesi G* &emsp;
+**poids** *baro G* &emsp;
+**poing** *pugna* &emsp;
+**point** *punkta* &emsp;
+**sur le point de** *nu fu* &emsp;
+**pointe** *kuspi* &emsp;
+**pointu** *akuto* &emsp;
+**poisson** *piski* &emsp;
+**poitrine** *pektora* &emsp;
+**poli** *glabro* &emsp;
+**police** *polica* &emsp;
+**politique** *politika G* &emsp;
+**pomme** *pomi* &emsp;
+**pont** *ponti* &emsp;
+**populaire** *demo G; ge-amo* &emsp;
+**port** *portu* &emsp;
+**porte** *porta* &emsp;
+**porte-monnaie** *porta-valuta* &emsp;
+**portefeuille** *porta-nota* &emsp;
+**poser** *loka* &emsp;
+**posseder** *habe* &emsp;
+**possible** *posi* &emsp;
+**la poste** *posta* &emsp;
+**le poste** *difusi-me; radio* &emsp;
+**le pot** *vasa* &emsp;
+**poule** *galina* &emsp;
+**pour** *pro* &emsp;
+**pour que** *te* &emsp;
+**pourquoi ?** *qo-ka ?* &emsp;
+**poursuivre** *casa* &emsp;
+**pourtant** *anti-co* &emsp;
+**pousser** *pulsa* &emsp;
+**poussière** *pulve* &emsp;
+**pouvoir** *pote* &emsp;
+**prairie** *prate* &emsp;
+**précaution** *pre-kura* &emsp;
+**précedér** *ki ante* &emsp;
+**précieux** *mega preci* &emsp;
+**précipiter** *bali* &emsp;
+**précis** *precise* &emsp;
+**préférer** *prefere; ma-amo* &emsp;
+**premier** *prima; proto G* &emsp;
+**prendre** *prende* &emsp;
+**préparer** *prepara* &emsp;
+**prés** *proxi* &emsp;
+**présence** *es la* &emsp;
+**président** *presidenta* &emsp;
+**presque** *proxi* &emsp;
+**presser** *presa; baro G* &emsp;
+**prét** *prepara* &emsp;
+**pretendre** *volu* &emsp;
+**préter** *tem-dona* &emsp;
+**prétexte** *pretextu* &emsp;
+**prêtre** *hiera G* &emsp;
+**prévenir** *monito* &emsp;
+**prévoir** *pre-vide* &emsp;
+**prier** *preka* &emsp;
+**prince** *an-princa* &emsp;
+**princesse** *fe-princa* &emsp;
+**principal** *duce* &emsp;
+**principe** *principi* &emsp;
+**printemps** *blasto-tem* &emsp;
+**prix** *preci* &emsp;
+**probable** *probabili* &emsp;
+**prochain** *proxi fu* &emsp;
+**produire** *produce* &emsp;
+**profiter** *profito* &emsp;
+**profond** *profunda* &emsp;
+**progrès** *progresi* &emsp;
+**projet** *projekti* &emsp;
+**promenade** *promenade* &emsp;
+**promettre** *promise* &emsp;
+**prononcer** *pronunci* &emsp;
+**a propos** *de; gru* &emsp;
+**proposer** *proposi* &emsp;
+**propre à** *gru* &emsp;
+**proprieté** *habe; qalita* &emsp;
+**protéger** *imuni; alexi G* &emsp;
+**prouver** *proba* &emsp;
+**province** *provinci* &emsp;
+**provision** *provisio* &emsp;
+**provoquer** *provoka* &emsp;
+**public** *publika* &emsp;
+**puis** *po-co* &emsp;
+**puisque** *kausa* &emsp;
+**puissance** *dina G* &emsp;
+**puits** *pute* &emsp;
+**punir** *puni* &emsp;
+**pur** *puri* &emsp;
+**quai** *navi-lo* &emsp;
+**qualité** *qalita* &emsp;
+**quand ?** *qo-tem ?* &emsp;
+**quant à** *de* &emsp;
+**quarante** *tetra-ze* &emsp;
+**quart** *qarto* &emsp;
+**quartier** *mero G* &emsp;
+**quatorze** *mo-tetra* &emsp;
+**quatre** *tetra* &emsp;
+**que** *ke* &emsp;
+**quel ?** *qo ?* &emsp;
+**quelle heure ?** *qo-horo ?* &emsp;
+**quelque** *uno* &emsp;
+**quelques** *plu* &emsp;
+**questio** *qestio* &emsp;
+**..? (questio commence)** *qe ?* &emsp;
+**)question:) Vient-il ?** *qe an veni ?* &emsp;
+**queue** *kauda* &emsp;
+**.., qui ..** *qi* &emsp;
+**qui ?** *qo-pe ?* &emsp;
+**quinze** *mo-penta* &emsp;
+**quitter** *ki ex* &emsp;
+**quoi ?** *qo ?* &emsp;
+**race** *racia* &emsp;
+**raconter** *dice* &emsp;
+**radio** *radio* &emsp;
+**raison** *logika* &emsp;
+**avoir raison** *dice veri* &emsp;
+**ramasser** *prende* &emsp;
+**ramener** *duce versi* &emsp;
+**rang** *line* &emsp;
+**ranger** *line* &emsp;
+**rapid** *rapidi; tako G* &emsp;
+**rappeler** *sti versi; sti memo* &emsp;
+**rapport** *reporta; relati* &emsp;
+**rapprocher** *proxi* &emsp;
+**rare** *rari* &emsp;
+**raser** *razo* &emsp;
+**rasoir** *razo-ru* &emsp;
+**rayon** *radia* &emsp;
+**réaliser** *reali* &emsp;
+**recevoir** *cepti* &emsp;
+**rechercher** *recerka* &emsp;
+**récit** *reporta* &emsp;
+**réclamer** *demande* &emsp;
+**récolter** *karpe* &emsp;
+**recommencer** *re komence* &emsp;
+**reconnaître** *rekogni* &emsp;
+**recouvrir** *tegu* &emsp;
+**reçu** *qita* &emsp;
+**recueillir** *kolekti* &emsp;
+**reculer** *retro* &emsp;
+**redouter** *sensi fobo* &emsp;
+**réduire** *reduce* &emsp;
+**réel** *reali* &emsp;
+**réfléchir** *reflekti* &emsp;
+**se réfugier** *fugi* &emsp;
+**refuser** *nega* &emsp;
+**regarder** *skope G* &emsp;
+**régime** *speci krati* &emsp;
+**région** *regio* &emsp;
+**régler** *regula* &emsp;
+**regret** *penite* &emsp;
+**régulier** *uniforma* &emsp;
+**rein** *rena* &emsp;
+**réjouir** *dona hedo* &emsp;
+**relation** *relati* &emsp;
+**relever** *releva* &emsp;
+**religion** *religio* &emsp;
+**remarquer** *nota* &emsp;
+**remercier** *gratia* &emsp;
+**remettre** *repara* &emsp;
+**remplacer** *vice* &emsp;
+**remplir** *ple* &emsp;
+**remuer** *moti* &emsp;
+**rencontrer** *ko* &emsp;
+**rendre** *dona versi* &emsp;
+**renoncer** *cede* &emsp;
+**rentrer** *ki versi* &emsp;
+**renverser** *sti kade* &emsp;
+**répandre** *difusi* &emsp;
+**réparer** *repara* &emsp;
+**repas** *vora* &emsp;
+**répondre** *responde; reakti* &emsp;
+**reposer** *relaxa* &emsp;
+**repousser** *sti retro* &emsp;
+**representer** *representa* &emsp;
+**resister** *resista* &emsp;
+**resoudre** *solve* &emsp;
+**respect** *respekto* &emsp;
+**respirer** *spira* &emsp;
+**ressembler** *homo G* &emsp;
+**rester** *resta* &emsp;
+**resultat** *seqe; resulta* &emsp;
+**retard** *po kron* &emsp;
+**retenir** *tena* &emsp;
+**retirer** *versi* &emsp;
+**retourner** *versi* &emsp;
+**retraite** *ki ab* &emsp;
+**reunion** *unio* &emsp;
+**reussir** *sucede* &emsp;
+**reveiller** *sti vigi* &emsp;
+**révéler** *info* &emsp;
+**rever** *sonia* &emsp;
+**revoir** *re vide* &emsp;
+**révolution** *revolutio* &emsp;
+**riche** *pluto* &emsp;
+**rideau** *pende-te* &emsp;
+**rien** *nuli-ra; ze-ra* &emsp;
+**rire** *ridi* &emsp;
+**risquer** *risko* &emsp;
+**rivière** *fluvi* &emsp;
+**riz** *oriza* &emsp;
+**robe** *roba* &emsp;
+**roi** *an-regi* &emsp;
+**rôle** *mero G* &emsp;
+**rond** *rondo* &emsp;
+**rose** *rosa* &emsp;
+**roue** *rota* &emsp;
+**rouge** *rubi* &emsp;
+**rouge fonce** *atro-rubi* &emsp;
+**rouler** *rota; volve* &emsp;
+**route** *strata* &emsp;
+**rude** *no-facili* &emsp;
+**rue** *urba via* &emsp;
+**rue** *via* &emsp;
+**sa** *an G* &emsp;
+**sable** *arena* &emsp;
+**sac** *saka* &emsp;
+**sacré** *sakri* &emsp;
+**sage** *sofi G* &emsp;
+**saint** *sankti* &emsp;
+**saisir** *prende; rapi* &emsp;
+**saison** *tem* &emsp;
+**sale** *no-puri* &emsp;
+**salle** *kamera; -ka* &emsp;
+**salle à manger** *vora-ka* &emsp;
+**saluer** *saluta* &emsp;
+**samedi** *di seti* &emsp;
+**sang** *hema G; sangui* &emsp;
+**sans** *minus* &emsp;
+**santé** *sani; higie G* &emsp;
+**satisfaire** *dona sati* &emsp;
+**sauter** *salta* &emsp;
+**sauver** *salva* &emsp;
+**savoir** *ski* &emsp;
+**savon** *sapo* &emsp;
+**scène** *skeni; vista* &emsp;
+**scie** *seka* &emsp;
+**science** *skience* &emsp;
+**sculpter** *skulptu* &emsp;
+**se** *se* &emsp;
+**seau** *manu-va* &emsp;
+**sec** *sika* &emsp;
+**second** *sekunda* &emsp;
+**secouer** *seiso* &emsp;
+**secours** *auxi* &emsp;
+**secret** *kripti G* &emsp;
+**sein** *mama* &emsp;
+**seize** *mo-sixa* &emsp;
+**sel** *sali* &emsp;
+**selon** *akorda* &emsp;
+**semaine** *setimana* &emsp;
+**semblable** *homo G* &emsp;
+**semer** *spora* &emsp;
+**sens** *sensi* &emsp;
+**sentir** *sensi* &emsp;
+**séparer** *separa; lisi G* &emsp;
+**sept** *seti* &emsp;
+**septembre** *meno nona; M9 (abréviation pour "meno nona")* &emsp;
+**série** *seri* &emsp;
+**sérieux** *ne ridi; solemni* &emsp;
+**serpent** *serpenti* &emsp;
+**serrer** *presu* &emsp;
+**service** *servi* &emsp;
+**serviette** *servieta* &emsp;
+**seul** *solo* &emsp;
+**si** *si* &emsp;
+**siècle** *hekto anua* &emsp;
+**siège** *sedi-mo* &emsp;
+**siège** *sedi-mo* &emsp;
+**le sien** *un-an* &emsp;
+**signe** *signi* &emsp;
+**signifier** *signifi* &emsp;
+**silence** *no-soni* &emsp;
+**simple** *simpli; elementa* &emsp;
+**singulier** *idio G* &emsp;
+**sinon** *si ne* &emsp;
+**situation** *topo G* &emsp;
+**six** *sixa* &emsp;
+**société** *societa* &emsp;
+**soeur** *sorori* &emsp;
+**soie** *seriko* &emsp;
+**soif** *dipso G* &emsp;
+**soigner** *kura* &emsp;
+**soir** *vespera* &emsp;
+**soit .. soit** *alo ... alo* &emsp;
+**soixante** *sixa-ze* &emsp;
+**sol** *tera* &emsp;
+**soldat** *milita-pe* &emsp;
+**soleil** *sola; heli G* &emsp;
+**solide** *solidi; stereo G* &emsp;
+**sombre** *no-foto; skoto G* &emsp;
+**somme** *suma* &emsp;
+**sommeil** *sopo* &emsp;
+**son** *an G* &emsp;
+**songer** *pensi* &emsp;
+**sonner** *soni* &emsp;
+**sort** *fata* &emsp;
+**sorte** *speci* &emsp;
+**sortir** *ki ex* &emsp;
+**souci** *anxio* &emsp;
+**soudain** *subito* &emsp;
+**souffler** *fla* &emsp;
+**souffrir** *sensi mali* &emsp;
+**souhaiter** *spe* &emsp;
+**soulever** *leva* &emsp;
+**soumettre** *sti obe* &emsp;
+**soupe** *supa* &emsp;
+**source** *fonta* &emsp;
+**sourd** *non-audi* &emsp;
+**sourire** *sub-ridi* &emsp;
+**souris** *mus* &emsp;
+**sous** *infra* &emsp;
+**se souvenir** *memo* &emsp;
+**souvent** *freqe* &emsp;
+**spécial** *speciali* &emsp;
+**spectacle** *vista* &emsp;
+**sport** *sporta* &emsp;
+**statue** *statua* &emsp;
+**succès** *sucede* &emsp;
+**sucre** *sukro-ma* &emsp;
+**sud** *sud; austra G* &emsp;
+**suffire** *es sati* &emsp;
+**suis (être)** *es* &emsp;
+**suite** *seqe* &emsp;
+**suivre** *ki poste; seqe* &emsp;
+**sujet** *tema G* &emsp;
+**supérieur** *supra* &emsp;
+**supplier** *petitio* &emsp;
+**supporter** *tena* &emsp;
+**supposer** *postula* &emsp;
+**sur** *epi G* &emsp;
+**sûr** *sura* &emsp;
+**sûr** *sura* &emsp;
+**surprendre** *surprise* &emsp;
+**surtout** *su toto* &emsp;
+**système** *sistema G* &emsp;
+**table** *tabla* &emsp;
+**tableau** *pikto* &emsp;
+**tâcher** *tenta* &emsp;
+**tailler** *seka* &emsp;
+**taire** *taci* &emsp;
+**tandis que** *kontra-co* &emsp;
+**tant** *ta* &emsp;
+**tapis** *tape* &emsp;
+**tard** *po kron* &emsp;
+**tas** *kumu* &emsp;
+**tasse** *tasa* &emsp;
+**te** *tu* &emsp;
+**tel** *tali* &emsp;
+**télégramme** *telegrama* &emsp;
+**téléphone** *telefono* &emsp;
+**télévision** *televisio* &emsp;
+**tellement** *tanto* &emsp;
+**temps** *tem* &emsp;
+**tendre** *tensio* &emsp;
+**tenir** *tena* &emsp;
+**tente** *te-do* &emsp;
+**tenter** *tenta* &emsp;
+**terme** *fini* &emsp;
+**terminer** *fini* &emsp;
+**terrain** *peci tera* &emsp;
+**terre** *tera* &emsp;
+**terreur** *fo fobo* &emsp;
+**terrible** *deino G* &emsp;
+**tête** *kefa G* &emsp;
+**thé** *tea* &emsp;
+**theatre** *teatra* &emsp;
+**thème** *tema G* &emsp;
+**le tien** *u-tu* &emsp;
+**tiers** *tertia; tri* &emsp;
+**timbre (poste)** *grama bileta* &emsp;
+**tirer** *tira; trakto* &emsp;
+**tisser** *texo* &emsp;
+**tissue** *tisu* &emsp;
+**titre** *nima G* &emsp;
+**toi** *tu* &emsp;
+**toile** *tela* &emsp;
+**toile d'araignée** *tela* &emsp;
+**toilette** *tualeta* &emsp;
+**toit** *stego G* &emsp;
+**tomber** *kade* &emsp;
+**ton** *tu* &emsp;
+**le ton** *u-tu* &emsp;
+**tonnerre** *bronto G* &emsp;
+**tort** *falsi* &emsp;
+**tôt** *tosto; pre-kron* &emsp;
+**toucher** *tange; toka* &emsp;
+**toujours** *panto-kron* &emsp;
+**tour** *viagia* &emsp;
+**tourner** *tropi G* &emsp;
+**tournevis** *tropi-ru* &emsp;
+**tousser** *tusi* &emsp;
+**tout** *holo G; toto* &emsp;
+**toutefois** *anti-co* &emsp;
+**trace** *trace* &emsp;
+**tracteur** *trakto-me* &emsp;
+**train** *trena* &emsp;
+**en train de** *nu* &emsp;
+**traîner** *tira; trakto* &emsp;
+**trait** *line* &emsp;
+**traité** *akorda* &emsp;
+**traiter** *kura* &emsp;
+**tranquille** *no-kine* &emsp;
+**transformer** *muta* &emsp;
+**travail** *ergo G* &emsp;
+**à travers** *dia G* &emsp;
+**traverser** *ki trans* &emsp;
+**treize** *mo-tri* &emsp;
+**trembler** *tremulo* &emsp;
+**trente** *tri-ze* &emsp;
+**très** *forti; fo(-)* &emsp;
+**tribunal** *tribuna* &emsp;
+**tricot** *trikota* &emsp;
+**tricoter** *trikota* &emsp;
+**triste** *tristi; non-hedo* &emsp;
+**trois** *tri* &emsp;
+**la troisieme maison** *u domi tri* &emsp;
+**tromper** *falsi* &emsp;
+**trop** *tro; excesi* &emsp;
+**trou** *fora* &emsp;
+**trouble** *turba* &emsp;
+**trouver** *detekti* &emsp;
+**tu** *tu* &emsp;
+**tuer** *cide* &emsp;
+**type** *tipo G* &emsp;
+**un** *u; un* &emsp;
+**l'un l'autre** *alelo* &emsp;
+**une** *u; un* &emsp;
+**union** *unio* &emsp;
+**unique** *idio G* &emsp;
+**unité** *unita* &emsp;
+**usage** *more; habitu* &emsp;
+**user** *tro uti* &emsp;
+**usine** *face-do* &emsp;
+**utile** *uti-ple* &emsp;
+**vacances** *libe-tem* &emsp;
+**vache** *fe-bovi* &emsp;
+**vague** *no-klari* &emsp;
+**vain** *vani; no-funktio* &emsp;
+**valise** *teka G* &emsp;
+**vallée** *vali* &emsp;
+**valoir** *valu* &emsp;
+**vapeur** *vapo* &emsp;
+**varier** *vari* &emsp;
+**vaste** *fo-mega* &emsp;
+**veau** *babi bovi* &emsp;
+**veille** *pre-di* &emsp;
+**veiller** *vigi* &emsp;
+**vendre** *vendo* &emsp;
+**vendredi** *di sixa* &emsp;
+**venir** *veni* &emsp;
+**venir de** *nu-pa* &emsp;
+**vent** *venti* &emsp;
+**ventre** *abdomina* &emsp;
+**véritable** *veri* &emsp;
+**verre** *vitri* &emsp;
+**veste** *jaketa* &emsp;
+**vêtement** *vesti; -ve* &emsp;
+**viande** *karni* &emsp;
+**victime** *viktimi* &emsp;
+**victoire** *vikto* &emsp;
+**vide** *vaku* &emsp;
+**vie** *vita; bio G* &emsp;
+**vieux** *paleo G* &emsp;
+**vif** *vive* &emsp;
+**vigne** *viti* &emsp;
+**village** *viki* &emsp;
+**ville** *urba* &emsp;
+**vin** *vini* &emsp;
+**vingt** *bi-ze* &emsp;
+**vingt-deux** *bi-bi* &emsp;
+**violence** *viole* &emsp;
+**visage** *facia* &emsp;
+**visite** *visita* &emsp;
+**vite** *rapidi; tako G* &emsp;
+**vivant** *vive* &emsp;
+**vivre** *vive* &emsp;
+**voici** *vi-ci* &emsp;
+**voie** *via* &emsp;
+**voilà** *vi-la* &emsp;
+**voir** *vide* &emsp;
+**voisin** *para-pe* &emsp;
+**voiture** *vagona* &emsp;
+**voix** *voka* &emsp;
+**voler** *peti; vola* &emsp;
+**voler (dérober)** *klepto G* &emsp;
+**volontaire** *volu* &emsp;
+**votre** *tu* &emsp;
+**vouloir** *volu* &emsp;
+**vous** *vi* &emsp;
+**voyage** *viagia* &emsp;
+**vrai** *veri* &emsp;
+**vue** *vista* &emsp;
+**y** *la* &emsp;
+**il y a** *il es* &emsp;
+**yeux** *plu oku* &emsp;
+**zero** *zero G* &emsp;
 
-
-## (u ge-korekti versio)
-
-[a](frgl1k.htm#gea)  [b](frgl1k.htm#geb)  [c](frgl1k.htm#gec) 
-[d](frgl1k.htm#ged)  [e](frgl1k.htm#gee)  [f](frgl1k.htm#gef) 
-[g](frgl1k.htm#geg)  [h](frgl1k.htm#geh)  [i](frgl1k.htm#gei) 
-[j](frgl1k.htm#gej)  [k](frgl1k.htm#gek)  [l](frgl1k.htm#gel) 
-[m](frgl1k.htm#gem)  [n](frgl1k.htm#gen)  [o](frgl1k.htm#geo) 
-[p](frgl1k.htm#gep)  [q](frgl1k.htm#geq)  [r](frgl1k.htm#ger) 
-[s](frgl1k.htm#ges)  [t](frgl1k.htm#get)  [u](frgl1k.htm#geu) 
-[v](frgl1k.htm#gev)  [w](frgl1k.htm#gew)  [x](frgl1k.htm#gex) 
-[y](frgl1k.htm#gey)  [z](frgl1k.htm#gez)
-
-U-ci lista (vide infra) es ex libri "Français - Glosa 1000" de Glosa
-autori Wendy Ashby e Ronald Clark, 1992. Tu pote merka u bibli de Glosa
-Education Organisation, P. O. Box 18, Richmond, Surrey TW9 2GE, England.
-U bibli habe plus [info de Glosa](../brevi/francais.htm) e mo
-[exempla-textu](../brevi/frdaudet.htm) in Glosa e Français paraleli.
-
-U lista pa gene ma-boni e korekti. Tu pote vide plu ge-korekti ra in
-[www.glosa.org/gid/frglcorr.htm](frglcorr.htm). Tu pote vide u paleo,
-originali e ne-korekti lista (Sed place ne uti id\! Id es ci solo pro
-histori interese.) : [www.glosa.org/gid/frgl1ko.htm](frgl1ko.htm). U
-ge-vice lista (ge-korekti) Glosa-Français habe adresa
-[www.glosa.org/gid/gl1kfr.htm](gl1kfr.htm). U bibli ne habe
-Français-Glosa-lista.
-
-Maxi boni sio es: tu sio prefere plu English lista de GID epi
-[www.glosa.org/gid](index.html); si tu pote.
-
-HTML pa gene face ex Marcel Springer, [www.glosa.org](../index.html),
-2001-2002.
-
-U "`G`" in lista semani: u verba habe Greko radi.
-
-	
-	
-<span id="gea"></span>
-
-### A
-
-``` 
- 
-a	a 
-abandonner	ki ab 
-abattre	sti kade 
-d'abord	prima 
-aboutir	fini a 
-abri	asilu 
-absolu	absoluti 
-absorber	tira in 
-accent	pronunci 
-accepter	cepti 
-accident	mal-acide 
-accompagner	ki ko 
-accomplir	fini 
-accord	akorda 
-accueillir	cepti 
-acheter	merka 
-acquerir	gene 
-admettre	permito; konfesi 
-administer	organiza 
-admirer	mira 
-adopter	adopta 
-adresse	adresa 
-adroit	tekno G 
-affaire	afera 
-affreux	deino G 
-afin de	te 
-age	eva 
-agent	agenti 
-agir	akti 
-agiter	turba 
-agreable	gluko 
-aider	auxi 
-aiguille	aku 
-aile	ala 
-ailleurs	hetero-lo 
-aimable	ami 
-aimer	amo; filo G 
-ainsi	so 
-air	aero 
-aise	gluko-ra 
-ajouter	adi 
-Allemand	Deutsch 
-aller	ki 
-allumer	piro G 
-allumette	lucifero 
-alors	bene; alora 
-âme	anima 
-amener	duce 
-amer	pikro G 
-ami	ami 
-amour	filo G 
-amuser	amusa 
-an	anua 
-ancien	paleo G 
-âne	asinus 
-Anglais	English 
-angoisse	anxio 
-animal	animala; zoa 
-annoncer	deklara 
-août	meno okto; M8 (abréviation pour "meno okto") 
-apercevoir	oku 
-apparaître	gene vista 
-appareil	mekani; -me 
-appartement	kamera-fa 
-appartenir	es de 
-appeler (crier)	voci 
-appeler (nom)	nima G 
-appliquer	aplika 
-apporter	fero 
-apprendre	dona sko; gene sko 
-apprêter	prepara 
-approcher	proxi 
-appuyer sur	presu; baro G 
-après	po 
-après-midi	po meso-di 
-arbre	dendro 
-argent	argenti; valuta 
-arme	arma 
-armée	arme 
-armoire	tena-mo 
-arracher	apo G 
-arranger	taxo G 
-arrêter	sto 
-arriver	veni 
-art	arti 
-article	ra; artikla 
-aspect	aspekto 
-asseoir	sedi 
-assez	sati 
-assiette	disko 
-assister	auxi 
-assurer	sura 
-atelier	ergo-lo 
-attacher	liga 
-attaquer	viole 
-atteindre	veni a 
-attendre	atende 
-attention	kura 
-attirer	trakto; tira 
-attitude	atitudi 
-aucun	zero G; nuli 
-audessous	infra 
-audessus	supra 
-augmenter	auge 
-aujourd'hui	nu-di 
-auprès de	para 
-aussi	pluso 
-aussi ... que	iso ... de 
-aussitôt	imedia 
-autant ... que	iso ... de 
-auteur	grafo-pe 
-auto-bus	bus 
-auto-car	vagona 
-automne	autumna 
-automobile	vagona 
-autorité	arki 
-autour	peri 
-autre	hetero G 
-autrefois	pre nu 
-autrement	hetero G 
-avancer	avanti 
-avantage	auxi; profito 
-avec	ko 
-avenir	fu-tem 
-aventure	aventura 
-avertir de	monito de 
-aveugle	no-vide 
-avion	aeroplana 
-avis	doxo G 
-aviser	info 
-avoir (possesser)	habe 
-avouer	konfesi 
-avril	meno tetra; M4 (abréviation pour "meno tetra") 
-bain	lava 
-baisser	baso 
-balai	brosa 
-banc	benca 
-bande	banda 
-barbe	barba 
-bas	baso 
-bas	non-alti 
-le bas	poda-ve 
-bataille	milita 
-bateau	navi 
-bâton	baci 
-battre	bate 
-beau	kali G 
-beaucoup de	mega G 
-bébé	babi 
-bec	rostra 
-besogne	ergo G 
-besoin	minus 
-bête	zoa 
-beurre	butiri 
-bicyclette	birota 
-bien	bene 
-bientôt	nu-fu 
-billet	bileta 
-bizarre	xeno G 
-blanc	alba; leuko G 
-blé	cereali 
-blessé	ge-noku 
-blesser	vulne 
-bleu	blu; ciano 
-blond	xanto G 
-blouse	blusa 
-boeuf	bovi 
-boire	bibe 
-bois	ligni; silva 
-boisson	bibe-ma 
-boîte	teka G 
-bon	boni 
-bonheur	hedo G 
-bonjour	boni di; ave 
-bord	margina 
-borner	limita 
-bouche	stoma G 
-boucher	karni-pe 
-boucher	sto 
-bouillir	buli 
-boulanger	pani-pe 
-boulangerie	pani-bo 
-bourgeois	burgeso 
-bourgeon	blasto G 
-bout	fini; akro G 
-bouteille	botilia 
-bouton	butona 
-branche	rami 
-bras	braki 
-brav (courage)	anti-fobo 
-brillant	radia 
-brique	brika 
-briser	frakti 
-brosse	brosa 
-brouillard	nebu 
-bruit	soni; fono 
-brûler	piro; busti 
-brusquement	subito 
-bureau	buro 
-but	buta; tende 
-ça	u-la 
-cabine	kabina 
-cabinet	kabineta 
-cacher	kripti G 
-café	kafe 
-café (boisson)	kafa 
-calme	kalma G 
-camarade	ami 
-camion	kargo-vagona 
-campagne	rura 
-caoutchouc	gumi 
-capable	pote 
-capitaine	kapitana 
-car (conjonction)	ka 
-caractère	karakteri 
-carte	karta 
-cas	kaso 
-casser	frakti 
-casserole	buli-va 
-cause	sti 
-causer	sti 
-cave	infra-ka 
-ce	u-ci 
-céder	cede 
-ceinture	zona G 
-ceinture verte	kloro-zo 
-cela	u-la 
-celui-ci	u-ci 
-celui-la	u-la 
-cent	hekto G 
-cent cinquante	mo-penta-ze 
-centre	centra 
-cependant	anti-co 
-cercle	cikla 
-certain	certa; sura 
-ces	plu-ci 
-cesser	sto 
-cette	u-ci 
-chacun	singu 
-chagrin	non-hedo 
-chaise	sedi-mo 
-chaleur	termo G 
-chamailler	disputa 
-chambre	kamera; -ka 
-champ	agri 
-chance	fortuna 
-changer	muta 
-chanson	kanta 
-chapeau	kefa-ve 
-chaque	singu 
-charbon	karbo 
-charge	kargo 
-charmant	carma 
-charrue	ara 
-chasser	casa 
-chat	feli 
-château	kastela 
-chaud	termo G 
-chauffer	dona termo 
-chaussette	pedi-te 
-chaussure	pedi-ve 
-chef	cefa 
-chemin	via 
-cheminée	fumi-tubi 
-chemise	su-tunika 
-cher	karo 
-chercher	cerka 
-cheval	Equs 
-cheveu	kapila 
-chèvre	kapri 
-chez moi	a mi domi 
-chien	kani 
-chiffon	mero-te 
-chocolat	cokolata 
-choisir	elekti 
-chose	ra 
-chute	kade 
--ci	ci 
-ciel	cele 
-cimetière	morta-lo 
-cinq	penta 
-cinquante	penta-ze 
-circonstance	acide 
-ciseau	cisori 
-cité	civita 
-clair	klari 
-classe	klasi 
-clavier	klavi-taba 
-clé	klavi 
-clef	klavi 
-client	merka-pe 
-clou	aku 
-cochon	sui 
-code	kodi 
-cœur	kardia 
-coiffeur	kapila-pe 
-coin	gono G 
-colère	koleri G 
-combattre	lukta 
-combien de	qanto 
-commander	komanda 
-comme	komo 
-commencer	komence 
-comment	komo 
-commerce	komerci 
-commettre	face 
-commun	komuni 
-communiquer	komunika 
-compagnie	kompani 
-compagnon	kamerada 
-comparer	kompara 
-complet	fini 
-composer	komposi 
-comprendre	logi 
-compte	konto 
-concevoir	imagina 
-conclure de	logi ex 
-condamner	judika anti 
-condition	stato 
-conditionnel	sio 
-conduire	duce 
-confiance	fide 
-confondre	konfusi 
-connaissance	skience 
-connaitre	ski 
-conseiller	konsili 
-conséquence	seqe 
-conserver	tena 
-considérable	gravi 
-considérer	examina 
-consoler	konsola 
-constituer	konstitu 
-construire	face 
-contenir	tena 
-continuer	dura 
-contraire	kontra 
-convaincre	sti kredi 
-convenir	gru 
-converser	konversa
-coq	an-galina 
-corde	korda 
-cordonnier	kalca-pe 
-corne	kornu 
-corps	soma G 
-costume	vesti 
-côte	kosta 
-côté	latu 
-coton	kotona 
-cou	kola 
-coucher	kli 
-coudre	sue 
-couler	fusi 
-couleur	kroma G 
-coup	bate 
-coupable	kulpa 
-couper	seka 
-cour	korta 
-courage	anti-fobo 
-courant	flu 
-courir	kursi; dromo G 
-court	brevi 
-courtois	civili 
-coussin	kosina 
-couteau	kultela 
-couter	preci 
-couture	sutura 
-couvercle	tegu 
-cracher	spu 
-craindre	fobo G 
-crâne	krania 
-crayon	pencila 
-créer	face; krea 
-creuser	fosi 
-creux	kavita 
-cri	voci 
-crime	krimi 
-croire	kredi 
-croiser	kruci 
-croix	kruci 
-cuiller	spatula 
-cuir	derma 
-cuire	kuko 
-cuisine	kuko-ka 
-culpabilité	kulpa 
-cultivateur	agri-pe 
-cultiver	kulti 
-curer	puri 
-curieux	qestio 
-dame	dama; gina 
-danger	risko 
-dans	in 
-danser	kore 
-davantage	ma 
-de	de 
-débarrasser	libe 
-debout	orto 
-débrouiller	klari 
-début	proto G 
-décembre	meno mo-bi; M12 (abréviation pour "meno mo-bi") 
-décharger	no-kargo 
-déchirer	skizo G 
-décider	judika 
-déclarer	dice; deklara 
-décorer	dekora; kali G 
-découvrir	detekti 
-dedans	intra 
-défaut	defekti 
-défendre	alexi G 
-dégager	libe 
-degré	gradu 
-dehors	extra 
-déjà	pre-nu 
-déjeuner	vora 
-au delà de	ultra 
-délicat	delikate 
-demain	fu-di 
-demander	demanda 
-demeure	eko-do 
-demi	semi 
-démolir	no-face 
-dent	denti 
-départ	ki ab 
-dépasser	pasa 
-dépenser	spende 
-déposer	loka 
-dépuis	ex 
-déranger	turba 
-dernier	pa; pre; ultima 
-dérober	klepto G 
-derrière	po 
-dès	ex 
-descendre	ki kata 
-désert	deserta 
-déshabiller	no-vesti 
-désigner	indika 
-désigner (nommer)	nima G 
-désir	fo-volu 
-désormais	ex nu 
-dessin	grafo G 
-dessous	infra 
-dessus	supra 
-destinée	fata 
-détacher	lisi G 
-détail	data 
-détourner	tropi G 
-détruire	no-face 
-deux	bi 
-tous les deux	ambi 
-devant	ante 
-le devant	fronta 
-développer	developo 
-devenir	esce 
-deviner	divina 
-devoir	debi 
-diable	diaboli 
-dieu	teo 
-differénce	difere; hetero G 
-difficile	no-facili 
-digne de	merito 
-dimanche	di mo 
-diminuer	mei G 
-dîner	vora 
-dire	dice 
-directeur	duce-pe 
-direction	direkti 
-diriger	direkti 
-discours	diskursi 
-discussion	diskusi 
-disparaître	lose vista 
-disposer	taxo G 
-disposer de	uti 
-disputer	disputa 
-disque	disko 
-disquette	flexi-disko 
-distance	dista; tele G 
-distinguer	separa 
-divers	difere 
-dix	deka 
-dizaine	proxi deka 
-docteur	iatri G 
-doigt	digi 
-domaine	area 
-domestique	domi 
-dominer	domina 
-donc	ka-co 
-donner	dona 
-dont	de qi 
-dormir	somni; sopo 
-dos	dorsa 
-double	diplo G 
-douceur	gluko; dulce 
-douleur	algo G 
-doute	dubi 
-doux	gluko; dulce 
-douze	mo-bi; 12 
-drap	lana-te 
-drapeau	insigni 
-dresser	orto 
-droit	rekti 
-le droit	privilegi 
-la droite	dextro 
-drôle	amusa 
-dur	dura 
-durant	duranto 
-duratif	du 
-durée	tem 
-eau	aqa; hidro G 
-écarter	moti ab 
-échanger	kambio 
-échapper	salva 
-échelle	skala 
-éclair	flasc 
-éclairer	lumi 
-éclat (acoustique)	fo-soni 
-éclat (optique)	fo-foto 
-éclater	explode 
-école	sko-do 
-écouter	audi; akusti G 
-écraser	klasto G 
-s'écrier	voci; exklama 
-écrire	grafo G 
-education	eduka 
-effacer	apo G 
-effet	seqe 
-'sefforcer	fo tenta 
-effrayer	sti fobo 
-égal	eqa 
-eglise	religio-do 
-église	eklesia 
-eh, bien !	bene ! 
-s'élancer	bali se 
-électricité	elektro 
-élément	elementa 
-élève	sko-pe 
-élever	kura pro 
-élever	leva 
-elle	fe 
-elles	mu 
-éloigner	apo G 
-embarasser	turba 
-embrasser	oskula 
-emmener	duce ab 
-émotion	emotio 
-s'emparer de	rapi 
-empêcher	sto 
-employer	uti 
-emporter	apo G 
-s'empresser	peti 
-en	in 
-en (+ verbe)	de id; de mu 
-en arrière	retro 
-en bois	ex ligni 
-en-outre	plus-co 
-enchanter	magika 
-encore	pluso 
-pas encore	ne a-nu 
-endormir	sti sopo 
-endroit	topo G 
-énergie	energi G 
-enfant	infanti 
-enfermer	inklude 
-enfin	a fini 
-enfoncer	pulsa in 
-s'enfuir	fugi 
-engager a	promise 
-enlever	apo G 
-ennemi	non-ami 
-enorme	enormo 
-ensemble	kon alelo 
-l'ensemble	un holo 
-ensuite	po-co 
-entendre	audi; akusti G 
-enterrer	in-tera 
-enthousiasme	zelo 
-entier	holo G 
-entourer de	peri 
-entraîner	trakto; tira 
-entre	inter 
-entrée	in-lo 
-entrer	ki in 
-enveloppe	grama-ve 
-envie	volu 
-environ	proxi 
-environnement	peri-lo 
-environs	peri-lo 
-envoyer	mite; bali 
-épais	densi 
-épaule	skapa 
-épicerie	sito-bo 
-épingle	spina 
-époque	tem 
-épouser	game G 
-épreuve	testa 
-erreur	ero 
-escalier	skala 
-espace	spaci 
-espèce	speci 
-espérer	spe 
-esprit	spiritu 
-essayer	tenta 
-essence	benzina 
-essuyer	frika 
-est (direction)	est; orienta 
-est (être)	es 
-estimer	valu 
-et	e; sin; plus 
-établir	fixa 
-étage	pedi-lo 
-état	fisio 
-été	termo-tem 
-éteindre	sto 
-étendre	extende 
-éternel	no-fini 
-étoile	astro G 
-étonner	stupe 
-étouffer	sto spira 
-étrange	xeno G 
-étranger	xeno G 
-à l'étranger	extra landa 
-être	es 
-étroit	steno 
-étudiant(e)	stude-pe 
-étudier	stude 
-eux	mu 
-éveiller	vigi 
-événement	acide 
-évidemment	klari 
-éviter	evita 
-exactement	exakti 
-examen	examina 
-excellent	excele 
-exciter	excite 
-excuser	pardo 
-exécuter	face 
-exemple	exempla 
-exercer	sti ergo 
-exiger	demanda 
-exister	existe 
-expérience	experi 
-expliquer	explika 
-exposer	monstra 
-expression	expresi 
-exprimer	expresi 
-extérieur	extra 
-extraordinaire	stupe 
-extrême	extremi 
-fabrique	face-do 
-face	facia 
-facile	facili 
-façon	mode 
-facteur (poste)	posta-pe 
-faible	no-dina 
-faim	fami 
-faire	face 
-faire (causer)	sti 
-le fait	faktu 
-il fallait	pa nece 
-falloir	nece 
-fameux	famo 
-famille	famili 
-farine	farina 
-fatiguer	fatiga 
-il faudra	fu nece 
-faute	defekti 
-fauteuil	braki-hedra G 
-faux	falsi 
-favoriser	favo 
-femme	gina 
-fenêtre	fenestra 
-fer	feru 
-ferme	agri-lo 
-fermer	klude 
-fête	festa 
-feu	piro G 
-feuille	folia 
-fevrier	meno bi; M2 (abréviation pour "meno bi") 
-fiçelle	korda; -fi 
-fièvre	pirexia G 
-figure	figura 
-fil	(-)fi 
-filet	reti 
-jeune fille	ju-fe 
-film	filma 
-fils	an-fili 
-fin	fini 
-finir	fini 
-fixer	fixa 
-fleur	flori; anto G 
-foi	kredi 
-foin	fenu 
-fois	kron G 
-folie	rabie 
-folle	rabi 
-foncé	melano G 
-fond	funda 
-fondre	liqi 
-force	dina G 
-forêt	foresta 
-forger	face 
-forme	forma; morfo 
-former	forma 
-fortune	fortuna 
-fou	rabi 
-le fou	rabi-pe 
-foule	poli-pe 
-fourchette	furka 
-fourmi	formika 
-fourneau	furna 
-fournir	dona 
-frais	neo 
-les frais	spende 
-français	Francais 
-franchir	pasa 
-frapper	bate; tipo G 
-frère	fratri 
-froid	frigi 
-fromage	kasea 
-front	fronta 
-frontière	frontira 
-frotter	frika 
-fruit	frukti 
-fuir	fugi 
-fumée	fumi 
-furieux	koleri G 
--futur: erai	fu 
-futur: je viendrai	mi fu veni 
-future	futuri 
-gagner	gene 
-gai	hedo G 
-garçon	ju-an 
-garde	alexi G 
-gare	statio 
-gas	gasi 
-gâteau	plaka G 
-gauche	laevo 
-gêner	vexa 
-general	generali 
-genou	genu 
-genre	speci 
-gens	plu pe 
-gentil	dulce 
-geste	sema 
-glace	glacia 
-glisser	glisa 
-gloire	glori 
-gorge	gutura 
-goût	gusta 
-goutte	guta 
-gouvernement	krati 
-grâce	graci 
-graisse	lipo 
-grand	mega G 
-grand-mere	patri-matri; matri-matri 
-grand-père	matri-patri; patri-patri 
-gras	lipo 
-grave	serioso 
-grenier	stego-ka 
-gris	polio G 
-gros	obesi 
-groupe	grega 
-guerir	repara 
-guerre	milita 
-habile	tekno G 
-habiller	vesti 
-habitant	in-pe 
-habiter	eko 
-habitude	habitu 
-hasard	risko 
-se hâter	akti rapidi 
-haut	alti 
-herbe	herba 
-hésiter	hesita 
-l'heure	horo G 
-heureusement	boni fortuna 
-heureux	hedo G 
-heurter	noku 
-hier	pa-di 
-histoire	histori G 
-hiver	frigi-tem 
-homme	homi 
-honnête	honesti 
-honneur	honora 
-hôpital	pato-do 
-horizon	horizo G 
-horreur	fobo G 
-horrible	sti-fobo 
-hors	extra 
-hospitalité	hospita 
-hôtel	hoteli 
-l'huile	olea 
-huit	okto 
-humain	homi 
-humeur	atitudi 
-humide	humidi 
-ici	ci 
-idée	idea 
-ignorer	ne ski 
-il	an G 
-ils	mu 
-image	imagi 
-imaginer	imagina; fantasi G 
-imiter	mimi 
-immédiat	imedia 
-immense	fo-mega 
-immobile	no-kine 
-important	gravi 
-impossible	no-posi 
-impression	impresi 
-incapable	no-pote 
-incident	acide 
-incliner	klina 
-inconnu	no-ge-ski 
-indiquer	indika 
-individu	persona; individu 
-inférieur	infra 
-infini	no-fini 
-infirmier	kura-pe; kura-an; kura-fe 
-ingénieur	mekani-pe 
-inquiet	anxio 
-insecte	insekti 
-insister sur	itera 
-inspirer	inspira 
-installer	loka; fixa 
-instant	kron G 
-instinct	instinkti 
-instruction	sko 
-intélligence	intelige 
-intention	tende 
-interdire	veto 
-intéresser	interese 
-intérieur	intra 
-interroger	roga 
-interrompre	interupti 
-intime	intra 
-introduire	intra-duce 
-inutile	minus uti 
-inviter	invita 
-jadis	pre nu 
-jamais	ali-kron 
-ne jamais	nuli-kron 
-jambe	poda G 
-janvier	meno mo; M1 (abréviation pour "meno mo") 
-jardin	horti 
-jaune	xanto G 
-je	mi 
-je suis allé	mi pa ki 
-jeudi	di penta 
-jeune	juve 
-joie	hedo G 
-joindre	nexu 
-joli	kali G 
-joue	buka 
-jouer	sporta; ludi 
-jouet	sporta-ra 
-jouir	fru 
-jour	di 
-journal	jurnali 
-juge	judika-pe 
-juger	judika 
-juillet	meno seti; M7 (abréviation pour "meno seti") 
-juin	meno sixa; M6 (abréviation pour "meno sixa") 
-jupe	infra tunika 
-jurer	jura 
-jusque	a; ad 
-juste	justi 
-se: l'un l'autre	alelo 
-la	la 
-la	u-ci; u-la 
-lac	laku 
-lâcher	lase ki 
-laid	no-kali 
-laine	lana 
-laisser	lase 
-lait	lakti 
-lame	lami 
-lampe	lampa G 
-lancer	bali 
-langue	lingua; glosa G 
-large	lati 
-larme	lakrima 
-laver	lava 
-le	u-ci; u-la 
-lecon	sko 
-léger	levia 
-légume	leguma 
-lendemain	po-di 
-lent	lento 
-lequel ..,	qi .., 
-les	plu-ci; plu-la 
-les ...s (pluriel)	plu 
-les deux	bi-ci 
-les etoiles	plu astro 
-lettre (abc)	litera 
-lettre (enveloppe)	grama 
-leur	mu 
-lever	leva 
-lèvre	labia 
-liberté	libe 
-lier	liga 
-lieu	loka; -lo 
-au lieu de	vice 
-ligne	line 
-linge	domi-te 
-liquide	liqi 
-lire	lekto 
-lit	kli 
-lit	sopo-mo 
-litre	litra 
-livre	libri; bibli G 
-livrer	livra 
-loi	lega 
-loin	dista; tele G 
-long	longi 
-longtemps	longi-tem 
-lorsque	kron G 
-louer	lue 
-lourd	gravi; masi 
-lui	ad an 
-lumière	lumi 
-lundi	di bi 
-lune	luna 
-lunettes	plu lenti 
-lutte	lukta 
-ma	mi 
-machine	makina G 
-machine a coudre	sue-me 
-madame	seniora 
-mademoiselle	seniorina 
-magasin	magazina 
-magnifique	grandi 
-mai	meno penta; M5 (abréviation pour "meno penta") 
-maigre	tenu 
-maillot	nekto-ve G 
-main	manu 
-maintenant	nu 
-maintenir	tena 
-mairie	duce-do 
-mais	sed 
-maison	domi; -do 
-maitre	an-maestro 
-maitresse	fe-maestro 
-mal	mali 
-malade	pato G 
-le malade	pato-pe 
-maladie	pato G 
-malgré	anti 
-malheur	mali fortuna 
-malin	tekno-mali 
-le manche	manu-ra 
-manger	vora 
-manière	mode 
-de cette manière	so 
-manteau	mantela 
-marchand	vendo-pe 
-marché	vendo-lo; merkato 
-marcher	gresi; funktio 
-mardi	di tri 
-mari	andro G 
-mariage	game G 
-marier	game G 
-marmite	buli-va 
-marquer	marka 
-mars	meno tri; M3 (abréviation pour "meno tri") 
-marteau	malea 
-masse	masi 
-matelas	soma kosina 
-materiel	materia; -ma 
-matin	mana 
-mauvais	mali 
-me	mi 
-mécanicien	meka-pe 
-méchant	mali; kako G 
-médecin	medika-pe; iatri G 
-médicament	medika-ma 
-meilleur	ma boni 
-mêler	mixa 
-membre	membra 
-même	auto 
-mémoire	memo 
-menacer	menace 
-ménage	eko 
-ménagère	eko-fe 
-mener	duce 
-mensonge	falsi; pseudo G 
-menuiser	face 
-mer	mari 
-merci	gratia 
-mercredi	di tetra 
-mère	matri 
-meriter	merito 
-merveille	mira 
-mes livres	mi plu bibli 
-mesdames	plu siniora 
-mesure	metri 
-métal	metali G 
-métier	profesio 
-mettre	loka; moti 
-meuble	mobili; -mo 
-midi	meso-di 
-le mien	u-mi 
-mieux	ma boni 
-le mieux	maxi boni 
-mil	kilo G 
-milieu	meso 
-militaire	milita 
-million	miliona 
-mince	tenu 
-ministre	ministra-pe 
-minuit	meso noktu 
-minute	minuta 
-misérable	pove 
-mode	mode 
-moderne	nu-di; moderni 
-moi	mi 
-le moindre	mini 
-moindre que	mei de 
-moins	mei G 
-mois	meno G 
-moisson	karpe 
-moitié	semi 
-mol	moli 
-moment	momenta 
-mon	mi 
-monde	munda 
-monnaie	moneta 
-monsieur	senior 
-montagne	monti; buno G 
-monter dans	ki in 
-monter qch.	fero ana 
-montre	horo-me 
-montrer	monstra 
-se moquer de	ridi anti 
-moral	morali 
-morceau	mero G; peci 
-mordre	morda 
-mort	morta 
-le/la mort	morta-pe 
-mot	verba 
-moteur	motori 
-mou	moli 
-mouche	muska 
-mouchoir	nasa-te 
-mouillé	aqa; hidro G 
-mourir	lose bio 
-moustique	moskito 
-mouton	ovis 
-mouvement	kine 
-moyen	medio 
-au moyen de	per 
-muet	ne pote dice; mute 
-mur	mura 
-mûr	matura 
-musique	musika G 
-mystère	misteri G 
-nager	nekto G 
-naître	gene nati 
-nation	natio 
-nature	natura 
-né	nati 
-ne ... aucun	nuli; zero G 
-ne ... guère	proxi ne 
-ne ... pas	ne 
-nécessaire	nece 
-neige	niva; nikti G 
-nerveux	nervoso 
-net	net 
-nettoyer	puri 
-neuf	neo 
-neuf	nona; 9 
-nez	nasa 
-noble	nobili 
-noir	melano G; atro 
-nom	nima G 
-nombre	numera 
-nombreux	poli G; multi 
-nommer	nima G 
-non !	no ! 
-non- (contraire)	no 
-nord	nord; boreo G 
-notre	na 
-nous	na 
-nouveau	neo 
-nouvelle	nova 
-novembre	meno mo-mo; M11 (abréviation pour "meno mo-mo") 
-nu	nudi 
-nudité	nudi 
-nuit	noktu 
-nul	nuli 
-nylon	niloni 
-obéir	obe 
-objet	ra 
-obliger	obliga 
-obscur	no-foto; skoto G; obskuri 
-observer	skope G 
-obtenir	prokura 
-occasion	okasio 
-occuper	prende 
-octobre	meno deka; M10 (abréviation pour "meno deka") 
-odeur	odori 
-œil	oku 
-œuf	ova 
-œuvre	ergo G 
-officiel	ofice-pe 
-offrir	ofere 
-oiseau	avi 
-ombre	umbra 
-ongle	ungu 
-onze	11; mo-mo 
-operation	opera 
-opinion	doxo G 
-opposer	resista 
-or (maintenant)	nu 
-or (métal)	kriso G 
-orage	tempestu 
-ordinaire	ordinari 
-ordonner	komanda 
-oreille	auri; oti G 
-organiser	organiza 
-orgueil	aroga 
-origine	origi 
-os	osteo G 
-oser	audaci 
-ôter	apo G 
-ou	alo 
-où	qo-lo ? 
-ou .. ou	alo ... alo 
-oublier	no-memo 
-ouest	uest; ocide 
-oui	ja 
-outil	ru 
-ouvert	aperi 
-ouvrage	ergo G 
-ouvrier	ergo-pe 
-ouvrir	aperi 
-page	pagina 
-paille	stra 
-pain	pani 
-paix	paci 
-palais	palati 
-pâle	palidi 
-panier	korbi 
-pansement	bandage 
-pantalon	poda-ve 
-papier	papira G 
-paquet	kapsu 
-par	per 
-paraítre	feno 
-parce que	kausa 
-parcourir	explora 
-pardon	pardo 
-pareil	homo G 
-parent	parenta 
-parfait	perfekti 
-parfois	plu kron 
-parler	dice; parle 
-parmi	inter 
-parole	verba 
-la part	mero G 
-partager	divide 
-participe passé	ge- 
-particulier	idio G 
-partie	grega 
-partir de	ki ab 
-partout	panto-lo 
-parvenir a	veni a 
-le pas	gradu 
-passage	via 
-le passé	pa-tem 
-passe: j'ai vu	mi pa vide 
-passer	pasa 
-passion	pasio 
-passive	pasivi 
-passive: il a été inondé	id pa gene diluvi 
-pâte	pasta 
-patrie	nati-lo 
-patron	cefa 
-patte	poda G 
-pauvre	pove 
-payer	paga 
-pays	landa 
-paysan	rura-pe 
-peau	derma 
-pêcher	piski 
-pêcheur	piski-pe 
-peigne	pektina 
-peindre	pikto; kroma G 
-peine	puni 
-pelle	spata 
-pencher	klina 
-pendant	tem; duranto 
-pendre	pende 
-pénétrer	penetra 
-penser	pensi; puta 
-perdre	lose 
-père	patri 
-permettre	lase; permito 
-personnage	gravi persona 
-personne	persona; -pe 
-peser	ponde 
-petit	mikro G; pusi 
-pétrole	petrole 
-peu de	no-poli; oligo 
-peuple	demo G 
-peur	fobo G 
-peut-être	posi 
-pharmacien	farmako-pe 
-photographie	fotografi 
-phrase	frase 
-pièce	peci; mero G 
-pied	pedi 
-pierre	petro 
-pile	kumu 
-piquer	punge 
-pitié	simpati G 
-place	loka 
-placer	loka; moti 
-plafond	tegu 
-plaindre	protesta 
-plaine	plati-lo 
-plaire	place 
-plaisir	hedo G 
-plan	skema G 
-planche	planka 
-plancher	pedi-lo 
-plante	planta 
-planter	planta 
-plat	plati 
-plein	ple 
-pleurer	plora 
-pleuvoir	pluvi 
-plier	plika 
-plonger	merge 
-plume	pluma 
-plupart	pleisto G 
-.. (pluriel):	plu 
-plus	ma 
-le plus	maxi 
-plus de	ma .. de 
-plus grand	ma mega 
-plusieurs	plu 
-plutôt	prefere 
-poche	marsu G 
-la poêle	kuko-va 
-le poêle	furna 
-poésie	poesi G 
-poids	baro G 
-poing	pugna 
-point	punkta 
-sur le point de	nu fu 
-pointe	kuspi 
-pointu	akuto 
-poisson	piski 
-poitrine	pektora 
-poli	glabro 
-police	polica 
-politique	politika G 
-pomme	pomi 
-pont	ponti 
-populaire	demo G; ge-amo 
-port	portu 
-porte	porta 
-porte-monnaie	porta-valuta 
-portefeuille	porta-nota 
-poser	loka 
-posseder	habe 
-possible	posi 
-la poste	posta 
-le poste	difusi-me; radio 
-le pot	vasa 
-poule	galina 
-pour	pro 
-pour que	te 
-pourquoi ?	qo-ka ? 
-poursuivre	casa 
-pourtant	anti-co 
-pousser	pulsa 
-poussière	pulve 
-pouvoir	pote 
-prairie	prate 
-précaution	pre-kura 
-précedér	ki ante 
-précieux	mega preci 
-précipiter	bali 
-précis	precise 
-préférer	prefere; ma-amo 
-premier	prima; proto G 
-prendre	prende 
-préparer	prepara 
-prés	proxi 
-présence	es la 
-président	presidenta 
-presque	proxi 
-presser	presa; baro G 
-prét	prepara 
-pretendre	volu 
-préter	tem-dona 
-prétexte	pretextu 
-prêtre	hiera G 
-prévenir	monito 
-prévoir	pre-vide 
-prier	preka 
-prince	an-princa 
-princesse	fe-princa 
-principal	duce 
-principe	principi 
-printemps	blasto-tem 
-prix	preci 
-probable	probabili 
-prochain	proxi fu 
-produire	produce 
-profiter	profito 
-profond	profunda 
-progrès	progresi 
-projet	projekti 
-promenade	promenade 
-promettre	promise 
-prononcer	pronunci 
-a propos	de; gru 
-proposer	proposi 
-propre à	gru 
-proprieté	habe; qalita 
-protéger	imuni; alexi G 
-prouver	proba 
-province	provinci 
-provision	provisio 
-provoquer	provoka 
-public	publika 
-puis	po-co 
-puisque	kausa 
-puissance	dina G 
-puits	pute 
-punir	puni 
-pur	puri 
-quai	navi-lo 
-qualité	qalita 
-quand ?	qo-tem ? 
-quant à	de 
-quarante	tetra-ze 
-quart	qarto 
-quartier	mero G 
-quatorze	mo-tetra 
-quatre	tetra 
-que	ke 
-quel ?	qo ? 
-quelle heure ?	qo-horo ? 
-quelque	uno 
-quelques	plu 
-questio	qestio 
-..? (questio commence)	qe ? 
-)question:) Vient-il ?	qe an veni ? 
-queue	kauda 
-.., qui ..	qi 
-qui ?	qo-pe ? 
-quinze	mo-penta 
-quitter	ki ex 
-quoi ?	qo ? 
-race	racia 
-raconter	dice 
-radio	radio 
-raison	logika 
-avoir raison	dice veri 
-ramasser	prende 
-ramener	duce versi 
-rang	line 
-ranger	line 
-rapid	rapidi; tako G 
-rappeler	sti versi; sti memo 
-rapport	reporta; relati 
-rapprocher	proxi 
-rare	rari 
-raser	razo 
-rasoir	razo-ru 
-rayon	radia 
-réaliser	reali 
-recevoir	cepti 
-rechercher	recerka 
-récit	reporta 
-réclamer	demande 
-récolter	karpe 
-recommencer	re komence 
-reconnaître	rekogni 
-recouvrir	tegu 
-reçu	qita 
-recueillir	kolekti 
-reculer	retro 
-redouter	sensi fobo 
-réduire	reduce 
-réel	reali 
-réfléchir	reflekti 
-se réfugier	fugi 
-refuser	nega 
-regarder	skope G 
-régime	speci krati 
-région	regio 
-régler	regula 
-regret	penite 
-régulier	uniforma 
-rein	rena 
-réjouir	dona hedo 
-relation	relati 
-relever	releva 
-religion	religio 
-remarquer	nota 
-remercier	gratia 
-remettre	repara 
-remplacer	vice 
-remplir	ple 
-remuer	moti 
-rencontrer	ko 
-rendre	dona versi 
-renoncer	cede 
-rentrer	ki versi 
-renverser	sti kade 
-répandre	difusi 
-réparer	repara 
-repas	vora 
-répondre	responde; reakti 
-reposer	relaxa 
-repousser	sti retro 
-representer	representa 
-resister	resista 
-resoudre	solve 
-respect	respekto 
-respirer	spira 
-ressembler	homo G 
-rester	resta 
-resultat	seqe; resulta 
-retard	po kron 
-retenir	tena 
-retirer	versi 
-retourner	versi 
-retraite	ki ab 
-reunion	unio 
-reussir	sucede 
-reveiller	sti vigi 
-révéler	info 
-rever	sonia 
-revoir	re vide 
-révolution	revolutio 
-riche	pluto 
-rideau	pende-te 
-rien	nuli-ra; ze-ra 
-rire	ridi 
-risquer	risko 
-rivière	fluvi 
-riz	oriza 
-robe	roba 
-roi	an-regi 
-rôle	mero G 
-rond	rondo 
-rose	rosa 
-roue	rota 
-rouge	rubi 
-rouge fonce	atro-rubi 
-rouler	rota; volve 
-route	strata 
-rude	no-facili 
-rue	urba via 
-rue	via 
-sa	an G 
-sable	arena 
-sac	saka 
-sacré	sakri 
-sage	sofi G 
-saint	sankti 
-saisir	prende; rapi 
-saison	tem 
-sale	no-puri 
-salle	kamera; -ka 
-salle à manger	vora-ka 
-saluer	saluta 
-samedi	di seti 
-sang	hema G; sangui 
-sans	minus 
-santé	sani; higie G 
-satisfaire	dona sati 
-sauter	salta 
-sauver	salva 
-savoir	ski 
-savon	sapo 
-scène	skeni; vista 
-scie	seka 
-science	skience 
-sculpter	skulptu 
-se	se 
-seau	manu-va 
-sec	sika 
-second	sekunda 
-secouer	seiso 
-secours	auxi 
-secret	kripti G 
-sein	mama 
-seize	mo-sixa 
-sel	sali 
-selon	akorda 
-semaine	setimana 
-semblable	homo G 
-semer	spora 
-sens	sensi 
-sentir	sensi 
-séparer	separa; lisi G 
-sept	seti 
-septembre	meno nona; M9 (abréviation pour "meno nona") 
-série	seri 
-sérieux	ne ridi; solemni 
-serpent	serpenti 
-serrer	presu 
-service	servi 
-serviette	servieta 
-seul	solo 
-si	si 
-siècle	hekto anua 
-siège	sedi-mo 
-siège	sedi-mo 
-le sien	un-an 
-signe	signi 
-signifier	signifi 
-silence	no-soni 
-simple	simpli; elementa 
-singulier	idio G 
-sinon	si ne 
-situation	topo G 
-six	sixa 
-société	societa 
-soeur	sorori 
-soie	seriko 
-soif	dipso G 
-soigner	kura 
-soir	vespera 
-soit .. soit	alo ... alo 
-soixante	sixa-ze 
-sol	tera 
-soldat	milita-pe 
-soleil	sola; heli G 
-solide	solidi; stereo G 
-sombre	no-foto; skoto G 
-somme	suma 
-sommeil	sopo 
-son	an G 
-songer	pensi 
-sonner	soni 
-sort	fata 
-sorte	speci 
-sortir	ki ex 
-souci	anxio 
-soudain	subito 
-souffler	fla 
-souffrir	sensi mali 
-souhaiter	spe 
-soulever	leva 
-soumettre	sti obe 
-soupe	supa 
-source	fonta 
-sourd	non-audi 
-sourire	sub-ridi 
-souris	mus 
-sous	infra 
-se souvenir	memo 
-souvent	freqe 
-spécial	speciali 
-spectacle	vista 
-sport	sporta 
-statue	statua 
-succès	sucede 
-sucre	sukro-ma 
-sud	sud; austra G 
-suffire	es sati 
-suis (être)	es 
-suite	seqe 
-suivre	ki poste; seqe 
-sujet	tema G 
-supérieur	supra 
-supplier	petitio 
-supporter	tena 
-supposer	postula 
-sur	epi G 
-sûr	sura 
-sûr	sura 
-surprendre	surprise 
-surtout	su toto 
-système	sistema G 
-table	tabla 
-tableau	pikto 
-tâcher	tenta 
-tailler	seka 
-taire	taci 
-tandis que	kontra-co 
-tant	ta 
-tapis	tape 
-tard	po kron 
-tas	kumu 
-tasse	tasa 
-te	tu 
-tel	tali 
-télégramme	telegrama 
-téléphone	telefono 
-télévision	televisio 
-tellement	tanto 
-temps	tem 
-tendre	tensio 
-tenir	tena 
-tente	te-do 
-tenter	tenta 
-terme	fini 
-terminer	fini 
-terrain	peci tera 
-terre	tera 
-terreur	fo fobo 
-terrible	deino G 
-tête	kefa G 
-thé	tea 
-theatre	teatra 
-thème	tema G 
-le tien	u-tu 
-tiers	tertia; tri 
-timbre (poste)	grama bileta 
-tirer	tira; trakto 
-tisser	texo 
-tissue	tisu 
-titre	nima G 
-toi	tu 
-toile	tela 
-toile d'araignée	tela 
-toilette	tualeta 
-toit	stego G 
-tomber	kade 
-ton	tu 
-le ton	u-tu 
-tonnerre	bronto G 
-tort	falsi 
-tôt	tosto; pre-kron 
-toucher	tange; toka 
-toujours	panto-kron 
-tour	viagia 
-tourner	tropi G 
-tournevis	tropi-ru 
-tousser	tusi 
-tout	holo G; toto 
-toutefois	anti-co 
-trace	trace 
-tracteur	trakto-me 
-train	trena 
-en train de	nu 
-traîner	tira; trakto 
-trait	line 
-traité	akorda 
-traiter	kura 
-tranquille	no-kine 
-transformer	muta 
-travail	ergo G 
-à travers	dia G 
-traverser	ki trans 
-treize	mo-tri 
-trembler	tremulo 
-trente	tri-ze 
-très	forti; fo(-) 
-tribunal	tribuna 
-tricot	trikota 
-tricoter	trikota 
-triste	tristi; non-hedo 
-trois	tri 
-la troisieme maison	u domi tri 
-tromper	falsi 
-trop	tro; excesi 
-trou	fora 
-trouble	turba 
-trouver	detekti 
-tu	tu 
-tuer	cide 
-type	tipo G 
-un	u; un 
-l'un l'autre	alelo 
-une	u; un 
-union	unio 
-unique	idio G 
-unité	unita 
-usage	more; habitu 
-user	tro uti 
-usine	face-do 
-utile	uti-ple 
-vacances	libe-tem 
-vache	fe-bovi 
-vague	no-klari 
-vain	vani; no-funktio 
-valise	teka G 
-vallée	vali 
-valoir	valu 
-vapeur	vapo 
-varier	vari 
-vaste	fo-mega 
-veau	babi bovi 
-veille	pre-di 
-veiller	vigi 
-vendre	vendo 
-vendredi	di sixa 
-venir	veni 
-venir de	nu-pa 
-vent	venti 
-ventre	abdomina 
-véritable	veri 
-verre	vitri 
-veste	jaketa 
-vêtement	vesti; -ve 
-viande	karni 
-victime	viktimi 
-victoire	vikto 
-vide	vaku 
-vie	vita; bio G 
-vieux	paleo G 
-vif	vive 
-vigne	viti 
-village	viki 
-ville	urba 
-vin	vini 
-vingt	bi-ze 
-vingt-deux	bi-bi 
-violence	viole 
-visage	facia 
-visite	visita 
-vite	rapidi; tako G 
-vivant	vive 
-vivre	vive 
-voici	vi-ci 
-voie	via 
-voilà	vi-la 
-voir	vide 
-voisin	para-pe 
-voiture	vagona 
-voix	voka 
-voler	peti; vola 
-voler (dérober)	klepto G 
-volontaire	volu 
-votre	tu 
-vouloir	volu 
-vous	vi 
-voyage	viagia 
-vrai	veri 
-vue	vista 
-y	la 
-il y a	il es 
-yeux	plu oku 
-zero	zero G 
-
-```
-
------
-
-	
-<span id="date"></span>
-
-[www.glosa.org](../index.html), 2002-12-09 ... 2006-08-06.
