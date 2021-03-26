@@ -1,14 +1,13 @@
 ---
-title: Glosa, - Missing Words
+title: Glosa, — Missing Words
 layout: post
 published: true
 ---
 
+*A community-based acknowledgement by Marcel Springer*.
 
 
-
-As Charles suggested (and later rejected), I took Paul's
-Base-Vocabulary-list (
+As Charles suggested (and later rejected), I took Paul's Base-Vocabulary-list (
 <ftp://ftp.smart.net/pub/bartlett/base.vocabulary>, I used Charles's
 "mixed salad") and Rick Harrison's VITAL-list (
 <http://rick.harrison.net/langlab/vitaleng.html>) and put the Glosa
@@ -368,6 +367,3 @@ woods
 
 ```
 
------
-
-Marcel Springer, 00-09-14

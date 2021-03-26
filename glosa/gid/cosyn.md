@@ -4,11 +4,7 @@ layout: post
 published: true
 ---
 
-
-
-	
-	
-	
+*by Marcel Springer*.
 
 Some synonyms are necessary for good style and to feel comfortable. But
 for a small and limited vocabulary synonyms are luxury and have to be
@@ -72,10 +68,7 @@ not make that clear enough.
 * hesi, viski 
 * imagi, kroma, pikto 
 * impakti, pulsa 
-* inkontra, ko, unio 
-	(the difference is explained in the book "18 Steps to 
-	Fluency", p. 34:
-	enkontra - meet by chance; unio - meet by appointment) 
+* inkontra, ko, unio (the difference is explained in the book "18 Steps to 	Fluency", p. 34:	enkontra - meet by chance; unio - meet by appointment) 
 * iti, ki, viagia 
 * kafe also "care" 
 * kako, mali 
@@ -138,7 +131,3 @@ ge-face ex	consist
 	konsiste	consist
 
 ```
-
------
-
-Marcel Springer, 00-04-14, 01-10-10

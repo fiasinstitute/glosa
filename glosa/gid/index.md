@@ -17,10 +17,7 @@ published: true
 
 ## Deutsch (German)
 
-GID (only Centra-words) Glosa-English with German translation (machine-generated) of the English words: [gid\_de.htm](gid_de.htm)
-(1.3 MB).
-
-Files based on the list of the book “Deutsch - Glosa 1000” (a little enhanced, but expired): [Glosa-Deutsch](gldt.htm), [Deutsch-Glosa](dtgl.htm).
+[Glosa 1000-Deutsch](gldt.htm), [Deutsch-Glosa 1000](dtgl.htm).
 
 ## Français (French)
 
@@ -48,7 +45,7 @@ There existed a printed version of "Glosa 1000" in Swahili, but no online versi
 
 The files above have been subject to continuous and repeated amendments by the Glossa community.
 
-**English**. [History of file modifications](gidhist.htm), [Missing words](gidmiss.htm) (outdated), [Synonyms in Core](cosyn.htm) (outdated), [Similar Synonyms](simsyn.htm) and solution suggestions by Wendy Ashby, [Word Derivation Scheme](gwds.htm). The [historic version](centrao.htm) of the "1000 most frequent words" list.
+**English**. [History of file modifications](gidhist.htm), [Missing words](gidmiss.htm) (outdated), [Synonyms in Core](cosyn.htm) (outdated), [Similar Synonyms](simsyn/simsyn.htm), [Word Derivation Scheme](gwds.htm). The [historic version](centrao.htm) of the "1000 most frequent words" list.
 
 **French**:	[Corrections](frglcorr.htm), the [historic version](frgl1ko.htm).
 

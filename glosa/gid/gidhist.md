@@ -1,23 +1,10 @@
 ---
-title: History of the GID
+title: "Glosa lexicon: edit history"
 layout: post
 published: true
 ---
 
-
-
-
-## (The Glosa Internet Dictionary/ Glosa Inter-reti Diktionaria)
-
-	
-	
-	
-
-(Original URL of this file was:
-[www.glosa.org/gid/gidhist.htm](gidhist.htm).   Date: see
-[end](gidhist.htm#date) of this file.)
-
------
+Glosa lexicon has been subject to continuous and repeated amendments by the Glossa community. This pages sums up the edits contributed between 1999 and 2013.
 
 |	|	|
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -28,7 +15,6 @@ published: true
 | 1996: | Paul Bartlett puts the "Glosa Basic Reference" on the WWW.	|
 | 1998: | William W. Patterson, Robin Gaskell, Paul Bartlett begin to work on an internet dictionary.	|
 
------
 
 	
 
@@ -11820,9 +11806,4 @@ Letter from Wendy Ashby, October 2007, letter A English-Glosa:
 	short".	
 ```
 
------
 
-	
-<span id="date"></span>
-
-Marcel Springer, [www.glosa.org](../index.html), 2013-04-30
