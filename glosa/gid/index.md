@@ -9,37 +9,29 @@ published: true
 
 ## English
 
+These are the reference lexicons of Glosa. They are the most up-to-date and checked.
+
 {% marginnote '1' '[2000 most frequent words](coglen)<br>[1000 most frequent words](centra) with English cognates (Ashby, Clark).' %}[**Glosa-English**](glen), [**English-Glosa**](engl), download as [pdf](gid.pdf)
 
-## Español (Spanish)
+## Main languages
 
-[Español-Glosa](esgl1k.htm), [auto-generated Glosa-Español](gl1kes.htm).
+The following lexicons are less precise and may be outdated.
 
-## Deutsch (German)
+**Spanish**	[Español-Glosa](esgl1k.htm), [auto-generated Glosa-Español](gl1kes.htm).
 
-[Glosa 1000-Deutsch](gldt.htm), [Deutsch-Glosa 1000](dtgl.htm).
+**German**	[Glosa 1000-Deutsch](gldt.htm), [Deutsch-Glosa 1000](dtgl.htm).
 
-## Français (French)
-
-[French-Glosa](frgl1k.htm), [auto-generated Glosa-French](gl1kfr.htm).
+**French**	[French-Glosa](frgl1k.htm), [auto-generated Glosa-French](gl1kfr.htm).
 
 [Daniel Macouin](http://danielmacouin.chez-alice.fr/) has assembled a printable version of these files.
 
-## Italiano (Italian)
+**Italian**	[Auto-generated Glosa 1000-Italian](gmcoglit.htm).
 
-[Auto-generated Glosa 1000-Italian](gmcoglit.htm).
+**Russian**	[Glosa 1000 - Ruski](gl1kru.htm), [Ruski - Glosa 1000](rugl1k.htm).
 
-## Ruski (Russian)
+**Swahili**	There existed a printed version of "Glosa 1000" in Swahili, but no online version is available.
 
-[Glosa 1000 - Ruski](gl1kru.htm), [Ruski - Glosa 1000](rugl1k.htm).
-
-## Swahili
-
-There existed a printed version of "Glosa 1000" in Swahili, but no online version is available.
-
-## Zhongguo-lingua (Chinese)
-
-[1000 most frequent words](glch) with Chinese equivalents (Prof. [Liu Haitao](http://htliu.nease.net/glosa.html)).
+**Chinese**	[1000 most frequent words](glch) with Chinese equivalents (Prof. [Liu Haitao](http://htliu.nease.net/glosa.html)).
 
 ## Technical
 
