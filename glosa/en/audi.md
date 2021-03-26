@@ -10,7 +10,7 @@ published: true
 
 Attention: *English accent*.
 
-{% include audioplayer.html path="../dat/audi01.mp3" %}
+{% include audioplayer.html path="audio/audi01.mp3" %}
 
 **Turisti**: Boni mana! 
 
@@ -74,7 +74,7 @@ Attention: *English accent*.
 
 {% marginnote '2' '![](../pic/gtexte14.jpg)' %}R. Gaskell, 1998
 
-{% include audioplayer.html path="../dat/audi02.mp3" %}
+{% include audioplayer.html path="audio/audi02.mp3" %}
 
 Mo kron, intra u mega foresta pa es tri ursus. Mu habita u dekora domi intra u pusi klara, sed holo peri u domi pa habe plu dendro. Ki apo u domi, u steno via pa duce inter plu dendro.
 
@@ -86,7 +86,7 @@ Singu matina, u matri ursus pa kuko pulsa pro mu prima vora. Sed freqe, u ge-kuk
 
 {% marginnote '3' '![](../pic/audi04.jpg)' %}Gary R. Miller, 2001.
 
-{% include audioplayer.html path="../dat/audi03.mp3" %}
+{% include audioplayer.html path="audio/audi03.mp3" %}
 
 Ave, Marcel,  
 
@@ -96,7 +96,7 @@ Ci es bi kanta pro tu. Mi spe; plu Glosa soni es korekti. Mi pa vide plu hetero 
 
 Johannah, Suzannah, Gary Miller, 2001.
 
-{% include audioplayer.html path="../dat/audi04.mp3" %}
+{% include audioplayer.html path="audio/audi04.mp3" %}
 
 Pusi astro, qo-ra es tu;  
 
@@ -114,9 +114,9 @@ Qi nu foto tem u noktu?
 
 Gary R. Miller, 2001.
 
-{% include audioplayer.html path="../dat/audi05.mp3" %}
+{% include audioplayer.html path="audio/audi05.mp3" %}
 
-1. Ab na vali - mu dice - tu fu ki.  
+**Ab** na vali - mu dice - tu fu ki.  
 
 Na fu este u minus de tu,  
 
@@ -132,7 +132,7 @@ Sed sti memo de na fluvi vali
 
 E de bovi-an; qi amo tu.  
   
-2. O, mi longi-tem puta, mi karo  
+**O**, mi longi-tem puta, mi karo  
 
 De pan verba; tu ne dic a mi.  
 
@@ -140,7 +140,7 @@ Sed pan mi spe nu gene no-feno,
 
 Ka - mu dice - tu ki ab fu-di.  
   
-3. Mu fu fune mi sub la; tu gresi,  
+**Mu** fu fune mi sub la; tu gresi,  
 
 Sub la buno, la flori es su,  
 
@@ -151,11 +151,11 @@ Ka mi ne pote es minus tu.
 
 ## Kosmo Glosa
 
-{% marginnote '7' '![](../pic/audi06.jpg)' %}Words: Wendy Ashby, 1994, music, voice: Gary Miller, 2002.
+{% marginnote '7' '![](../pic/audi06.gif)' %}Words: Wendy Ashby, 1994, music, voice: Gary Miller, 2002.
+	
+{% include audioplayer.html path="audio/audi07.mp3" %}
 
-{% include audioplayer.html path="../dat/audi07.mp3" %}
-
-Panto-pe panto-lo pote uti Glosa:  
+**Panto-pe** panto-lo pote uti Glosa:  
 
 Panto landa civi de panto nati-lingua.  
 
@@ -165,7 +165,7 @@ Panto-pe dic: Glosa es pro Gaia komunika.
 
 *Not in the sound file*:
 
-2. Id dona interese a panto bon konversa.
+**Id** dona interese a panto bon konversa.
 
 Poli civi dice id in Afrika e Asia.
 
@@ -173,7 +173,7 @@ In trena, navi, aeroplan, panto speci vaga,
 
 pe audi Glosa panto-lo, id eko peri Gaia.
 
-3. Gru ad ali puta-me, poesi e musika,
+**Gru** ad ali puta-me, poesi e musika,
 
 panto tema, panto-lo, Glosa don service.
 
@@ -181,7 +181,7 @@ Dice, lekto, audi id tem sporta e relaxa,
 
 Glosa es u maxi bon a  fluvi, bun e saxa.  
 
-4. Glosa es u nece-ra. Un universa lingua.
+**Glosa** es u nece-ra. Un universa lingua.
 
 Fu doci sani panto-lo e paci e eduka.
 
@@ -193,6 +193,6 @@ Stop u lingua frustra: sti kosmo komunika.
 
 {% marginnote '6' '![](../pic/audi05.jpg)' %}Marcel Springer, 2002.
 
-{% include audioplayer.html path="../dat/audi06.mp3" %}
+{% include audioplayer.html path="audio/audi06.mp3" %}
 
 Plu infanti Henzel e Gretel pa konfusi gresi in silva. La id pa es skoto e frigo, e mu ne habe sito. U-la-tem mu detekti u domi; qi es ge-face ex plu biskokta. In domi u magika-fe eko. Fe pseudo; fe es gluko. Sed veri, fe volu fago u ju-an Henzel e volu habe Gretel homo dulo-fe. Sed Gretel bali magika-fe ad-in piro in piro-me. U magika-fe morta e plu infanti es ge-salva.
