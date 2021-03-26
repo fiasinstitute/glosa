@@ -4,38 +4,24 @@ layout: post
 published: true
 ---
 
-
-	
-	
-
-
-
-	
+*by Marcel Springer*
 
 It seems to be simply like this:
 
 Glosa words are built from
 
-	- English foreign words, ...
-	- ... which have Latin or Greek origin and ...
-	- ... which have cognates in the other world languages Spanish,
-	French, German and Russian.
-	- Spelling is simplified (ph --\> f, th --\> t etc.).
-	- And: Glosa words are mainly ending on a vowel.
+- English foreign words, ...
+- ... which have Latin or Greek origin and ...
+- ... which have cognates in the other world languages Spanish,
+French, German and Russian.
+- Spelling is simplified (ph --\> f, th --\> t etc.).
+- And: Glosa words are mainly ending on a vowel.
 
-	
-	
-
-\[When I once was disappointed about Glosa's vocabulary, I was looking
+[When I once was disappointed about Glosa's vocabulary, I was looking
 for a way, how it could be fixed/reformed/refined, and I sketched the
 text below. Meanwhile many problems in the words are solved. So the
-ideas below are perhaps not further necessary.\]
+ideas below are perhaps not further necessary.]
 
------
-
-	
-	
-	
 
 How are the Glosa words built? An answer to this question is necessary
 to remove the many insufficiencies from the Glosa vocabulary.	
@@ -51,18 +37,15 @@ directly from classical roots.
 (IV) gives the direction to a more systematical attempt.
 
 	
-	
-
 ## I) The authors's method
 
-\[The following lines are written by the Glosa authors Ron Clark and
-Wendy Ashby themselves. They are from the Glosa-newspaper "Plu Glosa
+[The following lines are written by Ron Clark and Wendy Ashby. They are from the Glosa-newspaper "Plu Glosa
 Nota", no. 37. They say mainly, that Glosa words are built from English
 foreign words. I personally think, that such a domination of English is
 not good for an international auxiliary language. On the other hand a
 lot of these words are really international and not only English. The
 result of this method is unfortunately often not unambiguous and so not
-always satisfying.\]
+always satisfying.]
 
 ### Mega-Glosa, but...
 
@@ -103,8 +86,8 @@ Glosa 1000, the others will be in Glosa 6000. In any long word of
 classical origin there may be ...
 
 ``` 
-	Prefix - root - suffix.
-	Eg.	SUPER	FLU	OUS
+Prefix - root - suffix.
+Eg.	SUPER	FLU	OUS
 ```
 
 Remember Glosa has no parts of speech; and any Glosa word can act as any
@@ -117,7 +100,7 @@ in PGN 36 this must be retained as it contributes to meaning, to
 information. So generalizing;
 
 ``` 
-	Word minus suffix = Prefix + root.
+Word minus suffix = Prefix + root.
 ```
 
 the word you want. In the above example the root is FLU, to flow, SUPER
@@ -141,20 +124,21 @@ No double letters in Glosa, except on a few occasions where a
 well-trilled r may have a good echoic effect. Some examples;
 
 ``` 
- 
- English	GLOSA
- delicious	DELICI	degenerate	DEGENERA
- industrialize	INDUSTRI	subsequent	SUBSEQUE
- contortion	KONTORTI	population	POPULA
+English	GLOSA
+delicious	DELICI	degenerate	DEGENERA
+industrialize	INDUSTRI	subsequent	SUBSEQUE
+contortion	KONTORTI	population	POPULA
 ```
 
 In 99 % of all cases this simple method will work perfectly, but
 occasionally some part of the suffix may be found useful and can be
 retained.
 
-	Words ending -ism	add -o.	REALISMO.	KOMUNISMO.
-	Words ending -ist	add -i.	REALISTI.	FATALISTI.
-	Words ending -ment add -a.	PARLAMENTA.	MOVIMENTA.
+```
+Words ending -ism	add -o.	REALISMO.	KOMUNISMO.
+Words ending -ist	add -i.	REALISTI.	FATALISTI.
+Words ending -ment add -a.	PARLAMENTA.	MOVIMENTA.
+```
 
 Biological and medical terms remain unchanged; OAKTREE is QUERKUS. K can
 be substituted for Latin C. Musical terms remain unchanged, many of
@@ -171,17 +155,17 @@ has two parts, each of which gives rise to great numbers of Euro-verbs.
 Eg;
 
 ``` 
-	to see	infinitive	VIDE	as in VIDEO
-	past participle	VISum as in VISion.
+to see	infinitive	VIDE	as in VIDEO
+past participle	VISum as in VISion.
 ```
 
 So for GLOSA 'to see' can be rendered by VIDE or VISI. Other examples;
 
 ``` 
-	join together	i.	NEKT	as in conNECT
-	pp.	NEXU	as in NEXUs.
-	to lead	i.	DUCE	as in reDUCE
-	pp.	DUCT	as in conDUCT.
+join together	i.	NEKT	as in conNECT
+pp.	NEXU	as in NEXUs.
+to lead	i.	DUCE	as in reDUCE
+pp.	DUCT	as in conDUCT.
 ```
 
 	
@@ -207,12 +191,14 @@ come to an end. Nowadays scientists turn almost exclusively to Greek for
 new terminology. Three ways by which you can recognize words of Greek
 origin.
 
-	1) There are many double consonants. Eg;
-	PSYCHOLOGY, CATARRH, RHYTHM, THEME, ARCHITECT, HYPHEN, PNEUMONIA.
-	2) There are many diphthongs; Eg
-	EUPHONY, HAEMOGLOBIN
-	3) All those words in which ch is pronounced like a k.	Eg;
-	ARCHITECT, CHARACTER.
+```
+1) There are many double consonants. Eg;
+PSYCHOLOGY, CATARRH, RHYTHM, THEME, ARCHITECT, HYPHEN, PNEUMONIA.
+2) There are many diphthongs; Eg
+EUPHONY, HAEMOGLOBIN
+3) All those words in which ch is pronounced like a k.	Eg;
+ARCHITECT, CHARACTER.
+```
 
 The Greek words are not quite so familiar yet as the Latin, but they are
 daily becoming ever more so. TELE-SCOPE, SYMBOL, SYMPTOM, SYMPHONY are
@@ -225,10 +211,10 @@ Glosa 6000; and the Advanced Glosa Dictionary is almost entirely Greek.
 
 ### Glosa E Italiano
 
-\[There is an article in "Plu Glosa Nota", no. 81 about deriving Glosa
+[There is an article in "Plu Glosa Nota", no. 81 about deriving Glosa
 words from Italian. Unfortunately I have not got it. Perhaps it is
 interesting here. Does anybody have it? On page 2 of PGN 82 (this issue
-I have) there is written:\]
+I have) there is written:]
 
 In PGN 81 na pa dice komo Glosa pote uti moderno Italiano de gene id
 Mega lexiko. ...	
@@ -306,15 +292,17 @@ latin Genitive ending: -ae -i -us -ei -is
 
 Interlingua ending: -a -o -u -e -e
 
-	Examples
+Examples
 	
-	Words of Latin Vocabulary	Interlingua Words	English Words
-	Nominative	Genitive
-	rosa	rosae	rosa	rose
-	laurus	lauri	lauro	laurel
-	casus	casus	casu	case
-	series	seriei	scrie	series
-	pax	pacis	pace	peace
+```
+Words of Latin Vocabulary	Interlingua Words	English Words
+Nominative	Genitive
+rosa	rosae	rosa	rose
+laurus	lauri	lauro	laurel
+casus	casus	casu	case
+series	seriei	scrie	series
+pax	pacis	pace	peace
+```
 
 A few nouns are used in their nominative forms to avoid confusion with
 other words:
@@ -353,13 +341,15 @@ II. from the genitive form in all other instances:
 
 (c) by changing to e the enaing is as in the case of nouns.
 
-	Examples
+Examples
 	
-	Latin	Interlingua	English
+```
+Latin	Interlingua	English
 	
-	celeber celebris celebre	celebre	celebrated
-	novus nova novum	novo	new
-	audax audax audax audacis	audace	audacious
+celeber celebris celebre	celebre	celebrated
+novus nova novum	novo	new
+audax audax audax audacis	audace	audacious
+```
 
 3\. VEBBS
 
@@ -390,55 +380,59 @@ performs the act indicated by the stem of the word, etc.
 
 The commonest suffixes and prefixes are given below.
 
-	Suffixes	Examples
-	English	Interlingua	English	Interlingua
-	-ism	-ismo	protectionism	protectionismo
-	-ic	-ico	electric	electrico
-	-id	-ido	splendid	splendido
-	-ist	-ista	feminist	feminista
-	-al	-ale	general	generale
-	-an	-ano	American	americano
-	-ary	-ario	aviary	aviario
-	-aster	-astro	poetaster	poetastro
-	-ble	-bile	stable	stabile
-	-el	-elo,-ela	sequel	sequela
-	-or,-our	-ore	colo(u)r	colore
-	-tive	-tivo	punitive	punitivo
-	-ous	-oso	famous	famoso
-	-ate	-ato	suhlimate	sublimato
-	-er	-tore	maker	factore
-	-tor	-tore	actor	actore
-	-ty	-tate	quality	qualitate
-	-tion	-tione	declaration	declaratione
-	-cy	-tia	tendency	tendentia
-	-ce	-tia	elegance	elegantia
-	-e	-io	spectroscope	spectroscopio
-	-y	-ia	zoology	zoologia
-	-fy	-fico	justify	justifica
-	-esque	-esco	statuesque	statuesco
+```
+Suffixes	Examples
+English	Interlingua	English	Interlingua
+-ism	-ismo	protectionism	protectionismo
+-ic	-ico	electric	electrico
+-id	-ido	splendid	splendido
+-ist	-ista	feminist	feminista
+-al	-ale	general	generale
+-an	-ano	American	americano
+-ary	-ario	aviary	aviario
+-aster	-astro	poetaster	poetastro
+-ble	-bile	stable	stabile
+-el	-elo,-ela	sequel	sequela
+-or,-our	-ore	colo(u)r	colore
+-tive	-tivo	punitive	punitivo
+-ous	-oso	famous	famoso
+-ate	-ato	suhlimate	sublimato
+-er	-tore	maker	factore
+-tor	-tore	actor	actore
+-ty	-tate	quality	qualitate
+-tion	-tione	declaration	declaratione
+-cy	-tia	tendency	tendentia
+-ce	-tia	elegance	elegantia
+-e	-io	spectroscope	spectroscopio
+-y	-ia	zoology	zoologia
+-fy	-fico	justify	justifica
+-esque	-esco	statuesque	statuesco
+```
 
 The ending -ed as in "faced " (having faces) may be rendered with cum:
 cum vultu or cum superficie; cornered (having corners,) cum angulo.
 
-	Prefixes	Examples
-	English	Interlingua	English	Interlingua
-	anti-	anti	anti-suffragist	antisuffragista
-	auto-	auto-	automobile	automobile
-	self-	auto-	self-induction	auto-inductione
-	well	bene-	wellsaid	benedicto
-	co-	co-	co-operator	cooperatore
-	dis-	dis-	dismember	dismembra
-	im-	im-	immortal	immortale
-	in-	in-	inability	inhabilitate
-	inter-	inter-	interact	interacto
-	mis-	male-	misform	maleforma
-	pan-	pan-	pan-asiatic	panasiatico
-	by- (beside)	para-	by-product	para-producto
-	pseudo-	pseudo-	pseudonym	pseudonymo
-	quasi-	quasi-	quasi-official	quasi-officiale
-	re-	re-	reexamine	reexamina
-	sub-	sub-	subterranean	subterraneo
-	super-	super-	superman	superhomine
+```
+Prefixes	Examples
+English	Interlingua	English	Interlingua
+anti-	anti	anti-suffragist	antisuffragista
+auto-	auto-	automobile	automobile
+self-	auto-	self-induction	auto-inductione
+well	bene-	wellsaid	benedicto
+co-	co-	co-operator	cooperatore
+dis-	dis-	dismember	dismembra
+im-	im-	immortal	immortale
+in-	in-	inability	inhabilitate
+inter-	inter-	interact	interacto
+mis-	male-	misform	maleforma
+pan-	pan-	pan-asiatic	panasiatico
+by- (beside)	para-	by-product	para-producto
+pseudo-	pseudo-	pseudonym	pseudonymo
+quasi-	quasi-	quasi-official	quasi-officiale
+re-	re-	reexamine	reexamina
+sub-	sub-	subterranean	subterraneo
+super-	super-	superman	superhomine
+```
 
 As indicated above, "bene" may be used to render the prefix "well"
 either separately or combined: bene consiliato or beneconsiliato or
@@ -513,7 +507,8 @@ Or the adjectives may be used as adverbs without any change.
 ``` 
 
 - Some words are derived regularly from the classical words, like 
-	Peano suggested. 
+Peano suggested. 
+
 	Indefinite words remain as they are (ad, de, si, Greek: kata). 
 	-a, -ae get (from ablativus) -a (silva), 
 	-us, -us get -u (manu), 
@@ -618,10 +613,3 @@ ab - absent; away; from; off
 (Adverbien (Umstandswörter, adverbs), Präpositionen (Verhältniswörter,
 prepositions), Konjunktionen (Bindewörter, conjunctions), Interjektionen
 (Ausrufewörter, interjections))
-
-	
-
------
-
-(Marcel Springer, [www.glosa.org](../index.html), 2000-10-18,
-2002-02-15, 2006-03-25)
