@@ -4,8 +4,6 @@ layout: post
 published: true
 ---
 
-### Similar Synonyms
-
 *by Marcel Springer*.
 
 This is a list of similar Glosa words with same or similar meanings.

@@ -7,15 +7,15 @@ published: true
 
 	
 
-## English
+## Reference lexicon
 
 These are the reference lexicons of Glosa. They are the most up-to-date and checked.
 
-{% marginnote '1' '[2000 most frequent words](coglen)<br>[1000 most frequent words](centra) with English cognates (Ashby, Clark).' %}[**Glosa-English**](glen), [**English-Glosa**](engl), download as [pdf](gid.pdf)
+{% marginnote '1' '[2000 most frequent words](coglen)<br>[1000 most frequent words](centra) with English cognates (Ashby, Clark).' %}[**Glosa-English**](glen), [**English-Glosa**](engl), download as [pdf](glosa-dictionary.pdf)
 
-## Main languages
+## Secondary lexicons
 
-The following lexicons are less precise and may be outdated.
+The derivative lexicons are less precise and may be outdated.
 
 **Spanish**	[Español-Glosa](esgl1k.htm), [auto-generated Glosa-Español](gl1kes.htm).
 
@@ -27,7 +27,7 @@ The following lexicons are less precise and may be outdated.
 
 **Italian**	[Auto-generated Glosa 1000-Italian](gmcoglit.htm).
 
-**Russian**	[Glosa 1000 - Ruski](gl1kru.htm), [Ruski - Glosa 1000](rugl1k.htm).
+**Russian**	[Glosa 1000-Russian](gl1kru.htm), [Russian-Glosa 1000](rugl1k.htm).
 
 **Swahili**	There existed a printed version of "Glosa 1000" in Swahili, but no online version is available.
 
