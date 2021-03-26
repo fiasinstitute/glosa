@@ -37,7 +37,7 @@ The following lexicons are less precise and may be outdated.
 
 The files above have been subject to continuous and repeated amendments by the Glosa community.
 
-**English**. [History of file modifications](gidhist.htm), [Missing words](gidmiss.htm) (outdated), [Synonyms in Core](cosyn.htm) (outdated), [Similar Synonyms](simsyn/simsyn.htm), [Word Derivation Scheme](gwds.htm). The [historic version](centrao.htm) of the "1000 most frequent words" list.
+**English**. [Edit history](gidhist.htm), [Missing words](gidmiss.htm) (outdated), [Synonyms in Core](cosyn.htm) (outdated), [Similar Synonyms](simsyn/simsyn.htm), [Word Derivation Scheme](gwds.htm). The [historic version](centrao.htm) of the "1000 most frequent words" list.
 
 **French**:	[Corrections](frglcorr.htm), the [historic version](frgl1ko.htm).
 
