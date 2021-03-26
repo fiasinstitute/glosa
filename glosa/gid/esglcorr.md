@@ -1,35 +1,10 @@
 ---
-title: Corrections/Changes to "Español - Glosa 1000"
+title: Corrections/Changes to "Español — Glosa 1000"
 layout: post
 published: true
 ---
 
-
-
-
-There is a book "Español - Glosa 1000" by Richard Burrows and the Glosa
-authors Wendy Ashby and Ron Clark, edited in 1992. You can buy it from
-Wendy Ashby, c/o Glosa Education Organisation, 35 Wingfield Road;
-Kingston Upon Thames; Surrey KT2 5LR; ENGLAND.
-
-The Spanish-Glosa vocabulary list of the book is online available at
-[www.glosa.org/gid/esgl1k.htm](esgl1k.htm).
-
-I made some corrections and changes to it. They are listed below.
-
-Only for historical interest, please do not use it\!, you can have a
-look at the old and uncorrected list of the original book at
-[www.glosa.org/gid/esgl1ko.htm](esgl1ko.htm).
-
-There is also a reversed list Glosa-Spanish (with corrections)
-[www.glosa.org/gid/gl1kes.htm](gl1kes.htm), that is not in the book.
-
-Marcel Springer, ![](../pic/emailm.png) @glosa.org).
-
-	
-	
-
-#### The changes
+by Marcel Springer
 
 ``` 
 "abandonar	abandona; linqi" removed "abandona" (not G1k). 
@@ -922,8 +897,3 @@ Marcel Springer, ![](../pic/emailm.png) @glosa.org).
 	"korta" (zaguán is hallway, entrance; korta is court). 
 ```
 
------
-
-	
-
-[www.glosa.org](../index.html), 2003-10-28 .. 2011-05-12

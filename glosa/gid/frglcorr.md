@@ -1,35 +1,10 @@
 ---
-title: Corrections/Changes to "Français - Glosa 1000"
+title: Corrections/Changes to "Français — Glosa 1000"
 layout: post
 published: true
 ---
 
-
-
-
-There is a book "Français - Glosa 1000" by the Glosa authors Wendy Ashby
-and Ron Clark, edited in 1992. You can buy it from Wendy Ashby, c/o
-Glosa Education Organisation, 35 Wingfield Road; Kingston Upon Thames;
-Surrey KT2 5LR; ENGLAND.
-
-The French-Glosa vocabulary list of the book is online available at
-[www.glosa.org/gid/frgl1k.htm](frgl1k.htm).
-
-I made some corrections and changes to it. They are listed below.
-
-Only for historical interest, please do not use it\!, you can have a
-look at the old and uncorrected list of the original book at
-[www.glosa.org/gid/frgl1ko.htm](frgl1ko.htm).
-
-There is also a reversed list Glosa-French (with corrections)
-[www.glosa.org/gid/gl1kfr.htm](gl1kfr.htm), that is not in the book.
-
-Marcel Springer, ![](../pic/emailm.png) @glosa.org).
-
-	
-	
-
-#### The changes
+by Marcel Springer.
 
 ``` 
 "(questio:) Vient-il ?	qe an veni ?" changed and corrected to 
@@ -288,9 +263,3 @@ Marcel Springer, ![](../pic/emailm.png) @glosa.org).
 
 
 ```
-
------
-
-	
-
-[www.glosa.org](../index.html), 2002-11-09 ... 2011-05-12

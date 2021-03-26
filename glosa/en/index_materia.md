@@ -10,8 +10,6 @@ published: true
 
 A Glosa starting kit.  [**Glosa Basic Reference** (English)](gref.htm),  [**“Grundwissen Glosa”** (German)](dt-gref.htm).
 
-[Glosa Internet Dictionary](../gid/index.html).
-
 A [Glosa grammar](gramm.htm). A draft by Robin Gaskell. In [Russian](rugram.htm).
 
 A [Glosa grammar](gramm2.htm). Notes by Carmelo Mico Ranibakt<!---, when he was learning Glosa--->.

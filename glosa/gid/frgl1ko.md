@@ -1,72 +1,14 @@
 ---
-title: Français - Glosa 1000
+title: Français — Glosa 1000, originali, ne ge-korekti, ko poli ero
 layout: post
 published: true
 ---
 
 
-	
+## N'utilisez pas cette liste!!! NE uti u-ci lista!!!
 
-
-
-## (originali, ne ge-korekti, ko poli ero)
-
------
-
-Place:
-
-## Ne utilisez pas cette liste\!\!\! NE uti u-ci lista\!\!\!
-
-Id es ci solo pro plu pe; qi habe fo interese de Glosa histori. Place:
-
-## Preferez la [liste](frgl1k.htm) corrigée\! Prefere u ge-korekti [lista](frgl1k.htm)\!
-
-U ge-korekti lista habe adresa:
-[www.glosa.org/gid/frgl1k.htm](frgl1k.htm). U ge-vice lista
-Glosa-Français (ge-korekti) es epi
-[www.glosa.org/gid/gl1kfr.htm](gl1kfr.htm). U bibli ne habe
-Glosa-Français-lista. U lista de plu ge-ma-boni ra es
-[www.glosa.org/gid/frglcorr.htm](frglcorr.htm). Alo ma-boni:
-
-## Utilisez les [listes anglaises](index.html)\! Uti plu [English lista](index.html)\!
-
-Uti plu English lista de GID epi [www.glosa.org/gid](index.html); si tu
-pote.
-
-	
-	
-
-U-ci lista (vide infra) es ex libri "Français - Glosa 1000" de Glosa
-autori Wendy Ashby e Ronald Clark, 1992. Tu pote merka u bibli de Glosa
-Education Organisation, 35 Wingfield Road; Kingston Upon Thames; Surrey
-KT2 5LR; ENGLAND. U bibli habe plus [info de
-Glosa](../brevi/francais.htm) e mo
-[exempla-textu](../brevi/frdaudet.htm) in Glosa e Français paraleli.
-
-HTML ex Marcel Springer, [www.glosa.org](../index.html), 2001-2011.
-
-U "`G`" in lista semani: u verba habe Greko radi.
-
-	
-
------
-
-	
-
-[a](frgl1ko.htm#gea)  [b](frgl1ko.htm#geb)  [c](frgl1ko.htm#gec) 
-[d](frgl1ko.htm#ged)  [e](frgl1ko.htm#gee)  [f](frgl1ko.htm#gef) 
-[g](frgl1ko.htm#geg)  [h](frgl1ko.htm#geh)  [i](frgl1ko.htm#gei) 
-[j](frgl1ko.htm#gej)  [k](frgl1ko.htm#gek)  [l](frgl1ko.htm#gel) 
-[m](frgl1ko.htm#gem)  [n](frgl1ko.htm#gen)  [o](frgl1ko.htm#geo) 
-[p](frgl1ko.htm#gep)  [q](frgl1ko.htm#geq)  [r](frgl1ko.htm#ger) 
-[s](frgl1ko.htm#ges)  [t](frgl1ko.htm#get)  [u](frgl1ko.htm#geu) 
-[v](frgl1ko.htm#gev)  [w](frgl1ko.htm#gew)  [x](frgl1ko.htm#gex) 
-[y](frgl1ko.htm#gey)  [z](frgl1ko.htm#gez)
-
-	
-<span id="gea"></span>
-
-### A
+U-ci lista (vide infra) es ex libri "Français - Glosa 1000" de Wendy Ashby e Ronald Clark, 1992. U bibli habe plus info de
+Glosa  e mo exempla-textu in Glosa e Français paraleli.
 
 ``` 
  
@@ -1808,4 +1750,3 @@ zero	zero G
 
 ```
 
------

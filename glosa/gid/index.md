@@ -9,11 +9,11 @@ published: true
 
 ## English
 
-{% marginnote '1' '[2000 most frequent words](coglen)<br>[1000 most frequent words](centra) with English cognates (Ashby, Clark).' %}[**Glosa-English**](glen), [English-Glosa](engl), [download as pdf](gid.pdf)
+{% marginnote '1' '[2000 most frequent words](coglen)<br>[1000 most frequent words](centra) with English cognates (Ashby, Clark).' %}[**Glosa-English**](glen), [**English-Glosa**](engl), download as [pdf](gid.pdf)
 
 ## Español (Spanish)
 
-[Español-Glosa](esgl1k.htm), [Glosa-Español](gl1kes.htm) (generated).
+[Español-Glosa](esgl1k.htm), [auto-generated Glosa-Español](gl1kes.htm).
 
 ## Deutsch (German)
 
@@ -24,7 +24,7 @@ Files based on the list of the book “Deutsch - Glosa 1000” (a little enhan
 
 ## Français (French)
 
-[French-Glosa](frgl1k.htm), [Glosa-French](gl1kfr.htm) (generated).
+[French-Glosa](frgl1k.htm), [auto-generated Glosa-French](gl1kfr.htm).
 
 [Daniel Macouin](http://danielmacouin.chez-alice.fr/) has assembled a printable version of these files.
 
@@ -52,4 +52,4 @@ The files above have been amended.
 
 **French**:	[Corrections](frglcorr.htm), the [historic version](frgl1ko.htm).
 
-**Spanish**:[Corrections](esglcorr.htm), the [historic version](esgl1ko.htm).
+**Spanish**: [Corrections](esglcorr.htm), the [historic version](esgl1ko.htm).

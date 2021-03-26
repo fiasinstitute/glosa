@@ -4,44 +4,22 @@ layout: post
 published: true
 ---
 
-
-	
-	
-
-# 
-
-	
-
-|	|	|	|
-| ------------------------------------------------------------------------------------------------------------------------------------------------ |	| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| *Infra tu vide mero de bibli “Central Glosa” ex Wendy Ashby e Ronald Clark, © Glosa Education Organisation, Richmond, UK, 1993, pagina 24 a 56.* |	| *Below you see a part of the book “Central Glosa” by Wendy Ashby and Ronald Clark, © Glosa Education Organisation, Richmond, UK, 1993, page 24 to 56.* |
-|	|	|	|
-| *HTML-versio pa gene face ex Marcel Springer, 2004. U ge-ma-boni lista pote gene detekti [ci](centra.htm).*	|	| *This HTML-version was made by Marcel Springer, 2004. An improved list can be found [here](centra.htm).*	|
-
------
-
-	
-	
+from “Central Glosa” (Ashby, Clark), pp. 24—56.
 
 *p. 24:*
 
 ## Glosa 1000
 
-Now you come to the most important part, the heart, ***Central
-GLOSA 1000***.
+Now you come to the most important part, the heart, ***Central GLOSA 1000***.
 
 Each page is divided into three columns. The middle column lists the
 Latin and Greek roots of Glosa in bold capitals and in alphabetical
 order.
 
 A Glosa word followed by a G. means it is of Greek origin. All the other
-un-G-d words come from Latin.
-
-**In Column 1 is an international word which contains the Glosa root
+un-G-d words come from Latin. **In Column 1 is an international word which contains the Glosa root
 showing how you have been using, hearing and reading Latin and Greek
-(GLOSA) for years without perhaps knowing it.**
-
-Column 3 gives the meaning of the Glosa word.
+(GLOSA) for years without perhaps knowing it.** Column 3 gives the meaning of the Glosa word.
 
 The reader will surely immediately recognize many of the Glosa words
 without consulting the first column. But in many cases the Glosa root
@@ -63,9227 +41,3216 @@ To make things even easier the clue words in column 1 have been
 separated into their constituent bits by one or 2 hyphens.
 
 So we think after you have browsed a little through this Glosa-English
-section you will agree that as we always say;
-
-**GLOSA  IS  THE  INTERNATIONAL  LANGUAGE  YOU  DIDNT  KNOW  YOU 
-KNEW.**
-
-	
+section you will agree that as we always say; **GLOSA  IS  THE  INTERNATIONAL  LANGUAGE  YOU  DIDNT  KNOW  YOU
+KNEW.** 	
 	
 
  	
  	
 *p. 25:*	
- 
+**International Word** — **Glosa Word** — **Meaning of Glosa Word** 
 
-**International   	
-Word**	
 
-**Glosa	
-Word**	
-
-**Meaning of	
-Glosa Word	
-**
-
- 
-
- 
 
  	
 
-abdomen   
+abdomen **ABDOMINA** abdomen	
 
-**ABDOMINA**   
+ad-dres **A(D)** at, to	
 
-abdomen	
+  ab-sent **  AB** away	
 
-ad-dres   
+\-able **ABILI** able to be	
 
-**A(D)**   
+accid-ent **ACIDE** happen, event	
 
-at, to	
+— **  NON-ACIDE**   non-existence, unreal	
 
-  ab-sent   
+— **  MAL-ACIDE**   accident, fail, mis-hap	
 
-**  AB**   
+adapta-tion **ADAPTA** adapt	
 
-away	
+Aphro-dite **AFRO G** foam (she was born in sea-foam)	
 
-\-able   
+aero-plane **AERO G** air	
 
-**ABILI**   
+agenda **AGENDA** program, agenda	
 
-able to be	
+aggresi-on **AGRESI** attack	
 
-accid-ent   
+agri-cult-ure **AGRI** field	
 
-**ACIDE**   
+— **  KULTI** care for, tend	
 
-happen, event	
+— **  AGRIO** wild	
 
- 
+acantha **AKANTA G** thorn	
 
-**  NON-ACIDE**   
+acidi-ty **AKIDI** acid	
 
-  non-existence, unreal	
+accord **AKORDA** agree, according to	
 
- 
+Acro-polis **AKRO G** top, summit, climax	
 
-**  MAL-ACIDE**   
+— **  POLITA G**   city	
 
-  accident, fail, mis-hap	
+acti-vity **AKTI** act, do, behave	
 
-adapta-tion   
+activi-ty **AKTIVI** busy	
 
-**ADAPTA**   
+— **  NON-AKTIVI**   inert	
 
-adapt	
+— **  AKTIVI PRO**   enthusiastic	
 
-Aphro-dite   
+acoustic **AKUSTI G** hear, listen	
 
-**AFRO G**   
+acu-te **AKU** nail, needle	
 
-foam (she was born in sea-foam)	
+— **AKUTO** sharp	
 
-aero-plane   
+— **  NON-AKUTO**   blunt	
 
-**AERO G**   
+Alex-ander **ALEXI G** defend	
 
-air	
+— **  ANDRO G**   man	
 
-agenda   
+amorpho-us **AMORFO G** lump, clod	
 
-**AGENDA**   
+par-allel **  PARA G** beside	
 
-program, agenda	
+— **ALELI G**   each-other	
 
-aggresi-on   
+neur-alg-ia **ALGO G** pain, suffering	
 
-**AGRESI**   
+alien **ALIENA** strange, foreign	
 
-attack	
+— **  NON-ALIENA**   familiar	
 
-agri-cult-ure   
+al-ternative **ALO** or, al-ternative	
 
-**AGRI**   
+alti-tude **ALTI** high, tall	
 
-field	
+ambi-dextro-us **AMBI** both / all sides	
 
-  
+— **  DEXTRO** right hand	
 
-**  KULTI**   
+— **  AMBIENTA** environment	
 
-care for, tend	
+ami-able **AMI** friend, -ly, kind	
 
-  
+amo-ur **AMO** love, like	
 
-**  AGRIO**   
+amyla-ceous **AMILA G** starch	
 
-wild	
+com-plex **  PLEXI** intertwine	
 
-acantha   
-
-**AKANTA G**   
-
-thorn	
-
-acidi-ty   
-
-**AKIDI**   
-
-acid	
-
-accord   
-
-**AKORDA**   
-
-agree, according to	
-
-Acro-polis   
-
-**AKRO G**   
-
-top, summit, climax	
-
-  
-
-**  POLITA G**   
-
-  city	
-
-acti-vity   
-
-**AKTI**   
-
-act, do, behave	
-
-activi-ty   
-
-**AKTIVI**   
-
-busy	
-
-  
-
-**  NON-AKTIVI**   
-
-  inert	
-
-  
-
-**  AKTIVI PRO**   
-
-  enthusiastic	
-
-acoustic   
-
-**AKUSTI G**   
-
-hear, listen	
-
-acu-te   
-
-**AKU**   
-
-nail, needle	
-
-  
-
-**AKUTO**   
-
-sharp	
-
-  
-
-**  NON-AKUTO**   
-
-  blunt	
-
-Alex-ander   
-
-**ALEXI G**   
-
-defend	
-
-  
-
-**  ANDRO G**   
-
-  man	
-
-amorpho-us   
-
-**AMORFO G**   
-
-lump, clod	
-
-par-allel   
-
-**  PARA G**   
-
-beside	
-
-  
-
-**ALELI G**   
-
-  each-other	
-
-neur-alg-ia   
-
-**ALGO G**   
-
-pain, suffering	
-
-alien   
-
-**ALIENA**   
-
-strange, foreign	
-
-  
-
-**  NON-ALIENA**   
-
-  familiar	
-
-al-ternative   
-
-**ALO**   
-
-or, al-ternative	
-
-alti-tude   
-
-**ALTI**   
-
-high, tall	
-
-ambi-dextro-us   
-
-**AMBI**   
-
-both / all sides	
-
-  
-
-**  DEXTRO**   
-
-right hand	
-
-  
-
-**  AMBIENTA**   
-
-environment	
-
-ami-able   
-
-**AMI**   
-
-friend, -ly, kind	
-
-amo-ur   
-
-**AMO**   
-
-love, like	
-
-amyla-ceous   
-
-**AMILA G**   
-
-starch	
-
-com-plex   
-
-**  PLEXI**   
-
-intertwine	
-
-  
-
-**AMPLEXI**   
-
-embrace	
+— **AMPLEXI** embrace	
 
  	
  	
 *p. 26:*	
- 
 
-amus-e   
 
-**AMUSA**   
+amus-e **AMUSA** amuse	
 
-amuse	
+An-drew **AN** he, him, his	
 
-An-drew   
+— **  ANDRO G**   man, husband	
 
-**AN**   
+ana-bol-ism **ANA G** up-wards	
 
-he, him, his	
+— **  BALI G** throw	
 
-  
+Anas **ANAS** duck	
 
-**  ANDRO G**   
+anemo-meter **ANEMO G** wind	
 
-  man, husband	
+— **  MEGA A.**   storm	
 
-ana-bol-ism   
+antenna **ANTENA** feeler, antenna	
 
-**ANA G**   
+anti- **ANTI** against	
 
-up-wards	
+annua-l **ANUA** year	
 
-  
+aper-ture **APERI** open	
 
-**  BALI G**   
+api-ary **APIS** bee	
 
-throw	
+apo-calypti-c **APO** remove, un-	
 
-Anas   
+— **  KALIPTI**   cover	
 
-**ANAS**   
+aqua-tic **AQA** water	
 
-duck	
+ara-ble **ARA** plough, arable	
 
-anemo-meter   
+arca-de **ARCA** arch	
 
-**ANEMO G**   
+area **AREA** area, region	
 
-wind	
+arena **ARENA** sand	
 
-  
+Argenti-na **ARGENTI** silver (rivers)	
 
-**  MEGA A.**   
+arc **ARKA** arc	
 
-  storm	
+archi-tect **ARKI G** chief, official	
 
-antenna   
+— **  TEKTO G**   build	
 
-**ANTENA**   
+— **  NON-ARKI**   unofficial	
 
-feeler, antenna	
+arm-y **ARMA** weapon, arm	
 
-anti-   
+arroga-nt **AROGA** arrogant	
 
-**ANTI**   
+aroma **AROMA** odor, smell	
 
-against	
+arti-st **ARTI** art	
 
-annua-l   
+articula-ted **ARTIKULA** joint	
 
-**ANUA**   
+arthri-tis **ARTRI G** joint	
 
-year	
+asylu-m **ASILU G** safe place	
 
-aper-ture   
+asini-ne **ASINI** ass, donkey	
 
-**APERI**   
+associa-te **ASOCIA** partner	
 
-open	
+astro-nomy **ASTRO G** star	
 
-api-ary   
+— **  NOMI G**   theory	
 
-**APIS**   
+attend, wait **ATENDE** wait, delay	
 
-bee	
+— **  NON-A**   prompt	
 
-apo-calypti-c   
+attitude **ATITUDE** mood	
 
-**APO**   
+atri-um **ATRIO G** hall, court	
 
-remove, un-	
+atro-cious **ATRO** black	
 
-  
+audi-ence **AUDI** hear, listen	
 
-**  KALIPTI**   
+aurora **AURORA** dawn	
 
-  cover	
+   bore-alis **BOREO G** north	
 
-aqua-tic   
+auto-bio-graphy **AUTO G** own, self	
 
-**AQA**   
+— **  BIO G**   life	
 
-water	
+— **  GRAFO G**   write	
 
-ara-ble   
+Austra-lia **AUSTRA G** south	
 
-**ARA**   
+auxi-liary **AUXI** help	
 
-plough, arable	
-
-arca-de   
-
-**ARCA**   
-
-arch	
-
-area   
-
-**AREA**   
-
-area, region	
-
-arena   
-
-**ARENA**   
-
-sand	
-
-Argenti-na   
-
-**ARGENTI**   
-
-silver (rivers)	
-
-arc   
-
-**ARKA**   
-
-arc	
-
-archi-tect   
-
-**ARKI G**   
-
-chief, official	
-
-  
-
-**  TEKTO G**   
-
-  build	
-
-  
-
-**  NON-ARKI**   
-
-  unofficial	
-
-arm-y   
-
-**ARMA**   
-
-weapon, arm	
-
-arroga-nt   
-
-**AROGA**   
-
-arrogant	
-
-aroma   
-
-**AROMA**   
-
-odor, smell	
-
-arti-st   
-
-**ARTI**   
-
-art	
-
-articula-ted   
-
-**ARTIKULA**   
-
-joint	
-
-arthri-tis   
-
-**ARTRI G**   
-
-joint	
-
-asylu-m   
-
-**ASILU G**   
-
-safe place	
-
-asini-ne   
-
-**ASINI**   
-
-ass, donkey	
-
-associa-te   
-
-**ASOCIA**   
-
-partner	
-
-astro-nomy   
-
-**ASTRO G**   
-
-star	
-
-  
-
-**  NOMI G**   
-
-  theory	
-
-attend, wait   
-
-**ATENDE**   
-
-wait, delay	
-
-  
-
-**  NON-A**   
-
-  prompt	
-
-attitude   
-
-**ATITUDE**   
-
-mood	
-
-atri-um   
-
-**ATRIO G**   
-
-hall, court	
-
-atro-cious   
-
-**ATRO**   
-
-black	
-
-audi-ence   
-
-**AUDI**   
-
-hear, listen	
-
-aurora   
-
-**AURORA**   
-
-dawn	
-
-   bore-alis   
-
-**BOREO G**   
-
-north	
-
-auto-bio-graphy   
-
-**AUTO G**   
-
-own, self	
-
-  
-
-**  BIO G**   
-
-  life	
-
-  
-
-**  GRAFO G**   
-
-  write	
-
-Austra-lia   
-
-**AUSTRA G**   
-
-south	
-
-auxi-liary   
-
-**AUXI**   
-
-help	
-
-avant-age   
-
-**AVANTI**   
-
-forward	
+avant-age **AVANTI** forward	
 
  	
  	
 *p. 27:*	
- 
 
-avari-cious   
 
-**AVARI**   
+avari-cious **AVARI** greedy	
 
-greedy	
+avi-ary **AVI** bird	
 
-avi-ary   
-
-**AVI**   
-
-bird	
-
-axi-s   
-
-**AXI**   
-
-axis, axle	
+axi-s **AXI** axis, axle	
 
  	
- 
 
-baby   
 
-**BABI**   
+baby **BABI** baby	
 
-baby	
+baci-llus **BACI** rod, staff	
 
-baci-llus   
+balcony **BALKONI** balcony	
 
-**BACI**   
+bank **BANKA** bank	
 
-rod, staff	
+baptize **BAPTI G** dip	
 
-balcony   
+baro-meter **BARO G** press	
 
-**BALKONI**   
+— **  METRI G**   measure	
 
-balcony	
+basi-s **BASI G** grounds, reason	
 
-bank   
+bathy-sphere **BATO G** deep	
 
-**BANKA**   
+— **  NO-BATO**   shallow	
 
-bank	
+im-bibe **BIBE** drink	
 
-baptize   
+bible **BIBLI G** book	
 
-**BAPTI G**   
+billet, ticket **BILETA** ticket	
 
-dip	
+bio-logy **BIO G** life	
 
-baro-meter   
+— **  LOGI G**   understand	
 
-**BARO G**   
+blad-e **BLADA** knife, dagger	
 
-press	
+blast-ula **BLASTO G** bud	
 
-  
+bombasti-c **BOMBASTI** boast	
 
-**  METRI G**   
+bol-us **BOLU G** ball	
 
-  measure	
+bomb **BOMBA** bomb, shell	
 
-basi-s   
+— **  STA BOMBA**   a mine	
 
-**BASI G**   
+bon-us **BONI** good	
 
-grounds, reason	
+bore-al **BOREO G** north, -ern	
 
-bathy-sphere   
+boutique **BOTEKA** shop	
 
-**BATO G**   
+bottle **BOTILIA** bottle	
 
-deep	
+bovi-ne **BOVI** ox	
 
-  
+— **  FE-/ AN-BOVI**   cow, bull	
 
-**  NO-BATO**   
+— **  BABI-BOVI**   calf	
 
-  shallow	
+em-brace **BRAKI G** arm	
 
-im-bibe   
+ab-brevi-ate **BREVI** short	
 
-**BIBE**   
+bryo-logy; em-bryo **BRIO G** moss, swell	
 
-drink	
+— **  abound, teem** 	
 
-bible   
+Bronto-saurus **BRONTO G** thunder, explode	
 
-**BIBLI G**   
+— **  SAURU G**   lizard	
 
-book	
+brush **BROSA** brush	
 
-billet, ticket   
+brun-ette **BRUNO** brown	
 
-**BILETA**   
+bucca-l **BUKA** cheek	
 
-ticket	
+bulbo-us **BULBO** bulb	
 
-bio-logy   
+boil, bub-le **BULI** boil, bubble	
 
-**BIO G**   
+buro, office **BURO** office	
 
-life	
+bursa-ry **BURSA** purse	
 
-  
+butt, aim, purpose **BUTA** aim, purpose	
 
-**  LOGI G**   
+button **BUTONA** button	
 
-  understand	
-
-blad-e   
-
-**BLADA**   
-
-knife, dagger	
-
-blast-ula   
-
-**BLASTO G**   
-
-bud	
-
-bombasti-c   
-
-**BOMBASTI**   
-
-boast	
-
-bol-us   
-
-**BOLU G**   
-
-ball	
-
-bomb   
-
-**BOMBA**   
-
-bomb, shell	
-
-  
-
-**  STA BOMBA**   
-
-  a mine	
-
-bon-us   
-
-**BONI**   
-
-good	
-
-bore-al   
-
-**BOREO G**   
-
-north, -ern	
-
-boutique   
-
-**BOTEKA**   
-
-shop	
-
-bottle   
-
-**BOTILIA**   
-
-bottle	
-
-bovi-ne   
-
-**BOVI**   
-
-ox	
-
-  
-
-**  FE-/ AN-BOVI**   
-
-  cow, bull	
-
-  
-
-**  BABI-BOVI**   
-
-  calf	
-
-em-brace   
-
-**BRAKI G**   
-
-arm	
-
-ab-brevi-ate   
-
-**BREVI**   
-
-short	
-
-bryo-logy; em-bryo   
-
-**BRIO G**   
-
-moss, swell	
-
-  
-
-**  abound, teem**   
-
-	
-
-Bronto-saurus   
-
-**BRONTO G**   
-
-thunder, explode	
-
-  
-
-**  SAURU G**   
-
-  lizard	
-
-brush   
-
-**BROSA**   
-
-brush	
-
-brun-ette   
-
-**BRUNO**   
-
-brown	
-
-bucca-l   
-
-**BUKA**   
-
-cheek	
-
-bulbo-us   
-
-**BULBO**   
-
-bulb	
-
-boil, bub-le   
-
-**BULI**   
-
-boil, bubble	
-
-buro, office   
-
-**BURO**   
-
-office	
-
-bursa-ry   
-
-**BURSA**   
-
-purse	
-
-butt, aim, purpose   
-
-**BUTA**   
-
-aim, purpose	
-
-button   
-
-**BUTONA**   
-
-button	
-
-bu-tter   
-
-**BU-TIRI G**   
-
-ox-cheese = butter	
+bu-tter **BU-TIRI G** ox-cheese = butter	
 
  	
  	
 *p. 28:*	
- 
 
-  
 
-**NB. Glosa C	
+— **NB. Glosa C	
 pronounced as	
-Eng. CH**  
+Eng. CH** 	
 
-	
+— **** 	
 
-  
+chart **CARTA** map, chart	
 
-****   
+domi-cile **  DOMI-CARTA**   house-plan	
 
-	
+chas-e **CASA** chase, hunt	
 
-chart   
+cede **CEDE** yield	
 
-**CARTA**   
+celebra-te **CELEBRA** celebrate	
 
-map, chart	
+ac-celera-te **CELERA** quick, speed	
 
-domi-cile   
+re-cepti-on **CEPTI** receive	
 
-**  DOMI-CARTA**   
+search, circling **CERKA** seek, search	
 
-  house-plan	
+cereals **CEREALI** cereals	
 
-chas-e   
+a certain ... **U CERTA ...** a certain ...	
 
-**CASA**   
+ceru-men **CERU** wax	
 
-chase, hunt	
+cervica-l **CERVIKA** neck	
 
-cede   
+cis-Alpine **CI** here	
 
-**CEDE**   
+  this = the here **  U-CI** the-here = this	
 
-yield	
+  plu-ral **PLU-CI** these	
 
-celebra-te   
+cyano-sis **CIANO** blue	
 
-**CELEBRA**   
+cycle **CIKLO** cycle, wheel	
 
-celebrate	
+super-cili-ous **CILIA** eyelash	
 
-ac-celera-te   
+— **  SUPRACILIA** eyebrow	
 
-**CELERA**   
+circulati-on **CIRKULATI** traffic	
 
-quick, speed	
+civi-c **CIVI** citizen	
 
-re-cepti-on   
+civil **CIVILI** civil, polite	
 
-**CEPTI**   
+civiliza-tion **CIVILIZA** civilize	
 
-receive	
+city **CIVITA** city	
 
-search, circling   
-
-**CERKA**   
-
-seek, search	
-
-cereals   
-
-**CEREALI**   
-
-cereals	
-
-a certain ...   
-
-**U CERTA ...**   
-
-a certain ...	
-
-ceru-men   
-
-**CERU**   
-
-wax	
-
-cervica-l   
-
-**CERVIKA**   
-
-neck	
-
-cis-Alpine   
-
-**CI**   
-
-here	
-
-  this = the here   
-
-**  U-CI**   
-
-the-here = this	
-
-  plu-ral   
-
-**PLU-CI**   
-
-these	
-
-cyano-sis   
-
-**CIANO**   
-
-blue	
-
-cycle   
-
-**CIKLO**   
-
-cycle, wheel	
-
-super-cili-ous   
-
-**CILIA**   
-
-eyelash	
-
-  
-
-**  SUPRACILIA**   
-
-eyebrow	
-
-circulati-on   
-
-**CIRKULATI**   
-
-traffic	
-
-civi-c   
-
-**CIVI**   
-
-citizen	
-
-civil   
-
-**CIVILI**   
-
-civil, polite	
-
-civiliza-tion   
-
-**CIVILIZA**   
-
-civilize	
-
-city   
-
-**CIVITA**   
-
-city	
-
-  
-
-**-CO (Italian)**   
-
-the just-said	
+— **-CO (Italian)** the just-said	
 
  	
- 
 
-Ptero-dactyl   
 
-**  PTERO G.**   
+Ptero-dactyl **  PTERO G.** wing	
 
-wing	
+— **DAKTILI G**   finger	
 
-  
+di-dacti-c **DAKTI** teach	
 
-**DAKTILI G**   
+de **DE** about	
 
-  finger	
+debi-t **DEBI** ought to	
 
-di-dacti-c   
+— **  PA DEBI**   should have	
 
-**DAKTI**   
+— **  FU DEBI**   shall have to	
 
-teach	
+— **DEFEKTI** defect, fault	
 
-de   
+defecti-ve **  NO-DEFEKTI** all right, perfect	
 
-**DE**   
+defi-ant **DEFI** challenge defy	
 
-about	
+Deino-saur **DEINO G** terrible	
 
-debi-t   
+— **  SAURU G**   lizard	
 
-**DEBI**   
+deco-rous **DEKO** seemly, dec-ent	
 
-ought to	
+delicat-e **DELIKATE** delicate	
 
-  
+demo-crat **DEMO G** people	
 
-**  PA DEBI**   
+— **  KRATI G** govern, rule	
 
-  should have	
+demonstra-te **DEMONSTRA** prove, demonstrate	
 
-  
+  Rhodo- **  RODO G** rose, pink	
 
-**  FU DEBI**   
-
-  shall have to	
-
-  
-
-**DEFEKTI**   
-
-defect, fault	
-
-defecti-ve   
-
-**  NO-DEFEKTI**   
-
-all right, perfect	
-
-defi-ant   
-
-**DEFI**   
-
-challenge defy	
-
-Deino-saur   
-
-**DEINO G**   
-
-terrible	
-
-  
-
-**  SAURU G**   
-
-  lizard	
-
-deco-rous   
-
-**DEKO**   
-
-seemly, dec-ent	
-
-delicat-e   
-
-**DELIKATE**   
-
-delicate	
-
-demo-crat   
-
-**DEMO G**   
-
-people	
-
-  
-
-**  KRATI G**   
-
-govern, rule	
-
-demonstra-te   
-
-**DEMONSTRA**   
-
-prove, demonstrate	
-
-  Rhodo-   
-
-**  RODO G**   
-
-rose, pink	
-
-dendro-n   
-
-**DENDRO G**   
-
-tree	
+dendro-n **DENDRO G** tree	
 
  	
  	
 *p. 29:*	
- 
 
-derma-titis   
 
-**DERMA G**   
+derma-titis **DERMA G** skin	
 
-skin	
+desert **DESERTA** desert	
 
-desert   
+describe **DESKRIBE** describe	
 
-**DESERTA**   
+detecti-ve **DETEKTI** find	
 
-desert	
+dextro-us **DEXTRO** right-hand	
 
-describe   
+di-ary **DI** day	
 
-**DESKRIBE**   
+dia-meter **DIA G** through	
 
-describe	
+— **  METRI G**   measure	
 
-detecti-ve   
+diaboli-cal **DIABOLI G** devil, diabolical	
 
-**DETEKTI**   
+dial **DIALI** dial	
 
-find	
+dic-ta-te **DICE** say, tell, speak	
 
-dextro-us   
+— **  DIKTA**   dictate	
 
-**DEXTRO**   
+diffusi-on **DIFUSI** broadcast	
 
-right-hand	
+digi-t **DIGI** finger	
 
-di-ary   
+diluti-on **DILUTI** dilute	
 
-**DI**   
+dyna-mo **DINA G** force, compel	
 
-day	
+— **  PER DINA G** by force	
 
-dia-meter   
+— **  DINAMO G** power	
 
-**DIA G**   
+diplo-id **DIPLO G** double	
 
-through	
+directi-on **DIREKTI** direct-ion	
 
-  
+disci-ple **DISCI G** learn	
 
-**  METRI G**   
+dissipa-te **DISIPA** waste	
 
-  measure	
+disko **DISKO** disk, plate	
 
-diaboli-cal   
+disputa-tion **DISPUTA** quarrel	
 
-**DIABOLI G**   
+dista-nt **DISTA** distant, far	
 
-devil, diabolical	
+distribu-te **DISTRIBU** distribute	
 
-dial   
+divi-nation **DIVI** bet	
 
-**DIALI**   
+divi-na-tion **DIVI-NA** bet, guess	
 
-dial	
+divide **DIVIDE** divide, share	
 
-dic-ta-te   
+— **  BI-DIVIDE** even	
 
-**DICE**   
+— **  NO-BI-DIVIDE** odd	
 
-say, tell, speak	
+doci-le **DOCI** teach	
 
-  
+domi-cile **DOMI, -DO** house, building	
 
-**  DIKTA**   
+— **  PATO-DO**   hospital	
 
-  dictate	
+domina-te **DOMINA** dominate	
 
-diffusi-on   
+dona-te **DONA** give	
 
-**DIFUSI**   
+dorsa-l **DORSA** back, dorsal	
 
-broadcast	
+drama **DRAMA** act	
 
-digi-t   
+— **  DRAMA-FE**   actress	
 
-**DIGI**   
+hippo- **  HIPO G**   horse	
 
-finger	
+drome **DROMO G** run, race	
 
-diluti-on   
+du-ration **DU**   -ing	
 
-**DILUTI**   
+— **  PA DU RIDI** was laughing	
 
-dilute	
+— **  FU DU RIDI** will be laughing	
 
-dyna-mo   
+dura-tion **DURA** continue, still	
 
-**DINA G**   
+dubi-table **DUBI** doubt	
 
-force, compel	
+con-duc-t **DUCE** lead, priority	
 
-  
+— **  NO-DUCE**   secondary	
 
-**  PER DINA G**   
+dur-ing **DURANTO** while, during	
 
-by force	
-
-  
-
-**  DINAMO G**   
-
-power	
-
-diplo-id   
-
-**DIPLO G**   
-
-double	
-
-directi-on   
-
-**DIREKTI**   
-
-direct-ion	
-
-disci-ple   
-
-**DISCI G**   
-
-learn	
-
-dissipa-te   
-
-**DISIPA**   
-
-waste	
-
-disko   
-
-**DISKO**   
-
-disk, plate	
-
-disputa-tion   
-
-**DISPUTA**   
-
-quarrel	
-
-dista-nt   
-
-**DISTA**   
-
-distant, far	
-
-distribu-te   
-
-**DISTRIBU**   
-
-distribute	
-
-divi-nation   
-
-**DIVI**   
-
-bet	
-
-divi-na-tion   
-
-**DIVI-NA**   
-
-bet, guess	
-
-divide   
-
-**DIVIDE**   
-
-divide, share	
-
-  
-
-**  BI-DIVIDE**   
-
-even	
-
-  
-
-**  NO-BI-DIVIDE**   
-
-odd	
-
-doci-le   
-
-**DOCI**   
-
-teach	
-
-domi-cile   
-
-**DOMI, -DO**   
-
-house, building	
-
-  
-
-**  PATO-DO**   
-
-  hospital	
-
-domina-te   
-
-**DOMINA**   
-
-dominate	
-
-dona-te   
-
-**DONA**   
-
-give	
-
-dorsa-l   
-
-**DORSA**   
-
-back, dorsal	
-
-drama   
-
-**DRAMA**   
-
-act	
-
-  
-
-**  DRAMA-FE**   
-
-  actress	
-
-hippo-   
-
-**  HIPO G**   
-
-  horse	
-
-drome   
-
-**DROMO G**   
-
-run, race	
-
-du-ration   
-
-**DU**   
-
-  -ing	
-
-  
-
-**  PA DU RIDI**   
-
-was laughing	
-
-  
-
-**  FU DU RIDI**   
-
-will be laughing	
-
-dura-tion   
-
-**DURA**   
-
-continue, still	
-
-dubi-table   
-
-**DUBI**   
-
-doubt	
-
-con-duc-t   
-
-**DUCE**   
-
-lead, priority	
-
-  
-
-**  NO-DUCE**   
-
-  secondary	
-
-dur-ing   
-
-**DURANTO**   
-
-while, during	
-
-dulo-sis   
-
-**DULO G**   
-
-slave	
+dulo-sis **DULO G** slave	
 
  	
  	
 *p. 30:*	
- 
 
-e-t cetera   
 
-**E**   
+e-t cetera **E** and	
 
-and	
+educa-tion **EDUKA** educate	
 
-educa-tion   
+efficie-nt **EFICIE** efficient	
 
-**EDUKA**   
+egotisti-c **EGOTISTI G** selfish	
 
-educate	
+eco- **EKO G** dwell, -ing	
 
-efficie-nt   
+  nomy **  NOMI G**   theory, laws	
 
-**EFICIE**   
+elasti-c **ELASTI G** spring	
 
-efficient	
+electi-on **ELEKTI** electi-on	
 
-egotisti-c   
+elektro-nic **ELEKTRO** electricity	
 
-**EGOTISTI G**   
+elementa-ry **ELEMENTA** elementary	
 
-selfish	
+emotio-n **EMOTIO** emotion	
 
-eco-   
+energy **ENERGI G** energy	
 
-**EKO G**   
+enigma-tic **ENIGMA G** puzzle	
 
-dwell, -ing	
+encounter **ENKONTRA** meet	
 
-  nomy   
+dys-enter-y **ENTERO G** intestine	
 
-**  NOMI G**   
+Eo-lithi-c **EO G** dawn	
 
-  theory, laws	
+— **  LITO**   stone	
 
-elasti-c   
+epi-taph **EPI G** on	
 
-**ELASTI G**   
+— **  TAFO G**   tomb	
 
-spring	
+equal **EQA** is + noun	
 
-electi-on   
+equilibrium **EQILIBRI** balance	
 
-**ELEKTI**   
+equ-estrian **EQUS** horse	
 
-electi-on	
+en-erg-y **ERGO G** work	
 
-elektro-nic   
+erythro-cyte **E-RIT-RO G** red	
 
-**ELEKTRO**   
+— **   red** 	
 
-electricity	
+  -cyte **  KITO G**   cell	
 
-elementa-ry   
+erro-r **ERO** mistake	
 
-**ELEMENTA**   
+i.e. - id es **ID ES** it is	
 
-elementary	
+espionage **ESPIO** spy	
 
-emotio-n   
+an-esthe-tic **  AN G**   not, un-	
 
-**EMOTIO**   
+— **ESTE G** feel, conscious	
 
-emotion	
+etio-logy **ETIO G** blame	
 
-energy   
+— **  NON-ETIO** innocent	
 
-**ENERGI G**   
+— **  AUTO-ETIO** shame, guilt	
 
-energy	
+ethn-ic **ETNO G** race, nation	
 
-enigma-tic   
+— **ETIMO G** true, truth	
 
-**ENIGMA G**   
+eu- **EU G** good, -ness	
 
-puzzle	
+  -thanasia **  TANASI G**   death	
 
-encounter   
+medi-eva-l **  MEDI**   middle	
 
-**ENKONTRA**   
+— **EVA** age, period	
 
-meet	
+evide-nt **EVIDE** obvious	
 
-dys-enter-y   
+in-evita-ble **EVITA** avoid	
 
-**ENTERO G**   
+evolve **EVOLVE** evolve	
 
-intestine	
+ex- **EX** out from	
 
-Eo-lithi-c   
+  -it **  ITI** go	
 
-**EO G**   
+  iti-nera-ry **  ITI-NERA** travel	
 
-dawn	
+examine **EXAMINA** examine	
 
-  
+excessi-ve **EXCESI** excessive, too	
 
-**  LITO**   
+expecta-tion **EXPEKTA** expect	
 
-  stone	
+experimenta-l **EXPERIMENTA** experiment	
 
-epi-taph   
+explode **EXPLODE** explode	
 
-**EPI G**   
-
-on	
-
-  
-
-**  TAFO G**   
-
-  tomb	
-
-equal   
-
-**EQA**   
-
-is + noun	
-
-equilibrium   
-
-**EQILIBRI**   
-
-balance	
-
-equ-estrian   
-
-**EQUS**   
-
-horse	
-
-en-erg-y   
-
-**ERGO G**   
-
-work	
-
-erythro-cyte   
-
-**E-RIT-RO G**   
-
-red	
-
-  
-
-**   red**   
-
-	
-
-  -cyte   
-
-**  KITO G**   
-
-  cell	
-
-erro-r   
-
-**ERO**   
-
-mistake	
-
-i.e. - id es   
-
-**ID ES**   
-
-it is	
-
-espionage   
-
-**ESPIO**   
-
-spy	
-
-an-esthe-tic   
-
-**  AN G**   
-
-  not, un-	
-
-  
-
-**ESTE G**   
-
-feel, conscious	
-
-etio-logy   
-
-**ETIO G**   
-
-blame	
-
-  
-
-**  NON-ETIO**   
-
-innocent	
-
-  
-
-**  AUTO-ETIO**   
-
-shame, guilt	
-
-ethn-ic   
-
-**ETNO G**   
-
-race, nation	
-
-  
-
-**ETIMO G**   
-
-true, truth	
-
-eu-   
-
-**EU G**   
-
-good, -ness	
-
-  -thanasia   
-
-**  TANASI G**   
-
-  death	
-
-medi-eva-l   
-
-**  MEDI**   
-
-  middle	
-
-  
-
-**EVA**   
-
-age, period	
-
-evide-nt   
-
-**EVIDE**   
-
-obvious	
-
-in-evita-ble   
-
-**EVITA**   
-
-avoid	
-
-evolve   
-
-**EVOLVE**   
-
-evolve	
-
-ex-   
-
-**EX**   
-
-out from	
-
-  -it   
-
-**  ITI**   
-
-go	
-
-  iti-nera-ry   
-
-**  ITI-NERA**   
-
-travel	
-
-examine   
-
-**EXAMINA**   
-
-examine	
-
-excessi-ve   
-
-**EXCESI**   
-
-excessive, too	
-
-expecta-tion   
-
-**EXPEKTA**   
-
-expect	
-
-experimenta-l   
-
-**EXPERIMENTA**   
-
-experiment	
-
-explode   
-
-**EXPLODE**   
-
-explode	
-
-extra-ct   
-
-**EXTRA**   
-
-outside	
+extra-ct **EXTRA** outside	
 
  	
  	
 *p. 31:*	
- 
 
-fa-sci-cle   
 
-**-FA**   
+fa-sci-cle **-FA** a set, bundle	
 
-a set, bundle	
+faba-ceous **FABA** bean	
 
-faba-ceous   
+fabric **FABRIKA** structure	
 
-**FABA**   
+fac-tory **FACE** make	
 
-bean	
+facia-l **FACIA** face	
 
-fabric   
+facili-ty **FACILI** easy	
 
-**FABRIKA**   
+— **  NO-FACILI**   difficult	
 
-structure	
+factua-l **FAKTU** fact	
 
-fac-tory   
+falli-ble **FALI** fail	
 
-**FACE**   
+falsi-fy **FALSI** wrong	
 
-make	
+family **FAMILI** family	
 
-facia-l   
+famo-us **FAMO** famo-us	
 
-**FACIA**   
+— **  NO-FAMO**   insignificant	
 
-face	
+— **  EU-FAMO**   glorious	
 
-facili-ty   
+fantasy **FANTASI G** imagine	
 
-**FACILI**   
+farina-ceous **FARINA** flour, dust	
 
-easy	
+fascina-te **FASCINA** fascinate	
 
-  
+fatig-ue **FATIGA** tire, -d	
 
-**  NO-FACILI**   
+— **  NO-FATIGA**   fresh	
 
-  difficult	
+favo-r **FAVO** favor	
 
-factua-l   
+fe-minine **FE** she	
 
-**FAKTU**   
+faeces **FECI** excrement	
 
-fact	
+feli-ne **FELI** cat	
 
-falli-ble   
+fenestra-tion **FENESTRA** window	
 
-**FALI**   
+fenn-el **FENU** hay	
 
-fail	
+feral **FERALI** feral, wild	
 
-falsi-fy   
+— **  NO-FERALI**   domesticated	
 
-**FALSI**   
+fermenta-tion **FERMENTA** ferment	
 
-wrong	
+trans-fer **  TRANS** across	
 
-family   
+— **FERO** carry	
 
-**FAMILI**   
+fertili-ty **FERTILI** fertile	
 
-family	
+ferr-ous **FERU** iron	
 
-famo-us   
+fest-ive **FESTI** festival	
 
-**FAMO**   
+fi-lament **-FI** thread, wire	
 
-famo-us	
+fili-al **FILI** offspring	
 
-  
+  fe-minine **  FE-FILI** daughter	
 
-**  NO-FAMO**   
+Filic-es **FILICI** fern	
 
-  insignificant	
+philo-sophy **FILO G** love	
 
-  
+— **SOFI G** wise	
 
-**  EU-FAMO**   
+fini-sh **FINI** finish, end, finally	
 
-  glorious	
+fisca-l **FISKA** tax	
 
-fantasy   
+— **  MINUS F.**   tax-free	
 
-**FANTASI G**   
+— **  EXTRA-F.**   customs	
 
-imagine	
+— **  IN-FISKA**   excise	
 
-farina-ceous   
+— **  PE-FISKA**   income tax	
 
-**FARINA**   
+— **  U FISKA-PE**   tax-collector	
 
-flour, dust	
+fissu-re **FISU** crack	
 
-fascina-te   
+fix **FIXA** fix tight, firm	
 
-**FASCINA**   
+flagella-te **FLAGELA** whip	
 
-fascinate	
+in-fla-te **FLA** blow	
 
-fatig-ue   
-
-**FATIGA**   
-
-tire, -d	
-
-  
-
-**  NO-FATIGA**   
-
-  fresh	
-
-favo-r   
-
-**FAVO**   
-
-favor	
-
-fe-minine   
-
-**FE**   
-
-she	
-
-faeces   
-
-**FECI**   
-
-excrement	
-
-feli-ne   
-
-**FELI**   
-
-cat	
-
-fenestra-tion   
-
-**FENESTRA**   
-
-window	
-
-fenn-el   
-
-**FENU**   
-
-hay	
-
-feral   
-
-**FERALI**   
-
-feral, wild	
-
-  
-
-**  NO-FERALI**   
-
-  domesticated	
-
-fermenta-tion   
-
-**FERMENTA**   
-
-ferment	
-
-trans-fer   
-
-**  TRANS**   
-
-across	
-
-  
-
-**FERO**   
-
-carry	
-
-fertili-ty   
-
-**FERTILI**   
-
-fertile	
-
-ferr-ous   
-
-**FERU**   
-
-iron	
-
-fest-ive   
-
-**FESTI**   
-
-festival	
-
-fi-lament   
-
-**-FI**   
-
-thread, wire	
-
-fili-al   
-
-**FILI**   
-
-offspring	
-
-  fe-minine   
-
-**  FE-FILI**   
-
-daughter	
-
-Filic-es   
-
-**FILICI**   
-
-fern	
-
-philo-sophy   
-
-**FILO G**   
-
-love	
-
-  
-
-**SOFI G**   
-
-wise	
-
-fini-sh   
-
-**FINI**   
-
-finish, end, finally	
-
-fisca-l   
-
-**FISKA**   
-
-tax	
-
-  
-
-**  MINUS F.**   
-
-  tax-free	
-
-  
-
-**  EXTRA-F.**   
-
-  customs	
-
-  
-
-**  IN-FISKA**   
-
-  excise	
-
-  
-
-**  PE-FISKA**   
-
-  income tax	
-
-  
-
-**  U FISKA-PE**   
-
-  tax-collector	
-
-fissu-re   
-
-**FISU**   
-
-crack	
-
-fix   
-
-**FIXA**   
-
-fix tight, firm	
-
-flagella-te   
-
-**FLAGELA**   
-
-whip	
-
-in-fla-te   
-
-**FLA**   
-
-blow	
-
-flacci-d   
-
-**FLACI**   
-
-floppy	
+flacci-d **FLACI** floppy	
 
  	
  	
 *p. 32:*	
- 
 
-flavor   
 
-**FLAVORO**   
+flavor **FLAVORO** flavor	
 
-flavor	
+fkexi-ble **FLEXI** bend	
 
-fkexi-ble   
+flocc-ulate **FLOKA** flake	
 
-**FLEXI**   
+flori-st **FLORI** flower	
 
-bend	
+flu-ent **FLU** flow	
 
-flocc-ulate   
+fluid **  FLUIDI**   fluid	
 
-**FLOKA**   
+fluvia-l **  FLUVIA**   river	
 
-flake	
+phob-ia **FOBO G** fear	
 
-flori-st   
+focu-s **FOKU** focus, centre	
 
-**FLORI**   
+folia-ge **FOLIA** leaf	
 
-flower	
+tele-phone **  TELE**   far, distant	
 
-flu-ent   
+— **FONO G** sound	
 
-**FLU**   
+per-fora-te **FORA** hole	
 
-flow	
+form **FORMA** form, shape	
 
-fluid   
+formic acid **FORMIKA** ant	
 
-**  FLUIDI**   
+forti-fy **FORTI; FO-** intense	
 
-  fluid	
+fortuna-te **FORTUNA** chance	
 
-fluvia-l   
+— **  BONI-F.**   fortunate	
 
-**  FLUVIA**   
+— **  MALI-F.**   un-fortunate	
 
-  river	
+— **  FO-F.**   probable	
 
-phob-ia   
+fossi-l **FOSI** dig	
 
-**FOBO G**   
+photo- **FOTO G**   	
 
-fear	
+  graphy **  GRAFI G** light   	
 
-focu-s   
+— **  **  -draw   	
 
-**FOKU**   
+— **  NO-FOTO** dark, -ness	
 
-focus, centre	
+— **  MESO-FOTO** dim, twilight	
 
-folia-ge   
+dia-phragm **  DIA G**   across	
 
-**FOLIA**   
+— **FRAGMA G** barrier, hedge	
 
-leaf	
+fract-ure **FRAKTI** break	
 
-tele-phone   
+— **  NO-GE-FRAKTI**   un-broken	
 
-**  TELE**   
+frater-nity **FRATRI** brother	
 
-  far, distant	
+frequent **FREQE** often	
 
-  
+fria-ble **FRIA** crumble	
 
-**FONO G**   
+frigi-d **FRIGI** cold	
 
-sound	
+fric-tion **FRIKA** rub, wipe	
 
-per-fora-te   
+fructi-vorous **FRUKTI** fruit	
 
-**FORA**   
+frustra-te **FRUSTRA** disappoint	
 
-hole	
+fu-ture **FU** shall; fu-ture	
 
-form   
+fugi-tive **FUGI** flee	
 
-**FORMA**   
+fumi-gate **FUMI** fumes, smoke	
 
-form, shape	
+funda-ment-al **FUNDA** bottom	
 
-formic acid   
+fungus **FUNGU** fungus	
 
-**FORMIKA**   
+functio-n **FUNKTIO** function, useful	
 
-ant	
+bi-furka-tion **FURKA** fork	
 
-forti-fy   
+furna-ce **FURNA** oven, bake	
 
-**FORTI; FO-**   
+con-fuse **FUSI** pour	
 
-intense	
-
-fortuna-te   
-
-**FORTUNA**   
-
-chance	
-
-  
-
-**  BONI-F.**   
-
-  fortunate	
-
-  
-
-**  MALI-F.**   
-
-  un-fortunate	
-
-  
-
-**  FO-F.**   
-
-  probable	
-
-fossi-l   
-
-**FOSI**   
-
-dig	
-
-photo-   
-
-**FOTO G**   
-
-  	
-
-  graphy   
-
-**  GRAFI G**   
-
-light   	
-
-  
-
-**  **
-
- -draw   	
-
-  
-
-**  NO-FOTO**   
-
-dark, -ness	
-
-  
-
-**  MESO-FOTO**   
-
-dim, twilight	
-
-dia-phragm   
-
-**  DIA G**   
-
-  across	
-
-  
-
-**FRAGMA G**   
-
-barrier, hedge	
-
-fract-ure   
-
-**FRAKTI**   
-
-break	
-
-  
-
-**  NO-GE-FRAKTI**   
-
-  un-broken	
-
-frater-nity   
-
-**FRATRI**   
-
-brother	
-
-frequent   
-
-**FREQE**   
-
-often	
-
-fria-ble   
-
-**FRIA**   
-
-crumble	
-
-frigi-d   
-
-**FRIGI**   
-
-cold	
-
-fric-tion   
-
-**FRIKA**   
-
-rub, wipe	
-
-fructi-vorous   
-
-**FRUKTI**   
-
-fruit	
-
-frustra-te   
-
-**FRUSTRA**   
-
-disappoint	
-
-fu-ture   
-
-**FU**   
-
-shall; fu-ture	
-
-fugi-tive   
-
-**FUGI**   
-
-flee	
-
-fumi-gate   
-
-**FUMI**   
-
-fumes, smoke	
-
-funda-ment-al   
-
-**FUNDA**   
-
-bottom	
-
-fungus   
-
-**FUNGU**   
-
-fungus	
-
-functio-n   
-
-**FUNKTIO**   
-
-function, useful	
-
-bi-furka-tion   
-
-**FURKA**   
-
-fork	
-
-furna-ce   
-
-**FURNA**   
-
-oven, bake	
-
-con-fuse   
-
-**FUSI**   
-
-pour	
-
-fusio-n   
-
-**FUSIO**   
-
-fusion	
+fusio-n **FUSIO** fusion	
 
  	
  	
 *p. 33:*	
- 
 
-Gaia, geo-logy   
 
-**GAIA G**   
+Gaia, geo-logy **GAIA G** Gaia	
 
-Gaia	
+yell **GAL-INA** chicken	
 
-yell   
+bi-gamy **GAME G** marry	
 
-**GAL-INA**   
+— **  U GAME-PE**   a spouse	
 
-chicken	
+— **  NO-GE-GAME**   un-married	
 
-bi-gamy   
+gas **GASI** gas	
 
-**GAME G**   
+gastro- **GASTRO G** stomach	
 
-marry	
+  nomy **  NOMI G**   theory	
 
-  
+gazette **GAZETA** periodical	
 
-**  U GAME-PE**   
+gem **GEMA** bud, gem	
 
-  a spouse	
+  hydro- **  HIDRO G**   water	
 
-  
+gen **GENE G** get, receive	
 
-**  NO-GE-GAME**   
+— **  PA GENE**   got	
 
-  un-married	
+— **  GE-**   got-	
 
-gas   
+geli-d, gl-acier **GELI** freeze	
 
-**GASI**   
+geneti-c **GENETI G** inherit	
 
-gas	
+general **GENERALI** general	
 
-gastro-   
+genu-flect **GENU** knee	
 
-**GASTRO G**   
+geo- **GEO G** earth	
 
-stomach	
+  graphy **  GRAFI G**   write	
 
-  nomy   
+gyra-te **GIRA G** rotate, whirl	
 
-**  NOMI G**   
+glabro-us **GLABRO** smooth	
 
-  theory	
+glacia-l **GLACIA** ice	
 
-gazette   
+gland **GLANDI** acorn gland	
 
-**GAZETA**   
+glen-oid **GLENA** socket	
 
-periodical	
+gliss-ando (mus.) **GLISA** slip, slide	
 
-gem   
+glossa-ry **GLOSA G** tongue, language	
 
-**GEMA**   
+gluco-se **GLUKO G** sweet, nice	
 
-bud, gem	
+— **  NO-GLUKO**   un-pleasant	
 
-  hydro-   
+glume **GLUMA** chaff, husk	
 
-**  HIDRO G**   
+glutto-n **GLUTO** swallow	
 
-  water	
+tri- **  TRI G**   three	
 
-gen   
+  gono- **GONO G** angle, corner	
 
-**GENE G**   
+  metry **  METRI G**   measure	
 
-get, receive	
+tele-graph **  TELE G**   far, distant	
 
-  
+— **  BRAKI-GONO**   elbow	
 
-**  PA GENE**   
+— **  PODA-GENO**   knee	
 
-  got	
+— **  IN GE-GONO**   dove-tailed	
 
-  
+gradu-ally **GRADU** pace, step	
 
-**  GE-**   
+geo-graphy **GRAFO** write	
 
-  got-	
+tele-gram **GRAMA G** letter	
 
-geli-d, gl-acier   
+— **GRAM-AMI G** pen-friend	
 
-**GELI**   
+grammatica-l **GRAMATIKA G** grammar	
 
-freeze	
+grand **GRANDI** grand, noble	
 
-geneti-c   
+grati-tude **GRATIA** thanks	
 
-**GENETI G**   
+gratis **GRATIS** without payment	
 
-inherit	
+con-gratula-te **GRATULA** congratulate	
 
-general   
+gravi-ty **GRAVI** heavy, serious, especially	
 
-**GENERALI**   
+— **  NO-GRAVI** un-important	
 
-general	
-
-genu-flect   
-
-**GENU**   
-
-knee	
-
-geo-   
-
-**GEO G**   
-
-earth	
-
-  graphy   
-
-**  GRAFI G**   
-
-  write	
-
-gyra-te   
-
-**GIRA G**   
-
-rotate, whirl	
-
-glabro-us   
-
-**GLABRO**   
-
-smooth	
-
-glacia-l   
-
-**GLACIA**   
-
-ice	
-
-gland   
-
-**GLANDI**   
-
-acorn gland	
-
-glen-oid   
-
-**GLENA**   
-
-socket	
-
-gliss-ando (mus.)   
-
-**GLISA**   
-
-slip, slide	
-
-glossa-ry   
-
-**GLOSA G**   
-
-tongue, language	
-
-gluco-se   
-
-**GLUKO G**   
-
-sweet, nice	
-
-  
-
-**  NO-GLUKO**   
-
-  un-pleasant	
-
-glume   
-
-**GLUMA**   
-
-chaff, husk	
-
-glutto-n   
-
-**GLUTO**   
-
-swallow	
-
-tri-   
-
-**  TRI G**   
-
-  three	
-
-  gono-   
-
-**GONO G**   
-
-angle, corner	
-
-  metry   
-
-**  METRI G**   
-
-  measure	
-
-tele-graph   
-
-**  TELE G**   
-
-  far, distant	
-
-  
-
-**  BRAKI-GONO**   
-
-  elbow	
-
-  
-
-**  PODA-GENO**   
-
-  knee	
-
-  
-
-**  IN GE-GONO**   
-
-  dove-tailed	
-
-gradu-ally   
-
-**GRADU**   
-
-pace, step	
-
-geo-graphy   
-
-**GRAFO**   
-
-write	
-
-tele-gram   
-
-**GRAMA G**   
-
-letter	
-
-  
-
-**GRAM-AMI G**   
-
-pen-friend	
-
-grammatica-l   
-
-**GRAMATIKA G**   
-
-grammar	
-
-grand   
-
-**GRANDI**   
-
-grand, noble	
-
-grati-tude   
-
-**GRATIA**   
-
-thanks	
-
-gratis   
-
-**GRATIS**   
-
-without payment	
-
-con-gratula-te   
-
-**GRATULA**   
-
-congratulate	
-
-gravi-ty   
-
-**GRAVI**   
-
-heavy, serious, especially	
-
-  
-
-**  NO-GRAVI**   
-
-un-important	
-
-gravita-te   
-
-**GRAVITA**   
-
-gravity	
+gravita-te **GRAVITA** gravity	
 
  	
  	
 *p. 34:*	
- 
 
-gravit-y   
 
-**GRAVITA**   
+gravit-y **GRAVITA** gravity	
 
-gravity	
+grega-rious **GREGA** party, a society	
 
-grega-rious   
+— **GREGA-VOLU**   sociable	
 
-**GREGA**   
+— **  ANTI-GREGA** opposition party	
 
-party, a society	
+pro- **  PRO**   forward towards	
 
-  
+gress **GRESI** walk	
 
-**GREGA-VOLU**   
+guard **GUARDIA** guard	
 
-  sociable	
-
-  
-
-**  ANTI-GREGA**   
-
-opposition party	
-
-pro-   
-
-**  PRO**   
-
-  forward towards	
-
-gress   
-
-**GRESI**   
-
-walk	
-
-guard   
-
-**GUARDIA**   
-
-guard	
-
-gutt-er   
-
-**GUTA**   
-
-a drop	
+gutt-er **GUTA** a drop	
 
  	
- 
 
-have   
 
-**HABE**   
+have **HABE** have, possess	
 
-have, possess	
+habitu-al **HABITU** habit	
 
-habitu-al   
+hagio-latry **HAGIO G** sacred	
 
-**HABITU**   
+— **  HAGIO-PE**   saint	
 
-habit	
+— **  LATRI**   worship	
 
-hagio-latry   
+hedo-nist **HEDO G** pleasure	
 
-**HAGIO G**   
+helico-pter **HELIKA G** helix	
 
-sacred	
+— **  PTERO G**   wing	
 
-  
+helio-trope **HELI, TROPI G** sun, turn	
 
-**  HAGIO-PE**   
+— **  HELI-RADIA** sun-shine, -rays	
 
-  saint	
+hemo-rrhage **HEMA G** blood	
 
-  
+— **  RAGI G**   burst forth	
 
-**  LATRI**   
+hapa-titis **HEPA G** liver	
 
-  worship	
+ad-hesi-ve **HESI** stick, -y	
 
-hedo-nist   
+hetero-dox **HETERO-DOXO G** different-opinion	
 
-**HEDO G**   
+hia-tus **HIAO G** yawn	
 
-pleasure	
+hydro- **HIDRO G** water	
 
-helico-pter   
+  gen **  GEN**   gen-erator	
 
-**HELIKA G**   
+hier-archy **HIERI-ARKI G** priests-govern	
 
-helix	
+hyper- **HIPER G** over, above	
 
-  
+hypo-dermi-c **HIPO G** below	
 
-**  PTERO G**   
+hyster-ec-tomy **HISTERA G** womb	
 
-  wing	
+— **  EK G**   out	
 
-helio-trope   
-
-**HELI, TROPI G**   
-
-sun, turn	
-
-  
-
-**  HELI-RADIA**   
-
-sun-shine, -rays	
-
-hemo-rrhage   
-
-**HEMA G**   
-
-blood	
-
-  
-
-**  RAGI G**   
-
-  burst forth	
-
-hapa-titis   
-
-**HEPA G**   
-
-liver	
-
-ad-hesi-ve   
-
-**HESI**   
-
-stick, -y	
-
-hetero-dox   
-
-**HETERO-DOXO G**   
-
-different-opinion	
-
-hia-tus   
-
-**HIAO G**   
-
-yawn	
-
-hydro-   
-
-**HIDRO G**   
-
-water	
-
-  gen   
-
-**  GEN**   
-
-  gen-erator	
-
-hier-archy   
-
-**HIERI-ARKI G**   
-
-priests-govern	
-
-hyper-   
-
-**HIPER G**   
-
-over, above	
-
-hypo-dermi-c   
-
-**HIPO G**   
-
-below	
-
-hyster-ec-tomy   
-
-**HISTERA G**   
-
-womb	
-
-  
-
-**  EK G**   
-
-  out	
-
-  
-
-**  TOMI G**   
-
-  cut	
+— **  TOMI G**   cut	
 
  	
- 
 
-histo-logy   
 
-**HISTO G**   
+histo-logy **HISTO G** tissue, weave	
 
-tissue, weave	
+histori-cal **HISTORI G** history, story	
 
-histori-cal   
+hol-istic medicine **HOLO G** whole, complete, -ly	
 
-**HISTORI G**   
+homi-cide **HOMI** a person	
 
-history, story	
+— **  CIDE**   kill	
 
-hol-istic medicine   
+homo-gen-eous **HOMO G** same	
 
-**HOLO G**   
+Hordea (Bot.) **HORDEA** barley	
 
-whole, complete, -ly	
+horizo-ntal **HORIZO G** lie, horizontal	
 
-homi-cide   
+hormo-ne **HORMO G** urge, stir up	
 
-**HOMI**   
+horo-logist **HORO G** hour, time	
 
-a person	
+horti-culture **HORTI** garden, park	
 
-  
+hospi-tality **HOSPI** guest	
 
-**  CIDE**   
+hospita-lity **HOSPITA** entertain	
 
-  kill	
-
-homo-gen-eous   
-
-**HOMO G**   
-
-same	
-
-Hordea (Bot.)   
-
-**HORDEA**   
-
-barley	
-
-horizo-ntal   
-
-**HORIZO G**   
-
-lie, horizontal	
-
-hormo-ne   
-
-**HORMO G**   
-
-urge, stir up	
-
-horo-logist   
-
-**HORO G**   
-
-hour, time	
-
-horti-culture   
-
-**HORTI**   
-
-garden, park	
-
-hospi-tality   
-
-**HOSPI**   
-
-guest	
-
-hospita-lity   
-
-**HOSPITA**   
-
-entertain	
-
-humidi-ty   
-
-**HUMIDI**   
-
-moist, damp	
+humidi-ty **HUMIDI** moist, damp	
 
  	
  	
 *p. 35:*	
- 
 
-psych-iatry   
 
-**IATRI G**   
+psych-iatry **IATRI G** doctor, heal	
 
-doctor, heal	
+i. e. = id es-t **ID ES** it is	
 
-i. e. = id es-t   
+idea **IDEA G** idea, thought	
 
-**ID ES**   
+idio-m **IDIO G** unique, private	
 
-it is	
+igni-te **IGNI** fire	
 
-idea   
+ignora-nt **IGNORA** not know	
 
-**IDEA G**   
+ichn-eumon **IKNO G** track, footprint	
 
-idea, thought	
+icono-clast **IKONO G** image, idol	
 
-idio-m   
+— **KLASTI G** smash	
 
-**IDIO G**   
+ichthy-ology **IKTI G** fish	
 
-unique, private	
+imagina-tion **IMAGINA** imagine	
 
-igni-te   
+imbrica-te **IMBRI** shower of rain	
 
-**IGNI**   
+— **IMBRICA** overlap	
 
-fire	
+imita-te **IMITA** imitate	
 
-ignora-nt   
+impact **IMPAKTI** stroke, blow	
 
-**IGNORA**   
+impedi-ment **IMPEDI** impede, hinder	
 
-not know	
+imperio-us **IMPERIO** command, rule	
 
-ichn-eumon   
+importa-nt **IMPORT** be important	
 
-**IKNO G**   
+immuni-ty **IMUNI** safe, immune	
 
-track, footprint	
+in **IN** in	
 
-icono-clast   
+to-in **AD-IN** in-to	
 
-**IKONO G**   
+indica-te **INDIKA** point to, hint	
 
-image, idol	
+industri-al **INDUSTRI** industry	
 
-  
+inertia **INERTI** inertia	
 
-**KLASTI G**   
+infanti-le **INFANTI** child	
 
-smash	
+infinity **INFINITI** infinit-e, -y	
 
-ichthy-ology   
+infla-te **INFLA** inflate, swell	
 
-**IKTI G**   
+influ-ence **INFLU** influence	
 
-fish	
+info-rmation **INFO** information	
 
-imagina-tion   
+infra-red **INFRA** below, under	
 
-**IMAGINA**   
+include **INKLUDE** include	
 
-imagine	
+insect **INSEKTI** insect	
 
-imbrica-te   
+insignia **INSIGNIA** flags, badges etc	
 
-**IMBRI**   
+instrument **INSTRUMENTA** instrument, tool	
 
-shower of rain	
+insula-r **INSULA** island	
 
-  
+insura-nce **INSURA** insura-nce	
 
-**IMBRICA**   
+inter-val **INTER** between, among	
 
-overlap	
+interpreta-tion **INTERPRETA** interpret	
 
-imita-te   
-
-**IMITA**   
-
-imitate	
-
-impact   
-
-**IMPAKTI**   
-
-stroke, blow	
-
-impedi-ment   
-
-**IMPEDI**   
-
-impede, hinder	
-
-imperio-us   
-
-**IMPERIO**   
-
-command, rule	
-
-importa-nt   
-
-**IMPORT**   
-
-be important	
-
-immuni-ty   
-
-**IMUNI**   
-
-safe, immune	
-
-in   
-
-**IN**   
-
-in	
-
-to-in   
-
-**AD-IN**   
-
-in-to	
-
-indica-te   
-
-**INDIKA**   
-
-point to, hint	
-
-industri-al   
-
-**INDUSTRI**   
-
-industry	
-
-inertia   
-
-**INERTI**   
-
-inertia	
-
-infanti-le   
-
-**INFANTI**   
-
-child	
-
-infinity   
-
-**INFINITI**   
-
-infinit-e, -y	
-
-infla-te   
-
-**INFLA**   
-
-inflate, swell	
-
-influ-ence   
-
-**INFLU**   
-
-influence	
-
-info-rmation   
-
-**INFO**   
-
-information	
-
-infra-red   
-
-**INFRA**   
-
-below, under	
-
-include   
-
-**INKLUDE**   
-
-include	
-
-insect   
-
-**INSEKTI**   
-
-insect	
-
-insignia   
-
-**INSIGNIA**   
-
-flags, badges etc	
-
-instrument   
-
-**INSTRUMENTA**   
-
-instrument, tool	
-
-insula-r   
-
-**INSULA**   
-
-island	
-
-insura-nce   
-
-**INSURA**   
-
-insura-nce	
-
-inter-val   
-
-**INTER**   
-
-between, among	
-
-interpreta-tion   
-
-**INTERPRETA**   
-
-interpret	
-
-intestina-l   
-
-**INTESTINA**   
-
-intestine, gut	
+intestina-l **INTESTINA** intestine, gut	
 
  	
  	
 *p. 36:*	
- 
 
-intra-uteri-ne   
 
-**INTRA**   
+intra-uteri-ne **INTRA** inside	
 
-inside	
+— **  UTERI**   womb	
 
-  
+invest **INVESTI** invest	
 
-**  UTERI**   
+in-volve **INVOLVE** wrap in	
 
-  womb	
+jot, iotai **IOTA** jot	
 
-invest   
+irid-escent **IRIDI G** rainbow	
 
-**INVESTI**   
+iso-sceles **ISO** identical, equal	
 
-invest	
+re-itera-te **ITERA** again	
 
-in-volve   
-
-**INVOLVE**   
-
-wrap in	
-
-jot, iotai   
-
-**IOTA**   
-
-jot	
-
-irid-escent   
-
-**IRIDI G**   
-
-rainbow	
-
-iso-sceles   
-
-**ISO**   
-
-identical, equal	
-
-re-itera-te   
-
-**ITERA**   
-
-again	
-
-itinera-ry   
-
-**ITINERA**   
-
-travel	
+itinera-ry **ITINERA** travel	
 
  	
- 
 
-yes   
 
-**JA**   
+yes **JA** yes	
 
-yes	
+ad-jace-nt **JACE** lie	
 
-ad-jace-nt   
+janu-ary **JANU** door	
 
-**JACE**   
+pro-ject **  PRO**   forward	
 
-lie	
+— **JETI** throw	
 
-janu-ary   
+jov-ial **JOVIA** jolly	
 
-**JANU**   
+ad-judica-te **JUDIKA** judge, decide	
 
-door	
+con-juga-l **JUGA** join	
 
-pro-ject   
+ab-jur-e **JURA** swear	
 
-**  PRO**   
+justi-ce **JUSTI** just, -ice	
 
-  forward	
+ju-ve-nile **JUVE** young	
 
-  
+— **JU-FE** girl	
 
-**JETI**   
-
-throw	
-
-jov-ial   
-
-**JOVIA**   
-
-jolly	
-
-ad-judica-te   
-
-**JUDIKA**   
-
-judge, decide	
-
-con-juga-l   
-
-**JUGA**   
-
-join	
-
-ab-jur-e   
-
-**JURA**   
-
-swear	
-
-justi-ce   
-
-**JUSTI**   
-
-just, -ice	
-
-ju-ve-nile   
-
-**JUVE**   
-
-young	
-
-  
-
-**JU-FE**   
-
-girl	
-
-  
-
-**JU-AN**   
-
-boy	
+— **JU-AN** boy	
 
  	
- 
 
-be-ca-use   
 
-**KA**   
+be-ca-use **KA** as, for = be-ca-use	
 
-as, for = be-ca-use	
+de-cade-nt **KADE** fall	
 
-de-cade-nt   
+caco-phony **KAKO** very bad, evil	
 
-**KADE**   
+calli-graphy **KALI** beautiful	
 
-fall	
+calyx **KALICI** cup, calyx	
 
-caco-phony   
+calcula-te **KALKULA** pebble, calculate	
 
-**KAKO**   
+chamae-leon **KAME** on ground	
 
-very bad, evil	
+— **  LEONI**   lion	
 
-calli-graphy   
+cambio **KAMBIO** exchange	
 
-**KALI**   
+camera **KAMERA, -KA** room	
 
-beautiful	
+campan-ula **KAMPANI** bell	
 
-calyx   
+canali-ze **KANALI** canal, ditch, groove	
 
-**KALICI**   
+cancel **KANCELA** cancel	
 
-cup, calyx	
+cancer **KANKERI** crab, cancer	
 
-calcula-te   
+cani-ne **KANI** dog	
 
-**KALKULA**   
+cant-ata **KANTA** sing	
 
-pebble, calculate	
+capilla-ry **KAPILA** hair	
 
-chamae-leon   
+capital **KAPITALA** capital	
 
-**KAME**   
+chapter **KAPITULA** chapter	
 
-on ground	
+caps-ule **KAPSA** parcel	
 
-  
+capti-vate **KAPTI** catch	
 
-**  LEONI**   
+carbo-n **KARBO** coal	
 
-  lion	
+in-carcera-te **KARCERA** prison	
 
-cambio   
+cardia-c **KARDIA G** heart	
 
-**KAMBIO**   
+cardina-l **KARDINA** hinge	
 
-exchange	
-
-camera   
-
-**KAMERA, -KA**   
-
-room	
-
-campan-ula   
-
-**KAMPANI**   
-
-bell	
-
-canali-ze   
-
-**KANALI**   
-
-canal, ditch, groove	
-
-cancel   
-
-**KANCELA**   
-
-cancel	
-
-cancer   
-
-**KANKERI**   
-
-crab, cancer	
-
-cani-ne   
-
-**KANI**   
-
-dog	
-
-cant-ata   
-
-**KANTA**   
-
-sing	
-
-capilla-ry   
-
-**KAPILA**   
-
-hair	
-
-capital   
-
-**KAPITALA**   
-
-capital	
-
-chapter   
-
-**KAPITULA**   
-
-chapter	
-
-caps-ule   
-
-**KAPSA**   
-
-parcel	
-
-capti-vate   
-
-**KAPTI**   
-
-catch	
-
-carbo-n   
-
-**KARBO**   
-
-coal	
-
-in-carcera-te   
-
-**KARCERA**   
-
-prison	
-
-cardia-c   
-
-**KARDIA G**   
-
-heart	
-
-cardina-l   
-
-**KARDINA**   
-
-hinge	
-
-cargo   
-
-**KARGO**   
-
-load	
+cargo **KARGO** load	
 
  	
  	
 *p. 37:*	
- 
 
-carni-vor-ous   
 
-**KARNI**   
+carni-vor-ous **KARNI** flesh, meat	
 
-flesh, meat	
+— **  VORA**   eat	
 
-  
+car-ess **KARO X\!** Dear X\!	
 
-**  VORA**   
+carpe-t **KARPE** pluck, harvest	
 
-  eat	
+— **  KARPO G**   fruit	
 
-car-ess   
+carp-us **KARPUS** wrist	
 
-**KARO X\!**   
+card **KARTA** card	
 
-Dear X\!	
+carton **KARTONA** cardboard	
 
-carpe-t   
+case-in **KASEA** cheese	
 
-**KARPE**   
+in the case of **KASO** in the case of	
 
-pluck, harvest	
+cata-strophi-c **KATA G** downwards	
 
-  
+— **  STROFI G**   turn	
 
-**  KARPO G**   
+catena **KATENA** chain	
 
-  fruit	
+cauda-l **KAUDA** tail	
 
-carp-us   
+cauli-flower **KAULI** stalk	
 
-**KARPUS**   
+causa-tion **KAUSA** because of	
 
-wrist	
+caverno-us **KAVERNO** cave	
 
-card   
+cavit-y **KAVITA** cavity, hollow	
 
-**KARTA**   
+— **  POLI  KAVITA** spongy, porous	
 
-card	
+cepha-lic **KEFA G** head	
 
-carton   
+cerami-c **KERAMI G** clay, pottery	
 
-**KARTONA**   
+kerati-n **KERATI G** horn	
 
-cardboard	
+ki-nema **KI G** go	
 
-case-in   
+kilo-gram **KILO G** thousand	
 
-**KASEA**   
+kine-tic **KINE G** move	
 
-cheese	
+leuco-cyte **  LEUKO G**   white	
 
-in the case of   
+— **KITO G** cell	
 
-**KASO**   
+cysti-c **KISTI G** cyst, bladder	
 
-in the case of	
+clari-fy **KLARI** explain, clarify	
 
-cata-strophi-c   
+classi-fy **KLASI** class, -ify	
 
-**KATA G**   
+clavi-chord **KLAVI** key, to lock	
 
-downwards	
+— **  KLAVI-ME**   a lock	
 
-  
+clepto-maniac **KLEPTO G** thieve, rob	
 
-**  STROFI G**   
+cli-nic, re-cli-ne **KLI G** bed	
 
-  turn	
+in-clina-tion **KLINA** slope	
 
-catena   
+clima-te **KLIMA G** weather	
 
-**KATENA**   
+chloro-phyll **KLORO G** green	
 
-chain	
+— **  FILA G**   leaf	
 
-cauda-l   
+— **  KLORO-LO**   oasis	
 
-**KAUDA**   
+in-clu-ding **KLU** even	
 
-tail	
+in-clude **KLUDE** shut, close	
 
-cauli-flower   
+codi-fy **KODI** code	
 
-**KAULI**   
+cogita-te **KOGITA** think hard	
 
-stalk	
+— **  MEGA**   thoughtful	
 
-causa-tion   
+cognat-e **KOGNATI** relative	
 
-**KAUSA**   
+cockle **KOKLEA** snail	
 
-because of	
+melan-choly **  MELANO G** black	
 
-caverno-us   
+— **KOLE G** bile	
 
-**KAVERNO**   
+co-incide **KO-INCIDE** co-incide	
 
-cave	
+colea **KOLEA** sheath	
 
-cavit-y   
+collegi-ate **KOLEGI** college	
 
-**KAVITA**   
-
-cavity, hollow	
-
-  
-
-**  POLI  KAVITA**   
-
-spongy, porous	
-
-cepha-lic   
-
-**KEFA G**   
-
-head	
-
-cerami-c   
-
-**KERAMI G**   
-
-clay, pottery	
-
-kerati-n   
-
-**KERATI G**   
-
-horn	
-
-ki-nema   
-
-**KI G**   
-
-go	
-
-kilo-gram   
-
-**KILO G**   
-
-thousand	
-
-kine-tic   
-
-**KINE G**   
-
-move	
-
-leuco-cyte   
-
-**  LEUKO G**   
-
-  white	
-
-  
-
-**KITO G**   
-
-cell	
-
-cysti-c   
-
-**KISTI G**   
-
-cyst, bladder	
-
-clari-fy   
-
-**KLARI**   
-
-explain, clarify	
-
-classi-fy   
-
-**KLASI**   
-
-class, -ify	
-
-clavi-chord   
-
-**KLAVI**   
-
-key, to lock	
-
-  
-
-**  KLAVI-ME**   
-
-  a lock	
-
-clepto-maniac   
-
-**KLEPTO G**   
-
-thieve, rob	
-
-cli-nic, re-cli-ne   
-
-**KLI G**   
-
-bed	
-
-in-clina-tion   
-
-**KLINA**   
-
-slope	
-
-clima-te   
-
-**KLIMA G**   
-
-weather	
-
-chloro-phyll   
-
-**KLORO G**   
-
-green	
-
-  
-
-**  FILA G**   
-
-  leaf	
-
-  
-
-**  KLORO-LO**   
-
-  oasis	
-
-in-clu-ding   
-
-**KLU**   
-
-even	
-
-in-clude   
-
-**KLUDE**   
-
-shut, close	
-
-codi-fy   
-
-**KODI**   
-
-code	
-
-cogita-te   
-
-**KOGITA**   
-
-think hard	
-
-  
-
-**  MEGA**   
-
-  thoughtful	
-
-cognat-e   
-
-**KOGNATI**   
-
-relative	
-
-cockle   
-
-**KOKLEA**   
-
-snail	
-
-melan-choly   
-
-**  MELANO G**   
-
-black	
-
-  
-
-**KOLE G**   
-
-bile	
-
-co-incide   
-
-**KO-INCIDE**   
-
-co-incide	
-
-colea   
-
-**KOLEA**   
-
-sheath	
-
-collegi-ate   
-
-**KOLEGI**   
-
-college	
-
-collecti-on   
-
-**KOLEKTI**   
-
-collect	
+collecti-on **KOLEKTI** collect	
 
  	
  	
 *p. 38:*	
- 
 
-chole-ri-c   
 
-**KOLERI**   
+chole-ri-c **KOLERI** anger	
 
-anger	
+colony **KOLONI** colony	
 
-colony   
+columbi-ne **KOLUMBI** dove, pigeon	
 
-**KOLONI**   
+column **KOLUMNI** column	
 
-colony	
+combina-tion **KOMBINA** combine	
 
-columbi-ne   
+command **KOMANDA** command	
 
-**KOLUMBI**   
+comedy **KOMEDI G** comedy	
 
-dove, pigeon	
+commence **KOMENCE** begin	
 
-column   
+commerci-al **KOMERCI** trade, commerce	
 
-**KOLUMNI**   
+comet **KOMETA G** long hair	
 
-column	
+comfort **KOMFORTA** comfort	
 
-combina-tion   
+comica-l **KOMIKA G** comic-al	
 
-**KOMBINA**   
+committee **KOMITI** committee	
 
-combine	
+— **KOMO?** How?	
 
-command   
+company **KOMPANI** company	
 
-**KOMANDA**   
+compari-son **KOMPARI** compare	
 
-command	
+compensa-te **KOMPENSA** compensate	
 
-comedy   
+competi-tion **KOMPETI** compete	
 
-**KOMEDI G**   
+ac-compli-sh **KOMPLI** accomplish	
 
-comedy	
+complica-tion **KOMPLIKA** complicate	
 
-commence   
+composi-tion **KOMPOSI** compose	
 
-**KOMENCE**   
+communi-ty **KOMUNI** sharing	
 
-begin	
+communica-te **KOMUNIKA** communicate	
 
-commerci-al   
+concessi-on **KONCESI** lease	
 
-**KOMERCI**   
+counsel **KONSILI** advise	
 
-trade, commerce	
+conditio-n **KONDITIO** condition	
 
-comet   
+confessi-on **KONFESI** confess	
 
-**KOMETA G**   
+— **  GE-KONFESI**   admittedly	
 
-long hair	
+conformi-ty **KONFORMI** conform	
 
-comfort   
+confusi-on **KONFUSI** confuse	
 
-**KOMFORTA**   
+con-gru-ent **GRU** fit, adapt	
 
-comfort	
+concho-logy **KONKO** shell	
 
-comica-l   
+conifero-us **KONIFERO** Conifer	
 
-**KOMIKA G**   
+confisca-te **KONFISKA** confiscate	
 
-comic-al	
+conflu-ence **KONFLU** conflu-ence	
 
-committee   
+confusi-on **KONFUSI** mix	
 
-**KOMITI**   
+concavi-ty **KONKAVI** concave	
 
-committee	
+consist **KONSISTE** stand firm	
 
-  
+consci-ous **KONSKI** conscious	
 
-**KOMO?**   
+consola-tion **KONSOLA** console	
 
-How?	
+consume **KONSUME** consume	
 
-company   
+contextu-al **KONTEXTU** context	
 
-**KOMPANI**   
+continenta-l **KONTINENTA** continent	
 
-company	
+ac-count **KONTO** account	
 
-compari-son   
+contra-dic-t **KONTRA** opposite	
 
-**KOMPARI**   
+control **KONTROLA** control	
 
-compare	
+convexi-ty **KONVEXI** convex	
 
-compensa-te   
+Cope-pod **KOPA** oar, row	
 
-**KOMPENSA**   
-
-compensate	
-
-competi-tion   
-
-**KOMPETI**   
-
-compete	
-
-ac-compli-sh   
-
-**KOMPLI**   
-
-accomplish	
-
-complica-tion   
-
-**KOMPLIKA**   
-
-complicate	
-
-composi-tion   
-
-**KOMPOSI**   
-
-compose	
-
-communi-ty   
-
-**KOMUNI**   
-
-sharing	
-
-communica-te   
-
-**KOMUNIKA**   
-
-communicate	
-
-concessi-on   
-
-**KONCESI**   
-
-lease	
-
-counsel   
-
-**KONSILI**   
-
-advise	
-
-conditio-n   
-
-**KONDITIO**   
-
-condition	
-
-confessi-on   
-
-**KONFESI**   
-
-confess	
-
-  
-
-**  GE-KONFESI**   
-
-  admittedly	
-
-conformi-ty   
-
-**KONFORMI**   
-
-conform	
-
-confusi-on   
-
-**KONFUSI**   
-
-confuse	
-
-con-gru-ent   
-
-**GRU**   
-
-fit, adapt	
-
-concho-logy   
-
-**KONKO**   
-
-shell	
-
-conifero-us   
-
-**KONIFERO**   
-
-Conifer	
-
-confisca-te   
-
-**KONFISKA**   
-
-confiscate	
-
-conflu-ence   
-
-**KONFLU**   
-
-conflu-ence	
-
-confusi-on   
-
-**KONFUSI**   
-
-mix	
-
-concavi-ty   
-
-**KONKAVI**   
-
-concave	
-
-consist   
-
-**KONSISTE**   
-
-stand firm	
-
-consci-ous   
-
-**KONSKI**   
-
-conscious	
-
-consola-tion   
-
-**KONSOLA**   
-
-console	
-
-consume   
-
-**KONSUME**   
-
-consume	
-
-contextu-al   
-
-**KONTEXTU**   
-
-context	
-
-continenta-l   
-
-**KONTINENTA**   
-
-continent	
-
-ac-count   
-
-**KONTO**   
-
-account	
-
-contra-dic-t   
-
-**KONTRA**   
-
-opposite	
-
-control   
-
-**KONTROLA**   
-
-control	
-
-convexi-ty   
-
-**KONVEXI**   
-
-convex	
-
-Cope-pod   
-
-**KOPA**   
-
-oar, row	
-
-copula-te   
-
-**KOPULA**   
-
-to mate	
+copula-te **KOPULA** to mate	
 
  	
  	
 *p. 39:*	
- 
 
-coryna   
 
-**KORINA G**   
+coryna **KORINA G** club, bat	
 
-club, bat	
+coryza **KORIZA** cold in head	
 
-coryza   
+cosmo-naut **KOSMO G** world, universe	
 
-**KORIZA**   
+— **  NAUTI G**   sailor	
 
-cold in head	
+cosmeti-c **KOSMETI-C** cosmetic	
 
-cosmo-naut   
+costa-l, coast **KOSTA** rib, side, coast	
 
-**KOSMO G**   
+cotton **KOTONA** cotton	
 
-world, universe	
+cush-ion **KOXA** hip, thigh	
 
-  
+crania-l **KRANIA G** skull, cranium	
 
-**  NAUTI G**   
+crater **KRATERA G** basin	
 
-  sailor	
+pluto-crat **  PLUTO G**   rich	
 
-cosmeti-c   
+— **KRATI G** govern	
 
-**KOSMETI-C**   
+credi-ble **KREDI** believe	
 
-cosmetic	
+credit **KREDITO** credit, lend	
 
-costa-l, coast   
+cresce-ndo **KRESCE** grow	
 
-**KOSTA**   
+crest **KRESTA** crest	
 
-rib, side, coast	
+creta-ceous **KRETA** chalk	
 
-cotton   
+dis-cri-minate **KRI** to separate	
 
-**KOTONA**   
+cribri-form **KRIBRI** sieve	
 
-cotton	
+crypti-c **KRIPTI G** hide	
 
-cush-ion   
+chrys- **KRISO G** golden	
 
-**KOXA**   
+anth-emum **  ANTO G** flower	
 
-hip, thigh	
+crisi-s **KRISI G** crisis	
 
-crania-l   
+crysta-l **KRISTA G** frost	
 
-**KRANIA G**   
+crystalli-ne **KRISTALI G** ice	
 
-skull, cranium	
+critici-ze **KRITICI G** criticize	
 
-crater   
+— **  AUTO-KRITICI**   conscience	
 
-**KRATERA G**   
+— **  NO-KRITICI**   undiscriminating	
 
-basin	
+poly-chrome **  POLI G**   many	
 
-pluto-crat   
+— **KROMA G** colors	
 
-**  PLUTO G**   
+syn- **  SIN G**   with, together	
 
-  rich	
+chron-ize **KRON G** instant	
 
-  
+  pre- **  PRE-KRON**   early	
 
-**KRATI G**   
+  po-st **  PO-KRON**   late	
 
-govern	
+cruci-fix **KRUCI** cross	
 
-credi-ble   
+cubi-c **KUBI** cube	
 
-**KREDI**   
+cook **KUKO** cook	
 
-believe	
+cucumber **KUKURBI** cucumber	
 
-credit   
+coulter, cutlery **KULTELA** knife	
 
-**KREDITO**   
+culti-vate **KULTI** care for, tend	
 
-credit, lend	
+— **  GE-KULTI**   culti-vated	
 
-cresce-ndo   
+re-cumbe-nt **KUMBE** lie down	
 
-**KRESCE**   
+ac-cumu-late **KUMU** heap	
 
-grow	
+cune-iform **KUNE** wedge	
 
-crest   
+cupra **KUPRA** copper, Cu	
 
-**KRESTA**   
+cura-tor **KURA** care, concern, wary	
 
-crest	
+— **  AUTO-KURA** self-interested	
 
-creta-ceous   
+— **  NO-KURA** careless, indifferent	
 
-**KRETA**   
+— **  PRE-KURA** pre-caution	
 
-chalk	
+curv-ature **KURVA** curve	
 
-dis-cri-minate   
+— **  EX-KURVA**   convex	
 
-**KRI**   
-
-to separate	
-
-cribri-form   
-
-**KRIBRI**   
-
-sieve	
-
-crypti-c   
-
-**KRIPTI G**   
-
-hide	
-
-chrys-   
-
-**KRISO G**   
-
-golden	
-
-anth-emum   
-
-**  ANTO G**   
-
-flower	
-
-crisi-s   
-
-**KRISI G**   
-
-crisis	
-
-crysta-l   
-
-**KRISTA G**   
-
-frost	
-
-crystalli-ne   
-
-**KRISTALI G**   
-
-ice	
-
-critici-ze   
-
-**KRITICI G**   
-
-criticize	
-
-  
-
-**  AUTO-KRITICI**   
-
-  conscience	
-
-  
-
-**  NO-KRITICI**   
-
-  undiscriminating	
-
-poly-chrome   
-
-**  POLI G**   
-
-  many	
-
-  
-
-**KROMA G**   
-
-colors	
-
-syn-   
-
-**  SIN G**   
-
-  with, together	
-
-chron-ize   
-
-**KRON G**   
-
-instant	
-
-  pre-   
-
-**  PRE-KRON**   
-
-  early	
-
-  po-st   
-
-**  PO-KRON**   
-
-  late	
-
-cruci-fix   
-
-**KRUCI**   
-
-cross	
-
-cubi-c   
-
-**KUBI**   
-
-cube	
-
-cook   
-
-**KUKO**   
-
-cook	
-
-cucumber   
-
-**KUKURBI**   
-
-cucumber	
-
-coulter, cutlery   
-
-**KULTELA**   
-
-knife	
-
-culti-vate   
-
-**KULTI**   
-
-care for, tend	
-
-  
-
-**  GE-KULTI**   
-
-  culti-vated	
-
-re-cumbe-nt   
-
-**KUMBE**   
-
-lie down	
-
-ac-cumu-late   
-
-**KUMU**   
-
-heap	
-
-cune-iform   
-
-**KUNE**   
-
-wedge	
-
-cupra   
-
-**KUPRA**   
-
-copper, Cu	
-
-cura-tor   
-
-**KURA**   
-
-care, concern, wary	
-
-  
-
-**  AUTO-KURA**   
-
-self-interested	
-
-  
-
-**  NO-KURA**   
-
-careless, indifferent	
-
-  
-
-**  PRE-KURA**   
-
-pre-caution	
-
-curv-ature   
-
-**KURVA**   
-
-curve	
-
-  
-
-**  EX-KURVA**   
-
-  convex	
-
-  
-
-**  IN-KURVA**   
-
-  concave	
+— **  IN-KURVA**   concave	
 
  	
  	
 *p. 40:*	
- 
 
-ce livre-la (Fr.)   
 
-**LA**   
+ce livre-la (Fr.) **LA** there	
 
-there	
+— **U-LA** the-there = that	
 
-  
+labia-l **LABIA** lip	
 
-**U-LA**   
+labor **LABORI** labor, work	
 
-the-there = that	
+lacrimo-se **LAKRIMA** tear (weeping)	
 
-labia-l   
+lactii-c acid **LAKTI** milk	
 
-**LABIA**   
+lake **LAKU** lake	
 
-lip	
+echo-lali-a **LALI G** chatter	
 
-labor   
+lamina-ted **LAMINA** slice, plate	
 
-**LABORI**   
+lamp **LAMPA G** lamp	
 
-labor, work	
+lan-olin **LANA** wool	
 
-lacrimo-se   
+land **LANDA** land	
 
-**LAKRIMA**   
+de-lapida-ted **LAPIDA** stone	
 
-tear (weeping)	
+re-lapse **LAPSE** slip, slide	
 
-lactii-c acid   
+larva **LARVA** larva	
 
-**LAKTI**   
+laisser faire\! **LASE** let	
 
-milk	
+latex **LATICI** rubber, latex	
 
-lake   
+ido-latry **LATRI G** worship	
 
-**LAKU**   
+lat-eral **LATU** side	
 
-lake	
+laud **LAUDA** praise, esteem	
 
-echo-lali-a   
+— **  NO-LAUDA**   disapproval	
 
-**LALI G**   
+— **  MEGA  LAUDA**   admire, eulogy	
 
-chatter	
+— **  FALSI  LAUDA**   flattery	
 
-lamina-ted   
+— **  U L. GRAFO**   testimonial	
 
-**LAMINA**   
+lava-tory **LAVA** wash	
 
-slice, plate	
+re-lax **LAXA** loose	
 
-lamp   
+lega-l **LEGA** law	
 
-**LAMPA G**   
+— **  NO-LEGA**   illegal	
 
-lamp	
+— **  ANTI-LEGA**   crime, criminal	
 
-lan-olin   
+— **  U LEGA PROMISE**   legal contract	
 
-**LANA**   
+— **  U LEGA-DO**   a law court	
 
-wool	
+legumi-nous **LEGUMI** peas, beans	
 
-land   
+lect-ure **LEKTO** read	
 
-**LANDA**   
+lenti-cular **LENTI** lens	
 
-land	
+lento (music) **LENTO** slow	
 
-de-lapida-ted   
+Lepido-ptera **LEPIDO G** scale	
 
-**LAPIDA**   
+— **  PTERO G**   wing	
 
-stone	
+lepton (atom) **LEPTO G** slender	
 
-re-lapse   
+leuk-em-ia **LEUKO G** white	
 
-**LAPSE**   
+— **  (H)EMO G**   blood	
 
-slip, slide	
+e-leva-tor **LEVA** lift, raise	
 
-larva   
+al-levia-te **LEVIA** light (weight)	
 
-**LARVA**   
+laevo-rotatory **LAEVO** left-hand	
 
-larva	
+liabili-ty **LIABILI** responsible	
 
-laisser faire\!   
+libe-rate **LIBE** free	
 
-**LASE**   
+— **  NO-LIBE**   dependent	
 
-let	
+— **  LIBE-TEM**   leisure	
 
-latex   
-
-**LATICI**   
-
-rubber, latex	
-
-ido-latry   
-
-**LATRI G**   
-
-worship	
-
-lat-eral   
-
-**LATU**   
-
-side	
-
-laud   
-
-**LAUDA**   
-
-praise, esteem	
-
-  
-
-**  NO-LAUDA**   
-
-  disapproval	
-
-  
-
-**  MEGA  LAUDA**   
-
-  admire, eulogy	
-
-  
-
-**  FALSI  LAUDA**   
-
-  flattery	
-
-  
-
-**  U L. GRAFO**   
-
-  testimonial	
-
-lava-tory   
-
-**LAVA**   
-
-wash	
-
-re-lax   
-
-**LAXA**   
-
-loose	
-
-lega-l   
-
-**LEGA**   
-
-law	
-
-  
-
-**  NO-LEGA**   
-
-  illegal	
-
-  
-
-**  ANTI-LEGA**   
-
-  crime, criminal	
-
-  
-
-**  U LEGA PROMISE**   
-
-  legal contract	
-
-  
-
-**  U LEGA-DO**   
-
-  a law court	
-
-legumi-nous   
-
-**LEGUMI**   
-
-peas, beans	
-
-lect-ure   
-
-**LEKTO**   
-
-read	
-
-lenti-cular   
-
-**LENTI**   
-
-lens	
-
-lento (music)   
-
-**LENTO**   
-
-slow	
-
-Lepido-ptera   
-
-**LEPIDO G**   
-
-scale	
-
-  
-
-**  PTERO G**   
-
-  wing	
-
-lepton (atom)   
-
-**LEPTO G**   
-
-slender	
-
-leuk-em-ia   
-
-**LEUKO G**   
-
-white	
-
-  
-
-**  (H)EMO G**   
-
-  blood	
-
-e-leva-tor   
-
-**LEVA**   
-
-lift, raise	
-
-al-levia-te   
-
-**LEVIA**   
-
-light (weight)	
-
-laevo-rotatory   
-
-**LAEVO**   
-
-left-hand	
-
-liabili-ty   
-
-**LIABILI**   
-
-responsible	
-
-libe-rate   
-
-**LIBE**   
-
-free	
-
-  
-
-**  NO-LIBE**   
-
-  dependent	
-
-  
-
-**  LIBE-TEM**   
-
-  leisure	
-
-  
-
-**  U  LIBE-DI**   
-
-  a holiday	
+— **  U  LIBE-DI**   a holiday	
 
  	
  	
 *p. 41:*	
- 
 
-equi-libr-ium   
 
-**LIBRA**   
+equi-libr-ium **LIBRA** a balance, scales	
 
-a balance, scales	
+— **  LIBELA**   level	
 
-  
+— **  DELIBERA**   weigh in mind	
 
-**  LIBELA**   
+liberal **LIBERALI** generous	
 
-  level	
+— **  NO-LIBERALI**   mean-minded	
 
-  
+libido **LIBIDO** desire, lust	
 
-**  DELIBERA**   
+liga-ture **LIGA** tie, bind	
 
-  weigh in mind	
+ligni-n **LIGNI** wood	
 
-liberal   
+lick **LIKO G** lick	
 
-**LIBERALI**   
+pre-limina-ry **  PRE**   before	
 
-generous	
+— **LIMINA** threshold	
 
-  
+limit **LIMITA** limit, bound, rather	
 
-**  NO-LIBERALI**   
+s-lim-e **LIMO G** mud	
 
-  mean-minded	
+— **  LIMAX**   snail	
 
-libido   
+lim-no-logy **LIMNO G** marsh, lake	
 
-**LIBIDO**   
+line **LINE** line, stripe	
 
-desire, lust	
+lin-en **LINUM** flax	
 
-liga-ture   
+lingu-ist **LINGUA** tongue, language	
 
-**LIGA**   
+rele-linqui-sh **LINQI** leave behind	
 
-tie, bind	
+lipo-id **LIPO G** fat (chem.)	
 
-ligni-n   
+liqui-d **LIQI** liquid	
 
-**LIGNI**   
+ana-lysi-s **LISI G** to separate	
 
-wood	
+litora-l **LITORA** shore	
 
-lick   
+litera-l **LITERA** letter (abc)	
 
-**LIKO G**   
+paleo-lith-ic **  PALEO G**   old	
 
-lick	
+— **LITO G** stone	
 
-pre-limina-ry   
+lo-ca-l **LOKA** place, put	
 
-**  PRE**   
+bio-logy **  BIO G**   life	
 
-  before	
+— **LOGI G** understand	
 
-  
+logica-l **LOGIKA G** to reason	
 
-**LIMINA**   
+longi-tude **LONGI** long, length	
 
-threshold	
+lose **LOSE** lose	
 
-limit   
+lubrica-te **LUBRIKA** to oil	
 
-**LIMITA**   
+luci-d **LUCI** clear, transparent	
 
-limit, bound, rather	
+re-lucta-nt **LUKTA** struggle	
 
-s-lim-e   
+lumi-nous **LUMI** light	
 
-**LIMO G**   
-
-mud	
-
-  
-
-**  LIMAX**   
-
-  snail	
-
-lim-no-logy   
-
-**LIMNO G**   
-
-marsh, lake	
-
-line   
-
-**LINE**   
-
-line, stripe	
-
-lin-en   
-
-**LINUM**   
-
-flax	
-
-lingu-ist   
-
-**LINGUA**   
-
-tongue, language	
-
-rele-linqui-sh   
-
-**LINQI**   
-
-leave behind	
-
-lipo-id   
-
-**LIPO G**   
-
-fat (chem.)	
-
-liqui-d   
-
-**LIQI**   
-
-liquid	
-
-ana-lysi-s   
-
-**LISI G**   
-
-to separate	
-
-litora-l   
-
-**LITORA**   
-
-shore	
-
-litera-l   
-
-**LITERA**   
-
-letter (abc)	
-
-paleo-lith-ic   
-
-**  PALEO G**   
-
-  old	
-
-  
-
-**LITO G**   
-
-stone	
-
-lo-ca-l   
-
-**LOKA**   
-
-place, put	
-
-bio-logy   
-
-**  BIO G**   
-
-  life	
-
-  
-
-**LOGI G**   
-
-understand	
-
-logica-l   
-
-**LOGIKA G**   
-
-to reason	
-
-longi-tude   
-
-**LONGI**   
-
-long, length	
-
-lose   
-
-**LOSE**   
-
-lose	
-
-lubrica-te   
-
-**LUBRIKA**   
-
-to oil	
-
-luci-d   
-
-**LUCI**   
-
-clear, transparent	
-
-re-lucta-nt   
-
-**LUKTA**   
-
-struggle	
-
-lumi-nous   
-
-**LUMI**   
-
-light	
-
-luna-r   
-
-**LUNA**   
-
-moon	
+luna-r **LUNA** moon	
 
  	
- 
 
-ma-teria-l   
 
-**-MA**   
+ma-teria-l **-MA** ma-terial, stuff	
 
-ma-terial, stuff	
+ma-jority **MA** more	
 
-ma-jority   
+magica-l **MAGIKA G** magic	
 
-**MA**   
+magneti-c **MAGNETI G** magnet-ism	
 
-more	
+machine **MAKINA G** machine	
 
-magica-l   
+im-macula-te **MAKULA** spot, stain	
 
-**MAGIKA G**   
+mallea-ble **MALEA** hammer	
 
-magic	
+mali-cious **MALI** bad	
 
-magneti-c   
-
-**MAGNETI G**   
-
-magnet-ism	
-
-machine   
-
-**MAKINA G**   
-
-machine	
-
-im-macula-te   
-
-**MAKULA**   
-
-spot, stain	
-
-mallea-ble   
-
-**MALEA**   
-
-hammer	
-
-mali-cious   
-
-**MALI**   
-
-bad	
-
-mamma-l   
-
-**MAMA**   
-
-female breast	
+mamma-l **MAMA** female breast	
 
  	
  	
 *p. 42:*	
- 
 
-morn-ing   
 
-**MANA**   
+morn-ing **MANA** morning	
 
-morning	
+  7 morn-ing **SETI-MANA** 7 morning, week	
 
-  7 morn-ing   
+mandible, jaw **MANDIBULA** jaw	
 
-**SETI-MANA**   
+manu-fac-ture **MANU** hand	
 
-7 morning, week	
+Margar-et **MARGARI** pearl	
 
-mandible, jaw   
+mari-ne **MARI** sea	
 
-**MANDIBULA**   
+margina **MARGINA** edge, curb	
 
-jaw	
+marsu-pial **MARSU G** pocket	
 
-manu-fac-ture   
+mass-ive **MASI** mass	
 
-**MANU**   
+massage **MASAGE** massage	
 
-hand	
+mathema-tics **MATEMA G** learn-ing, lesson	
 
-Margar-et   
+material **MA-TERIA** matter	
 
-**MARGARI**   
+matri-arch **MATRI** mother	
 
-pearl	
+— **  ARCHI G**   authority, rule	
 
-mari-ne   
+matin-s **MATINA** morning	
 
-**MARI**   
+matur-e **MATURA** ripe, mature	
 
-sea	
+maxi-mum **MAXI** most, -est	
 
-margina   
+\-me-chani-c **-ME, MEKANI G** machine, device	
 
-**MARGINA**   
+meander **MEANDRO G** wander	
 
-edge, curb	
+media **MEDIA** media (info)	
 
-marsu-pial   
+medica-l **MEDIKA** medical	
 
-**MARSU G**   
+medio-cre **MEDIO** average	
 
-pocket	
+mediu-m **MEDIU** medium (spirit)	
 
-mass-ive   
+mega-lith **MEGA G** big	
 
-**MASI**   
+— **  LITO G**   stone	
 
-mass	
+di-mi-nish **MEI G** less	
 
-massage   
+melan-choly **MELANO G** black	
 
-**MASAGE**   
+— **  KOLE G**   bile, -chole	
 
-massage	
+melli-flu-ous **MELI G FLU** honey	
 
-mathema-tics   
+melody **MELO-DI G** song	
 
-**MATEMA G**   
+a-melorate **MELIORA** improve	
 
-learn-ing, lesson	
+memo-ry **MEMO** remember	
 
-material   
+meno-pause **MENO G** month	
 
-**MA-TERIA**   
+— **  PAUSA G**   pause, stop	
 
-matter	
+me-asure **MENSA** counter	
 
-matri-arch   
+menta-l **MENTA** mind	
 
-**MATRI**   
+sub-merge **MERGE** dive	
 
-mother	
+merit-orious **MERITO** deserve	
 
-  
+merc-antile **MERKA** buy	
 
-**  ARCHI G**   
+poly-mer **  POLI G**   many	
 
-  authority, rule	
+— **MERO G** bit, piece	
 
-matin-s   
+mercury **MERKURI** messenger	
 
-**MATINA**   
+meso-potamia **MESO G** middle, between	
 
-morning	
+— **  POTAMI G**   river	
 
-matur-e   
+meta-boli-sm **META** after, change	
 
-**MATURA**   
+metalli-c **METALI G** metal	
 
-ripe, mature	
+metri-c **METRI G** measure	
 
-maxi-mum   
+mi **MI** I, me, my	
 
-**MAXI**   
-
-most, -est	
-
-\-me-chani-c   
-
-**-ME, MEKANI G**   
-
-machine, device	
-
-meander   
-
-**MEANDRO G**   
-
-wander	
-
-media   
-
-**MEDIA**   
-
-media (info)	
-
-medica-l   
-
-**MEDIKA**   
-
-medical	
-
-medio-cre   
-
-**MEDIO**   
-
-average	
-
-mediu-m   
-
-**MEDIU**   
-
-medium (spirit)	
-
-mega-lith   
-
-**MEGA G**   
-
-big	
-
-  
-
-**  LITO G**   
-
-  stone	
-
-di-mi-nish   
-
-**MEI G**   
-
-less	
-
-melan-choly   
-
-**MELANO G**   
-
-black	
-
-  
-
-**  KOLE G**   
-
-  bile, -chole	
-
-melli-flu-ous   
-
-**MELI G FLU**   
-
-honey	
-
-melody
-
-**MELO-DI G**   
-
-song	
-
-a-melorate   
-
-**MELIORA**   
-
-improve	
-
-memo-ry   
-
-**MEMO**   
-
-remember	
-
-meno-pause   
-
-**MENO G**   
-
-month	
-
-  
-
-**  PAUSA G**   
-
-  pause, stop	
-
-me-asure   
-
-**MENSA**   
-
-counter	
-
-menta-l   
-
-**MENTA**   
-
-mind	
-
-sub-merge   
-
-**MERGE**   
-
-dive	
-
-merit-orious   
-
-**MERITO**   
-
-deserve	
-
-merc-antile   
-
-**MERKA**   
-
-buy	
-
-poly-mer   
-
-**  POLI G**   
-
-  many	
-
-  
-
-**MERO G**   
-
-bit, piece	
-
-mercury   
-
-**MERKURI**   
-
-messenger	
-
-meso-potamia   
-
-**MESO G**   
-
-middle, between	
-
-  
-
-**  POTAMI G**   
-
-  river	
-
-meta-boli-sm   
-
-**META**   
-
-after, change	
-
-metalli-c   
-
-**METALI G**   
-
-metal	
-
-metri-c   
-
-**METRI G**   
-
-measure	
-
-mi   
-
-**MI**   
-
-I, me, my	
-
-  
-
-**  U-MI**   
-
-  mine	
+— **  U-MI**   mine	
 
  	
  	
 *p. 43:*	
- 
 
-mica   
 
-**MIKA**   
+mica **MIKA** crumb, chip	
 
-crumb, chip	
+micro-scope **MIKRO-SKOPE** tiny-observe, look at	
 
-micro-scope   
+military **MILITA** war, battle, strife	
 
-**MIKRO-SKOPE**   
+— **  IN-MILITA**   revolt, mutiny	
 
-tiny-observe, look at	
+— **  VIA MILITA**   street brawl	
 
-military   
+mine **MINA** mine (coal etc)	
 
-**MILITA**   
+mini-mum **MINI** least	
 
-war, battle, strife	
+minus **MINUS** without, lack	
 
-  
+minut-e **MINUTA** minute	
 
-**  IN-MILITA**   
+mira-cle **MIRA** wonder, amazement	
 
-  revolt, mutiny	
+— **... NO-MIRA**   ordinary	
 
-  
+myria-d **MIRIA** myriad	
 
-**  VIA MILITA**   
+mis- **MIS-** mis-, wrongly	
 
-  street brawl	
+missile **MISILI** missile	
 
-mine   
+mis- **MISO G** hate, hostile	
 
-**MINA**   
+  anthrop-ist **  ANTROPO G**   (wo)mankind	
 
-mine (coal etc)	
+— **  FO-MISO**   loathe	
 
-mini-mum   
+mysteri-ous **MISTERI G** mystery	
 
-**MINI**   
+mix **MIXA** mix	
 
-least	
+mobili-ty **MOBILI & -MO** furniture	
 
-minus   
+mode **MODE** way, fashion	
 
-**MINUS**   
+model **MODELA** model	
 
-without, lack	
+molecula-r **MOLEKULA** molecule	
 
-minut-e   
+moll-usc **MOLI** soft	
 
-**MINUTA**   
+moneta-ry **MONETA** coin	
 
-minute	
+monito-r **MONITO** warn, advise	
 
-mira-cle   
+de-monstra-te **MONSTRA** show	
 
-**MIRA**   
+Monte Carlo **MONTI** mountain	
 
-wonder, amazement	
+morda-nt **MORDA** bite	
 
-  
+morali-ze **MORALI** moral	
 
-**... NO-MIRA**   
+mor-al, more-s **MORE** custom, habit	
 
-  ordinary	
+morta-l **MORTA** death	
 
-myria-d   
+moti-on **MOTI** move, put	
 
-**MIRIA**   
+motiva-te **MOTIVA** motivate	
 
-myriad	
+mu-ltitude **MU** they, them, their	
 
-mis-   
+muc-us **MUCI** slime, mucus	
 
-**MIS-**   
+multipli-cation **MULTIPLI** multiply	
 
-mis-, wrongly	
+mura-l **MURA** wall	
 
-missile   
+musica-l **MUSIKA G** music	
 
-**MISILI**   
+moss **MUSKI** moss	
 
-missile	
+muscula-r **MUSKULA** muscle	
 
-mis-   
+muta-tion **MUTA** change	
 
-**MISO G**   
-
-hate, hostile	
-
-  anthrop-ist   
-
-**  ANTROPO G**   
-
-  (wo)mankind	
-
-  
-
-**  FO-MISO**   
-
-  loathe	
-
-mysteri-ous   
-
-**MISTERI G**   
-
-mystery	
-
-mix   
-
-**MIXA**   
-
-mix	
-
-mobili-ty   
-
-**MOBILI & -MO**   
-
-furniture	
-
-mode   
-
-**MODE**   
-
-way, fashion	
-
-model   
-
-**MODELA**   
-
-model	
-
-molecula-r   
-
-**MOLEKULA**   
-
-molecule	
-
-moll-usc   
-
-**MOLI**   
-
-soft	
-
-moneta-ry   
-
-**MONETA**   
-
-coin	
-
-monito-r   
-
-**MONITO**   
-
-warn, advise	
-
-de-monstra-te   
-
-**MONSTRA**   
-
-show	
-
-Monte Carlo   
-
-**MONTI**   
-
-mountain	
-
-morda-nt   
-
-**MORDA**   
-
-bite	
-
-morali-ze   
-
-**MORALI**   
-
-moral	
-
-mor-al, more-s   
-
-**MORE**   
-
-custom, habit	
-
-morta-l   
-
-**MORTA**   
-
-death	
-
-moti-on   
-
-**MOTI**   
-
-move, put	
-
-motiva-te   
-
-**MOTIVA**   
-
-motivate	
-
-mu-ltitude   
-
-**MU**   
-
-they, them, their	
-
-muc-us   
-
-**MUCI**   
-
-slime, mucus	
-
-multipli-cation   
-
-**MULTIPLI**   
-
-multiply	
-
-mura-l   
-
-**MURA**   
-
-wall	
-
-musica-l   
-
-**MUSIKA G**   
-
-music	
-
-moss   
-
-**MUSKI**   
-
-moss	
-
-muscula-r   
-
-**MUSKULA**   
-
-muscle	
-
-muta-tion   
-
-**MUTA**   
-
-change	
-
-mutua-l   
-
-**MUTUA**   
-
-reciprocal	
+mutua-l **MUTUA** reciprocal	
 
  	
- 
 
-na-m (Rus,)   
 
-**NA**   
+na-m (Rus,) **NA** we, us, our	
 
-we, us, our	
+narco-tic **NARKO G** drunk	
 
-narco-tic   
+nasa-l **NASA** nose	
 
-**NARKO G**   
-
-drunk	
-
-nasa-l   
-
-**NASA**   
-
-nose	
-
-nati-ve   
-
-**NATI**   
-
-birth	
+nati-ve **NATI** birth	
 
  	
  	
 *p. 44:*	
- 
 
-natio-n   
 
-**NATIO**   
+natio-n **NATIO** natio-n	
 
-natio-n	
+nature **NATURA** Nature	
 
-nature   
+nauti-cal **NAUTI** sea-man	
 
-**NATURA**   
+navy **NAVI** ship, boat	
 
-Nature	
+ne-gative **NE** not	
 
-nauti-cal   
+nebu-la **NEBU** mist, fog	
 
-**NAUTI**   
+nece-ssary **NECE** must, have to	
 
-sea-man	
+— **  PA/ FU NECE**   had to/ will have to	
 
-navy   
+nepho-logy **NEFO** cloud	
 
-**NAVI**   
+nega-tive **NEGA** behave negatively	
 
-ship, boat	
+negoti-ate **NEGOTI** do business	
 
-ne-gative   
+necto-n **NEKTO G** swim	
 
-**NE**   
+neo-lith-ic **NEO G LITO** new - stone	
 
-not	
+nephro-logy **NEFRO** kidney	
 
-nebu-la   
+nervo-us **NERVO** nerve	
 
-**NEBU**   
+poly-nesia **  POLY-NESIA**   many- islands	
 
-mist, fog	
+neutra-l **NEUTRA** neutral	
 
-nece-ssary   
+nexu-s **NEXU** nexus, tie, net-work	
 
-**NECE**   
+nei-ther ... n-or **NI ... NI** neither ... nor	
 
-must, have to	
+nicti-tate **NIKTI G** wink	
 
-  
+nidi-fic-ation **NIDI** nest	
 
-**  PA/ FU NECE**   
+— **FIK = FACE** make	
 
-  had to/ will have to	
+de-nigra-te **NIGRA** black	
 
-nepho-logy   
+nymph **NIMFA G** nature goddess	
 
-**NEFO**   
+Neva-da **NIVI** snow	
 
-cloud	
+No\! **NO\!** No\!	
 
-nega-tive   
+no- **NO-** forms opposites	
 
-**NEGA**   
+nod-e **NODI** knot	
 
-behave negatively	
+noctu-rnal **NOKTU** night	
 
-negoti-ate   
+in-noc-ent **NOKU** harm, damage	
 
-**NEGOTI**   
+— **  NO-NOKU**   harmless	
 
-do business	
+eco-nomy **  EKO G**   dwell	
 
-necto-n   
+— **NOMI** theory	
 
-**NEKTO G**   
+nomina-te **NOMINA** name	
 
-swim	
+norma-l **NORMA** normal, standard	
 
-neo-lith-ic   
+— **  NO-NORMA**   unorthodox	
 
-**NEO G LITO**   
+not-e **NOTA** note	
 
-new - stone	
+nov-el **NOVA** news item	
 
-nephro-logy   
+now **NU** now	
 
-**NEFRO**   
+nudi-ty **NUDI** bare, naked	
 
-kidney	
+nuc-leus **NUKI** nut	
 
-nervo-us   
+nuclea-r **NUKLEA** nucleus	
 
-**NERVO**   
+nulli-fy **NULI** nulli, -fy, cancel	
 
-nerve	
+numera-l **NUMERA** count	
 
-poly-nesia   
+pro-nuncia-tion **NUNCI** announce	
 
-**  POLY-NESIA**   
+nupti-als **NUPTI** marriage ceremony	
 
-  many- islands	
-
-neutra-l   
-
-**NEUTRA**   
-
-neutral	
-
-nexu-s   
-
-**NEXU**   
-
-nexus, tie, net-work	
-
-nei-ther ... n-or   
-
-**NI ... NI**   
-
-neither ... nor	
-
-nicti-tate   
-
-**NIKTI G**   
-
-wink	
-
-nidi-fic-ation   
-
-**NIDI**   
-
-nest	
-
-  
-
-**FIK = FACE**   
-
-make	
-
-de-nigra-te   
-
-**NIGRA**   
-
-black	
-
-nymph   
-
-**NIMFA G**   
-
-nature goddess	
-
-Neva-da   
-
-**NIVI**   
-
-snow	
-
-No\!   
-
-**NO\!**   
-
-No\!	
-
-no-   
-
-**NO-**   
-
-forms opposites	
-
-nod-e   
-
-**NODI**   
-
-knot	
-
-noctu-rnal   
-
-**NOKTU**   
-
-night	
-
-in-noc-ent   
-
-**NOKU**   
-
-harm, damage	
-
-  
-
-**  NO-NOKU**   
-
-  harmless	
-
-eco-nomy   
-
-**  EKO G**   
-
-  dwell	
-
-  
-
-**NOMI**   
-
-theory	
-
-nomina-te   
-
-**NOMINA**   
-
-name	
-
-norma-l   
-
-**NORMA**   
-
-normal, standard	
-
-  
-
-**  NO-NORMA**   
-
-  unorthodox	
-
-not-e   
-
-**NOTA**   
-
-note	
-
-nov-el   
-
-**NOVA**   
-
-news item	
-
-now   
-
-**NU**   
-
-now	
-
-nudi-ty   
-
-**NUDI**   
-
-bare, naked	
-
-nuc-leus   
-
-**NUKI**   
-
-nut	
-
-nuclea-r   
-
-**NUKLEA**   
-
-nucleus	
-
-nulli-fy   
-
-**NULI**   
-
-nulli, -fy, cancel	
-
-numera-l   
-
-**NUMERA**   
-
-count	
-
-pro-nuncia-tion   
-
-**NUNCI**   
-
-announce	
-
-nupti-als   
-
-**NUPTI**   
-
-marriage ceremony	
-
-nuta-tion   
-
-**NUTA**   
-
-nod	
+nuta-tion **NUTA** nod	
 
  	
  	
 *p. 45:*	
- 
 
-obe-y   
 
-**OBE**   
+obe-y **OBE** obey	
 
-obey	
+obesi-ty **OBESI** fat, obese	
 
-obesi-ty   
+occide-nt **OCIDE** west-ern	
 
-**OBESI**   
+odio-us **ODI** hate	
 
-fat, obese	
+odoro-us **ODORO** smell, odor	
 
-occide-nt   
+offer **OFERE** offer	
 
-**OCIDE**   
+— **  NON-OFERE**   withhold	
 
-west-ern	
+occasio-nal **OKASIO** opportunity	
 
-odio-us   
+ocu-list **OKU** eye	
 
-**ODI**   
+petr-ole-um **PETRO, OLE G** rock, oil	
 
-hate	
+olfac-tory **OLFACE** smell	
 
-odoro-us   
+olig-archy **OLIGO, ARKI G** few, rule	
 
-**ODORO**   
+— **  ARKI G**   rule	
 
-smell, odor	
+opini-on **OPINI** opine	
 
-offer   
+oppressi-on **OPRESI** oppress	
 
-**OFERE**   
+ordina-l **ORDINA** to grade, rank	
 
-offer	
+organi-c **ORGANI G** organ	
 
-  
+organism **ORGANIMSO G** organism	
 
-**  NON-OFERE**   
+ori-gin **ORI G** to rise	
 
-  withhold	
+orienta-l **  ORIENTA G**   east	
 
-occasio-nal   
+origi-n **  ORIGI G**   origin	
 
-**OKASIO**   
+orna-te **ORNA** decorate	
 
-opportunity	
+ortho-dox **ORTO, DOXO G** upright, opinion	
 
-ocu-list   
+or-al **OS** mouth, face	
 
-**OKU**   
+oscilla-te **OSCILA** oscillate	
 
-eye	
+in-oscula-te **OSKU(LA)** kiss	
 
-petr-ole-um   
+osteo-pathy **OSTEO, PATOL G** bone, sick	
 
-**PETRO, OLE G**   
+ostrac-ize **OSTRAKA G** shell	
 
-rock, oil	
+otio-se **OTIO** idle	
 
-olfac-tory   
+oti-tis **OTI G** ear	
 
-**OLFACE**   
+ova-l **OVA** egg	
 
-smell	
+ovi-ne **OVI(S)** sheep	
 
-olig-archy   
+oxy-gen **OXI** sharp	
 
-**OLIGO, ARKI G**   
-
-few, rule	
-
-  
-
-**  ARKI G**   
-
-  rule	
-
-opini-on   
-
-**OPINI**   
-
-opine	
-
-oppressi-on   
-
-**OPRESI**   
-
-oppress	
-
-ordina-l   
-
-**ORDINA**   
-
-to grade, rank	
-
-organi-c   
-
-**ORGANI G**   
-
-organ	
-
-organism   
-
-**ORGANIMSO G**   
-
-organism	
-
-ori-gin   
-
-**ORI G**   
-
-to rise	
-
-orienta-l   
-
-**  ORIENTA G**   
-
-  east	
-
-origi-n   
-
-**  ORIGI G**   
-
-  origin	
-
-orna-te   
-
-**ORNA**   
-
-decorate	
-
-ortho-dox   
-
-**ORTO, DOXO G**   
-
-upright, opinion	
-
-or-al   
-
-**OS**   
-
-mouth, face	
-
-oscilla-te   
-
-**OSCILA**   
-
-oscillate	
-
-in-oscula-te   
-
-**OSKU(LA)**   
-
-kiss	
-
-osteo-pathy   
-
-**OSTEO, PATOL G**   
-
-bone, sick	
-
-ostrac-ize   
-
-**OSTRAKA G**   
-
-shell	
-
-otio-se   
-
-**OTIO**   
-
-idle	
-
-oti-tis   
-
-**OTI G**   
-
-ear	
-
-ova-l   
-
-**OVA**   
-
-egg	
-
-ovi-ne   
-
-**OVI(S)**   
-
-sheep	
-
-oxy-gen   
-
-**OXI**   
-
-sharp	
-
-oxydi-ze   
-
-**OXIDI G**   
-
-oxydize, rust	
+oxydi-ze **OXIDI G** oxydize, rust	
 
  	
- 
 
-pa-st   
 
-**PA**   
+pa-st **PA** past, did, -ed	
 
-past, did, -ed	
+paci-fy **PACI** peace	
 
-paci-fy   
+pa-y **PAGA** pay (paci-fies)	
 
-**PACI**   
+pagina-tion **PAGINA** page	
 
-peace	
+pachy-derm **PAKI- DERMA G** thick, fat- skin	
 
-pa-y   
+paleo-lith-ic **PALEO-LITO G** old, stone	
 
-**PAGA**   
+pali-sade **PALI** post, stake	
 
-pay (paci-fies)	
+palpa-te **PALPA** examine by touch	
 
-pagina-tion   
+paluda-l **PALUDA** marsh	
 
-**PAGINA**   
+pan-orama **PAN(TO)** all, every	
 
-page	
+— **  PANTO-PE** every-body	
 
-pachy-derm   
+— **  PANTO-RA** every-thing	
 
-**PAKI- DERMA G**   
-
-thick, fat- skin	
-
-paleo-lith-ic   
-
-**PALEO-LITO G**   
-
-old, stone	
-
-pali-sade   
-
-**PALI**   
-
-post, stake	
-
-palpa-te   
-
-**PALPA**   
-
-examine by touch	
-
-paluda-l   
-
-**PALUDA**   
-
-marsh	
-
-pan-orama   
-
-**PAN(TO)**   
-
-all, every	
-
-  
-
-**  PANTO-PE**   
-
-every-body	
-
-  
-
-**  PANTO-RA**   
-
-every-thing	
-
-Papilio-   
-
-**PAPILIO**   
-
-butterfly	
+Papilio- **PAPILIO** butterfly	
 
  	
  	
 *p. 46:*	
- 
 
-paper   
 
-**PAPIRA**   
+paper **PAPIRA** paper	
 
-paper	
+para-site **PARA-SITO** beside-food	
 
-para-site   
+para-lysi-s **PARA-LISI G** at side-loosen	
 
-**PARA-SITO**   
+pardo-n **PARDO** forgive	
 
-beside-food	
+pare-nta-l **PARE** give birth	
 
-para-lysi-s   
+— **  PARENTA**   parent	
 
-**PARA-LISI G**  
+pass **PASA** pass	
 
-at side-loosen	
+participa-te **PARTICIPA** participate	
 
-pardo-n   
+pastor **PASTORA** shepherd	
 
-**PARDO**   
+sym-pathy **  SIM, PATO**   with, suffer	
 
-forgive	
+patri-arch **PATRI, ARKI G** father, rules	
 
-pare-nta-l   
+pecca-dillo **PEKA** sin	
 
-**PARE**   
+pe-rsona-l **PE-RSONA; -PE** person	
 
-give birth	
+ped-estrian **PEDI** foot	
 
-  
+pectina-te **PEKTINA** comb	
 
-**  PARENTA**   
+pelica-n **PELEKI G** axe	
 
-  parent	
+pende-nt **PENDE** hang	
 
-pass   
+pen-insula **PENE, INSULA** almost, island	
 
-**PASA**   
+penis **PENIS** tail, brush, penis	
 
-pass	
+penicilli-n **PENCILA** pencil	
 
-participa-te   
+— **PENICILI** a brush-fungus	
 
-**PARTICIPA**   
+penite-nt **PENITE** sorry	
 
-participate	
+dys/eu-pepsi-a **PEPSI G** digest	
 
-pastor   
+per **PER** by means of	
 
-**PASTORA**   
+perfekti-on **PERFEKTI** perfect	
 
-shepherd	
+peri-scope **PERI-SKOPE G** around-look, search	
 
-sym-pathy   
+im-pet-us **PETI G** rush	
 
-**  SIM, PATO**   
+petitio-n **PETITIO** try to get	
 
-  with, suffer	
+petro-oleum **PETRO, OLE G** rock, oil	
 
-patri-arch   
+piezo-electric **PIEZO G** press	
 
-**PATRI, ARKI G**   
+calli-pyga-l **  KALI-PIGA G**   beautiful buttocks	
 
-father, rules	
+— **  KALI-PIGA G**   beautiful buttocks	
 
-pecca-dillo   
+pica-dor **PIKA** prick, pierce	
 
-**PEKA**   
+picr-ic acid **PIKRO G** bitter	
 
-sin	
+picto-rial **PIKTO** picture	
 
-pe-rsona-l   
+pinna-te **PINA** feather	
 
-**PE-RSONA; -PE**   
+pyrami-d **PIRAMI G** pyramid	
 
-person	
+pyr-us **PIRUS G** pear	
 
-ped-estrian   
+pyro-technic **PIRO G** fire	
 
-**PEDI**   
+pisci-ne **PISKI** fish	
 
-foot	
+pla-teau **PLA** shelf	
 
-pectina-te   
+please **PLACE** please	
 
-**PEKTINA**   
-
-comb	
-
-pelica-n   
-
-**PELEKI G**   
-
-axe	
-
-pende-nt   
-
-**PENDE**   
-
-hang	
-
-pen-insula   
-
-**PENE, INSULA**   
-
-almost, island	
-
-penis   
-
-**PENIS**   
-
-tail, brush, penis	
-
-penicilli-n   
-
-**PENCILA**   
-
-pencil	
-
-  
-
-**PENICILI**   
-
-a brush-fungus	
-
-penite-nt   
-
-**PENITE**   
-
-sorry	
-
-dys/eu-pepsi-a   
-
-**PEPSI G**   
-
-digest	
-
-per   
-
-**PER**   
-
-by means of	
-
-perfekti-on   
-
-**PERFEKTI**   
-
-perfect	
-
-peri-scope   
-
-**PERI-SKOPE G**   
-
-around-look, search	
-
-im-pet-us   
-
-**PETI G**   
-
-rush	
-
-petitio-n   
-
-**PETITIO**   
-
-try to get	
-
-petro-oleum   
-
-**PETRO, OLE G**   
-
-rock, oil	
-
-piezo-electric   
-
-**PIEZO G**   
-
-press	
-
-calli-pyga-l   
-
-**  KALI-PIGA G**   
-
-  beautiful buttocks	
-
-  
-
-**  KALI-PIGA G**   
-
-  beautiful buttocks	
-
-pica-dor   
-
-**PIKA**   
-
-prick, pierce	
-
-picr-ic acid   
-
-**PIKRO G**   
-
-bitter	
-
-picto-rial   
-
-**PIKTO**   
-
-picture	
-
-pinna-te   
-
-**PINA**   
-
-feather	
-
-pyrami-d   
-
-**PIRAMI G**   
-
-pyramid	
-
-pyr-us   
-
-**PIRUS G**   
-
-pear	
-
-pyro-technic   
-
-**PIRO G**   
-
-fire	
-
-pisci-ne   
-
-**PISKI**   
-
-fish	
-
-pla-teau   
-
-**PLA**   
-
-shelf	
-
-please   
-
-**PLACE**   
-
-please	
-
-plac-enta   
-
-**PLAKA**   
-
-cake, slab	
+plac-enta **PLAKA** cake, slab	
 
  	
  	
 *p. 47:*	
- 
 
-plac-enta   
 
-**PLAKA**   
+plac-enta **PLAKA** cake, slab	
 
-cake, slab	
+plankto-n **PLANKTO G** float	
 
-plankto-n   
+plan-e **PLANO** flat	
 
-**PLANKTO G**   
+planta **PLANTA** plant	
 
-float	
+plasti-c **PLASTI G** shape, mould	
 
-plan-e   
+plati-tude **PLATI** flat, wide	
 
-**PLANO**   
+ple-nty **PLE** full, fill	
 
-flat	
+pleio-cene **PLEIO G** more (number)	
 
-planta   
+pleisto-cene **PLEISTO G** most (number)	
 
-**PLANTA**   
+solar plexu-s **PLEXU** interweaving, net	
 
-plant	
+com-plica-ted **PLIKA** fold	
 
-plasti-c   
+plu-ral **PLU** more than one	
 
-**PLASTI G**   
+— **PLU-CI** these = the-here	
 
-shape, mould	
+— **PLU-LA** those = the-there	
 
-plati-tude   
+— **PLURA** several	
 
-**PLATI**   
+plum-e **PLUMA** feather	
 
-flat, wide	
+plumb-er **PLUMBA** lead	
 
-ple-nty   
+plus **PLUS** additional	
 
-**PLE**   
+pluto-crat **PLUTO-KRATI G** rich-govern	
 
-full, fill	
+pluvio-meter **PLUVI** rain	
 
-pleio-cene   
+— **  METRI G**   measure	
 
-**PLEIO G**   
+pneumo-nia **PNEUMO G** breathe	
 
-more (number)	
+pneumon-ia **PNEUMATI G** lungs	
 
-pleisto-cene   
+pre-po-st-erous **PRE-PO** before-after	
 
-**PLEISTO G**   
+tri-pod **PODA G** leg, limb	
 
-most (number)	
+poe-sy, poe-try **POEIA G** create	
 
-solar plexu-s   
+— **POESI G** poetry	
 
-**PLEXU**   
+pola-r **POLA** pole (geog.)	
 
-interweaving, net	
+mono-pol-y **POLE G** sell	
 
-com-plica-ted   
+polemi-c **POLEMI G** war, dispute	
 
-**PLIKA**   
+poly-techni-c **POLI-TEKNO G** many-skills	
 
-fold	
+polic-e **POLICA G** police	
 
-plu-ral   
+polio **POLIO G** grey	
 
-**PLU**   
+metro-polita-n **  METRO G**   mother	
 
-more than one	
+— **POLITA G** city	
 
-  
+politica-l **POLITIKA G** politics	
 
-**PLU-CI**   
+pome-grana-te **POME-GRANA** apple-seed	
 
-these = the-here	
+ponde-rous **PONDE** weigh	
 
-  
+pont-oon **PONTI** bridge	
 
-**PLU-LA**   
+porno-graphy **PORNO-GRAFO.G** prostitute-write	
 
-those = the-there	
+— **  GRAFO G**   write	
 
-  
+porta-l **PORTA** door	
 
-**PLURA**   
+possi-bly **POSI** perhaps, might	
 
-several	
+posta-l **POSTA** post, mail	
 
-plum-e   
+postula-te **POSTULA** suppose	
 
-**PLUMA**   
+hippo-potamus **HIPO-POTAMO G** horse-river	
 
-feather	
+— **POTAMO G** river	
 
-plumb-er   
+poste-rior **POSTE** behind	
 
-**PLUMBA**   
+pote-nt **POTE** able, can	
 
-lead	
-
-plus   
-
-**PLUS**   
-
-additional	
-
-pluto-crat   
-
-**PLUTO-KRATI G**   
-
-rich-govern	
-
-pluvio-meter   
-
-**PLUVI**   
-
-rain	
-
-  
-
-**  METRI G**   
-
-  measure	
-
-pneumo-nia   
-
-**PNEUMO G**   
-
-breathe	
-
-pneumon-ia   
-
-**PNEUMATI G**   
-
-lungs	
-
-pre-po-st-erous   
-
-**PRE-PO**   
-
-before-after	
-
-tri-pod   
-
-**PODA G**   
-
-leg, limb	
-
-poe-sy, poe-try   
-
-**POEIA G**   
-
-create	
-
-  
-
-**POESI G**   
-
-poetry	
-
-pola-r   
-
-**POLA**   
-
-pole (geog.)	
-
-mono-pol-y   
-
-**POLE G**   
-
-sell	
-
-polemi-c   
-
-**POLEMI G**   
-
-war, dispute	
-
-poly-techni-c   
-
-**POLI-TEKNO G**   
-
-many-skills	
-
-polic-e   
-
-**POLICA G**   
-
-police	
-
-polio   
-
-**POLIO G**   
-
-grey	
-
-metro-polita-n   
-
-**  METRO G**   
-
-  mother	
-
-  
-
-**POLITA G**   
-
-city	
-
-politica-l   
-
-**POLITIKA G**   
-
-politics	
-
-pome-grana-te   
-
-**POME-GRANA**   
-
-apple-seed	
-
-ponde-rous   
-
-**PONDE**   
-
-weigh	
-
-pont-oon   
-
-**PONTI**   
-
-bridge	
-
-porno-graphy   
-
-**PORNO-GRAFO.G**   
-
-prostitute-write	
-
-  
-
-**  GRAFO G**   
-
-  write	
-
-porta-l   
-
-**PORTA**   
-
-door	
-
-possi-bly   
-
-**POSI**   
-
-perhaps, might	
-
-posta-l   
-
-**POSTA**   
-
-post, mail	
-
-postula-te   
-
-**POSTULA**   
-
-suppose	
-
-hippo-potamus   
-
-**HIPO-POTAMO G**   
-
-horse-river	
-
-  
-
-**POTAMO G**   
-
-river	
-
-poste-rior   
-
-**POSTE**   
-
-behind	
-
-pote-nt   
-
-**POTE**   
-
-able, can	
-
-pove-rty   
-
-**POVE**   
-
-poor	
+pove-rty **POVE** poor	
 
  	
  	
 *p. 48:*	
- 
 
-post-prandi-al   
 
-**PRANDI**   
+post-prandi-al **PRANDI** dinner	
 
-dinner	
+praxi-s **PRAXI** practise	
 
-praxi-s   
+pre-vious **PRE** before	
 
-**PRAXI**   
+preca-rious **PREKA** pray	
 
-practise	
+preci-ous **PRECI** price	
 
-pre-vious   
+premi-um **PREMI** prize	
 
-**PRE**   
+precise **PRECISE** precise	
 
-before	
+prepara-tion **PREPARA** prepare	
 
-preca-rious   
+pressu-re **PRESU** press	
 
-**PREKA**   
+privileg-e **PRIVILEGI** a right, privilege	
 
-pray	
+pro **PRO** in favor of	
 
-preci-ous   
+proba-ble **PROBA** prove	
 
-**PRECI**   
+produce **PRODUCE** produce	
 
-price	
+profund-ity **PROFUNDA** deep	
 
-premi-um   
+program **PROGRAMA** program	
 
-**PREMI**   
+proli-fic **PROLI** offspring	
 
-prize	
+promise **PROMISE** promise	
 
-precise   
+propaga-te **PROPAGA** propagate	
 
-**PRECISE**   
+propos-e **PROPOSI** propose	
 
-precise	
+proprie-tor **PROPRIE** to own	
 
-prepara-tion   
+prosa-ic **PROSA** prose	
 
-**PREPARA**   
+protesta-tion **PROTESTA** protest, grumble	
 
-prepare	
+proto-type **PROTO..G** first	
 
-pressu-re   
+ap-proxi-mate **PROXI** near	
 
-**PRESU**   
+pruri-ent **PRURI** itch	
 
-press	
+psal-m **PSALO G** pluck (music)	
 
-privileg-e   
+psepho-logy **PSEFO G** pebble = vote	
 
-**PRIVILEGI**   
+pseudo-nym **PSEUDO G** false	
 
-a right, privilege	
+psycho-logy **PSIKO G** mind	
 
-pro   
+helico-pter **  HELIKO G**   helix	
 
-**PRO**   
+— **PTERO G** wing	
 
-in favor of	
+publica-tion **PUBLIKA** publish	
 
-proba-ble   
+im-pude-nt **PUDE** shame, disgust	
 
-**PROBA**   
+pueri-le **PUERI** child	
 
-prove	
+pugna-cious **PUGNA** fight	
 
-produce   
+pulmona-ry **PULMO** lung	
 
-**PRODUCE**   
+puls-e **PULSA** pulse	
 
-produce	
+pulve-rize **PULVE** dust, powder	
 
-profund-ity   
+pulv-ina **PULV-INA** pillow	
 
-**PROFUNDA**   
+punge-nt **PUNGE** sting	
 
-deep	
+puni-sh **PUNI** punish	
 
-program   
+punctu-ation **PUNKTU** dot	
 
-**PROGRAMA**   
+puri-fy **PURI** pure, clean	
 
-program	
+pusi-ll-animous **PUSI** little	
 
-proli-fic   
+— **  ANIMA**   mind, soul	
 
-**PROLI**   
+com-pute-r **PUTA** think	
 
-offspring	
-
-promise   
-
-**PROMISE**   
-
-promise	
-
-propaga-te   
-
-**PROPAGA**   
-
-propagate	
-
-propos-e   
-
-**PROPOSI**   
-
-propose	
-
-proprie-tor   
-
-**PROPRIE**   
-
-to own	
-
-prosa-ic   
-
-**PROSA**   
-
-prose	
-
-protesta-tion   
-
-**PROTESTA**   
-
-protest, grumble	
-
-proto-type   
-
-**PROTO..G**   
-
-first	
-
-ap-proxi-mate   
-
-**PROXI**   
-
-near	
-
-pruri-ent   
-
-**PRURI**   
-
-itch	
-
-psal-m   
-
-**PSALO G**   
-
-pluck (music)	
-
-psepho-logy   
-
-**PSEFO G**   
-
-pebble = vote	
-
-pseudo-nym   
-
-**PSEUDO G**   
-
-false	
-
-psycho-logy   
-
-**PSIKO G**   
-
-mind	
-
-helico-pter   
-
-**  HELIKO G**   
-
-  helix	
-
-  
-
-**PTERO G**   
-
-wing	
-
-publica-tion   
-
-**PUBLIKA**   
-
-publish	
-
-im-pude-nt   
-
-**PUDE**   
-
-shame, disgust	
-
-pueri-le   
-
-**PUERI**   
-
-child	
-
-pugna-cious   
-
-**PUGNA**   
-
-fight	
-
-pulmona-ry   
-
-**PULMO**   
-
-lung	
-
-puls-e   
-
-**PULSA**   
-
-pulse	
-
-pulve-rize   
-
-**PULVE**   
-
-dust, powder	
-
-pulv-ina   
-
-**PULV-INA**   
-
-pillow	
-
-punge-nt   
-
-**PUNGE**   
-
-sting	
-
-puni-sh   
-
-**PUNI**   
-
-punish	
-
-punctu-ation   
-
-**PUNKTU**   
-
-dot	
-
-puri-fy   
-
-**PURI**   
-
-pure, clean	
-
-pusi-ll-animous   
-
-**PUSI**   
-
-little	
-
-  
-
-**  ANIMA**   
-
-  mind, soul	
-
-com-pute-r   
-
-**PUTA**   
-
-think	
-
-  
-
-**PUTA-ME**   
-
-com-put-er	
+— **PUTA-ME** com-put-er	
 
  	
  	
 *p. 49:*	
- 
 
-qua   
 
-**QA**   
+qua **QA** in character of	
 
-in character of	
+quadra-ngle **QADRA** square, frame	
 
-quadra-ngle   
+qualit-y **QALITA** quality	
 
-**QADRA**   
+quantit-y **QANTITA** quantity	
 
-square, frame	
+quant-ity **QANTO?** How much/ many?	
 
-qualit-y   
+que-stion **QE?** begins Yes/No qst.	
 
-**QALITA**   
+qu-estion **QESTIO** question, inquisitive	
 
-quality	
+words **..., QI** ..., who (Rel. prn)	
 
-quantit-y   
+— **QO?** What ...?	
 
-**QANTITA**   
+— **QO-KA?** Why = What-ca-use	
 
-quantity	
+— **QO-TE?** Why = What-aim	
 
-quant-ity   
-
-**QANTO?**   
-
-How much/ many?	
-
-que-stion   
-
-**QE?**   
-
-begins Yes/No qst.	
-
-qu-estion   
-
-**QESTIO**   
-
-question, inquisitive	
-
-words   
-
-**..., QI**   
-
-..., who (Rel. prn)	
-
-  
-
-**QO?**   
-
-What ...?	
-
-  
-
-**QO-KA?**   
-
-Why = What-ca-use	
-
-  
-
-**QO-TE?**   
-
-Why = What-aim	
-
-  
-
-**QOD**   
-
-what = that which	
+— **QOD** what = that which	
 
  	
- 
 
-ReAl   
 
-**RA**   
+ReAl **RA** thing	
 
-thing	
+rabi-es **RABI** mad	
 
-rabi-es   
+radi-cal **RADI** root	
 
-**RABI**   
+radia-te **RADIA** radiate	
 
-mad	
+radio **RADIO** radio	
 
-radi-cal   
+rami-fy **RAMI** branch	
 
-**RADI**   
+rapidi-ty **RAPIDI** rapid	
 
-root	
+rap-e **RAPI** seize	
 
-radia-te   
+razor **RAZO** scrape	
 
-**RADIA**   
+ratio **RATIO** rate, ratio	
 
-radiate	
+react **REAKTI** react	
 
-radio   
+reali **REALI** real	
 
-**RADIO**   
+research **RECERKA** research	
 
-radio	
+recess **RECESI** recess	
 
-rami-fy   
+reflecti-on **REFLEKTI** reflect	
 
-**RAMI**   
+regi-me **REGI** ruler	
 
-branch	
+recti-linear **REKTI** straight	
 
-rapidi-ty   
+registra-tion **REGISTRA** record	
 
-**RAPIDI**   
+relati-on **RELATI** relation	
 
-rapid	
+relativi-ty **RELATIVI** relative	
 
-rap-e   
+religio-n **RELIGIO** religion	
 
-**RAPI**   
+ad-rena-l **RENA** kidney	
 
-seize	
+rentier **RENTIERA** rentier	
 
-razor   
+dia-rrhea **REO G** flow, current	
 
-**RAZO**   
+repara-tion **REPARA** repair, cure	
 
-scrape	
+report **REPORTA** report	
 
-ratio   
+represent **REPRESENTA** represent	
 
-**RATIO**   
+repti-le **REPTI** creep, crawl	
 
-rate, ratio	
+residu-e **RESIDU** remainn	
 
-react   
+resista-nce **RESISTA** resist, strong	
 
-**REAKTI**   
+repect **RESPEKTO** respect	
 
-react	
+respira-tion **RESPIRA** breathe	
 
-reali   
+repond **RESPONDE** answer	
 
-**REALI**   
+rest **RESTA** stay behind	
 
-real	
-
-research   
-
-**RECERKA**   
-
-research	
-
-recess   
-
-**RECESI**   
-
-recess	
-
-reflecti-on   
-
-**REFLEKTI**   
-
-reflect	
-
-regi-me   
-
-**REGI**   
-
-ruler	
-
-recti-linear   
-
-**REKTI**   
-
-straight	
-
-registra-tion   
-
-**REGISTRA**   
-
-record	
-
-relati-on   
-
-**RELATI**   
-
-relation	
-
-relativi-ty   
-
-**RELATIVI**   
-
-relative	
-
-religio-n   
-
-**RELIGIO**   
-
-religion	
-
-ad-rena-l   
-
-**RENA**   
-
-kidney	
-
-rentier   
-
-**RENTIERA**   
-
-rentier	
-
-dia-rrhea   
-
-**REO G**   
-
-flow, current	
-
-repara-tion   
-
-**REPARA**   
-
-repair, cure	
-
-report   
-
-**REPORTA**   
-
-report	
-
-represent   
-
-**REPRESENTA**   
-
-represent	
-
-repti-le   
-
-**REPTI**   
-
-creep, crawl	
-
-residu-e   
-
-**RESIDU**   
-
-remainn	
-
-resista-nce   
-
-**RESISTA**   
-
-resist, strong	
-
-repect   
-
-**RESPEKTO**   
-
-respect	
-
-respira-tion   
-
-**RESPIRA**   
-
-breathe	
-
-repond   
-
-**RESPONDE**   
-
-answer	
-
-rest   
-
-**RESTA**   
-
-stay behind	
-
-reti-na   
-
-**RETI**   
-
-net-work	
+reti-na **RETI** net-work	
 
  	
  	
 *p. 50:*	
- 
 
-retro-spec-t   
 
-**RETRO-SPEKU**   
+retro-spec-t **RETRO-SPEKU** backwards-look	
 
-backwards-look	
+rigidi-ty **RIGI** rigi-d	
 
-rigidi-ty   
+ridi-cule **RIDI** laugh	
 
-**RIGI**   
+rhino-cero-s **RINO-KERO G** nose-horn	
 
-rigi-d	
+risk **RISKO** danger	
 
-ridi-cule   
+ritu-al **RITU** rite, ceremony	
 
-**RIDI**   
+rivu-let **RIVU** stream	
 
-laugh	
+rhizo-me **RIZO G** root	
 
-rhino-cero-s   
+inter-roga-te **ROGA** ask	
 
-**RINO-KERO G**   
+rode-nt **RODE** gnaw	
 
-nose-horn	
+rhodo- **RODO** rose	
 
-risk   
+  dendro-n **  DENDRO G**   tree	
 
-**RISKO**   
+roll **ROLA** roll	
 
-danger	
+romance **ROMANCE** romance	
 
-ritu-al   
+romanti-c **ROMANTI** romantic	
 
-**RITU**   
+ros-e **ROSA** pink, rose	
 
-rite, ceremony	
+rostru-m **ROSTRU** beak	
 
-rivu-let   
+rota-te **ROTA** wheel	
 
-**RIVU**   
+  2-rota-te **  BI-ROTA**   bi-cycle	
 
-stream	
+round **RONDO** round	
 
-rhizo-me   
+inst-ru-ment **RU** instRUment, tool	
 
-**RIZO G**   
+ruby **RUBI** red	
 
-root	
+rude-ral **RUDE** rubbish	
 
-inter-roga-te   
+cor-ruga-ted **RUGA** rough	
 
-**ROGA**   
+ruptu-re **RUPTU** break	
 
-ask	
-
-rode-nt   
-
-**RODE**   
-
-gnaw	
-
-rhodo-   
-
-**RODO**   
-
-rose	
-
-  dendro-n   
-
-**  DENDRO G**   
-
-  tree	
-
-roll   
-
-**ROLA**   
-
-roll	
-
-romance   
-
-**ROMANCE**   
-
-romance	
-
-romanti-c   
-
-**ROMANTI**   
-
-romantic	
-
-ros-e   
-
-**ROSA**   
-
-pink, rose	
-
-rostru-m   
-
-**ROSTRU**   
-
-beak	
-
-rota-te   
-
-**ROTA**   
-
-wheel	
-
-  2-rota-te   
-
-**  BI-ROTA**   
-
-  bi-cycle	
-
-round   
-
-**RONDO**   
-
-round	
-
-inst-ru-ment   
-
-**RU**   
-
-instRUment, tool	
-
-ruby   
-
-**RUBI**   
-
-red	
-
-rude-ral   
-
-**RUDE**   
-
-rubbish	
-
-cor-ruga-ted   
-
-**RUGA**   
-
-rough	
-
-ruptu-re   
-
-**RUPTU**   
-
-break	
-
-rura-l   
-
-**RURA**   
-
-country (not town)	
+rura-l **RURA** country (not town)	
 
  	
- 
 
-sadi-st   
 
-**SADI**   
+sadi-st **SADI** cruel	
 
-cruel	
+sadisti-c **SADISTI** hunter	
 
-sadisti-c   
+sagitta **SAGITA** arrow	
 
-**SADISTI**   
+sack **SAKA** sack	
 
-hunter	
+sacr-ed **SAKRA** sacred	
 
-sagitta   
+sali-ne **SALI** salt	
 
-**SAGITA**   
+salmo-n **SALMO** salmon	
 
-arrow	
+in-sult **SALTA** jump	
 
-sack   
+saluta-tion **SALUTA** saluta	
 
-**SAKA**   
+salva-tion **SALVA** save	
 
-sack	
+sani-tation **SANI** healthy	
 
-sacr-ed   
+Homo sapi-ens **SAPI** wise	
 
-**SAKRA**   
+sapo-naceous **SAPO** soap	
 
-sacred	
+sapro-phyte **SAPRO-FITO G** rot-plant	
 
-sali-ne   
+sati-sfy **SATI** enough	
 
-**SALI**   
+se-lf **SE** se-lf	
 
-salt	
+sed **SED** but	
 
-salmo-n   
+sed-entary **SEDI** sit	
 
-**SALMO**   
+seis-mo-logy **SEISO G** shake	
 
-salmon	
+sec-tion **SEKA** cut	
 
-in-sult   
-
-**SALTA**   
-
-jump	
-
-saluta-tion   
-
-**SALUTA**   
-
-saluta	
-
-salva-tion   
-
-**SALVA**   
-
-save	
-
-sani-tation   
-
-**SANI**   
-
-healthy	
-
-Homo sapi-ens   
-
-**SAPI**   
-
-wise	
-
-sapo-naceous   
-
-**SAPO**   
-
-soap	
-
-sapro-phyte   
-
-**SAPRO-FITO G**   
-
-rot-plant	
-
-sati-sfy   
-
-**SATI**   
-
-enough	
-
-se-lf   
-
-**SE**   
-
-se-lf	
-
-sed   
-
-**SED**   
-
-but	
-
-sed-entary   
-
-**SEDI**   
-
-sit	
-
-seis-mo-logy   
-
-**SEISO G**   
-
-shake	
-
-sec-tion   
-
-**SEKA**   
-
-cut	
-
-secretary   
-
-**SEKRETARI**   
-
-secretary	
+secretary **SEKRETARI** secretary	
 
  	
  	
 *p. 51:*	
- 
 
-sema-phore   
 
-**SEMA G**   
+sema-phore **SEMA G** gesture, sign	
 
-gesture, sign	
+— **  FERO**   carry	
 
-  
+— **  KEFA-SEMA**   nod	
 
-**  FERO**   
+— **  OKU-SEMA**   wink	
 
-  carry	
+— **  TIPO-SEMA**   punctuation mark	
 
-  
+seman-tics **SEMANI G** mean	
 
-**  KEFA-SEMA**   
+sensi-tive **SENSI** sense	
 
-  nod	
+sensitivi **SENSITIVI** sensitive	
 
-  
+sensua-l **SENSUA** sensual	
 
-**  OKU-SEMA**   
+con-seque-nce **SEQE** follow, result	
 
-  wink	
+seri-es **SERI** list, series	
 
-  
+servi-ce **SERVI** serve	
 
-**  TIPO-SEMA**   
+severe-ty **SEVERI** strict, severe	
 
-  punctuation mark	
+sexu **SEXU** sex	
 
-seman-tics   
+si **SI** if	
 
-**SEMANI G**   
+— **SIO** would (-if)	
 
-mean	
+sibila-te **SIBILA** whistle	
 
-sensi-tive   
+de-sicca-ted **SIKA** dry	
 
-**SENSI**   
+signifi-cant **SIGNIFI** mean	
 
-sense	
+Penn-sylva-nia **SILVA** wood, forest	
 
-sensitivi   
+simia **SIMIA** monkey, ape	
 
-**SENSITIVI**   
+sym-pathy **SIMPATI G** sympathy	
 
-sensitive	
+sympto-n **SIMPTO G** clue, sympton	
 
-sensua-l   
+simula-te **SIMULA** simulate	
 
-**SENSUA**   
+sistema-tic **SISTEMA** tidy, systematic	
 
-sensual	
+para-sit-e **  PARA G**   beside	
 
-con-seque-nce   
+— **SITO G** food	
 
-**SEQE**   
+e-scala-tor **SKALA** ladder, stairs	
 
-follow, result	
+scap-ula **SKAPA** shoulder	
 
-seri-es   
+de-scen-d **SKANA** scan	
 
-**SERI**   
+skeleto-n **SKELETO G** framework	
 
-list, series	
+schema-tic **SKEMA G** plan	
 
-servi-ce   
+a-scend **SKENDE** climb	
 
-**SERVI**   
+scene **SKENI G** stage (theatre)	
 
-serve	
+scepti-c **SKEPTI G** doubt	
 
-severe-ty   
+sci-ence **SKI** know	
 
-**SEVERI**   
+— **SKIENCE** science	
 
-strict, severe	
+schizo-phreni-a **SKIZO G** split	
 
-sexu   
+— **  FRENI G**   mind	
 
-**SEXU**   
+sclero-sis **SKLERO G** hard	
 
-sex	
+scho-ol **SKO G** instruct	
 
-si   
+tele-scope **SKOPE G** observe	
 
-**SI**   
+— **  NO-SKOPE G**   un-observant	
 
-if	
+scoto-phobia **SKOTO G** darkness	
 
-  
+de-scribe **SKRIBE** write	
 
-**SIO**   
+scruti-nize **SKRUTI** examine closely	
 
-would (-if)	
+scute, scutt-le **SKUTA** shield, screen	
 
-sibila-te   
-
-**SIBILA**   
-
-whistle	
-
-de-sicca-ted   
-
-**SIKA**   
-
-dry	
-
-signifi-cant   
-
-**SIGNIFI**   
-
-mean	
-
-Penn-sylva-nia   
-
-**SILVA**   
-
-wood, forest	
-
-simia   
-
-**SIMIA**   
-
-monkey, ape	
-
-sym-pathy   
-
-**SIMPATI G**   
-
-sympathy	
-
-sympto-n   
-
-**SIMPTO G**   
-
-clue, sympton	
-
-simula-te   
-
-**SIMULA**   
-
-simulate	
-
-sistema-tic   
-
-**SISTEMA**   
-
-tidy, systematic	
-
-para-sit-e   
-
-**  PARA G**   
-
-  beside	
-
-  
-
-**SITO G**   
-
-food	
-
-e-scala-tor   
-
-**SKALA**   
-
-ladder, stairs	
-
-scap-ula   
-
-**SKAPA**   
-
-shoulder	
-
-de-scen-d   
-
-**SKANA**   
-
-scan	
-
-skeleto-n   
-
-**SKELETO G**   
-
-framework	
-
-schema-tic   
-
-**SKEMA G**   
-
-plan	
-
-a-scend   
-
-**SKENDE**   
-
-climb	
-
-scene   
-
-**SKENI G**   
-
-stage (theatre)	
-
-scepti-c   
-
-**SKEPTI G**   
-
-doubt	
-
-sci-ence   
-
-**SKI**   
-
-know	
-
-  
-
-**SKIENCE**   
-
-science	
-
-schizo-phreni-a   
-
-**SKIZO G**   
-
-split	
-
-  
-
-**  FRENI G**   
-
-  mind	
-
-sclero-sis   
-
-**SKLERO G**   
-
-hard	
-
-scho-ol   
-
-**SKO G**   
-
-instruct	
-
-tele-scope   
-
-**SKOPE G**   
-
-observe	
-
-  
-
-**  NO-SKOPE G**   
-
-  un-observant	
-
-scoto-phobia   
-
-**SKOTO G**   
-
-darkness	
-
-de-scribe   
-
-**SKRIBE**   
-
-write	
-
-scruti-nize   
-
-**SKRUTI**   
-
-examine closely	
-
-scute, scutt-le   
-
-**SKUTA**   
-
-shield, screen	
-
-social   
-
-**SOCIALI**   
-
-social	
+social **SOCIALI** social	
 
  	
  	
 *p. 52:*	
- 
 
-societ-y   
 
-**SOCIETA**   
+societ-y **SOCIETA** society	
 
-society	
+philo-sophy **SOFI G** wis-e, -dom	
 
-philo-sophy   
+— **  NO-SOFI**   foolish, unwise	
 
-**SOFI G**   
+sola-r **SOLA** sun	
 
-wis-e, -dom	
+solemni-ty **SOLEMNI** solemn	
 
-  
+solidi-ty **SOLIDI** solid	
 
-**  NO-SOFI**   
+solo **SOLO** alone	
 
-  foolish, unwise	
+solve **SOLVE** solve	
 
-sola-r   
+psycho-soma-tic **SOMA G** body	
 
-**SOLA**   
+in-somni-a **SOMNI** sleep	
 
-sun	
+sound, sonde **SONDA** probe, examine	
 
-solemni-ty   
+super-soni-c **SONI** sound	
 
-**SOLEMNI**   
+soror-ity **SORORA** sister	
 
-solemn	
+space **SPACE** space	
 
-solidi-ty   
+spasm **SPASMO G** jerk	
 
-**SOLIDI**   
+spat-ula **SPATA** spade	
 
-solid	
+spatula **SPATULA** spoon	
 
-solo   
+pro-spe-r **SPE** hope	
 
-**SOLO**   
+speci-es **SPECI** a kind, sort, for example	
 
-alone	
+specula-te **SPEKULA** mirror	
 
-solve   
+spend **SPENDE** spend	
 
-**SOLVE**   
+sperma **SPERMA G** seed	
 
-solve	
+re-spira-tion **SPIRA** breathe	
 
-psycho-soma-tic   
+spora-dic **SPORA G** scatter	
 
-**SOMA G**   
+sport **SPORTA** sport	
 
-body	
+spirit **SPIRITU** spirit	
 
-in-somni-a   
+sponta-neous **SPONTA** free, unbidden	
 
-**SOMNI**   
+sta-nd **STA** stand	
 
-sleep	
+stabili-ty **STABILI** stable	
 
-sound, sonde   
+stagna-nt **STAGNA** pond	
 
-**SONDA**   
+state **STATO** state	
 
-probe, examine	
+station **STATIO** to park	
 
-super-soni-c   
+statue **STATUA** statue	
 
-**SONI**   
+status **STATUS** status	
 
-sound	
+Stego-sauru-s **STEGO G** roof	
 
-soror-ity   
+— **SAURU G** lizard	
 
-**SORORA**   
+steno-graphy **STENO G** narrow	
 
-sister	
+— **GRAFO G** write	
 
-space   
+sti-mula **STIMULA G** excite	
 
-**SPACE**   
+— **STI G** switch on	
 
-space	
+sto-p **STO** switch off	
 
-spasm   
+stoma-ch **STOMA** mouth	
 
-**SPASMO G**   
+store **STORA** store	
 
-jerk	
+strata **STRATA** street	
 
-spat-ula   
+strategy **STRATEGI G** cunning	
 
-**SPATA**   
+strepto-coccus **STREPTO G** twist	
 
-spade	
-
-spatula   
-
-**SPATULA**   
-
-spoon	
-
-pro-spe-r   
-
-**SPE**   
-
-hope	
-
-speci-es   
-
-**SPECI**   
-
-a kind, sort, for example	
-
-specula-te   
-
-**SPEKULA**   
-
-mirror	
-
-spend   
-
-**SPENDE**   
-
-spend	
-
-sperma   
-
-**SPERMA G**   
-
-seed	
-
-re-spira-tion   
-
-**SPIRA**   
-
-breathe	
-
-spora-dic   
-
-**SPORA G**   
-
-scatter	
-
-sport   
-
-**SPORTA**   
-
-sport	
-
-spirit   
-
-**SPIRITU**   
-
-spirit	
-
-sponta-neous   
-
-**SPONTA**   
-
-free, unbidden	
-
-sta-nd   
-
-**STA**   
-
-stand	
-
-stabili-ty   
-
-**STABILI**   
-
-stable	
-
-stagna-nt   
-
-**STAGNA**   
-
-pond	
-
-state   
-
-**STATO**   
-
-state	
-
-station   
-
-**STATIO**   
-
-to park	
-
-statue   
-
-**STATUA**   
-
-statue	
-
-status   
-
-**STATUS**   
-
-status	
-
-Stego-sauru-s   
-
-**STEGO G**   
-
-roof	
-
-  
-
-**SAURU G**   
-
-lizard	
-
-steno-graphy   
-
-**STENO G**   
-
-narrow	
-
-  
-
-**GRAFO G**   
-
-write	
-
-sti-mula   
-
-**STIMULA G**   
-
-excite	
-
-  
-
-**STI G**   
-
-switch on	
-
-sto-p   
-
-**STO**   
-
-switch off	
-
-stoma-ch   
-
-**STOMA**   
-
-mouth	
-
-store   
-
-**STORA**   
-
-store	
-
-strata   
-
-**STRATA**   
-
-street	
-
-strategy   
-
-**STRATEGI G**   
-
-cunning	
-
-strepto-coccus   
-
-**STREPTO G**   
-
-twist	
-
-study   
-
-**STUDE**   
-
-study	
+study **STUDE** study	
 
  	
  	
 *p. 53:*	
- 
 
-stupe-fy   
 
-**STUPE**   
+stupe-fy **STUPE** astound	
 
-astound	
+stupidi-ty **STUPIDI** stupid	
 
-stupidi-ty   
+sub-mari-ne **SUB-MARI** under sea	
 
-**STUPIDI**   
+sudden **SUBITO** sudden	
 
-stupid	
+succeed **SUCEDE** succeed	
 
-sub-mari-ne   
+sudo-rific **SUDO** sweat	
 
-**SUB-MARI**   
+su-ture **SUE** sew	
 
-under sea	
+suck **SUGO** suck	
 
-sudden   
+swi-ne **SUI** swi-ne, pig	
 
-**SUBITO**   
+succu-lent **SUKU** juice, succu-lent	
 
-sudden	
+sum **SUMA** sum	
 
-succeed   
+summari-ze **SUMARI** summari-ze	
 
-**SUCEDE**   
+as-sume **SUME** take	
 
-succeed	
+supr-eme **SUPRA** over, upstairs	
 
-sudo-rific   
+sur-e **SURA** sure	
 
-**SUDO**   
+surface **SU-FACIA** sur-face	
 
-sweat	
-
-su-ture   
-
-**SUE**   
-
-sew	
-
-suck   
-
-**SUGO**   
-
-suck	
-
-swi-ne   
-
-**SUI**   
-
-swi-ne, pig	
-
-succu-lent   
-
-**SUKU**   
-
-juice, succu-lent	
-
-sum   
-
-**SUMA**   
-
-sum	
-
-summari-ze   
-
-**SUMARI**   
-
-summari-ze	
-
-as-sume   
-
-**SUME**   
-
-take	
-
-supr-eme   
-
-**SUPRA**   
-
-over, upstairs	
-
-sur-e   
-
-**SURA**   
-
-sure	
-
-surface   
-
-**SU-FACIA**   
-
-sur-face	
-
-in-surge-nt   
-
-**SURGE**   
-
-rise	
+in-surge-nt **SURGE** rise	
 
  	
- 
 
-ta-ntamount   
 
-**TA**   
+ta-ntamount **TA** so very	
 
-so very	
+tab-le **TABA** board	
 
-tab-le   
+tabl-e **TABLA** table	
 
-**TABA**   
+tabula-te **TABULA** table (times etc)	
 
-board	
+taci-t **TACI** be silent	
 
-tabl-e   
+tange-nt **TANGE** touch	
 
-**TABLA**   
+tant-amount **TANTO** so much/ many	
 
-table	
+tape-stry **TAPE G** carpet, rug	
 
-tabula-te   
+tarsu-s **TARSU** ankle	
 
-**TABULA**   
+taxo-nomy **TAXO G** classify	
 
-table (times etc)	
+in-te-nd **TE** in order to	
 
-taci-t   
+tea **TEA** tea	
 
-**TACI**   
+in-tegu-ment **TEGU** cover	
 
-be silent	
+disco-theque **  DISKO G**   disk	
 
-tange-nt   
+— **TEKA G** box	
 
-**TANGE**   
+techno-logy **TEKNO G** skill, clever	
 
-touch	
+archi-tect **  ARKI G**   chief	
 
-tant-amount   
+— **TEKTO G** build	
 
-**TANTO**   
+them-e **TEMA G** theme, topic	
 
-so much/ many	
+tem-porary **TEM** time, while	
 
-tape-stry   
+— **  TEM DONA**   lend	
 
-**TAPE G**   
+— **  TEM GENE**   borrow	
 
-carpet, rug	
+tempest **TEMPESTU** storm	
 
-tarsu-s   
+tena-cious **TENA** hold, keep	
 
-**TARSU**   
+in-tend **TENDE** aim, purpose	
 
-ankle	
+tensio-n **TENSIO** stretch, tension	
 
-taxo-nomy   
+tenta-tive **TENTA** try	
 
-**TAXO G**   
+theory **TEORI G** theory	
 
-classify	
+  Medi **  MEDI** middle	
 
-in-te-nd   
-
-**TE**   
-
-in order to	
-
-tea   
-
-**TEA**   
-
-tea	
-
-in-tegu-ment   
-
-**TEGU**   
-
-cover	
-
-disco-theque   
-
-**  DISKO G**   
-
-  disk	
-
-  
-
-**TEKA G**   
-
-box	
-
-techno-logy   
-
-**TEKNO G**   
-
-skill, clever	
-
-archi-tect   
-
-**  ARKI G**   
-
-  chief	
-
-  
-
-**TEKTO G**   
-
-build	
-
-them-e   
-
-**TEMA G**   
-
-theme, topic	
-
-tem-porary   
-
-**TEM**   
-
-time, while	
-
-  
-
-**  TEM DONA**   
-
-  lend	
-
-  
-
-**  TEM GENE**   
-
-  borrow	
-
-tempest   
-
-**TEMPESTU**   
-
-storm	
-
-tena-cious   
-
-**TENA**   
-
-hold, keep	
-
-in-tend   
-
-**TENDE**   
-
-aim, purpose	
-
-tensio-n   
-
-**TENSIO**   
-
-stretch, tension	
-
-tenta-tive   
-
-**TENTA**   
-
-try	
-
-theory   
-
-**TEORI G**   
-
-theory	
-
-  Medi   
-
-**  MEDI**   
-
-middle	
-
-terra-nean   
-
-**TERA**   
-
-Earth, soil	
+terra-nean **TERA** Earth, soil	
 
  	
  	
 *p. 54:*	
- 
 
-thermo-meter   
 
-**TERMO G**   
+thermo-meter **TERMO G** heat, warm	
 
-heat, warm	
+testi-fy **TESTI** witness	
 
-testi-fy   
+type **TIPO G** type, print	
 
-**TESTI**   
+tympan-um **TIMPANI G** drum	
 
-witness	
+tocca-ta **TOKA** touch	
 
-type   
+tolera-nt **TOLERA** patient	
 
-**TIPO G**   
+topo-graphy **TOPO G** spot, place	
 
-type, print	
+toxi-c **TOXI G** poison	
 
-tympan-um   
+tracto-r **TRAKTO** pull	
 
-**TIMPANI G**   
+trans-fer **TRANS** across	
 
-drum	
+trauma **TRAUMA G** shock	
 
-tocca-ta   
+train **TRENA** train	
 
-**TOKA**   
+tribuna-l **TRIBUNA** law court	
 
-touch	
+trist-e **TRISTI** sad	
 
-tolera-nt   
+troppo (music) **TRO** too, excessive	
 
-**TOLERA**   
+heli-o-trop-e **  HELI-TROPI G** sun-turn	
 
-patient	
+triticu-m **TRITIKU** wheat	
 
-topo-graphy   
+thou, tu (Fr) du **TU** you	
 
-**TOPO G**   
+tub-e **TUBI** tube, pipe	
 
-spot, place	
+tumo-r **TUMO G** swell, -ing	
 
-toxi-c   
+tunnel **TUNELI** tunnel	
 
-**TOXI G**   
+dis-turba-nce **TURBA** disturb	
 
-poison	
+— **  NO-TURBA**   calm (of sea)	
 
-tracto-r   
+— **  GE TURBA**   agitated	
 
-**TRAKTO**   
+— **  MEGA TURBA**   upheaval	
 
-pull	
-
-trans-fer   
-
-**TRANS**   
-
-across	
-
-trauma   
-
-**TRAUMA G**   
-
-shock	
-
-train   
-
-**TRENA**   
-
-train	
-
-tribuna-l   
-
-**TRIBUNA**   
-
-law court	
-
-trist-e   
-
-**TRISTI**   
-
-sad	
-
-troppo (music)   
-
-**TRO**   
-
-too, excessive	
-
-heli-o-trop-e   
-
-**  HELI-TROPI G**   
-
-sun-turn	
-
-triticu-m   
-
-**TRITIKU**   
-
-wheat	
-
-thou, tu (Fr) du   
-
-**TU**   
-
-you	
-
-tub-e   
-
-**TUBI**   
-
-tube, pipe	
-
-tumo-r   
-
-**TUMO G**   
-
-swell, -ing	
-
-tunnel   
-
-**TUNELI**   
-
-tunnel	
-
-dis-turba-nce   
-
-**TURBA**   
-
-disturb	
-
-  
-
-**  NO-TURBA**   
-
-  calm (of sea)	
-
-  
-
-**  GE TURBA**   
-
-  agitated	
-
-  
-
-**  MEGA TURBA**   
-
-  upheaval	
-
-  
-
-**  GEO TURBA**   
-
-  earth-quake	
+— **  GEO TURBA**   earth-quake	
 
  	
- 
 
-un-ite   
 
-**U(N)**   
+un-ite **U(N)** a, the, any	
 
-a, the, any	
+ultima-te **ULTIMA** last	
 
-ultima-te   
+ultra-violet **ULTRA** beyond	
 
-**ULTIMA**   
+ulula-te **ULULA** howl, wail	
 
-last	
+umbra-ge **UMBRA** shade, shadow	
 
-ultra-violet   
+undu-late **UNDU** wave	
 
-**ULTRA**   
+ungu-lates **UNGU** nail, hoof, claw	
 
-beyond	
+uni-te **UNI** unite	
 
-ulula-te   
+unio-n **UNIO** meet	
 
-**ULULA**   
+unita **UNITA** unit	
 
-howl, wail	
+uniformi **UNIFORMI** regular	
 
-umbra-ge   
+universa-l **UNIVERSA** universa	
 
-**UMBRA**   
+universit-y **UNIVERSITA** university	
 
-shade, shadow	
+a-pe-rson **UNO-PE** some-body	
 
-undu-late   
+a-thing **UNO-RA** some-thing	
 
-**UNDU**   
+ur- **UR** original	
 
-wave	
+Urani-um **URANI** sky, heaven	
 
-ungu-lates   
+urba-n **URBA** town	
 
-**UNGU**   
+urina-te **URINA** urina-te	
 
-nail, hoof, claw	
+uteri-ne **UTERI** womb	
 
-uni-te   
-
-**UNI**   
-
-unite	
-
-unio-n   
-
-**UNIO**   
-
-meet	
-
-unita   
-
-**UNITA**   
-
-unit	
-
-uniformi   
-
-**UNIFORMI**   
-
-regular	
-
-universa-l   
-
-**UNIVERSA**   
-
-universa	
-
-universit-y   
-
-**UNIVERSITA**   
-
-university	
-
-a-pe-rson   
-
-**UNO-PE**   
-
-some-body	
-
-a-thing   
-
-**UNO-RA**   
-
-some-thing	
-
-ur-   
-
-**UR**   
-
-original	
-
-Urani-um   
-
-**URANI**   
-
-sky, heaven	
-
-urba-n   
-
-**URBA**   
-
-town	
-
-urina-te   
-
-**URINA**   
-
-urina-te	
-
-uteri-ne   
-
-**UTERI**   
-
-womb	
-
-uti-lize   
-
-**UTI**   
-
-use	
+uti-lize **UTI** use	
 
  	
  	
 *p. 55:*	
- 
 
-vaga-bond   
 
-**VAGA**   
+vaga-bond **VAGA** wander	
 
-wander	
+vagina **VAGINA** sheath, vagina	
 
-vagina   
+vagon **VAGONA** car, vehicle	
 
-**VAGINA**   
+vacu-um **VAKU** empty	
 
-sheath, vagina	
+vale-tudinary **VALE** farewell	
 
-vagon   
+vali **VALI** valley	
 
-**VAGONA**   
+valu-e **VALU** value	
 
-car, vehicle	
+— **VALUTA** money	
 
-vacu-um   
+valv-e **VALVA** valve, tap	
 
-**VAKU**   
+vani-ty **VANI** vain, worthless	
 
-empty	
+vapo-r **VAPO** vapor, steam	
 
-vale-tudinary   
+  rota-te **  VAPO-ROTA**   steam-turbine	
 
-**VALE**   
+va-se **VASA, -VA** container	
 
-farewell	
+vegeta-ble **VEGETA** vegetable	
 
-vali   
+vecto-r **VEKTO** carry	
 
-**VALI**   
+veil **VELA** veil	
 
-valley	
+veil **VELI** sail	
 
-valu-e   
+vendo-r **VENDO** sell	
 
-**VALU**   
+circum-ven-t **  CIRKU**   around	
 
-value	
+— **VENI** come	
 
-  
+venti-late **VENTI** wind	
 
-**VALUTA**   
+veri-ty **VERI** true, correct	
 
-money	
+verba-l **VERBA** word	
 
-valv-e   
+vermi-celli **VERMI** worm	
 
-**VALVA**   
+re-vers-al **VERSI** go back, return	
 
-valve, tap	
+in-vert **VERTE** upside down, inside out	
 
-vani-ty   
+wasp **VESPA** wasp	
 
-**VANI**   
+vesper-s **VESPERA** evening	
 
-vain, worthless	
+vest **VESTI, -VE** garment	
 
-vapo-r   
+veto **VETO** forbid	
 
-**VAPO**   
+via **VIA** way, road	
 
-vapor, steam	
+voyage **VIAGIA** travel, voyage	
 
-  rota-te   
+vice-president etc **VICE** instead of, replace	
 
-**  VAPO-ROTA**   
+  pro- **  PRO**   forward	
 
-  steam-turbine	
+vide **VIDE** see	
 
-va-se   
-
-**VASA, -VA**   
-
-container	
-
-vegeta-ble   
-
-**VEGETA**   
-
-vegetable	
-
-vecto-r   
-
-**VEKTO**   
-
-carry	
-
-veil   
-
-**VELA**   
-
-veil	
-
-veil   
-
-**VELI**   
-
-sail	
-
-vendo-r   
-
-**VENDO**   
-
-sell	
-
-circum-ven-t   
-
-**  CIRKU**   
-
-  around	
-
-  
-
-**VENI**   
-
-come	
-
-venti-late   
-
-**VENTI**   
-
-wind	
-
-veri-ty   
-
-**VERI**   
-
-true, correct	
-
-verba-l   
-
-**VERBA**   
-
-word	
-
-vermi-celli   
-
-**VERMI**   
-
-worm	
-
-re-vers-al   
-
-**VERSI**   
-
-go back, return	
-
-in-vert   
-
-**VERTE**   
-
-upside down, inside out	
-
-wasp   
-
-**VESPA**   
-
-wasp	
-
-vesper-s   
-
-**VESPERA**   
-
-evening	
-
-vest   
-
-**VESTI, -VE**   
-
-garment	
-
-veto   
-
-**VETO**   
-
-forbid	
-
-via   
-
-**VIA**   
-
-way, road	
-
-voyage   
-
-**VIAGIA**   
-
-travel, voyage	
-
-vice-president etc   
-
-**VICE**   
-
-instead of, replace	
-
-  pro-   
-
-**  PRO**   
-
-  forward	
-
-vide   
-
-**VIDE**   
-
-see	
-
-vigi-lant   
-
-**VIGI**   
-
-awake	
+vigi-lant **VIGI** awake	
 
  	
  	
 *p. 56:*	
- 
 
-vici-nity, -wick   
 
-**VIKI**   
+vici-nity, -wick **VIKI** village, -wick	
 
-village, -wick	
+victo-ry **VIKTO** victory	
 
-victo-ry   
+vine, wine **VINI** wine	
 
-**VIKTO**   
+victim **VIKTIMI** victim	
 
-victory	
+viole-nt **VIOLE** attack	
 
-vine, wine   
+visit **VISITA** visit	
 
-**VINI**   
+vista **VISTA** view, visible	
 
-wine	
+viti-cult-ure **VITI** vine	
 
-victim   
+vitri-ne **VITRI** glass	
 
-**VIKTIMI**   
+vita-l **VITA** life	
 
-victim	
+voca-l **VOKA** voice	
 
-viole-nt   
+voci-ferate **VOCI** shout	
 
-**VIOLE**   
+volu-ntary **VOLU** want	
 
-attack	
+volumi-nous **VOLUMI** volume	
 
-visit   
+herbi-vor-ous **  HERBI**   grass, herbs	
 
-**VISITA**   
+— **VORA** eat	
 
-visit	
+vulne-rable **VULNE** wound	
 
-vista   
+vulga-r **VULGA** common	
 
-**VISTA**   
-
-view, visible	
-
-viti-cult-ure   
-
-**VITI**   
-
-vine	
-
-vitri-ne   
-
-**VITRI**   
-
-glass	
-
-vita-l   
-
-**VITA**   
-
-life	
-
-voca-l   
-
-**VOKA**   
-
-voice	
-
-voci-ferate   
-
-**VOCI**   
-
-shout	
-
-volu-ntary   
-
-**VOLU**   
-
-want	
-
-volumi-nous   
-
-**VOLUMI**   
-
-volume	
-
-herbi-vor-ous   
-
-**  HERBI**   
-
-  grass, herbs	
-
-  
-
-**VORA**   
-
-eat	
-
-vulne-rable   
-
-**VULNE**   
-
-wound	
-
-vulga-r   
-
-**VULGA**   
-
-common	
-
-vulpine   
-
-**VULPI**   
-
-fox	
+vulpine **VULPI** fox	
 
  	
- 
 
-xantho-phyll   
 
-**XANTO G**   
+xantho-phyll **XANTO G** yellow	
 
-yellow	
+xeno-phile **XENO G** strange, foreign	
 
-xeno-phile   
+— **FILO G** love	
 
-**XENO G**   
-
-strange, foreign	
-
-  
-
-**FILO G**   
-
-love	
-
-xylo-phone   
-
-**XILO G**   
-
-wood	
+xylo-phone **XILO G** wood	
 
  	
- 
 
-ze-ro   
 
-**ZERO**   
+ze-ro **ZERO** zero	
 
-zero	
+— **-ZE** \-ty in 20, 30 etc	
 
-  
+zealo-us **ZELO G** enthusiastic	
 
-**-ZE**   
+zygo-te **ZIGO G** join	
 
-\-ty in 20, 30 etc	
+en-zym-e **ZIMA G** yeast	
 
-zealo-us   
+zon-e **ZONA, -ZO** a ring	
 
-**ZELO G**   
-
-enthusiastic	
-
-zygo-te   
-
-**ZIGO G**   
-
-join	
-
-en-zym-e   
-
-**ZIMA G**   
-
-yeast	
-
-zon-e   
-
-**ZONA, -ZO**   
-
-a ring	
-
-zoo-logy   
-
-**ZOA G**   
-
-animal	
+zoo-logy **ZOA G** animal	
 
 	
 
------
-
-[www.glosa.org](../index.html), 2004-10-19

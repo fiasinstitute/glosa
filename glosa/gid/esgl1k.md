@@ -40,14 +40,6 @@ Españanol-Glosa-lista.).
 Maxi boni sio es: tu sio prefere plu English lista de GID epi
 [www.glosa.org/gid](index.html); si tu pote.
 
-HTML pa gene face ex Marcel Springer, [www.glosa.org](../index.html),
-2003.
-
-	
-	
-<span id="gea"></span>
-
-### A
 
 ``` 
  
@@ -2158,9 +2150,4 @@ zumo	suku
 
 ```
 
------
 
-	
-<span id="date"></span>
-
-Datu: 2011-05-12, [www.glosa.org](../index.html)

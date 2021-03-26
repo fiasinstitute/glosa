@@ -1,68 +1,16 @@
 ---
-title: Español - Glosa 1000,
+title: Español — Glosa 1000, originali, ne ge-korekti, ko poli ero
 layout: post
 published: true
 ---
 
-
-	
-
-
-
-## (originali, ne ge-korekti, ko poli ero)
-
------
-
-Place:
-
-## Do not use this list\!\!\! NE uti u-ci lista\!\!\!
-
-Id es ci solo pro plu pe; qi habe fo interese de Glosa histori. Place:
-
-## Prefer the corrected [list](esgl1k.htm)\! Prefere u ge-korekti [lista](esgl1k.htm)\!
-
-U ge-korekti lista habe adresa:
-[www.glosa.org/gid/esgl1k.htm](esgl1k.htm). U ge-vice lista
-Glosa-Español (ge-korekti) es epi
-[www.glosa.org/gid/gl1kes.htm](gl1kes.htm). U lista de plu ge-ma-boni ra
-es [www.glosa.org/gid/esglcorr.htm](esglcorr.htm). Alo ma-boni:
-
-## Use the [English lists](index.html)\! Uti plu [English lista](index.html)\!
-
-Uti plu English lista de GID epi [www.glosa.org/gid](index.html); si tu
-pote.
-
-	
-	
+## Do not use this list!!!  NE uti u-ci lista!!!
 
 U-ci lista (vide infra) es ex libri “Español - Glosa 1000” de Richard
-Burrows e de bi Glosa autori Wendy Ashby e Ronald Clark, 1992. Tu pote
-merka u bibli de Glosa Education Organisation, 35 Wingfield Road;
-Kingston Upon Thames; Surrey KT2 5LR; ENGLAND. U bibli habe plus info de
+Burrows e de Wendy Ashby e Ronald Clark, 1992. U bibli habe plus info de
 Glosa e exempla-textu. U bibli ne habe Glosa-Español-lista.
 
-HTML pa gene face ex Marcel Springer, [www.glosa.org](../index.html),
-2003.
 
------
-
-	
-
-[a](esgl1ko.htm#gea)  [b](esgl1ko.htm#geb)  [c](esgl1ko.htm#gec) 
-[d](esgl1ko.htm#ged)  [e](esgl1ko.htm#gee)  [f](esgl1ko.htm#gef) 
-[g](esgl1ko.htm#geg)  [h](esgl1ko.htm#geh)  [i](esgl1ko.htm#gei) 
-[j](esgl1ko.htm#gej)  [k](esgl1ko.htm#gek)  [l](esgl1ko.htm#gel) 
-[m](esgl1ko.htm#gem)  [n](esgl1ko.htm#gen)  [o](esgl1ko.htm#geo) 
-[p](esgl1ko.htm#gep)  [q](esgl1ko.htm#geq)  [r](esgl1ko.htm#ger) 
-[s](esgl1ko.htm#ges)  [t](esgl1ko.htm#get)  [u](esgl1ko.htm#geu) 
-[v](esgl1ko.htm#gev)  [w](esgl1ko.htm#gew)  [x](esgl1ko.htm#gex) 
-[y](esgl1ko.htm#gey)  [z](esgl1ko.htm#gez)
-
-	
-	
-<span id="gea"></span>
-
-### A
 
 ``` 
  
@@ -2188,9 +2136,3 @@ zumo	suku
 
 ```
 
------
-
-	
-<span id="date"></span>
-
-Datu: 2003-10-27, [www.glosa.org](../index.html)
