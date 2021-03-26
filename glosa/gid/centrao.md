@@ -1,5 +1,5 @@
 ---
-title: Central Glosa (original, uncorrected)
+title: 1000 most frequent Glosa words (original, uncorrected)
 layout: post
 published: true
 ---
