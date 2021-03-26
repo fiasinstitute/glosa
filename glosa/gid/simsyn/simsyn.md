@@ -1,72 +1,33 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-   "http://www.w3.org/TR/html4/loose.dtd">
-<HTML>
-<HEAD>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
-<TITLE>Similar Synonyms in Glosa Vocabulary</TITLE>
-<LINK rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-</HEAD>
-<BODY BGCOLOR="White" TEXT="Black" LINK="Blue">
-<!-- original URL was http://www.glosa.org/gid/simsyn.htm -->
+---
+title: Similar Synonyms in Glosa Vocabulary
+layout: post
+published: true
+---
 
-<CENTER>
-<H1>Similar Synonyms in Glosa Vocabulary</H1>
-</CENTER>
-<!-- *************************************************************** -->
+### Similar Synonyms
 
-<BR>
-<BR>
-<BR>
+*by Marcel Springer*.
 
+This is a list of similar Glosa words with same or similar meanings.
+Mostly they differ in the ending vowel. This state was not acceptable
+and cried for a solution.
 
-<H3>Similar Synonyms</H3>
+So the list below was assembled and sent to Glosa author Wendy Ashby.
+Her answers and suggestions are printed in red.
 
-<P> This is a list of similar Glosa words with same or similar meanings.  
-Mostly they differ in the ending vowel.  This state was not acceptable 
-and cried for a solution. </P> 
+The changes I made on the dictionary then follow in green. I tried hard
+to satisfy Wendy's ideas respectfully and to keep the spirit of Glosa. I
+tried to put all her suggestions into the Internet Dictionary: I marked
+the prefered words. Only they have been taken into the Core Dictionary,
+what is the prefereable vocabulary. And I marked the words to be avoided
+with an "X" and/or with short comments "... {=...}" or "... {prefer
+...}" to guide the Dictionary user to the better words. Some of my
+changes below seem not to belong directly to the "Similar Synonym", but
+have been necessary, that all fits together.
 
-<P> So the list below was assembled and sent to Glosa author Wendy 
-Ashby.  Her answers and suggestions are printed in 
-<FONT COLOR="Red">red</FONT>. </P> 
-
-<P> The changes I made on the dictionary then follow in 
-<FONT COLOR="Green">green</FONT>.  I tried hard to satisfy Wendy's 
-ideas respectfully and to keep the spirit of Glosa.
-I tried to put all her suggestions into the Internet Dictionary: 
-I marked the prefered words.  Only they have been taken into the Core 
-Dictionary, what is the prefereable vocabulary. And I marked the 
-words to be avoided with an "X" and/or with short comments 
-"... {=...}" or "... {prefer ...}" to guide the Dictionary user to the 
-better words.  Some of my changes below seem not to belong directly to 
-the "Similar Synonym", but have been necessary, that all fits together. 
-</P> 
-
-<P> After this work done, about 400 errors or inconsistencies are 
-removed from the Glosa vocabulary and we have made a big step forward, 
-I believe. </P>
-
-<P> The list below is certainly not complete.  Please tell me, when 
-you find other errors, inconsistencies, strange things in the 
-dictionary and write to 
-  <IMG src="https://www.glosa.org/pic/emailg.gif" BORDER="0" WIDTH=100 HEIGHT=15
-    ALT="[Cel's E-mail address as GIF-image]">. 
-Thanks in advance. </P> 
-
-<P>"Central-list" means the word list of the book "Central Glosa",
-p.&nbsp;25-56. </P> 
-
-<P>Technical notes: <BR>
-
-Unfortunately this file is illegal HTML-code!  Sorry.  I hope, your
-browser can display it, though. <BR>
-
-This file uses some Greek characters.  When you see no Greek
-characters here &ndash;&ndash;&gt; (alpha='&alpha;', beta='&beta;',
-gamma='&gamma;'), your browser does not support them. </P> 
-
-<P Align="Right">Marcel Springer</P> 
-<BR>
-
+After this work done, about 400 errors or inconsistencies are removed
+from the Glosa vocabulary and we have made a big step forward, I
+believe.
 
 
 <H4>A</H4>
@@ -275,12 +236,12 @@ amasa (amass/ an-, aufh&auml;ufen) and amaso (crowd; mass) and
   added meanings "lump; pile". 
 "kumu 1++  accumulate; heap; hoard; pile" added meanings "crowd; mass; lump". 
 [German translations: 
-  amass - an-, aufhäufen 
+  amass - an-, aufh�ufen 
   lump - Klumpen, Schwellung, Geschwulst, Knoten 
-  heap - Haufen, häufen 
-  mass - Masse, Mehrzahl, sich (an)sammeln, (an)häufen 
-  pile - Stapel, Stoß, Haufen, häufen, stapeln, aufschichten 
-  crowd - (Menschen)Menge, sich drängen, bevölkern]</FONT>
+  heap - Haufen, h�ufen 
+  mass - Masse, Mehrzahl, sich (an)sammeln, (an)h�ufen 
+  pile - Stapel, Sto�, Haufen, h�ufen, stapeln, aufschichten 
+  crowd - (Menschen)Menge, sich dr�ngen, bev�lkern]</FONT>
 
 ambi and amfi (both/ beide): <FONT COLOR="Red"> 
   <I>ambi</I> = 1000, <I>amfi</I> MG (amphibious), could also use <I>bi</I> in 1000. </FONT><FONT COLOR="Green"> 
@@ -5594,16 +5555,4 @@ peda (child) / pedi (foot)
 
 
 </PRE>
-
-
-<!-- *************************************************************** -->
-<HR>
-
-<P ALIGN="Right">
-  <A HREF="../index.html">www.glosa.org</A>,
-Marcel Springer,
-nbsp;... 2009-10-24 </P>
-
-</BODY>
-</HTML>
 

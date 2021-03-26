@@ -4,7 +4,7 @@ layout: post
 published: true
 ---
 
-Glosa lexicon has been subject to continuous and repeated amendments by the Glossa community. This pages sums up the edits contributed between 1999 and 2013.
+Glosa lexicon has been subject to continuous and repeated amendments by the Glosa community. This page sums up the edits contributed between 1999 and 2013.
 
 |	|	|
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -43,7 +43,7 @@ There existed a printed version of "Glosa 1000" in Swahili, but no online versi
 
 ## Technical
 
-The files above have been subject to continuous and repeated amendments by the Glossa community.
+The files above have been subject to continuous and repeated amendments by the Glosa community.
 
 **English**. [History of file modifications](gidhist.htm), [Missing words](gidmiss.htm) (outdated), [Synonyms in Core](cosyn.htm) (outdated), [Similar Synonyms](simsyn/simsyn.htm), [Word Derivation Scheme](gwds.htm). The [historic version](centrao.htm) of the "1000 most frequent words" list.
 
