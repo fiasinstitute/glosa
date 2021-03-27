@@ -10,6 +10,8 @@ published: true
 
 A Glosa starting kit.  [**Glosa Basic Reference** (English)](gref.htm),  [**“Grundwissen Glosa”** (German)](dt-gref.htm).
 
+[Introducción a Glosa](es-intra.htm) (Spanish).
+
 A [Glosa grammar](gramm.htm). A draft by Robin Gaskell. In [Russian](rugram.htm).
 
 A [Glosa grammar](gramm2.htm). Notes by Carmelo Mico Ranibakt<!---, when he was learning Glosa--->.
@@ -40,6 +42,8 @@ A [Glosa grammar](gramm2.htm). Notes by Carmelo Mico Ranibakt<!---, when he was 
 
 [Roberti](gl-roberti.htm), Syd Pidd.
 
+[Textos breves Glosa-Español](es-textu.htm).
+
 [Pusi Glosa Kristo-Bibli](gl-kristob.htm). Excerpts from the Bible.
 
 [Bahá'i Texts](bahai.htm). Texts of the Bahá'i religion.
@@ -54,3 +58,4 @@ A [Glosa grammar](gramm2.htm). Notes by Carmelo Mico Ranibakt<!---, when he was 
 
 List of [printed publications](bibli.htm).
  
+

@@ -115,7 +115,7 @@ Plu enigma pagina (png-pikto-dokumenta):
 {% marginnote '1' '"Plu Glosa Nota" (PGN) was the official Glosa newspaper. It has the international number ISSN 0265-6892. Normally 4 issues a year had been written.' %}"Plu Glosa Nota" (PGN) pa eqa un ofici Glosa nova-papira. Id habe un internatio numera ISSN 0265-6892. Norma, 4 papira singu anua pa gene grafo.
 
    
-{% marginnote '2' 'The last issue, number 97, had been published 2014.' %}Tem 2014 un ultima PGN pa gene publika. Id habe u numera 97.
+{% marginnote '2' 'The last issue, number 97, had been published in 2014.' %}Tem 2014 un ultima PGN pa gene publika. Id habe u numera 97.
   
 {% marginnote '3' 'A few articles can be read online. See and click the index below.  There are also some complete, scanned issues as PDF-file available.
 ' %}Oligo artikla pote gene lekto in inter-reti. Vide e klik un indexi hiper.  Plus tu pote gene uno holo, ge-skana PGN homo PDF-dokumenta.

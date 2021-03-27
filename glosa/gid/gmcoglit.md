@@ -5,7 +5,7 @@ published: true
 ---
 
 
-*a computer-generated draft by Syd Pidd, Marcel Springer, 2000 ** *2002*.
+*a computer-generated draft by Syd Pidd, Marcel Springer, 2000—2002*.
 
 
 **a ( ad)** *A* &emsp;

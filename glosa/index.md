@@ -5,38 +5,25 @@ published: true
 date: 2018-10-11
 ---
 
+## [Grammar, syntax, texts](en/index_materia.html)
 
-## Glosa es un internatio auxi-lingua.
+## [Vocabulary](gid/index.html)
 
-Place lekto info in:
+## [External resources](en/index_nexu.html)
 
-### [Mainpage in English](en/)
 
-<!--### [Hauptseite auf Deutsch](en/dt-index) ### [Cefa-pagina in Glosa](en/gl-index)-->
-
-## Brevi info
-
-Brevi info in plu hetero lingua:
-
+## Brevi info in hetero lingua
+<div class="table-wrapper">
 |**English**| [Short information](brevi/english)|
+|**Deutsch**| [Kurze Information](brevi/german)|
 |**Español**| [Breve información](brevi/espanjol)|
 |**Français**| [Information en français](brevi/francais)|
 |**Italiano**| [Breve informazione](brevi/italiano)|
 |**Magyar**| [Rövid leírás](brevi/magyar)|
 |**Nederlands**| [Korte informatie](brevi/nederlands)|
+|**Glosa**| [Brevi info](brevi/glosa)|
 |**По-русски**| [Краткое описание](brevi/ruski)|
+</div>
 
 
-## Alia ra
-
-### Castellano (Español)
-
- - [Textos breves Glosa-Español](brevi/estextu.htm)
- - [Introducción a Glosa](brevi/esintra.htm)
- - [Los diccionarios](gid/index.html)
-
-Glosa author Wendy Ashby wrote about this website:
-> “... Mega gratia de tu auxi difusi Glosa - tu puta-me pagina es fo
-stimula\! Id sti memo mi de u proto-tem mi pa vide Glosa - id es ta
-facili e habe mega pote pro munda paci e kon-ergo. ...”.
 
