@@ -6,7 +6,7 @@ published: true
 
 ## Glosa blogs
 
-[Paul Hanks](http://glosa-lo.blogspot.com/) (France) — [Gary R. Miller](http://glos-avanti.blogspot.com) (US, ND) — [Robin Gaskell](http://www.kafejo.com/rgaskell) (Australia<!--, first Glosa website, mirrored-->)
+[Paul Hanks](http://glosa-lo.blogspot.com/) (France) — [Gary R. Miller](http://glos-avanti.blogspot.com) (US, ND) — [Robin Gaskell](http://www.kafejo.com/rgaskell) (Australia<!--, first Glosa website, mirrored-->) — [The website <span style="font-variant:small-caps;">Glosa · org</span>](glosa-verbatim/index.html) <!--Harvested on 2019-06-31 --->
 
 ## ...
 
@@ -23,7 +23,7 @@ Walter G. Green III ( [article](https://web.archive.org/web/20110811161444/https
 
 [William Patterson](http://www.kafejo.com/lingvoj/auxlangs/glosa/index.htm) (US), with  [Interglossa](http://www.kafejo.com/interglossa/). [A vocabulary learning program](http://www.kafejo.com/lingvoj/auxlangs/glosa/exercise).
 
-## Websites some Glosa content
+## Websites with some Glosa content
 
 [Aender dos Santos](http://www.aliraperglosa.blogspot.com) (Brasilia) — [Christopher Marshall](http://www.vaiaata.com/music/u-trau-choir/) (New Zealand; Niuspi, a variant of Glosa) — [Martinovitsné Kutas Ilona](http://www.mek.iif.hu/porta/szint/human/szepirod/modern/martinov) (Hungary) — [Daniel Macouin](http://danielmacouin.chez-alice.fr/) (a French site)
 
