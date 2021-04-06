@@ -6,7 +6,7 @@ published: true
 
 ## Glosa blogs
 
-[Paul Hanks](http://glosa-lo.blogspot.com/) (France) — [Gary R. Miller](http://glos-avanti.blogspot.com) (US, ND) — [Robin Gaskell](http://www.kafejo.com/rgaskell) (Australia<!--, first Glosa website, mirrored-->) — [The website <span style="font-variant:small-caps;">Glosa · org</span>](glosa-verbatim/index.html) <!--Harvested on 2019-06-31 --->
+[Paul Hanks](http://glosa-lo.blogspot.com/) (France) — [Gary R. Miller](http://glos-avanti.blogspot.com) (US, ND) — [Robin Gaskell](http://www.kafejo.com/rgaskell) (Australia<!--, first Glosa website, mirrored-->) — [The website <span style="font-variant:small-caps;">Glosa · org</span>](/glosa-verbatim/index.html) <!--Harvested on 2019-06-31 --->
 
 ## ...
 
